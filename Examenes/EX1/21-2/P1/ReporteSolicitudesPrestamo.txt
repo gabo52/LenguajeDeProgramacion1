@@ -1,0 +1,170 @@
+                               RESPUESTA A LAS SOLICITUDES DE PRESTAMO
+0    Raffo Arias Surami Annie
+     Sin restricciones, se le entrego el libro No.ZM20053
+1    Wong Martel Madeleine
+     Sin restricciones, se le entrego el libro No.QA53897
+2    Aquino Toro Valentina Rocio
+     Sin restricciones, se le entrego el libro No.SK15788
+3    Diaz Correa Irma Virginia
+     Sin restricciones, se le entrego el libro No.LM05731
+4    Raffo Chung Adria Gloria
+     Sin restricciones, se devolvió el libro No.OT07742
+5    Hernandez Barrios Emilio
+     Sin restricciones, se le entrego el libro No.XW06135
+6    Diaz Antezano Magali Silvana
+     Sin restricciones, se le entrego el libro No.ZK87496
+7    Inga Flores Cesar Adolfo
+     Sin restricciones, se devolvió el libro No.XN48844
+8    Pairazaman Alamo Moises Miguel
+     No se le entrego el libro porque:
+     Ya se retiro el libro pedido No.PL70268
+9    Pairazaman Alamo Moises Miguel
+     Sin restricciones, se le entrego el libro No.FW74175
+10   Raffo Chung Adria Gloria
+     Sin restricciones, se le entrego el libro No.FY82455
+11   Diaz Antezano Magali Silvana
+     No se le entrego el libro porque:
+     Ya se retiro el libro pedido No.SV17719
+12   Auris Zimic Javier Daniel
+     Sin restricciones, se le entrego el libro No.FW74175
+13   Cerna Durand Martin
+     Sin restricciones, se le entrego el libro No.MG75057
+14   Diaz Antezano Magali Silvana
+     No se le entrego el libro porque:
+     Ya se retiro el libro pedido No.KW25071
+15   Salas Aguero Daniel
+     Sin restricciones, se le entrego el libro No.FW74175
+16   Raffo Arias Surami Annie
+     No se le entrego el libro porque:
+     Ya se retiro el libro pedido No.SV17719
+17   Prado Vergel Carlos Julian
+     Sin restricciones, se le entrego el libro No.SV17719
+18   Prado Vergel Carlos Julian
+     No se le entrego el libro porque:
+     Ya se retiro el libro pedido No.BB35881
+19   Auris Zimic Javier Daniel
+     Sin restricciones, se devolvió el libro No.NOTFOUND
+20   Delgado Gonzales Guillermo Alfonso
+     Sin restricciones, se le entrego el libro No.SV17719
+21   Vasquez Paz Alex Martin
+     Sin restricciones, se le entrego el libro No.QV96140
+22   Chumpitaz Iberos Ronal
+     Sin restricciones, se devolvió el libro No.ZR63735
+23   Corrales Tsukazan Irma Lourdes
+     Sin restricciones, se le entrego el libro No.XW06135
+24   Hernandez Barrios Emilio
+     No se le entrego el libro porque:
+     Ya se retiro el libro pedido No.ZK87496
+25   Vasquez Paz Alex Martin
+     No se le entrego el libro porque:
+     Ya se retiro el libro pedido No.ZK87496
+26   Auris Zimic Javier Daniel
+     No se le entrego el libro porque:
+     Ya se retiro el libro pedido No.FY25192
+27   Shirakawa Miranda Madeleine
+     No se le entrego el libro porque:
+     Ya se retiro el libro pedido No.FW74175
+28   Hernandez Barrios Emilio
+     No se le entrego el libro porque:
+     Ya se retiro el libro pedido No.OT07742
+29   Prado Vergel Carlos Julian
+     No se le entrego el libro porque:
+     Ya se retiro el libro pedido No.FW74175
+30   Arroyo Gordillo Maria Heli
+     Sin restricciones, se le entrego el libro No.FW74175
+31   Inga Flores Cesar Adolfo
+     Sin restricciones, se devolvió el libro No.XQ03477
+32   Mejia De La Haza Francisco Edgar
+     Sin restricciones, se le entrego el libro No.MG75057
+33   Norabuena Preciado Cinthia
+     Sin restricciones, se le entrego el libro No.ZK87496
+34   Aquino Toro Valentina Rocio
+     No se le entrego el libro porque:
+     Ya se retiro el libro pedido No.SV17719
+35   Mejia De La Haza Francisco Edgar
+     Sin restricciones, se devolvió el libro No.NOTFOUND
+36   Chumpitaz Iberos Ronal
+     Sin restricciones, se le entrego el libro No.ZK87496
+37   Delgado Gonzales Guillermo Alfonso
+     No se le entrego el libro porque:
+     Ya se retiro el libro pedido No.ZK87496
+38   Salas Aguero Daniel
+     No se le entrego el libro porque:
+     Ya se retiro el libro pedido No.ZR63735
+39   Raffo Chung Adria Gloria
+     No se le entrego el libro porque:
+     Ya se retiro el libro pedido No.MG75057
+40   Norabuena Preciado Cinthia
+     No se le entrego el libro porque:
+     Ya se retiro el libro pedido No.BB35881
+41   Mejia De La Haza Francisco Edgar
+     No se le entrego el libro porque:
+     Ya se retiro el libro pedido No.XW06135
+42   Prado Vergel Carlos Julian
+     No se le entrego el libro porque:
+     Ya se retiro el libro pedido No.SA04133
+43   Vega Garcia Janet Rebeca
+     Sin restricciones, se le entrego el libro No.FW74175
+44   Pairazaman Alamo Moises Miguel
+     No se le entrego el libro porque:
+     Ya se retiro el libro pedido No.QA53897
+45   Cerna Durand Martin
+     Sin restricciones, se devolvió el libro No.NOTFOUND
+46   Shirakawa Ortega Angel
+     Sin restricciones, se le entrego el libro No.NF53199
+47   Diaz Correa Irma Virginia
+     No se le entrego el libro porque:
+     Ya se retiro el libro pedido No.ZM20053
+48   Valverde Flores Irma Ydali
+     Sin restricciones, se devolvió el libro No.ZQ38637
+49   Wong Martel Madeleine
+     Sin restricciones, se devolvió el libro No.NOTFOUND
+50   Vasquez Paz Alex Martin
+     No se le entrego el libro porque:
+     Ya se retiro el libro pedido No.UW23132
+51   Aquino Toro Valentina Rocio
+     No se le entrego el libro porque:
+     Ya se retiro el libro pedido No.MG75057
+52   Raffo Chung Adria Gloria
+     Sin restricciones, se le entrego el libro No.SA04133
+53   Cerna Durand Martin
+     Sin restricciones, se devolvió el libro No.NOTFOUND
+54   Shirakawa Ortega Angel
+     Sin restricciones, se devolvió el libro No.NOTFOUND
+55   Inga Flores Cesar Adolfo
+     No se le entrego el libro porque:
+     Ya se retiro el libro pedido No.FW74175
+56   Valverde Flores Irma Ydali
+     Sin restricciones, se devolvió el libro No.BH96036
+57   Aquino Toro Valentina Rocio
+     Sin restricciones, se devolvió el libro No.NOTFOUND
+58   Diaz Correa Irma Virginia
+     No se le entrego el libro porque:
+     Ya se retiro el libro pedido No.VA35843
+59   Shirakawa Ortega Angel
+     No se le entrego el libro porque:
+     Ya se retiro el libro pedido No.MG75057
+60   Diaz Antezano Magali Silvana
+     No se le entrego el libro porque:
+     Ya se retiro el libro pedido No.FW74175
+61   Wong Martel Madeleine
+     No se le entrego el libro porque:
+     Ya se retiro el libro pedido No.ZK87496
+62   Vasquez Paz Alex Martin
+     Sin restricciones, se devolvió el libro No.NOTFOUND
+63   Mejia De La Haza Francisco Edgar
+     No se le entrego el libro porque:
+     Ya se retiro el libro pedido No.OC73472
+64   Diaz Correa Irma Virginia
+     Sin restricciones, se devolvió el libro No.NOTFOUND
+65   Auris Zimic Javier Daniel
+     No se le entrego el libro porque:
+     Ya se retiro el libro pedido No.MG75057
+66   Diaz Correa Irma Virginia
+     No se le entrego el libro porque:
+     Ya se retiro el libro pedido No.FW74175
+67   Arroyo Gordillo Maria Heli
+     No se le entrego el libro porque:
+     Ya se retiro el libro pedido No.ZK87496
+68   Vasquez Paz Alex Martin
+     Sin restricciones, se devolvió el libro No.NOTFOUND
