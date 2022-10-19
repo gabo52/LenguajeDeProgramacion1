@@ -1,0 +1,67 @@
+                                              CURSOS DE LA INSTITUCION
+   CODIGO    CURSO                                             ESPECIALIDAD
+ 1) IEE313    Microelectronica                                  Ingenieria Electronica
+ 2) INF239    Sistemas Operativos                               Ingenieria Informatica
+ 3) IND361    Gestion de Rec. Humanos                           Ingenieria Industrial
+ 4) MAT251    Geometria                                         Matematicas
+ 5) INF281    Lenguaje de Programacion 1                        Ingenieria Informatica
+ 6) QUI204    Quimica Inorganica 1                              Ingenieria Quimica
+ 7) CIV307    Concreto Armado 2                                 Ingenieria Civil
+ 8) MEC206    Termodinamica 1                                   Ingenieria Mecanica
+ 9) MEC348    Ingenieria de Combustibles                        Ingenieria Mecanica
+10) INF248    Sistemas de Informacion 1                         Ingenieria Informatica
+11) IND362    Mantenimiento Industrial                          Ingenieria Industrial
+12) IND350    Plan de Negocios                                  Ingenieria Industrial
+13) MIN227    Topografia Minera                                 Ingenieria Minas
+14) IEE203    Circuitos Analogicos                              Ingenieria Electronica
+15) FIS308    Mecanica Cuantica 1                               Fisica
+16) MEC299    Motores de Combustion                             Ingenieria Mecanica
+17) INF630    Base de Datos 2                                   Ingenieria Informatica
+18) IEE213    Dibujo Electrotecnico                             Ingenieria Electronica
+19) IEE212    Circuitos Electricos 2                            Ingenieria Electronica
+20) MEC346    Corrosion                                         Ingenieria Mecanica
+21) CIV308    Estructuras de Acero                              Ingenieria Civil
+22) MAT218    Ecuaciones Diferenciales                          Matematicas
+23) MIN266    Mecanica de Rocas                                 Ingenieria Minas
+24) IND221    Automatizacion Industrial                         Ingenieria Industrial
+25) CIV224    Analisis Estructural 1                            Ingenieria Civil
+26) FIS366    Electroacustica                                   Fisica
+27) QUI205    Quimica Inorganica 2                              Ingenieria Quimica
+28) CIV313    Puentes                                           Ingenieria Civil
+29) IND213    Ingenieria de Plantas                             Ingenieria Industrial
+30) MIN269    Concentracion de Minerales                        Ingenieria Minas
+31) MAT253    Topologia                                         Matematicas
+32) INF245    Ingenieria de Software                            Ingenieria Informatica
+33) CIV283    Instalaciones de Edif.                            Ingenieria Civil
+34) INF265    Ap. de Cs. de la Comp.                            Ingenieria Informatica
+35) FIS335    Acustica                                          Fisica
+36) MIN260    Perforacion y Voladura                            Ingenieria Minas
+37) INF639    Proceso de  Software 1                            Ingenieria Informatica
+38) CIV364    Albanileria Estructural                           Ingenieria Civil
+                              PROFESORES DE LA INSTITUCION
+   CODIGO    NOMBRE
+ 1) 20065927  Acuna Ayllon Blanca Luz
+ 2) 20156713  Urbina Antezano Valentina Paula
+ 3) 20143595  Gonzales Aguirre Emilio Emigdio
+ 4) 20085379  Mori Suarez Edilberto Jesus
+ 5) 20079075  Vargas Guevara Humberto Alberto
+ 6) 20142807  Aranda Minaya Janet Cinthia
+ 7) 20135792  Jauregui Bravo Luz Sofia
+ 8) 20042194  Preciado Pinto Surami Heli
+ 9) 20046083  Cabello Lam Alfonso Waldemar
+10) 20081057  Garcia Astete Victor Edgar
+11) 20107278  Mercado Caro Ofelia Carmen
+12) 20158245  Arca Aquino Delicia
+13) 20125340  Mejia Zegarra Giovana
+14) 20080607  Zarate Acuna Milena Cinthia
+15) 20065382  Zimic Salas Francisco
+16) 20043619  Landeo Estrada Miguel Alex
+17) 20075062  Arca Leiva Delicia Rosa
+18) 20127835  Ortiz Guevara Yliana Flor
+19) 20075260  Ayala Zevallos Johan Enrique
+20) 20072765  Castillo Chung Felicita Erika
+21) 20069086  Shirakawa Saona Victoria Milagros
+22) 20054935  Martel Mercado Teresa Teresa
+23) 20043496  Garcia Inga Marina Natalia
+24) 20155258  Yep Zavaleta Rosario Maribel
+25) 20120085  Munoz Vergel Edgar
