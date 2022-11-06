@@ -1,0 +1,11 @@
+71984468       IPARRAGUIRRE_VILLEGAS_NICOLAS_EDILBERTO
+Cliente frecuente
+No.  CODIGO            CANTIDAD           FECHA
+Monto total comprado:         0.00
+29847168       ALDAVE_ZEVALLOS_ROSARIO
+Cliente muy frecuente
+No.  CODIGO            CANTIDAD           FECHA
+Monto total comprado:         0.00
+No .      Codigo         Descripcion     Precio unitario   Descuento
+0)      DOB245        LECHE_LALA_SEMI_DESLACTOSADA_1LT     16.98          0.00
+1)      QBL949        YOGHURT_NATURAL_LIGHT_LALA_1KG     25.86          4.70

@@ -1,0 +1,5 @@
+Carne:    17750908  Tipo:     E         
+Fecha       Codigo Libro
+11102021     
+16102021     KC34197
+13102021     SK15788

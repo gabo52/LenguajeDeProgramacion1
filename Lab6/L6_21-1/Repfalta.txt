@@ -1,0 +1,1231 @@
+Anio   2019 Mes:  01
+FECHA       LICENCIA                      NOMBRE                                FALTA
+====================================================================================================
+02/01/2019  15559308         BRAVO CORTES JANET FLOR                             335
+02/01/2019  16477908         BACA CAMACHO MILAGROS NATALIA                       115
+02/01/2019  47844324         VILCA LEE NESTOR HUGO                               329
+03/01/2019  15115705         HERNANDEZ CORRALES GUILLERMO                        170
+04/01/2019  90467829         IPARRAGUIRRE PEREZ NICOLAS                          170
+04/01/2019  70414420         AVILA REYES TATIANA                                 338
+05/01/2019  68310808         CANO POLO MILAGROS ISABEL                           306
+05/01/2019  81485316         JUSTINO MARTINEZ ENRIQUE                            327
+06/01/2019  31107104         MOSCOSO ARIAS FIORELLA                              154
+06/01/2019  60335381         DIAZ TANG ENRIQUE                                   337
+07/01/2019  79766395         FUENTES ESCALANTE PATRICIA ELIZABETH                305
+08/01/2019  77763722         FARFAN SALAZAR MARGOT                               115
+09/01/2019  79672079         CONTRERAS CHANG JOHANA CINTHIA                      305
+09/01/2019  15029228         VALVERDE MAEIREIZO MELVIN JAIR                      304
+09/01/2019  35671623         EPIQUEN YEP GUIDA VICTORIA                          157
+10/01/2019  26522329         SANCHEZ DEL CASTILLO FIORELLA ROSARIO               323
+10/01/2019  88167677         PRADO VERA JUAN                                     148
+12/01/2019  19963454         SALAMANCA CABRERA NESTOR EVERT                      111
+12/01/2019  81485316         JUSTINO MARTINEZ ENRIQUE                            320
+12/01/2019  45043076         VEGA VILCARA CARMELA TERESA                         334
+14/01/2019  77367073         JAUREGUI DEL CASTILLO VICTOR RICARDO                336
+16/01/2019  34976629         LOZADA ARGUEDAS FELICITA VALENTINA                  334
+16/01/2019  47528229         SAAVEDRA GONZALES WILMER                            149
+16/01/2019  35683701         DIAZ MOYA ELIA ANNIE                                314
+16/01/2019  27864822         FIGUEROA MEDINA MADELEINE                           318
+17/01/2019  77367073         JAUREGUI DEL CASTILLO VICTOR RICARDO                132
+18/01/2019  84186239         RIVERO CORONADO HECTOR ALONSO                       330
+18/01/2019  48878256         RAFFO CORONADO ROLANDO                              310
+19/01/2019  30046639         SALAMANCA VEGA VIRGINIA MARTHA                      136
+20/01/2019  25518120         RONDON CABRERA ALEXANDER ADOLFO                     103
+20/01/2019  73567806         ARCA SANCHEZ MAGALI BEATRIZ                         306
+21/01/2019  85501710         VIZCARDO SINCHE MARIBEL                             206
+21/01/2019  53853385         SOLIS NARVAEZ MARIA MADELEINE                       323
+22/01/2019  52002275         CASANOVA ZEGARRA MARITZA                            117
+22/01/2019  81799482         CERNA CERNA CINTHIA                                 309
+23/01/2019  64532449         INFANTES MERCADO LUIS WALDEMAR                      162
+25/01/2019  64532449         INFANTES MERCADO LUIS WALDEMAR                      108
+25/01/2019  36079131         ZAVALETA VILCA ERICKA ELEONOR                       308
+25/01/2019  27185429         SOLIS CHUNG ROLANDO                                 327
+26/01/2019  70414420         AVILA REYES TATIANA                                 336
+29/01/2019  32244565         HENRIQUEZ PAREDES PAUL RAFAEL                       153
+29/01/2019  29989682         CAMACHO PAIRAZAMAN YDALI LUCERO                     311
+29/01/2019  47844324         VILCA LEE NESTOR HUGO                               335
+30/01/2019  21621497         AYALA CASTILLO ERICKA OFELIA                        321
+30/01/2019  54447051         AVILA DEL CASTILLO ANNIE                            304
+30/01/2019  35683701         DIAZ MOYA ELIA ANNIE                                155
+31/01/2019  21621497         AYALA CASTILLO ERICKA OFELIA                        163
+
+Anio   2019 Mes:  02
+FECHA       LICENCIA                      NOMBRE                                FALTA
+====================================================================================================
+02/02/2019  51929951         CHAVEZ BERROCAL JOHAN                               325
+03/02/2019  27864822         FIGUEROA MEDINA MADELEINE                           140
+04/02/2019  71578206         ARROYO TOMASICHE NATALIA                            123
+06/02/2019  34248357         LEYVA LANDEO NANCY SONIA                            308
+06/02/2019  49428502         RIVERO CORTEZ WILVER ALFONSO                        152
+06/02/2019  90467829         IPARRAGUIRRE PEREZ NICOLAS                          107
+07/02/2019  34248357         LEYVA LANDEO NANCY SONIA                            157
+08/02/2019  15559308         BRAVO CORTES JANET FLOR                             150
+08/02/2019  82031355         EGUSQUIZA BERROCAL DORIS NANCY                      133
+08/02/2019  69494747         MENDOZA ROMERO VIRGINIA YDALI                       117
+10/02/2019  97849227         PRADO ESPINOZA MILAGROS                             101
+11/02/2019  19963454         SALAMANCA CABRERA NESTOR EVERT                      151
+11/02/2019  34248357         LEYVA LANDEO NANCY SONIA                            103
+12/02/2019  96693273         VALDERRAMA BERROCAL EVERT                           131
+14/02/2019  47528229         SAAVEDRA GONZALES WILMER                            311
+14/02/2019  73567806         ARCA SANCHEZ MAGALI BEATRIZ                         130
+15/02/2019  50200823         LEYVA SAM DIANA DELIA                               165
+15/02/2019  87495937         MORALES PASQUEL KARIN MARIBEL                       304
+16/02/2019  35912665         MARTINEZ CRUZ EVERT RONY                            124
+17/02/2019  29833157         HIJAR LAM MARTIN                                    201
+18/02/2019  49927087         INGA PALOMARES ERIKA                                328
+18/02/2019  80457845         NORABUENA MOYA HECTOR                               202
+20/02/2019  21621497         AYALA CASTILLO ERICKA OFELIA                        332
+20/02/2019  66849703         MERCADO CORONEL ELIA                                307
+21/02/2019  88854166         PINTO ROJAS JUVENAL FRANCISCO                       319
+21/02/2019  73357516         TRIGUEROS JUGO LUZ                                  152
+23/02/2019  58992942         NARVAEZ CASTILLO JESUS RAFAEL                       159
+23/02/2019  15559308         BRAVO CORTES JANET FLOR                             156
+24/02/2019  54447051         AVILA DEL CASTILLO ANNIE                            331
+25/02/2019  87282766         SUAREZ CHANG GLORIA                                 135
+25/02/2019  43454884         ESPINOZA CHANG SHIRLEY                              203
+26/02/2019  21621497         AYALA CASTILLO ERICKA OFELIA                        205
+26/02/2019  34248357         LEYVA LANDEO NANCY SONIA                            104
+28/02/2019  54447051         AVILA DEL CASTILLO ANNIE                            312
+28/02/2019  29989682         CAMACHO PAIRAZAMAN YDALI LUCERO                     115
+
+Anio   2019 Mes:  03
+FECHA       LICENCIA                      NOMBRE                                FALTA
+====================================================================================================
+01/03/2019  79766395         FUENTES ESCALANTE PATRICIA ELIZABETH                313
+02/03/2019  82031355         EGUSQUIZA BERROCAL DORIS NANCY                      113
+04/03/2019  30441350         RETAMOSO SALAMANCA DELIA MARITZA                    324
+06/03/2019  26522329         SANCHEZ DEL CASTILLO FIORELLA ROSARIO               207
+06/03/2019  87495937         MORALES PASQUEL KARIN MARIBEL                       141
+06/03/2019  88167677         PRADO VERA JUAN                                     323
+07/03/2019  88167677         PRADO VERA JUAN                                     161
+07/03/2019  68310808         CANO POLO MILAGROS ISABEL                           164
+08/03/2019  31107104         MOSCOSO ARIAS FIORELLA                              138
+08/03/2019  69252518         GORDILLO SANCHEZ RONALD JUVENAL                     325
+09/03/2019  81799482         CERNA CERNA CINTHIA                                 104
+10/03/2019  12270502         CUEVA FUENTES CINTHIA DELIA                         135
+11/03/2019  70414420         AVILA REYES TATIANA                                 106
+11/03/2019  81528434         EPIQUEN AVILA ENRIQUE                               311
+11/03/2019  50200823         LEYVA SAM DIANA DELIA                               147
+12/03/2019  69252518         GORDILLO SANCHEZ RONALD JUVENAL                     147
+13/03/2019  64532449         INFANTES MERCADO LUIS WALDEMAR                      130
+13/03/2019  60784914         RUIZ ZEVALLOS WALTER RONY                           208
+14/03/2019  38862473         WONG MAEIREIZO BEATRIZ                              318
+14/03/2019  42956681         POMAJAMBO EGUSQUIZA PAUL                            127
+15/03/2019  53374153         SERRANO IBEROS FRANCISCO                            156
+16/03/2019  24859596         FLORIAN CUBA CHRISTIAN                              302
+17/03/2019  73972114         AVILA MARTEL JAIME MANUEL                           320
+17/03/2019  43454884         ESPINOZA CHANG SHIRLEY                              320
+18/03/2019  64178096         VIZCARRA CARBAJAL IVAN FAUSTO                       336
+18/03/2019  54141214         DURAND MIRANDA MIGUEL JUAN                          152
+18/03/2019  73567806         ARCA SANCHEZ MAGALI BEATRIZ                         327
+18/03/2019  27864822         FIGUEROA MEDINA MADELEINE                           208
+18/03/2019  63736112         ZAMORA ZAVALETA RONAL MANUEL                        135
+19/03/2019  77763722         FARFAN SALAZAR MARGOT                               304
+19/03/2019  15029228         VALVERDE MAEIREIZO MELVIN JAIR                      152
+20/03/2019  52003695         CARBAJAL SALAS MAGDA ZKENIA                         118
+20/03/2019  79641328         TOKESHI GUEVARA JAIME                               301
+21/03/2019  13219606         RODRIGUEZ MORENO BLANCA OFELIA                      150
+21/03/2019  25518120         RONDON CABRERA ALEXANDER ADOLFO                     121
+22/03/2019  42956681         POMAJAMBO EGUSQUIZA PAUL                            320
+23/03/2019  35912665         MARTINEZ CRUZ EVERT RONY                            126
+23/03/2019  85501710         VIZCARDO SINCHE MARIBEL                             333
+25/03/2019  15559308         BRAVO CORTES JANET FLOR                             147
+25/03/2019  48878256         RAFFO CORONADO ROLANDO                              318
+27/03/2019  34976629         LOZADA ARGUEDAS FELICITA VALENTINA                  132
+27/03/2019  47528229         SAAVEDRA GONZALES WILMER                            127
+30/03/2019  27864822         FIGUEROA MEDINA MADELEINE                           326
+30/03/2019  79672079         CONTRERAS CHANG JOHANA CINTHIA                      334
+
+Anio   2019 Mes:  04
+FECHA       LICENCIA                      NOMBRE                                FALTA
+====================================================================================================
+01/04/2019  25518120         RONDON CABRERA ALEXANDER ADOLFO                     122
+03/04/2019  80457845         NORABUENA MOYA HECTOR                               113
+04/04/2019  89941095         ARCA LARRIEGA LUCERO YLIANA                         147
+05/04/2019  82031355         EGUSQUIZA BERROCAL DORIS NANCY                      122
+05/04/2019  15559308         BRAVO CORTES JANET FLOR                             312
+06/04/2019  84186239         RIVERO CORONADO HECTOR ALONSO                       153
+07/04/2019  15115705         HERNANDEZ CORRALES GUILLERMO                        157
+07/04/2019  29833157         HIJAR LAM MARTIN                                    146
+08/04/2019  35297848         ASTETE CHANG GUIDA                                  117
+08/04/2019  32244565         HENRIQUEZ PAREDES PAUL RAFAEL                       134
+11/04/2019  84186239         RIVERO CORONADO HECTOR ALONSO                       117
+11/04/2019  45043076         VEGA VILCARA CARMELA TERESA                         320
+13/04/2019  80310768         MINAYA BERROCAL HELI                                323
+15/04/2019  73567806         ARCA SANCHEZ MAGALI BEATRIZ                         341
+16/04/2019  63736112         ZAMORA ZAVALETA RONAL MANUEL                        160
+18/04/2019  67185679         FLORENCIO CORONADO ALONSO                           134
+19/04/2019  73567806         ARCA SANCHEZ MAGALI BEATRIZ                         106
+19/04/2019  35671623         EPIQUEN YEP GUIDA VICTORIA                          151
+20/04/2019  29833157         HIJAR LAM MARTIN                                    130
+20/04/2019  54141214         DURAND MIRANDA MIGUEL JUAN                          140
+22/04/2019  82031355         EGUSQUIZA BERROCAL DORIS NANCY                      143
+22/04/2019  53853385         SOLIS NARVAEZ MARIA MADELEINE                       302
+22/04/2019  36079131         ZAVALETA VILCA ERICKA ELEONOR                       204
+25/04/2019  35912665         MARTINEZ CRUZ EVERT RONY                            160
+26/04/2019  96693273         VALDERRAMA BERROCAL EVERT                           148
+29/04/2019  32244565         HENRIQUEZ PAREDES PAUL RAFAEL                       325
+30/04/2019  96693273         VALDERRAMA BERROCAL EVERT                           170
+30/04/2019  36079131         ZAVALETA VILCA ERICKA ELEONOR                       137
+
+Anio   2019 Mes:  05
+FECHA       LICENCIA                      NOMBRE                                FALTA
+====================================================================================================
+01/05/2019  81799482         CERNA CERNA CINTHIA                                 161
+01/05/2019  60784914         RUIZ ZEVALLOS WALTER RONY                           170
+02/05/2019  75945248         MEJIA RODRIGUEZ INES VALENTINA                      331
+02/05/2019  77763722         FARFAN SALAZAR MARGOT                               101
+03/05/2019  51395324         TRIGUEROS PORTUGAL ARTURO FAUSTO                    121
+03/05/2019  73567806         ARCA SANCHEZ MAGALI BEATRIZ                         301
+03/05/2019  48878256         RAFFO CORONADO ROLANDO                              335
+03/05/2019  27864822         FIGUEROA MEDINA MADELEINE                           119
+04/05/2019  71578206         ARROYO TOMASICHE NATALIA                            127
+05/05/2019  88167677         PRADO VERA JUAN                                     335
+05/05/2019  80457845         NORABUENA MOYA HECTOR                               108
+06/05/2019  52002275         CASANOVA ZEGARRA MARITZA                            321
+09/05/2019  19568447         VEGA SORIA HENRRY                                   102
+10/05/2019  96693273         VALDERRAMA BERROCAL EVERT                           306
+10/05/2019  87495937         MORALES PASQUEL KARIN MARIBEL                       121
+13/05/2019  75945248         MEJIA RODRIGUEZ INES VALENTINA                      152
+13/05/2019  90467829         IPARRAGUIRRE PEREZ NICOLAS                          308
+13/05/2019  32244565         HENRIQUEZ PAREDES PAUL RAFAEL                       154
+14/05/2019  38862473         WONG MAEIREIZO BEATRIZ                              306
+14/05/2019  16925690         CABRERA TORO FANNY                                  321
+14/05/2019  34248357         LEYVA LANDEO NANCY SONIA                            304
+15/05/2019  80310768         MINAYA BERROCAL HELI                                208
+15/05/2019  26522329         SANCHEZ DEL CASTILLO FIORELLA ROSARIO               306
+15/05/2019  38862473         WONG MAEIREIZO BEATRIZ                              328
+16/05/2019  87495937         MORALES PASQUEL KARIN MARIBEL                       109
+18/05/2019  66849703         MERCADO CORONEL ELIA                                201
+18/05/2019  48878256         RAFFO CORONADO ROLANDO                              106
+19/05/2019  79641328         TOKESHI GUEVARA JAIME                               151
+19/05/2019  66849703         MERCADO CORONEL ELIA                                118
+20/05/2019  35683701         DIAZ MOYA ELIA ANNIE                                137
+21/05/2019  73357516         TRIGUEROS JUGO LUZ                                  147
+21/05/2019  16136330         YEP PRECIADO RICHARD                                341
+21/05/2019  53853385         SOLIS NARVAEZ MARIA MADELEINE                       109
+22/05/2019  49927087         INGA PALOMARES ERIKA                                152
+22/05/2019  29833157         HIJAR LAM MARTIN                                    114
+23/05/2019  53853385         SOLIS NARVAEZ MARIA MADELEINE                       104
+24/05/2019  34248357         LEYVA LANDEO NANCY SONIA                            128
+26/05/2019  80457845         NORABUENA MOYA HECTOR                               122
+26/05/2019  75348522         LOZADA FORZANI DELIA                                126
+27/05/2019  73357516         TRIGUEROS JUGO LUZ                                  151
+28/05/2019  99950484         CORTES CORTEZ RAUL ALEX                             166
+28/05/2019  96693273         VALDERRAMA BERROCAL EVERT                           137
+30/05/2019  96693273         VALDERRAMA BERROCAL EVERT                           322
+30/05/2019  15029228         VALVERDE MAEIREIZO MELVIN JAIR                      206
+31/05/2019  88167677         PRADO VERA JUAN                                     154
+31/05/2019  74325123         TANG MOSCOSO JOHANA                                 128
+31/05/2019  50201756         ZEGARRA PENA CARMELA                                204
+
+Anio   2019 Mes:  06
+FECHA       LICENCIA                      NOMBRE                                FALTA
+====================================================================================================
+01/06/2019  49927087         INGA PALOMARES ERIKA                                145
+01/06/2019  16477908         BACA CAMACHO MILAGROS NATALIA                       132
+02/06/2019  88167677         PRADO VERA JUAN                                     118
+03/06/2019  80457845         NORABUENA MOYA HECTOR                               137
+03/06/2019  16925690         CABRERA TORO FANNY                                  144
+05/06/2019  21621497         AYALA CASTILLO ERICKA OFELIA                        146
+05/06/2019  64532449         INFANTES MERCADO LUIS WALDEMAR                      146
+06/06/2019  39544560         LUNA VARGAS WALDEMAR                                126
+07/06/2019  19963454         SALAMANCA CABRERA NESTOR EVERT                      129
+08/06/2019  24859596         FLORIAN CUBA CHRISTIAN                              328
+08/06/2019  12858682         ZARATE PEREZ ALEXANDER                              121
+08/06/2019  30046639         SALAMANCA VEGA VIRGINIA MARTHA                      116
+10/06/2019  73972114         AVILA MARTEL JAIME MANUEL                           304
+10/06/2019  27864822         FIGUEROA MEDINA MADELEINE                           137
+10/06/2019  82870470         SEDANO RETAMOSO ELIA YOLANDA                        108
+11/06/2019  81799482         CERNA CERNA CINTHIA                                 151
+12/06/2019  26522329         SANCHEZ DEL CASTILLO FIORELLA ROSARIO               332
+12/06/2019  36079131         ZAVALETA VILCA ERICKA ELEONOR                       137
+12/06/2019  79672079         CONTRERAS CHANG JOHANA CINTHIA                      306
+12/06/2019  88167677         PRADO VERA JUAN                                     116
+13/06/2019  88167677         PRADO VERA JUAN                                     315
+14/06/2019  68310808         CANO POLO MILAGROS ISABEL                           132
+15/06/2019  26522329         SANCHEZ DEL CASTILLO FIORELLA ROSARIO               164
+16/06/2019  54447051         AVILA DEL CASTILLO ANNIE                            130
+17/06/2019  87282766         SUAREZ CHANG GLORIA                                 165
+17/06/2019  86718074         ESCALANTE ROJAS INES ADRIA                          203
+19/06/2019  31107104         MOSCOSO ARIAS FIORELLA                              301
+19/06/2019  85501710         VIZCARDO SINCHE MARIBEL                             113
+19/06/2019  89314225         RIOS DURAND CARLOS EDILBERTO                        318
+20/06/2019  53374153         SERRANO IBEROS FRANCISCO                            159
+21/06/2019  34248357         LEYVA LANDEO NANCY SONIA                            161
+21/06/2019  24859596         FLORIAN CUBA CHRISTIAN                              306
+21/06/2019  71578206         ARROYO TOMASICHE NATALIA                            125
+23/06/2019  49428502         RIVERO CORTEZ WILVER ALFONSO                        338
+24/06/2019  48450395         RAMIREZ ASTETE KARINA ESTEFANIA                     321
+25/06/2019  36079131         ZAVALETA VILCA ERICKA ELEONOR                       301
+25/06/2019  73357516         TRIGUEROS JUGO LUZ                                  311
+25/06/2019  68310808         CANO POLO MILAGROS ISABEL                           155
+25/06/2019  27268323         LOZADA IBEROS HELI BLANCA                           106
+26/06/2019  69252518         GORDILLO SANCHEZ RONALD JUVENAL                     163
+26/06/2019  79766395         FUENTES ESCALANTE PATRICIA ELIZABETH                159
+27/06/2019  12858682         ZARATE PEREZ ALEXANDER                              337
+28/06/2019  87282766         SUAREZ CHANG GLORIA                                 133
+28/06/2019  71832810         SUELDO SEDANO ADRIA                                 128
+29/06/2019  73567806         ARCA SANCHEZ MAGALI BEATRIZ                         311
+29/06/2019  79641328         TOKESHI GUEVARA JAIME                               156
+29/06/2019  47528229         SAAVEDRA GONZALES WILMER                            207
+30/06/2019  54447051         AVILA DEL CASTILLO ANNIE                            205
+30/06/2019  13219606         RODRIGUEZ MORENO BLANCA OFELIA                      107
+
+Anio   2019 Mes:  07
+FECHA       LICENCIA                      NOMBRE                                FALTA
+====================================================================================================
+01/07/2019  80457845         NORABUENA MOYA HECTOR                               126
+02/07/2019  88854166         PINTO ROJAS JUVENAL FRANCISCO                       121
+02/07/2019  48878256         RAFFO CORONADO ROLANDO                              125
+02/07/2019  79641328         TOKESHI GUEVARA JAIME                               163
+02/07/2019  85501710         VIZCARDO SINCHE MARIBEL                             125
+04/07/2019  13219606         RODRIGUEZ MORENO BLANCA OFELIA                      164
+05/07/2019  43454884         ESPINOZA CHANG SHIRLEY                              327
+06/07/2019  16925690         CABRERA TORO FANNY                                  117
+08/07/2019  50200823         LEYVA SAM DIANA DELIA                               152
+09/07/2019  69252518         GORDILLO SANCHEZ RONALD JUVENAL                     115
+10/07/2019  42956681         POMAJAMBO EGUSQUIZA PAUL                            145
+11/07/2019  16925690         CABRERA TORO FANNY                                  330
+12/07/2019  70414420         AVILA REYES TATIANA                                 164
+12/07/2019  34248357         LEYVA LANDEO NANCY SONIA                            311
+12/07/2019  47528229         SAAVEDRA GONZALES WILMER                            153
+13/07/2019  38862473         WONG MAEIREIZO BEATRIZ                              328
+14/07/2019  71832810         SUELDO SEDANO ADRIA                                 202
+14/07/2019  81485316         JUSTINO MARTINEZ ENRIQUE                            339
+15/07/2019  30441350         RETAMOSO SALAMANCA DELIA MARITZA                    134
+16/07/2019  48450395         RAMIREZ ASTETE KARINA ESTEFANIA                     132
+17/07/2019  79641328         TOKESHI GUEVARA JAIME                               324
+18/07/2019  27864822         FIGUEROA MEDINA MADELEINE                           321
+21/07/2019  29989682         CAMACHO PAIRAZAMAN YDALI LUCERO                     206
+22/07/2019  35912665         MARTINEZ CRUZ EVERT RONY                            156
+22/07/2019  26522329         SANCHEZ DEL CASTILLO FIORELLA ROSARIO               341
+23/07/2019  52002275         CASANOVA ZEGARRA MARITZA                            333
+24/07/2019  69252518         GORDILLO SANCHEZ RONALD JUVENAL                     148
+24/07/2019  12270502         CUEVA FUENTES CINTHIA DELIA                         148
+26/07/2019  85501710         VIZCARDO SINCHE MARIBEL                             122
+26/07/2019  73567806         ARCA SANCHEZ MAGALI BEATRIZ                         320
+27/07/2019  12443643         LEE SERRANO ROSARIO                                 170
+27/07/2019  89941095         ARCA LARRIEGA LUCERO YLIANA                         312
+29/07/2019  32244565         HENRIQUEZ PAREDES PAUL RAFAEL                       136
+29/07/2019  50201756         ZEGARRA PENA CARMELA                                161
+
+Anio   2019 Mes:  08
+FECHA       LICENCIA                      NOMBRE                                FALTA
+====================================================================================================
+01/08/2019  42956681         POMAJAMBO EGUSQUIZA PAUL                            122
+03/08/2019  32244565         HENRIQUEZ PAREDES PAUL RAFAEL                       146
+05/08/2019  54447051         AVILA DEL CASTILLO ANNIE                            331
+06/08/2019  99950484         CORTES CORTEZ RAUL ALEX                             141
+06/08/2019  48878256         RAFFO CORONADO ROLANDO                              305
+08/08/2019  34976629         LOZADA ARGUEDAS FELICITA VALENTINA                  117
+08/08/2019  77763722         FARFAN SALAZAR MARGOT                               341
+09/08/2019  87495937         MORALES PASQUEL KARIN MARIBEL                       119
+09/08/2019  73357516         TRIGUEROS JUGO LUZ                                  310
+09/08/2019  16925690         CABRERA TORO FANNY                                  161
+10/08/2019  67185679         FLORENCIO CORONADO ALONSO                           122
+10/08/2019  42956681         POMAJAMBO EGUSQUIZA PAUL                            308
+10/08/2019  79766395         FUENTES ESCALANTE PATRICIA ELIZABETH                163
+11/08/2019  49927087         INGA PALOMARES ERIKA                                144
+12/08/2019  84186239         RIVERO CORONADO HECTOR ALONSO                       322
+14/08/2019  32244565         HENRIQUEZ PAREDES PAUL RAFAEL                       103
+14/08/2019  47528229         SAAVEDRA GONZALES WILMER                            307
+14/08/2019  60784914         RUIZ ZEVALLOS WALTER RONY                           139
+16/08/2019  74325123         TANG MOSCOSO JOHANA                                 305
+18/08/2019  36079131         ZAVALETA VILCA ERICKA ELEONOR                       330
+18/08/2019  87495937         MORALES PASQUEL KARIN MARIBEL                       115
+20/08/2019  79766395         FUENTES ESCALANTE PATRICIA ELIZABETH                336
+20/08/2019  48878256         RAFFO CORONADO ROLANDO                              322
+21/08/2019  53374153         SERRANO IBEROS FRANCISCO                            134
+24/08/2019  88854166         PINTO ROJAS JUVENAL FRANCISCO                       319
+24/08/2019  38862473         WONG MAEIREIZO BEATRIZ                              324
+25/08/2019  79672079         CONTRERAS CHANG JOHANA CINTHIA                      126
+26/08/2019  38862473         WONG MAEIREIZO BEATRIZ                              309
+27/08/2019  16925690         CABRERA TORO FANNY                                  144
+30/08/2019  81485316         JUSTINO MARTINEZ ENRIQUE                            147
+31/08/2019  81485316         JUSTINO MARTINEZ ENRIQUE                            159
+31/08/2019  89941095         ARCA LARRIEGA LUCERO YLIANA                         150
+31/08/2019  48878256         RAFFO CORONADO ROLANDO                              329
+
+Anio   2019 Mes:  09
+FECHA       LICENCIA                      NOMBRE                                FALTA
+====================================================================================================
+01/09/2019  53853385         SOLIS NARVAEZ MARIA MADELEINE                       170
+01/09/2019  77763722         FARFAN SALAZAR MARGOT                               329
+01/09/2019  30441350         RETAMOSO SALAMANCA DELIA MARITZA                    129
+02/09/2019  15559308         BRAVO CORTES JANET FLOR                             130
+02/09/2019  71832810         SUELDO SEDANO ADRIA                                 166
+02/09/2019  73357516         TRIGUEROS JUGO LUZ                                  339
+03/09/2019  53374153         SERRANO IBEROS FRANCISCO                            142
+03/09/2019  47528229         SAAVEDRA GONZALES WILMER                            163
+03/09/2019  96693273         VALDERRAMA BERROCAL EVERT                           110
+03/09/2019  50200823         LEYVA SAM DIANA DELIA                               129
+04/09/2019  44346371         ALFARO ALFARO ERICK BRUNO                           335
+04/09/2019  13219606         RODRIGUEZ MORENO BLANCA OFELIA                      136
+05/09/2019  88167677         PRADO VERA JUAN                                     104
+05/09/2019  50200823         LEYVA SAM DIANA DELIA                               336
+05/09/2019  53374153         SERRANO IBEROS FRANCISCO                            101
+06/09/2019  88167677         PRADO VERA JUAN                                     127
+06/09/2019  30046639         SALAMANCA VEGA VIRGINIA MARTHA                      327
+07/09/2019  79672079         CONTRERAS CHANG JOHANA CINTHIA                      127
+08/09/2019  64532449         INFANTES MERCADO LUIS WALDEMAR                      161
+10/09/2019  35912665         MARTINEZ CRUZ EVERT RONY                            301
+12/09/2019  74325123         TANG MOSCOSO JOHANA                                 143
+13/09/2019  71832810         SUELDO SEDANO ADRIA                                 124
+13/09/2019  71578206         ARROYO TOMASICHE NATALIA                            320
+14/09/2019  47844324         VILCA LEE NESTOR HUGO                               101
+15/09/2019  50201756         ZEGARRA PENA CARMELA                                142
+15/09/2019  38862473         WONG MAEIREIZO BEATRIZ                              339
+15/09/2019  52002275         CASANOVA ZEGARRA MARITZA                            110
+16/09/2019  87495937         MORALES PASQUEL KARIN MARIBEL                       304
+16/09/2019  52002275         CASANOVA ZEGARRA MARITZA                            118
+16/09/2019  12270502         CUEVA FUENTES CINTHIA DELIA                         316
+17/09/2019  37080813         FLORIAN VALDERRAMA JOSE                             203
+19/09/2019  49927087         INGA PALOMARES ERIKA                                146
+19/09/2019  89314225         RIOS DURAND CARLOS EDILBERTO                        149
+20/09/2019  15559308         BRAVO CORTES JANET FLOR                             161
+22/09/2019  82870470         SEDANO RETAMOSO ELIA YOLANDA                        106
+23/09/2019  35671623         EPIQUEN YEP GUIDA VICTORIA                          321
+23/09/2019  96693273         VALDERRAMA BERROCAL EVERT                           311
+24/09/2019  89941095         ARCA LARRIEGA LUCERO YLIANA                         131
+25/09/2019  89941095         ARCA LARRIEGA LUCERO YLIANA                         134
+25/09/2019  77367073         JAUREGUI DEL CASTILLO VICTOR RICARDO                157
+26/09/2019  54141214         DURAND MIRANDA MIGUEL JUAN                          333
+26/09/2019  38862473         WONG MAEIREIZO BEATRIZ                              321
+26/09/2019  35912665         MARTINEZ CRUZ EVERT RONY                            339
+27/09/2019  15559308         BRAVO CORTES JANET FLOR                             140
+27/09/2019  63291514         LAU ZAVALETA YDALI ELIA                             124
+28/09/2019  69252518         GORDILLO SANCHEZ RONALD JUVENAL                     305
+28/09/2019  50201756         ZEGARRA PENA CARMELA                                106
+28/09/2019  90467829         IPARRAGUIRRE PEREZ NICOLAS                          327
+28/09/2019  54447051         AVILA DEL CASTILLO ANNIE                            150
+28/09/2019  50200823         LEYVA SAM DIANA DELIA                               111
+29/09/2019  64178096         VIZCARRA CARBAJAL IVAN FAUSTO                       322
+30/09/2019  99950484         CORTES CORTEZ RAUL ALEX                             329
+
+Anio   2019 Mes:  10
+FECHA       LICENCIA                      NOMBRE                                FALTA
+====================================================================================================
+01/10/2019  53374153         SERRANO IBEROS FRANCISCO                            305
+01/10/2019  54447051         AVILA DEL CASTILLO ANNIE                            133
+02/10/2019  70414420         AVILA REYES TATIANA                                 144
+03/10/2019  88167677         PRADO VERA JUAN                                     160
+03/10/2019  87282766         SUAREZ CHANG GLORIA                                 306
+03/10/2019  75348522         LOZADA FORZANI DELIA                                157
+04/10/2019  64178096         VIZCARRA CARBAJAL IVAN FAUSTO                       207
+04/10/2019  82031355         EGUSQUIZA BERROCAL DORIS NANCY                      305
+05/10/2019  24859596         FLORIAN CUBA CHRISTIAN                              310
+06/10/2019  44188994         VILCARA YALLICO MAGALI                              126
+07/10/2019  81799482         CERNA CERNA CINTHIA                                 309
+07/10/2019  34248357         LEYVA LANDEO NANCY SONIA                            305
+07/10/2019  49428502         RIVERO CORTEZ WILVER ALFONSO                        306
+08/10/2019  77763722         FARFAN SALAZAR MARGOT                               129
+08/10/2019  15029228         VALVERDE MAEIREIZO MELVIN JAIR                      144
+09/10/2019  48878256         RAFFO CORONADO ROLANDO                              137
+11/10/2019  88854166         PINTO ROJAS JUVENAL FRANCISCO                       164
+12/10/2019  30441350         RETAMOSO SALAMANCA DELIA MARITZA                    339
+12/10/2019  70414420         AVILA REYES TATIANA                                 331
+13/10/2019  50200823         LEYVA SAM DIANA DELIA                               138
+14/10/2019  35912665         MARTINEZ CRUZ EVERT RONY                            156
+17/10/2019  99950484         CORTES CORTEZ RAUL ALEX                             101
+17/10/2019  63736112         ZAMORA ZAVALETA RONAL MANUEL                        325
+18/10/2019  48878256         RAFFO CORONADO ROLANDO                              145
+18/10/2019  32090869         SUELDO ANTEZANO LUIS JESUS                          145
+18/10/2019  70414420         AVILA REYES TATIANA                                 112
+19/10/2019  35297848         ASTETE CHANG GUIDA                                  335
+19/10/2019  60784914         RUIZ ZEVALLOS WALTER RONY                           319
+20/10/2019  60335381         DIAZ TANG ENRIQUE                                   118
+21/10/2019  63736112         ZAMORA ZAVALETA RONAL MANUEL                        302
+21/10/2019  47528229         SAAVEDRA GONZALES WILMER                            158
+23/10/2019  82031355         EGUSQUIZA BERROCAL DORIS NANCY                      165
+23/10/2019  52002275         CASANOVA ZEGARRA MARITZA                            154
+23/10/2019  67185679         FLORENCIO CORONADO ALONSO                           135
+24/10/2019  73972114         AVILA MARTEL JAIME MANUEL                           144
+25/10/2019  84186239         RIVERO CORONADO HECTOR ALONSO                       158
+26/10/2019  80310768         MINAYA BERROCAL HELI                                341
+27/10/2019  85501710         VIZCARDO SINCHE MARIBEL                             112
+27/10/2019  39544560         LUNA VARGAS WALDEMAR                                127
+27/10/2019  16477908         BACA CAMACHO MILAGROS NATALIA                       104
+27/10/2019  48878256         RAFFO CORONADO ROLANDO                              118
+28/10/2019  31205866         VIZCARRA MONTERO JAIR                               129
+29/10/2019  85501710         VIZCARDO SINCHE MARIBEL                             203
+29/10/2019  87282766         SUAREZ CHANG GLORIA                                 154
+29/10/2019  54447051         AVILA DEL CASTILLO ANNIE                            105
+31/10/2019  64532449         INFANTES MERCADO LUIS WALDEMAR                      122
+31/10/2019  60784914         RUIZ ZEVALLOS WALTER RONY                           165
+31/10/2019  50200823         LEYVA SAM DIANA DELIA                               139
+
+Anio   2019 Mes:  11
+FECHA       LICENCIA                      NOMBRE                                FALTA
+====================================================================================================
+01/11/2019  50200823         LEYVA SAM DIANA DELIA                               114
+02/11/2019  63736112         ZAMORA ZAVALETA RONAL MANUEL                        147
+02/11/2019  28820944         RIOS ZAMORA INES                                    131
+02/11/2019  74325123         TANG MOSCOSO JOHANA                                 306
+02/11/2019  79766395         FUENTES ESCALANTE PATRICIA ELIZABETH                149
+04/11/2019  71578206         ARROYO TOMASICHE NATALIA                            111
+04/11/2019  15115705         HERNANDEZ CORRALES GUILLERMO                        163
+04/11/2019  48450395         RAMIREZ ASTETE KARINA ESTEFANIA                     147
+05/11/2019  48450395         RAMIREZ ASTETE KARINA ESTEFANIA                     325
+06/11/2019  32244565         HENRIQUEZ PAREDES PAUL RAFAEL                       123
+07/11/2019  32244565         HENRIQUEZ PAREDES PAUL RAFAEL                       316
+07/11/2019  19963454         SALAMANCA CABRERA NESTOR EVERT                      315
+08/11/2019  81528434         EPIQUEN AVILA ENRIQUE                               133
+12/11/2019  96693273         VALDERRAMA BERROCAL EVERT                           142
+12/11/2019  80457845         NORABUENA MOYA HECTOR                               323
+12/11/2019  77763722         FARFAN SALAZAR MARGOT                               337
+13/11/2019  68303148         PATINO BOLANOS DELICIA VIRGINIA                     160
+14/11/2019  69252518         GORDILLO SANCHEZ RONALD JUVENAL                     142
+16/11/2019  47528229         SAAVEDRA GONZALES WILMER                            330
+16/11/2019  51929951         CHAVEZ BERROCAL JOHAN                               149
+17/11/2019  30046639         SALAMANCA VEGA VIRGINIA MARTHA                      160
+17/11/2019  16925690         CABRERA TORO FANNY                                  166
+18/11/2019  32244565         HENRIQUEZ PAREDES PAUL RAFAEL                       335
+19/11/2019  27185429         SOLIS CHUNG ROLANDO                                 151
+19/11/2019  79641328         TOKESHI GUEVARA JAIME                               148
+20/11/2019  32244565         HENRIQUEZ PAREDES PAUL RAFAEL                       155
+21/11/2019  19963454         SALAMANCA CABRERA NESTOR EVERT                      111
+22/11/2019  26522329         SANCHEZ DEL CASTILLO FIORELLA ROSARIO               101
+22/11/2019  77763722         FARFAN SALAZAR MARGOT                               324
+23/11/2019  27185429         SOLIS CHUNG ROLANDO                                 332
+25/11/2019  60784914         RUIZ ZEVALLOS WALTER RONY                           116
+26/11/2019  15559308         BRAVO CORTES JANET FLOR                             133
+26/11/2019  99950484         CORTES CORTEZ RAUL ALEX                             333
+27/11/2019  15559308         BRAVO CORTES JANET FLOR                             164
+27/11/2019  82031355         EGUSQUIZA BERROCAL DORIS NANCY                      334
+27/11/2019  35671623         EPIQUEN YEP GUIDA VICTORIA                          315
+27/11/2019  89314225         RIOS DURAND CARLOS EDILBERTO                        151
+29/11/2019  49927087         INGA PALOMARES ERIKA                                137
+29/11/2019  82031355         EGUSQUIZA BERROCAL DORIS NANCY                      165
+
+Anio   2019 Mes:  12
+FECHA       LICENCIA                      NOMBRE                                FALTA
+====================================================================================================
+03/12/2019  29989682         CAMACHO PAIRAZAMAN YDALI LUCERO                     302
+04/12/2019  87495937         MORALES PASQUEL KARIN MARIBEL                       324
+05/12/2019  77367073         JAUREGUI DEL CASTILLO VICTOR RICARDO                127
+05/12/2019  47844324         VILCA LEE NESTOR HUGO                               205
+06/12/2019  86718074         ESCALANTE ROJAS INES ADRIA                          104
+07/12/2019  75945248         MEJIA RODRIGUEZ INES VALENTINA                      307
+10/12/2019  80457845         NORABUENA MOYA HECTOR                               133
+10/12/2019  15029228         VALVERDE MAEIREIZO MELVIN JAIR                      201
+15/12/2019  35912665         MARTINEZ CRUZ EVERT RONY                            155
+16/12/2019  77367073         JAUREGUI DEL CASTILLO VICTOR RICARDO                134
+16/12/2019  64532449         INFANTES MERCADO LUIS WALDEMAR                      149
+17/12/2019  12270502         CUEVA FUENTES CINTHIA DELIA                         330
+17/12/2019  34976629         LOZADA ARGUEDAS FELICITA VALENTINA                  201
+18/12/2019  54447051         AVILA DEL CASTILLO ANNIE                            132
+18/12/2019  16136330         YEP PRECIADO RICHARD                                118
+19/12/2019  35912665         MARTINEZ CRUZ EVERT RONY                            136
+20/12/2019  32244565         HENRIQUEZ PAREDES PAUL RAFAEL                       208
+20/12/2019  47528229         SAAVEDRA GONZALES WILMER                            302
+21/12/2019  12270502         CUEVA FUENTES CINTHIA DELIA                         104
+21/12/2019  87495937         MORALES PASQUEL KARIN MARIBEL                       131
+22/12/2019  53853385         SOLIS NARVAEZ MARIA MADELEINE                       146
+22/12/2019  15029228         VALVERDE MAEIREIZO MELVIN JAIR                      322
+23/12/2019  26522329         SANCHEZ DEL CASTILLO FIORELLA ROSARIO               122
+25/12/2019  86718074         ESCALANTE ROJAS INES ADRIA                          151
+25/12/2019  27864822         FIGUEROA MEDINA MADELEINE                           134
+26/12/2019  35671623         EPIQUEN YEP GUIDA VICTORIA                          328
+30/12/2019  16477908         BACA CAMACHO MILAGROS NATALIA                       146
+31/12/2019  31107104         MOSCOSO ARIAS FIORELLA                              154
+31/12/2019  60335381         DIAZ TANG ENRIQUE                                   114
+31/12/2019  73567806         ARCA SANCHEZ MAGALI BEATRIZ                         124
+
+Anio   2020 Mes:  01
+FECHA       LICENCIA                      NOMBRE                                FALTA
+====================================================================================================
+01/01/2020  58992942         NARVAEZ CASTILLO JESUS RAFAEL                       123
+02/01/2020  45043076         VEGA VILCARA CARMELA TERESA                         134
+02/01/2020  29989682         CAMACHO PAIRAZAMAN YDALI LUCERO                     206
+03/01/2020  82031355         EGUSQUIZA BERROCAL DORIS NANCY                      305
+04/01/2020  88167677         PRADO VERA JUAN                                     128
+04/01/2020  79641328         TOKESHI GUEVARA JAIME                               339
+06/01/2020  89941095         ARCA LARRIEGA LUCERO YLIANA                         314
+06/01/2020  34976629         LOZADA ARGUEDAS FELICITA VALENTINA                  320
+06/01/2020  73357516         TRIGUEROS JUGO LUZ                                  112
+07/01/2020  87495937         MORALES PASQUEL KARIN MARIBEL                       124
+08/01/2020  31107104         MOSCOSO ARIAS FIORELLA                              148
+08/01/2020  81485316         JUSTINO MARTINEZ ENRIQUE                            324
+09/01/2020  87282766         SUAREZ CHANG GLORIA                                 331
+10/01/2020  34248357         LEYVA LANDEO NANCY SONIA                            313
+10/01/2020  53853385         SOLIS NARVAEZ MARIA MADELEINE                       307
+10/01/2020  77367073         JAUREGUI DEL CASTILLO VICTOR RICARDO                104
+11/01/2020  21621497         AYALA CASTILLO ERICKA OFELIA                        136
+11/01/2020  79641328         TOKESHI GUEVARA JAIME                               103
+11/01/2020  39544560         LUNA VARGAS WALDEMAR                                313
+12/01/2020  49927087         INGA PALOMARES ERIKA                                112
+13/01/2020  82870470         SEDANO RETAMOSO ELIA YOLANDA                        103
+13/01/2020  13628871         QUIROGA HERNANDEZ SILVANA ZKENIA                    302
+15/01/2020  73972114         AVILA MARTEL JAIME MANUEL                           131
+15/01/2020  79672079         CONTRERAS CHANG JOHANA CINTHIA                      119
+15/01/2020  53853385         SOLIS NARVAEZ MARIA MADELEINE                       306
+16/01/2020  53853385         SOLIS NARVAEZ MARIA MADELEINE                       150
+18/01/2020  27864822         FIGUEROA MEDINA MADELEINE                           158
+19/01/2020  71832810         SUELDO SEDANO ADRIA                                 154
+19/01/2020  25518120         RONDON CABRERA ALEXANDER ADOLFO                     123
+19/01/2020  13628871         QUIROGA HERNANDEZ SILVANA ZKENIA                    142
+20/01/2020  54141214         DURAND MIRANDA MIGUEL JUAN                          330
+20/01/2020  67185679         FLORENCIO CORONADO ALONSO                           206
+21/01/2020  27864822         FIGUEROA MEDINA MADELEINE                           145
+21/01/2020  77763722         FARFAN SALAZAR MARGOT                               339
+22/01/2020  79766395         FUENTES ESCALANTE PATRICIA ELIZABETH                322
+22/01/2020  73567806         ARCA SANCHEZ MAGALI BEATRIZ                         305
+22/01/2020  81528434         EPIQUEN AVILA ENRIQUE                               150
+23/01/2020  73567806         ARCA SANCHEZ MAGALI BEATRIZ                         341
+23/01/2020  48878256         RAFFO CORONADO ROLANDO                              115
+24/01/2020  19963454         SALAMANCA CABRERA NESTOR EVERT                      314
+24/01/2020  32244565         HENRIQUEZ PAREDES PAUL RAFAEL                       321
+24/01/2020  73567806         ARCA SANCHEZ MAGALI BEATRIZ                         309
+25/01/2020  73567806         ARCA SANCHEZ MAGALI BEATRIZ                         105
+26/01/2020  36079131         ZAVALETA VILCA ERICKA ELEONOR                       166
+26/01/2020  81528434         EPIQUEN AVILA ENRIQUE                               309
+26/01/2020  73972114         AVILA MARTEL JAIME MANUEL                           326
+27/01/2020  89314225         RIOS DURAND CARLOS EDILBERTO                        164
+27/01/2020  97849227         PRADO ESPINOZA MILAGROS                             126
+27/01/2020  77763722         FARFAN SALAZAR MARGOT                               309
+27/01/2020  32090869         SUELDO ANTEZANO LUIS JESUS                          312
+27/01/2020  60784914         RUIZ ZEVALLOS WALTER RONY                           205
+29/01/2020  31107104         MOSCOSO ARIAS FIORELLA                              158
+29/01/2020  29833157         HIJAR LAM MARTIN                                    134
+30/01/2020  19963454         SALAMANCA CABRERA NESTOR EVERT                      307
+
+Anio   2020 Mes:  02
+FECHA       LICENCIA                      NOMBRE                                FALTA
+====================================================================================================
+01/02/2020  29833157         HIJAR LAM MARTIN                                    312
+02/02/2020  27185429         SOLIS CHUNG ROLANDO                                 125
+02/02/2020  75348522         LOZADA FORZANI DELIA                                142
+03/02/2020  88167677         PRADO VERA JUAN                                     123
+04/02/2020  37080813         FLORIAN VALDERRAMA JOSE                             149
+04/02/2020  73357516         TRIGUEROS JUGO LUZ                                  170
+04/02/2020  30441350         RETAMOSO SALAMANCA DELIA MARITZA                    328
+04/02/2020  30046639         SALAMANCA VEGA VIRGINIA MARTHA                      131
+05/02/2020  80457845         NORABUENA MOYA HECTOR                               150
+05/02/2020  52002275         CASANOVA ZEGARRA MARITZA                            149
+05/02/2020  26522329         SANCHEZ DEL CASTILLO FIORELLA ROSARIO               339
+05/02/2020  64532449         INFANTES MERCADO LUIS WALDEMAR                      103
+05/02/2020  90467829         IPARRAGUIRRE PEREZ NICOLAS                          136
+05/02/2020  32244565         HENRIQUEZ PAREDES PAUL RAFAEL                       315
+06/02/2020  32244565         HENRIQUEZ PAREDES PAUL RAFAEL                       125
+06/02/2020  88167677         PRADO VERA JUAN                                     310
+07/02/2020  53853385         SOLIS NARVAEZ MARIA MADELEINE                       121
+08/02/2020  52002275         CASANOVA ZEGARRA MARITZA                            203
+08/02/2020  79641328         TOKESHI GUEVARA JAIME                               315
+10/02/2020  34976629         LOZADA ARGUEDAS FELICITA VALENTINA                  144
+10/02/2020  37080813         FLORIAN VALDERRAMA JOSE                             145
+12/02/2020  16925690         CABRERA TORO FANNY                                  128
+12/02/2020  88167677         PRADO VERA JUAN                                     338
+12/02/2020  80457845         NORABUENA MOYA HECTOR                               104
+14/02/2020  16925690         CABRERA TORO FANNY                                  143
+14/02/2020  34248357         LEYVA LANDEO NANCY SONIA                            151
+15/02/2020  87495937         MORALES PASQUEL KARIN MARIBEL                       155
+15/02/2020  73972114         AVILA MARTEL JAIME MANUEL                           133
+17/02/2020  71578206         ARROYO TOMASICHE NATALIA                            120
+17/02/2020  31205866         VIZCARRA MONTERO JAIR                               166
+17/02/2020  79641328         TOKESHI GUEVARA JAIME                               202
+18/02/2020  66849703         MERCADO CORONEL ELIA                                139
+18/02/2020  74325123         TANG MOSCOSO JOHANA                                 158
+19/02/2020  30441350         RETAMOSO SALAMANCA DELIA MARITZA                    154
+19/02/2020  58992942         NARVAEZ CASTILLO JESUS RAFAEL                       329
+20/02/2020  77367073         JAUREGUI DEL CASTILLO VICTOR RICARDO                329
+20/02/2020  64532449         INFANTES MERCADO LUIS WALDEMAR                      143
+21/02/2020  89314225         RIOS DURAND CARLOS EDILBERTO                        341
+21/02/2020  34248357         LEYVA LANDEO NANCY SONIA                            112
+22/02/2020  48450395         RAMIREZ ASTETE KARINA ESTEFANIA                     147
+22/02/2020  96693273         VALDERRAMA BERROCAL EVERT                           123
+22/02/2020  27864822         FIGUEROA MEDINA MADELEINE                           125
+22/02/2020  35671623         EPIQUEN YEP GUIDA VICTORIA                          328
+22/02/2020  54665716         GONZALES GAMARRA GIOVANA KARINA                     130
+22/02/2020  73972114         AVILA MARTEL JAIME MANUEL                           312
+23/02/2020  45043076         VEGA VILCARA CARMELA TERESA                         334
+23/02/2020  48528209         ZAVALETA CORONADO FELICITA ELOISA                   153
+23/02/2020  77763722         FARFAN SALAZAR MARGOT                               112
+24/02/2020  31205866         VIZCARRA MONTERO JAIR                               166
+24/02/2020  60784914         RUIZ ZEVALLOS WALTER RONY                           306
+24/02/2020  97849227         PRADO ESPINOZA MILAGROS                             311
+25/02/2020  66849703         MERCADO CORONEL ELIA                                115
+25/02/2020  50200823         LEYVA SAM DIANA DELIA                               306
+25/02/2020  85501710         VIZCARDO SINCHE MARIBEL                             157
+25/02/2020  19963454         SALAMANCA CABRERA NESTOR EVERT                      131
+26/02/2020  70414420         AVILA REYES TATIANA                                 159
+26/02/2020  86429854         MOSCOSO LAURA JANET VALENTINA                       104
+26/02/2020  24859596         FLORIAN CUBA CHRISTIAN                              101
+27/02/2020  27185429         SOLIS CHUNG ROLANDO                                 337
+27/02/2020  12858682         ZARATE PEREZ ALEXANDER                              318
+28/02/2020  58992942         NARVAEZ CASTILLO JESUS RAFAEL                       102
+28/02/2020  67185679         FLORENCIO CORONADO ALONSO                           316
+29/02/2020  34248357         LEYVA LANDEO NANCY SONIA                            158
+
+Anio   2020 Mes:  03
+FECHA       LICENCIA                      NOMBRE                                FALTA
+====================================================================================================
+01/03/2020  74325123         TANG MOSCOSO JOHANA                                 121
+01/03/2020  49428502         RIVERO CORTEZ WILVER ALFONSO                        126
+02/03/2020  47528229         SAAVEDRA GONZALES WILMER                            312
+02/03/2020  28820944         RIOS ZAMORA INES                                    138
+02/03/2020  42956681         POMAJAMBO EGUSQUIZA PAUL                            332
+03/03/2020  82870470         SEDANO RETAMOSO ELIA YOLANDA                        143
+03/03/2020  48878256         RAFFO CORONADO ROLANDO                              203
+04/03/2020  60784914         RUIZ ZEVALLOS WALTER RONY                           117
+04/03/2020  63736112         ZAMORA ZAVALETA RONAL MANUEL                        115
+04/03/2020  79766395         FUENTES ESCALANTE PATRICIA ELIZABETH                208
+05/03/2020  64178096         VIZCARRA CARBAJAL IVAN FAUSTO                       204
+05/03/2020  29989682         CAMACHO PAIRAZAMAN YDALI LUCERO                     310
+06/03/2020  80457845         NORABUENA MOYA HECTOR                               109
+06/03/2020  79672079         CONTRERAS CHANG JOHANA CINTHIA                      142
+07/03/2020  15559308         BRAVO CORTES JANET FLOR                             133
+08/03/2020  27864822         FIGUEROA MEDINA MADELEINE                           125
+08/03/2020  30441350         RETAMOSO SALAMANCA DELIA MARITZA                    331
+09/03/2020  15559308         BRAVO CORTES JANET FLOR                             309
+10/03/2020  67185679         FLORENCIO CORONADO ALONSO                           122
+11/03/2020  12858682         ZARATE PEREZ ALEXANDER                              308
+11/03/2020  48528209         ZAVALETA CORONADO FELICITA ELOISA                   148
+12/03/2020  86718074         ESCALANTE ROJAS INES ADRIA                          102
+12/03/2020  73357516         TRIGUEROS JUGO LUZ                                  139
+12/03/2020  29989682         CAMACHO PAIRAZAMAN YDALI LUCERO                     324
+12/03/2020  48450395         RAMIREZ ASTETE KARINA ESTEFANIA                     317
+13/03/2020  82031355         EGUSQUIZA BERROCAL DORIS NANCY                      166
+13/03/2020  73567806         ARCA SANCHEZ MAGALI BEATRIZ                         203
+14/03/2020  54141214         DURAND MIRANDA MIGUEL JUAN                          104
+14/03/2020  49927087         INGA PALOMARES ERIKA                                207
+14/03/2020  73357516         TRIGUEROS JUGO LUZ                                  122
+15/03/2020  49927087         INGA PALOMARES ERIKA                                208
+15/03/2020  67185679         FLORENCIO CORONADO ALONSO                           127
+17/03/2020  30441350         RETAMOSO SALAMANCA DELIA MARITZA                    158
+17/03/2020  44188994         VILCARA YALLICO MAGALI                              137
+17/03/2020  87495937         MORALES PASQUEL KARIN MARIBEL                       158
+17/03/2020  77763722         FARFAN SALAZAR MARGOT                               132
+17/03/2020  52003695         CARBAJAL SALAS MAGDA ZKENIA                         141
+17/03/2020  29833157         HIJAR LAM MARTIN                                    319
+18/03/2020  16477908         BACA CAMACHO MILAGROS NATALIA                       123
+19/03/2020  13628871         QUIROGA HERNANDEZ SILVANA ZKENIA                    302
+19/03/2020  80310768         MINAYA BERROCAL HELI                                319
+20/03/2020  50200823         LEYVA SAM DIANA DELIA                               157
+20/03/2020  80310768         MINAYA BERROCAL HELI                                163
+21/03/2020  13628871         QUIROGA HERNANDEZ SILVANA ZKENIA                    108
+23/03/2020  52002275         CASANOVA ZEGARRA MARITZA                            320
+24/03/2020  73972114         AVILA MARTEL JAIME MANUEL                           105
+25/03/2020  27864822         FIGUEROA MEDINA MADELEINE                           202
+25/03/2020  12270502         CUEVA FUENTES CINTHIA DELIA                         332
+25/03/2020  77763722         FARFAN SALAZAR MARGOT                               143
+26/03/2020  82031355         EGUSQUIZA BERROCAL DORIS NANCY                      148
+26/03/2020  64178096         VIZCARRA CARBAJAL IVAN FAUSTO                       310
+27/03/2020  29989682         CAMACHO PAIRAZAMAN YDALI LUCERO                     127
+28/03/2020  47844324         VILCA LEE NESTOR HUGO                               208
+28/03/2020  54141214         DURAND MIRANDA MIGUEL JUAN                          316
+29/03/2020  87495937         MORALES PASQUEL KARIN MARIBEL                       150
+29/03/2020  38862473         WONG MAEIREIZO BEATRIZ                              325
+29/03/2020  99950484         CORTES CORTEZ RAUL ALEX                             326
+30/03/2020  71832810         SUELDO SEDANO ADRIA                                 160
+30/03/2020  30046639         SALAMANCA VEGA VIRGINIA MARTHA                      144
+31/03/2020  38862473         WONG MAEIREIZO BEATRIZ                              129
+
+Anio   2020 Mes:  04
+FECHA       LICENCIA                      NOMBRE                                FALTA
+====================================================================================================
+01/04/2020  81528434         EPIQUEN AVILA ENRIQUE                               150
+02/04/2020  42956681         POMAJAMBO EGUSQUIZA PAUL                            143
+02/04/2020  79766395         FUENTES ESCALANTE PATRICIA ELIZABETH                302
+03/04/2020  35671623         EPIQUEN YEP GUIDA VICTORIA                          161
+03/04/2020  34976629         LOZADA ARGUEDAS FELICITA VALENTINA                  145
+04/04/2020  29833157         HIJAR LAM MARTIN                                    307
+04/04/2020  79766395         FUENTES ESCALANTE PATRICIA ELIZABETH                206
+05/04/2020  31205866         VIZCARRA MONTERO JAIR                               166
+05/04/2020  85501710         VIZCARDO SINCHE MARIBEL                             320
+06/04/2020  29833157         HIJAR LAM MARTIN                                    157
+06/04/2020  26522329         SANCHEZ DEL CASTILLO FIORELLA ROSARIO               338
+06/04/2020  13219606         RODRIGUEZ MORENO BLANCA OFELIA                      145
+07/04/2020  68310808         CANO POLO MILAGROS ISABEL                           114
+08/04/2020  82031355         EGUSQUIZA BERROCAL DORIS NANCY                      113
+08/04/2020  79641328         TOKESHI GUEVARA JAIME                               204
+09/04/2020  88167677         PRADO VERA JUAN                                     118
+09/04/2020  49428502         RIVERO CORTEZ WILVER ALFONSO                        125
+10/04/2020  86429854         MOSCOSO LAURA JANET VALENTINA                       306
+11/04/2020  86429854         MOSCOSO LAURA JANET VALENTINA                       154
+11/04/2020  16925690         CABRERA TORO FANNY                                  143
+13/04/2020  30046639         SALAMANCA VEGA VIRGINIA MARTHA                      146
+13/04/2020  12270502         CUEVA FUENTES CINTHIA DELIA                         150
+13/04/2020  86429854         MOSCOSO LAURA JANET VALENTINA                       103
+14/04/2020  50200823         LEYVA SAM DIANA DELIA                               315
+14/04/2020  12270502         CUEVA FUENTES CINTHIA DELIA                         102
+14/04/2020  73567806         ARCA SANCHEZ MAGALI BEATRIZ                         129
+15/04/2020  86429854         MOSCOSO LAURA JANET VALENTINA                       338
+16/04/2020  13219606         RODRIGUEZ MORENO BLANCA OFELIA                      313
+16/04/2020  30441350         RETAMOSO SALAMANCA DELIA MARITZA                    154
+17/04/2020  81485316         JUSTINO MARTINEZ ENRIQUE                            319
+17/04/2020  75945248         MEJIA RODRIGUEZ INES VALENTINA                      121
+17/04/2020  79672079         CONTRERAS CHANG JOHANA CINTHIA                      162
+18/04/2020  80457845         NORABUENA MOYA HECTOR                               335
+18/04/2020  54141214         DURAND MIRANDA MIGUEL JUAN                          339
+19/04/2020  29989682         CAMACHO PAIRAZAMAN YDALI LUCERO                     158
+19/04/2020  68303148         PATINO BOLANOS DELICIA VIRGINIA                     156
+21/04/2020  63736112         ZAMORA ZAVALETA RONAL MANUEL                        304
+21/04/2020  66849703         MERCADO CORONEL ELIA                                124
+21/04/2020  67185679         FLORENCIO CORONADO ALONSO                           163
+22/04/2020  48450395         RAMIREZ ASTETE KARINA ESTEFANIA                     106
+22/04/2020  15029228         VALVERDE MAEIREIZO MELVIN JAIR                      328
+22/04/2020  12858682         ZARATE PEREZ ALEXANDER                              310
+22/04/2020  49927087         INGA PALOMARES ERIKA                                326
+24/04/2020  45043076         VEGA VILCARA CARMELA TERESA                         328
+26/04/2020  34248357         LEYVA LANDEO NANCY SONIA                            149
+26/04/2020  86429854         MOSCOSO LAURA JANET VALENTINA                       207
+30/04/2020  67185679         FLORENCIO CORONADO ALONSO                           107
+30/04/2020  96693273         VALDERRAMA BERROCAL EVERT                           147
+
+Anio   2020 Mes:  05
+FECHA       LICENCIA                      NOMBRE                                FALTA
+====================================================================================================
+01/05/2020  54447051         AVILA DEL CASTILLO ANNIE                            146
+01/05/2020  34248357         LEYVA LANDEO NANCY SONIA                            314
+01/05/2020  86429854         MOSCOSO LAURA JANET VALENTINA                       333
+03/05/2020  21621497         AYALA CASTILLO ERICKA OFELIA                        320
+05/05/2020  24859596         FLORIAN CUBA CHRISTIAN                              329
+05/05/2020  37080813         FLORIAN VALDERRAMA JOSE                             124
+05/05/2020  21621497         AYALA CASTILLO ERICKA OFELIA                        120
+06/05/2020  99950484         CORTES CORTEZ RAUL ALEX                             107
+07/05/2020  30441350         RETAMOSO SALAMANCA DELIA MARITZA                    139
+07/05/2020  30441350         RETAMOSO SALAMANCA DELIA MARITZA                    125
+08/05/2020  34976629         LOZADA ARGUEDAS FELICITA VALENTINA                  150
+08/05/2020  79766395         FUENTES ESCALANTE PATRICIA ELIZABETH                146
+08/05/2020  77367073         JAUREGUI DEL CASTILLO VICTOR RICARDO                310
+08/05/2020  34248357         LEYVA LANDEO NANCY SONIA                            314
+10/05/2020  73357516         TRIGUEROS JUGO LUZ                                  103
+11/05/2020  49927087         INGA PALOMARES ERIKA                                155
+11/05/2020  30046639         SALAMANCA VEGA VIRGINIA MARTHA                      154
+11/05/2020  87282766         SUAREZ CHANG GLORIA                                 204
+12/05/2020  48878256         RAFFO CORONADO ROLANDO                              107
+13/05/2020  37080813         FLORIAN VALDERRAMA JOSE                             204
+13/05/2020  48450395         RAMIREZ ASTETE KARINA ESTEFANIA                     147
+13/05/2020  26522329         SANCHEZ DEL CASTILLO FIORELLA ROSARIO               146
+14/05/2020  13628871         QUIROGA HERNANDEZ SILVANA ZKENIA                    131
+14/05/2020  77367073         JAUREGUI DEL CASTILLO VICTOR RICARDO                129
+14/05/2020  60784914         RUIZ ZEVALLOS WALTER RONY                           309
+14/05/2020  29833157         HIJAR LAM MARTIN                                    102
+15/05/2020  79766395         FUENTES ESCALANTE PATRICIA ELIZABETH                310
+15/05/2020  28820944         RIOS ZAMORA INES                                    329
+15/05/2020  60335381         DIAZ TANG ENRIQUE                                   105
+16/05/2020  67185679         FLORENCIO CORONADO ALONSO                           109
+16/05/2020  77367073         JAUREGUI DEL CASTILLO VICTOR RICARDO                140
+16/05/2020  35683701         DIAZ MOYA ELIA ANNIE                                105
+17/05/2020  64532449         INFANTES MERCADO LUIS WALDEMAR                      322
+18/05/2020  88167677         PRADO VERA JUAN                                     316
+18/05/2020  47528229         SAAVEDRA GONZALES WILMER                            130
+19/05/2020  87495937         MORALES PASQUEL KARIN MARIBEL                       160
+19/05/2020  73818744         FUENTES GAMARRA HUGO                                332
+19/05/2020  39544560         LUNA VARGAS WALDEMAR                                115
+20/05/2020  29833157         HIJAR LAM MARTIN                                    159
+21/05/2020  88854166         PINTO ROJAS JUVENAL FRANCISCO                       334
+21/05/2020  35671623         EPIQUEN YEP GUIDA VICTORIA                          305
+22/05/2020  27864822         FIGUEROA MEDINA MADELEINE                           204
+22/05/2020  53853385         SOLIS NARVAEZ MARIA MADELEINE                       110
+23/05/2020  54447051         AVILA DEL CASTILLO ANNIE                            124
+24/05/2020  64178096         VIZCARRA CARBAJAL IVAN FAUSTO                       132
+24/05/2020  32244565         HENRIQUEZ PAREDES PAUL RAFAEL                       101
+25/05/2020  99950484         CORTES CORTEZ RAUL ALEX                             338
+25/05/2020  88167677         PRADO VERA JUAN                                     160
+25/05/2020  34248357         LEYVA LANDEO NANCY SONIA                            319
+26/05/2020  48528209         ZAVALETA CORONADO FELICITA ELOISA                   338
+26/05/2020  31107104         MOSCOSO ARIAS FIORELLA                              122
+26/05/2020  96693273         VALDERRAMA BERROCAL EVERT                           148
+26/05/2020  99950484         CORTES CORTEZ RAUL ALEX                             145
+27/05/2020  87282766         SUAREZ CHANG GLORIA                                 323
+27/05/2020  60784914         RUIZ ZEVALLOS WALTER RONY                           201
+30/05/2020  77367073         JAUREGUI DEL CASTILLO VICTOR RICARDO                153
+30/05/2020  48878256         RAFFO CORONADO ROLANDO                              328
+31/05/2020  54447051         AVILA DEL CASTILLO ANNIE                            341
+31/05/2020  60784914         RUIZ ZEVALLOS WALTER RONY                           128
+
+Anio   2020 Mes:  06
+FECHA       LICENCIA                      NOMBRE                                FALTA
+====================================================================================================
+01/06/2020  89941095         ARCA LARRIEGA LUCERO YLIANA                         314
+01/06/2020  38862473         WONG MAEIREIZO BEATRIZ                              108
+04/06/2020  25518120         RONDON CABRERA ALEXANDER ADOLFO                     337
+04/06/2020  88167677         PRADO VERA JUAN                                     149
+05/06/2020  54665716         GONZALES GAMARRA GIOVANA KARINA                     151
+05/06/2020  29833157         HIJAR LAM MARTIN                                    109
+05/06/2020  27185429         SOLIS CHUNG ROLANDO                                 134
+06/06/2020  73818744         FUENTES GAMARRA HUGO                                324
+06/06/2020  53853385         SOLIS NARVAEZ MARIA MADELEINE                       140
+08/06/2020  28820944         RIOS ZAMORA INES                                    104
+08/06/2020  37080813         FLORIAN VALDERRAMA JOSE                             312
+09/06/2020  26522329         SANCHEZ DEL CASTILLO FIORELLA ROSARIO               202
+09/06/2020  26522329         SANCHEZ DEL CASTILLO FIORELLA ROSARIO               123
+09/06/2020  54141214         DURAND MIRANDA MIGUEL JUAN                          147
+10/06/2020  88854166         PINTO ROJAS JUVENAL FRANCISCO                       122
+11/06/2020  35912665         MARTINEZ CRUZ EVERT RONY                            335
+13/06/2020  47528229         SAAVEDRA GONZALES WILMER                            161
+13/06/2020  27185429         SOLIS CHUNG ROLANDO                                 165
+13/06/2020  60784914         RUIZ ZEVALLOS WALTER RONY                           309
+13/06/2020  16136330         YEP PRECIADO RICHARD                                314
+14/06/2020  66849703         MERCADO CORONEL ELIA                                331
+15/06/2020  34248357         LEYVA LANDEO NANCY SONIA                            155
+15/06/2020  35912665         MARTINEZ CRUZ EVERT RONY                            111
+15/06/2020  31107104         MOSCOSO ARIAS FIORELLA                              101
+15/06/2020  19963454         SALAMANCA CABRERA NESTOR EVERT                      109
+16/06/2020  64178096         VIZCARRA CARBAJAL IVAN FAUSTO                       320
+18/06/2020  88167677         PRADO VERA JUAN                                     316
+19/06/2020  53853385         SOLIS NARVAEZ MARIA MADELEINE                       103
+19/06/2020  84186239         RIVERO CORONADO HECTOR ALONSO                       336
+19/06/2020  81528434         EPIQUEN AVILA ENRIQUE                               204
+19/06/2020  88854166         PINTO ROJAS JUVENAL FRANCISCO                       135
+20/06/2020  13219606         RODRIGUEZ MORENO BLANCA OFELIA                      313
+20/06/2020  54447051         AVILA DEL CASTILLO ANNIE                            311
+20/06/2020  89314225         RIOS DURAND CARLOS EDILBERTO                        110
+21/06/2020  15559308         BRAVO CORTES JANET FLOR                             110
+22/06/2020  80310768         MINAYA BERROCAL HELI                                326
+22/06/2020  69252518         GORDILLO SANCHEZ RONALD JUVENAL                     124
+22/06/2020  54141214         DURAND MIRANDA MIGUEL JUAN                          204
+23/06/2020  71578206         ARROYO TOMASICHE NATALIA                            322
+23/06/2020  90467829         IPARRAGUIRRE PEREZ NICOLAS                          129
+24/06/2020  70414420         AVILA REYES TATIANA                                 301
+24/06/2020  53374153         SERRANO IBEROS FRANCISCO                            104
+24/06/2020  77763722         FARFAN SALAZAR MARGOT                               322
+25/06/2020  50200823         LEYVA SAM DIANA DELIA                               119
+25/06/2020  54447051         AVILA DEL CASTILLO ANNIE                            130
+26/06/2020  44188994         VILCARA YALLICO MAGALI                              159
+26/06/2020  19963454         SALAMANCA CABRERA NESTOR EVERT                      131
+28/06/2020  79672079         CONTRERAS CHANG JOHANA CINTHIA                      318
+28/06/2020  50201756         ZEGARRA PENA CARMELA                                118
+29/06/2020  81799482         CERNA CERNA CINTHIA                                 338
+29/06/2020  30046639         SALAMANCA VEGA VIRGINIA MARTHA                      138
+29/06/2020  97849227         PRADO ESPINOZA MILAGROS                             109
+30/06/2020  97849227         PRADO ESPINOZA MILAGROS                             323
+30/06/2020  69252518         GORDILLO SANCHEZ RONALD JUVENAL                     151
+
+Anio   2020 Mes:  07
+FECHA       LICENCIA                      NOMBRE                                FALTA
+====================================================================================================
+01/07/2020  88167677         PRADO VERA JUAN                                     329
+02/07/2020  34248357         LEYVA LANDEO NANCY SONIA                            132
+02/07/2020  88167677         PRADO VERA JUAN                                     332
+04/07/2020  64532449         INFANTES MERCADO LUIS WALDEMAR                      159
+04/07/2020  58992942         NARVAEZ CASTILLO JESUS RAFAEL                       147
+05/07/2020  86429854         MOSCOSO LAURA JANET VALENTINA                       125
+07/07/2020  32244565         HENRIQUEZ PAREDES PAUL RAFAEL                       315
+07/07/2020  82870470         SEDANO RETAMOSO ELIA YOLANDA                        104
+07/07/2020  34976629         LOZADA ARGUEDAS FELICITA VALENTINA                  310
+07/07/2020  39544560         LUNA VARGAS WALDEMAR                                332
+08/07/2020  49927087         INGA PALOMARES ERIKA                                136
+09/07/2020  54141214         DURAND MIRANDA MIGUEL JUAN                          336
+10/07/2020  16925690         CABRERA TORO FANNY                                  128
+10/07/2020  71578206         ARROYO TOMASICHE NATALIA                            155
+10/07/2020  36079131         ZAVALETA VILCA ERICKA ELEONOR                       328
+10/07/2020  15029228         VALVERDE MAEIREIZO MELVIN JAIR                      102
+11/07/2020  73567806         ARCA SANCHEZ MAGALI BEATRIZ                         334
+11/07/2020  99950484         CORTES CORTEZ RAUL ALEX                             326
+13/07/2020  77367073         JAUREGUI DEL CASTILLO VICTOR RICARDO                141
+14/07/2020  25518120         RONDON CABRERA ALEXANDER ADOLFO                     118
+14/07/2020  16136330         YEP PRECIADO RICHARD                                126
+14/07/2020  79766395         FUENTES ESCALANTE PATRICIA ELIZABETH                130
+14/07/2020  97849227         PRADO ESPINOZA MILAGROS                             341
+14/07/2020  32244565         HENRIQUEZ PAREDES PAUL RAFAEL                       162
+14/07/2020  30046639         SALAMANCA VEGA VIRGINIA MARTHA                      315
+15/07/2020  39244942         PENA SUAREZ GLENDA MARGOT                           103
+15/07/2020  49927087         INGA PALOMARES ERIKA                                139
+15/07/2020  35912665         MARTINEZ CRUZ EVERT RONY                            162
+16/07/2020  27864822         FIGUEROA MEDINA MADELEINE                           202
+17/07/2020  90467829         IPARRAGUIRRE PEREZ NICOLAS                          313
+18/07/2020  77367073         JAUREGUI DEL CASTILLO VICTOR RICARDO                327
+19/07/2020  45043076         VEGA VILCARA CARMELA TERESA                         154
+19/07/2020  39544560         LUNA VARGAS WALDEMAR                                341
+20/07/2020  48528209         ZAVALETA CORONADO FELICITA ELOISA                   341
+20/07/2020  13219606         RODRIGUEZ MORENO BLANCA OFELIA                      313
+21/07/2020  32244565         HENRIQUEZ PAREDES PAUL RAFAEL                       131
+22/07/2020  16925690         CABRERA TORO FANNY                                  143
+22/07/2020  34248357         LEYVA LANDEO NANCY SONIA                            328
+23/07/2020  73567806         ARCA SANCHEZ MAGALI BEATRIZ                         319
+23/07/2020  89941095         ARCA LARRIEGA LUCERO YLIANA                         164
+24/07/2020  43454884         ESPINOZA CHANG SHIRLEY                              150
+24/07/2020  66849703         MERCADO CORONEL ELIA                                115
+24/07/2020  96693273         VALDERRAMA BERROCAL EVERT                           135
+25/07/2020  70414420         AVILA REYES TATIANA                                 317
+25/07/2020  60335381         DIAZ TANG ENRIQUE                                   163
+26/07/2020  99950484         CORTES CORTEZ RAUL ALEX                             162
+26/07/2020  35297848         ASTETE CHANG GUIDA                                  122
+27/07/2020  29989682         CAMACHO PAIRAZAMAN YDALI LUCERO                     326
+28/07/2020  99950484         CORTES CORTEZ RAUL ALEX                             135
+28/07/2020  58992942         NARVAEZ CASTILLO JESUS RAFAEL                       333
+29/07/2020  16477908         BACA CAMACHO MILAGROS NATALIA                       126
+29/07/2020  53853385         SOLIS NARVAEZ MARIA MADELEINE                       153
+
+Anio   2020 Mes:  08
+FECHA       LICENCIA                      NOMBRE                                FALTA
+====================================================================================================
+01/08/2020  32090869         SUELDO ANTEZANO LUIS JESUS                          166
+02/08/2020  71578206         ARROYO TOMASICHE NATALIA                            338
+02/08/2020  27864822         FIGUEROA MEDINA MADELEINE                           141
+02/08/2020  32244565         HENRIQUEZ PAREDES PAUL RAFAEL                       160
+03/08/2020  75348522         LOZADA FORZANI DELIA                                124
+03/08/2020  71578206         ARROYO TOMASICHE NATALIA                            133
+03/08/2020  32090869         SUELDO ANTEZANO LUIS JESUS                          162
+03/08/2020  47844324         VILCA LEE NESTOR HUGO                               150
+03/08/2020  64532449         INFANTES MERCADO LUIS WALDEMAR                      304
+04/08/2020  44188994         VILCARA YALLICO MAGALI                              304
+05/08/2020  45043076         VEGA VILCARA CARMELA TERESA                         145
+06/08/2020  43454884         ESPINOZA CHANG SHIRLEY                              324
+06/08/2020  68310808         CANO POLO MILAGROS ISABEL                           338
+07/08/2020  58992942         NARVAEZ CASTILLO JESUS RAFAEL                       207
+07/08/2020  38862473         WONG MAEIREIZO BEATRIZ                              135
+07/08/2020  71832810         SUELDO SEDANO ADRIA                                 116
+08/08/2020  53374153         SERRANO IBEROS FRANCISCO                            341
+08/08/2020  69494747         MENDOZA ROMERO VIRGINIA YDALI                       146
+08/08/2020  35671623         EPIQUEN YEP GUIDA VICTORIA                          110
+09/08/2020  68303148         PATINO BOLANOS DELICIA VIRGINIA                     115
+09/08/2020  35671623         EPIQUEN YEP GUIDA VICTORIA                          307
+09/08/2020  49927087         INGA PALOMARES ERIKA                                304
+12/08/2020  89941095         ARCA LARRIEGA LUCERO YLIANA                         331
+13/08/2020  48450395         RAMIREZ ASTETE KARINA ESTEFANIA                     339
+13/08/2020  15559308         BRAVO CORTES JANET FLOR                             105
+13/08/2020  13219606         RODRIGUEZ MORENO BLANCA OFELIA                      152
+14/08/2020  16925690         CABRERA TORO FANNY                                  143
+14/08/2020  75348522         LOZADA FORZANI DELIA                                117
+14/08/2020  16477908         BACA CAMACHO MILAGROS NATALIA                       338
+15/08/2020  74325123         TANG MOSCOSO JOHANA                                 103
+15/08/2020  79672079         CONTRERAS CHANG JOHANA CINTHIA                      170
+15/08/2020  96693273         VALDERRAMA BERROCAL EVERT                           141
+17/08/2020  45043076         VEGA VILCARA CARMELA TERESA                         146
+17/08/2020  16925690         CABRERA TORO FANNY                                  308
+18/08/2020  53853385         SOLIS NARVAEZ MARIA MADELEINE                       302
+19/08/2020  39244942         PENA SUAREZ GLENDA MARGOT                           136
+19/08/2020  60335381         DIAZ TANG ENRIQUE                                   149
+20/08/2020  63291514         LAU ZAVALETA YDALI ELIA                             104
+20/08/2020  19568447         VEGA SORIA HENRRY                                   137
+20/08/2020  38862473         WONG MAEIREIZO BEATRIZ                              318
+21/08/2020  71578206         ARROYO TOMASICHE NATALIA                            104
+21/08/2020  81528434         EPIQUEN AVILA ENRIQUE                               312
+21/08/2020  19963454         SALAMANCA CABRERA NESTOR EVERT                      330
+21/08/2020  88167677         PRADO VERA JUAN                                     202
+21/08/2020  15559308         BRAVO CORTES JANET FLOR                             305
+21/08/2020  73818744         FUENTES GAMARRA HUGO                                207
+22/08/2020  50201756         ZEGARRA PENA CARMELA                                123
+24/08/2020  53374153         SERRANO IBEROS FRANCISCO                            125
+25/08/2020  87495937         MORALES PASQUEL KARIN MARIBEL                       336
+26/08/2020  67185679         FLORENCIO CORONADO ALONSO                           335
+27/08/2020  73357516         TRIGUEROS JUGO LUZ                                  166
+27/08/2020  86718074         ESCALANTE ROJAS INES ADRIA                          307
+27/08/2020  26522329         SANCHEZ DEL CASTILLO FIORELLA ROSARIO               123
+29/08/2020  13219606         RODRIGUEZ MORENO BLANCA OFELIA                      141
+30/08/2020  81799482         CERNA CERNA CINTHIA                                 118
+30/08/2020  37080813         FLORIAN VALDERRAMA JOSE                             339
+30/08/2020  71578206         ARROYO TOMASICHE NATALIA                            315
+30/08/2020  69252518         GORDILLO SANCHEZ RONALD JUVENAL                     327
+31/08/2020  15559308         BRAVO CORTES JANET FLOR                             148
+31/08/2020  48878256         RAFFO CORONADO ROLANDO                              312
+31/08/2020  88167677         PRADO VERA JUAN                                     121
+
+Anio   2020 Mes:  09
+FECHA       LICENCIA                      NOMBRE                                FALTA
+====================================================================================================
+01/09/2020  74325123         TANG MOSCOSO JOHANA                                 309
+02/09/2020  79672079         CONTRERAS CHANG JOHANA CINTHIA                      136
+03/09/2020  29833157         HIJAR LAM MARTIN                                    110
+04/09/2020  13219606         RODRIGUEZ MORENO BLANCA OFELIA                      102
+04/09/2020  48878256         RAFFO CORONADO ROLANDO                              202
+04/09/2020  86718074         ESCALANTE ROJAS INES ADRIA                          301
+04/09/2020  87282766         SUAREZ CHANG GLORIA                                 111
+05/09/2020  35671623         EPIQUEN YEP GUIDA VICTORIA                          147
+07/09/2020  24859596         FLORIAN CUBA CHRISTIAN                              331
+09/09/2020  86718074         ESCALANTE ROJAS INES ADRIA                          141
+11/09/2020  51395324         TRIGUEROS PORTUGAL ARTURO FAUSTO                    202
+12/09/2020  35683701         DIAZ MOYA ELIA ANNIE                                328
+12/09/2020  30441350         RETAMOSO SALAMANCA DELIA MARITZA                    315
+12/09/2020  64178096         VIZCARRA CARBAJAL IVAN FAUSTO                       313
+13/09/2020  30441350         RETAMOSO SALAMANCA DELIA MARITZA                    207
+15/09/2020  30046639         SALAMANCA VEGA VIRGINIA MARTHA                      204
+15/09/2020  73567806         ARCA SANCHEZ MAGALI BEATRIZ                         105
+16/09/2020  90467829         IPARRAGUIRRE PEREZ NICOLAS                          118
+17/09/2020  89941095         ARCA LARRIEGA LUCERO YLIANA                         140
+17/09/2020  29989682         CAMACHO PAIRAZAMAN YDALI LUCERO                     149
+17/09/2020  16136330         YEP PRECIADO RICHARD                                108
+19/09/2020  43454884         ESPINOZA CHANG SHIRLEY                              119
+19/09/2020  82031355         EGUSQUIZA BERROCAL DORIS NANCY                      319
+19/09/2020  67185679         FLORENCIO CORONADO ALONSO                           315
+20/09/2020  82031355         EGUSQUIZA BERROCAL DORIS NANCY                      208
+20/09/2020  54141214         DURAND MIRANDA MIGUEL JUAN                          122
+21/09/2020  73567806         ARCA SANCHEZ MAGALI BEATRIZ                         321
+21/09/2020  52003695         CARBAJAL SALAS MAGDA ZKENIA                         122
+21/09/2020  88167677         PRADO VERA JUAN                                     332
+22/09/2020  19963454         SALAMANCA CABRERA NESTOR EVERT                      150
+22/09/2020  88854166         PINTO ROJAS JUVENAL FRANCISCO                       331
+23/09/2020  82870470         SEDANO RETAMOSO ELIA YOLANDA                        335
+24/09/2020  28820944         RIOS ZAMORA INES                                    154
+24/09/2020  19963454         SALAMANCA CABRERA NESTOR EVERT                      334
+25/09/2020  49927087         INGA PALOMARES ERIKA                                116
+25/09/2020  89941095         ARCA LARRIEGA LUCERO YLIANA                         320
+25/09/2020  54447051         AVILA DEL CASTILLO ANNIE                            165
+25/09/2020  69494747         MENDOZA ROMERO VIRGINIA YDALI                       104
+27/09/2020  15029228         VALVERDE MAEIREIZO MELVIN JAIR                      102
+29/09/2020  85501710         VIZCARDO SINCHE MARIBEL                             105
+29/09/2020  34976629         LOZADA ARGUEDAS FELICITA VALENTINA                  206
+30/09/2020  71578206         ARROYO TOMASICHE NATALIA                            332
+30/09/2020  52003695         CARBAJAL SALAS MAGDA ZKENIA                         124
+30/09/2020  48878256         RAFFO CORONADO ROLANDO                              101
+
+Anio   2020 Mes:  10
+FECHA       LICENCIA                      NOMBRE                                FALTA
+====================================================================================================
+03/10/2020  96693273         VALDERRAMA BERROCAL EVERT                           120
+03/10/2020  69252518         GORDILLO SANCHEZ RONALD JUVENAL                     132
+04/10/2020  29833157         HIJAR LAM MARTIN                                    302
+04/10/2020  45043076         VEGA VILCARA CARMELA TERESA                         134
+05/10/2020  68310808         CANO POLO MILAGROS ISABEL                           315
+05/10/2020  87282766         SUAREZ CHANG GLORIA                                 105
+06/10/2020  90467829         IPARRAGUIRRE PEREZ NICOLAS                          105
+06/10/2020  19963454         SALAMANCA CABRERA NESTOR EVERT                      336
+07/10/2020  97849227         PRADO ESPINOZA MILAGROS                             328
+07/10/2020  48878256         RAFFO CORONADO ROLANDO                              115
+07/10/2020  79672079         CONTRERAS CHANG JOHANA CINTHIA                      131
+07/10/2020  79672079         CONTRERAS CHANG JOHANA CINTHIA                      127
+09/10/2020  96693273         VALDERRAMA BERROCAL EVERT                           135
+09/10/2020  15559308         BRAVO CORTES JANET FLOR                             148
+09/10/2020  85501710         VIZCARDO SINCHE MARIBEL                             129
+10/10/2020  16477908         BACA CAMACHO MILAGROS NATALIA                       323
+10/10/2020  86429854         MOSCOSO LAURA JANET VALENTINA                       142
+10/10/2020  90467829         IPARRAGUIRRE PEREZ NICOLAS                          145
+11/10/2020  90467829         IPARRAGUIRRE PEREZ NICOLAS                          335
+12/10/2020  82870470         SEDANO RETAMOSO ELIA YOLANDA                        118
+12/10/2020  35912665         MARTINEZ CRUZ EVERT RONY                            157
+13/10/2020  53853385         SOLIS NARVAEZ MARIA MADELEINE                       127
+13/10/2020  73972114         AVILA MARTEL JAIME MANUEL                           102
+13/10/2020  73357516         TRIGUEROS JUGO LUZ                                  314
+13/10/2020  36079131         ZAVALETA VILCA ERICKA ELEONOR                       203
+14/10/2020  30441350         RETAMOSO SALAMANCA DELIA MARITZA                    153
+14/10/2020  30046639         SALAMANCA VEGA VIRGINIA MARTHA                      162
+15/10/2020  87495937         MORALES PASQUEL KARIN MARIBEL                       123
+16/10/2020  68310808         CANO POLO MILAGROS ISABEL                           151
+17/10/2020  77367073         JAUREGUI DEL CASTILLO VICTOR RICARDO                334
+17/10/2020  43454884         ESPINOZA CHANG SHIRLEY                              152
+17/10/2020  73818744         FUENTES GAMARRA HUGO                                147
+17/10/2020  86718074         ESCALANTE ROJAS INES ADRIA                          107
+17/10/2020  29989682         CAMACHO PAIRAZAMAN YDALI LUCERO                     139
+18/10/2020  87495937         MORALES PASQUEL KARIN MARIBEL                       129
+19/10/2020  44188994         VILCARA YALLICO MAGALI                              306
+19/10/2020  19963454         SALAMANCA CABRERA NESTOR EVERT                      131
+20/10/2020  66849703         MERCADO CORONEL ELIA                                114
+21/10/2020  19568447         VEGA SORIA HENRRY                                   138
+21/10/2020  32244565         HENRIQUEZ PAREDES PAUL RAFAEL                       315
+22/10/2020  90467829         IPARRAGUIRRE PEREZ NICOLAS                          118
+22/10/2020  85501710         VIZCARDO SINCHE MARIBEL                             331
+23/10/2020  64178096         VIZCARRA CARBAJAL IVAN FAUSTO                       306
+23/10/2020  60335381         DIAZ TANG ENRIQUE                                   166
+23/10/2020  73567806         ARCA SANCHEZ MAGALI BEATRIZ                         207
+24/10/2020  87282766         SUAREZ CHANG GLORIA                                 134
+24/10/2020  64532449         INFANTES MERCADO LUIS WALDEMAR                      106
+25/10/2020  69252518         GORDILLO SANCHEZ RONALD JUVENAL                     306
+27/10/2020  64532449         INFANTES MERCADO LUIS WALDEMAR                      204
+27/10/2020  79766395         FUENTES ESCALANTE PATRICIA ELIZABETH                153
+28/10/2020  96693273         VALDERRAMA BERROCAL EVERT                           302
+29/10/2020  45043076         VEGA VILCARA CARMELA TERESA                         318
+29/10/2020  54447051         AVILA DEL CASTILLO ANNIE                            132
+29/10/2020  50200823         LEYVA SAM DIANA DELIA                               103
+30/10/2020  12443643         LEE SERRANO ROSARIO                                 321
+31/10/2020  71578206         ARROYO TOMASICHE NATALIA                            318
+
+Anio   2020 Mes:  11
+FECHA       LICENCIA                      NOMBRE                                FALTA
+====================================================================================================
+01/11/2020  71578206         ARROYO TOMASICHE NATALIA                            313
+01/11/2020  77763722         FARFAN SALAZAR MARGOT                               309
+02/11/2020  87495937         MORALES PASQUEL KARIN MARIBEL                       304
+02/11/2020  24859596         FLORIAN CUBA CHRISTIAN                              312
+02/11/2020  73567806         ARCA SANCHEZ MAGALI BEATRIZ                         118
+02/11/2020  71578206         ARROYO TOMASICHE NATALIA                            324
+03/11/2020  79766395         FUENTES ESCALANTE PATRICIA ELIZABETH                317
+03/11/2020  35912665         MARTINEZ CRUZ EVERT RONY                            341
+03/11/2020  64532449         INFANTES MERCADO LUIS WALDEMAR                      207
+03/11/2020  34976629         LOZADA ARGUEDAS FELICITA VALENTINA                  333
+04/11/2020  50201756         ZEGARRA PENA CARMELA                                310
+04/11/2020  64178096         VIZCARRA CARBAJAL IVAN FAUSTO                       321
+04/11/2020  81485316         JUSTINO MARTINEZ ENRIQUE                            138
+05/11/2020  84186239         RIVERO CORONADO HECTOR ALONSO                       316
+06/11/2020  15029228         VALVERDE MAEIREIZO MELVIN JAIR                      331
+08/11/2020  15559308         BRAVO CORTES JANET FLOR                             148
+08/11/2020  53853385         SOLIS NARVAEZ MARIA MADELEINE                       110
+08/11/2020  86429854         MOSCOSO LAURA JANET VALENTINA                       341
+08/11/2020  25518120         RONDON CABRERA ALEXANDER ADOLFO                     145
+09/11/2020  80457845         NORABUENA MOYA HECTOR                               101
+09/11/2020  89941095         ARCA LARRIEGA LUCERO YLIANA                         337
+09/11/2020  70414420         AVILA REYES TATIANA                                 325
+10/11/2020  79641328         TOKESHI GUEVARA JAIME                               338
+10/11/2020  60784914         RUIZ ZEVALLOS WALTER RONY                           165
+10/11/2020  73972114         AVILA MARTEL JAIME MANUEL                           107
+12/11/2020  35297848         ASTETE CHANG GUIDA                                  326
+12/11/2020  63736112         ZAMORA ZAVALETA RONAL MANUEL                        128
+12/11/2020  39544560         LUNA VARGAS WALDEMAR                                316
+13/11/2020  32244565         HENRIQUEZ PAREDES PAUL RAFAEL                       315
+15/11/2020  79672079         CONTRERAS CHANG JOHANA CINTHIA                      203
+16/11/2020  82031355         EGUSQUIZA BERROCAL DORIS NANCY                      150
+16/11/2020  13219606         RODRIGUEZ MORENO BLANCA OFELIA                      333
+16/11/2020  30046639         SALAMANCA VEGA VIRGINIA MARTHA                      205
+18/11/2020  53374153         SERRANO IBEROS FRANCISCO                            165
+19/11/2020  73972114         AVILA MARTEL JAIME MANUEL                           102
+19/11/2020  32244565         HENRIQUEZ PAREDES PAUL RAFAEL                       111
+20/11/2020  60335381         DIAZ TANG ENRIQUE                                   162
+20/11/2020  66849703         MERCADO CORONEL ELIA                                170
+20/11/2020  12270502         CUEVA FUENTES CINTHIA DELIA                         111
+21/11/2020  54141214         DURAND MIRANDA MIGUEL JUAN                          114
+21/11/2020  32244565         HENRIQUEZ PAREDES PAUL RAFAEL                       149
+22/11/2020  64178096         VIZCARRA CARBAJAL IVAN FAUSTO                       157
+22/11/2020  75348522         LOZADA FORZANI DELIA                                164
+23/11/2020  29989682         CAMACHO PAIRAZAMAN YDALI LUCERO                     322
+24/11/2020  71578206         ARROYO TOMASICHE NATALIA                            137
+24/11/2020  70414420         AVILA REYES TATIANA                                 122
+25/11/2020  73567806         ARCA SANCHEZ MAGALI BEATRIZ                         103
+25/11/2020  30046639         SALAMANCA VEGA VIRGINIA MARTHA                      319
+27/11/2020  47528229         SAAVEDRA GONZALES WILMER                            158
+27/11/2020  16925690         CABRERA TORO FANNY                                  107
+27/11/2020  15029228         VALVERDE MAEIREIZO MELVIN JAIR                      154
+28/11/2020  70414420         AVILA REYES TATIANA                                 201
+28/11/2020  15029228         VALVERDE MAEIREIZO MELVIN JAIR                      133
+28/11/2020  73972114         AVILA MARTEL JAIME MANUEL                           205
+29/11/2020  90467829         IPARRAGUIRRE PEREZ NICOLAS                          128
+
+Anio   2020 Mes:  12
+FECHA       LICENCIA                      NOMBRE                                FALTA
+====================================================================================================
+02/12/2020  89314225         RIOS DURAND CARLOS EDILBERTO                        104
+03/12/2020  42956681         POMAJAMBO EGUSQUIZA PAUL                            322
+05/12/2020  47528229         SAAVEDRA GONZALES WILMER                            146
+05/12/2020  29989682         CAMACHO PAIRAZAMAN YDALI LUCERO                     162
+06/12/2020  45043076         VEGA VILCARA CARMELA TERESA                         149
+06/12/2020  25518120         RONDON CABRERA ALEXANDER ADOLFO                     205
+07/12/2020  60784914         RUIZ ZEVALLOS WALTER RONY                           112
+07/12/2020  77367073         JAUREGUI DEL CASTILLO VICTOR RICARDO                143
+09/12/2020  73972114         AVILA MARTEL JAIME MANUEL                           156
+10/12/2020  88854166         PINTO ROJAS JUVENAL FRANCISCO                       104
+11/12/2020  32244565         HENRIQUEZ PAREDES PAUL RAFAEL                       108
+11/12/2020  53853385         SOLIS NARVAEZ MARIA MADELEINE                       147
+14/12/2020  12443643         LEE SERRANO ROSARIO                                 156
+14/12/2020  87282766         SUAREZ CHANG GLORIA                                 123
+15/12/2020  44346371         ALFARO ALFARO ERICK BRUNO                           137
+15/12/2020  50201756         ZEGARRA PENA CARMELA                                105
+16/12/2020  82870470         SEDANO RETAMOSO ELIA YOLANDA                        158
+16/12/2020  34976629         LOZADA ARGUEDAS FELICITA VALENTINA                  165
+17/12/2020  79641328         TOKESHI GUEVARA JAIME                               142
+17/12/2020  35912665         MARTINEZ CRUZ EVERT RONY                            162
+19/12/2020  29989682         CAMACHO PAIRAZAMAN YDALI LUCERO                     335
+19/12/2020  58992942         NARVAEZ CASTILLO JESUS RAFAEL                       130
+20/12/2020  12858682         ZARATE PEREZ ALEXANDER                              101
+20/12/2020  34248357         LEYVA LANDEO NANCY SONIA                            320
+20/12/2020  77367073         JAUREGUI DEL CASTILLO VICTOR RICARDO                103
+21/12/2020  73567806         ARCA SANCHEZ MAGALI BEATRIZ                         164
+22/12/2020  67185679         FLORENCIO CORONADO ALONSO                           312
+22/12/2020  15029228         VALVERDE MAEIREIZO MELVIN JAIR                      145
+22/12/2020  38862473         WONG MAEIREIZO BEATRIZ                              141
+22/12/2020  99950484         CORTES CORTEZ RAUL ALEX                             103
+23/12/2020  84186239         RIVERO CORONADO HECTOR ALONSO                       131
+24/12/2020  81485316         JUSTINO MARTINEZ ENRIQUE                            128
+24/12/2020  96693273         VALDERRAMA BERROCAL EVERT                           312
+25/12/2020  42956681         POMAJAMBO EGUSQUIZA PAUL                            155
+25/12/2020  25518120         RONDON CABRERA ALEXANDER ADOLFO                     313
+26/12/2020  73357516         TRIGUEROS JUGO LUZ                                  134
+27/12/2020  16925690         CABRERA TORO FANNY                                  332
+27/12/2020  63291514         LAU ZAVALETA YDALI ELIA                             206
+27/12/2020  12270502         CUEVA FUENTES CINTHIA DELIA                         332
+29/12/2020  24859596         FLORIAN CUBA CHRISTIAN                              153
+29/12/2020  48450395         RAMIREZ ASTETE KARINA ESTEFANIA                     331
+29/12/2020  53374153         SERRANO IBEROS FRANCISCO                            328
+30/12/2020  96693273         VALDERRAMA BERROCAL EVERT                           165
+31/12/2020  35912665         MARTINEZ CRUZ EVERT RONY                            315

@@ -1,0 +1,7 @@
+DNI:     22334455
+Nombre:   Juan Pedro Lopez Quispe
+Sueldo:    3547.67
+
+DNI:     22334455
+Nombre:   Juan Pedro Lopez Quispe
+Sueldo:    4257.20

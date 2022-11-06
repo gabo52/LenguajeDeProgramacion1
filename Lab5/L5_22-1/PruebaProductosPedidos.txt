@@ -1,0 +1,350 @@
+CODIGO    DESCRIPCION                                                     PRECIO DESCUENTO
+FAY216    LECHE LALA SEMI DESLACTOSADA 1LT                                 16.98      0.00
+MDA345    YOGHURT NATURAL LIGHT LALA 1KG                                   25.86      4.70
+WCF779    LICUADO LALA CIRUELA PASA Y NUEZ 240GR                           10.89      5.13
+FRM097    BEBIDA NARANJA BEBERE 470ML                                       6.72     13.59
+LPP315    CHILE PUYA DE LOS ALTOS 100GR                                    10.85      0.00
+HDH878    DONAS BIMBO 157.5GR 6 PZA PROMOCION                              10.77      8.10
+RSU947    TE DE MANZANILLA NEBO 24 1GR                                     13.81      0.00
+XFA701    FLAN LALA SABOR VAINILLA 100GR                                    5.88      0.00
+DJC285    SEMILLA DE ACELGA MINA                                           15.07      0.00
+TVM516    REBANADAS BIMBO 110GR                                             8.73      7.42
+YHH034    BEBIDA DE SOYA ADES GUANABANA 946ML                              18.07      8.37
+GKY372    GALLETAS CREMAX DE NIEVE VAINILLA 416GR                          26.76      7.99
+OJC654    YOGHURT CON DURAZNO LALA 1KG                                     25.15      0.00
+KPJ711    PALOMITAS POFETS FLAMIN HOT 28GR                                  6.88      0.00
+JGP724    YOGHURT P BEBER FRUGGIS FRESA 150GR                               5.29      0.00
+CPB299    POLVO PARA HORNEAR REXAL 15KILOS                                350.22      5.67
+DMO873    SANDWICH COMBINADA 3 FLORES 150GR                                 8.23      3.18
+BNE007    CHAMYTO BIG 114ML                                                 7.58      0.00
+CCQ309    CHILE PASILLA MULATO LARGO 100GR                                 18.19     12.13
+WRW928    YOGHURT P BEBER LACTIGURT COCO 250G                               9.87      0.00
+RRS386    ZENZO BAR FRESA 66GR                                              4.05      9.41
+WIO334    PAPAYA                                                           20.99      0.00
+VYH871    NESQUIK CHOCOLATE 200GR                                          13.51      0.00
+ZYR094    VUALA CAJETA 84GR                                                 5.25     11.43
+SMQ815    CONDIMENTO PARA BIRRIA CUCU.                                     80.95     10.56
+RTU236    PAN DE MUERTO GRANDE                                             25.42      2.63
+CTR563    VAINILLA MOLINA 500ML                                            19.26     13.42
+TQU476    NESCAFE DOLCA 200GR                                              42.01      6.26
+TCJ670    YOGHURT FRESA NESTLE 1KG                                         23.27     12.73
+JGS495    MAIZENA NATURAL 750GR                                            43.62      0.00
+AGB147    PALOMITAS POFETS FLAMIN HOT 28GR                                  6.88      0.00
+EPT862    PINGUINOS MARINELA 40GR                                           4.40      7.02
+LOA323    GELATINA SABOR PIÑA LIGHT LA GLORIA 25GR                          8.51     12.04
+GFW165    YOGHURT CON DURAZNO LALA 1KG                                     25.15      0.00
+VYG314    GELATINA DANY LIMON 125GR                                         5.38      0.00
+OTD480    FRIJOLES REFRITOS ISADORA 430GR                                  13.28      1.92
+RAV186    GALLETAS SUAVICREMAS FRESA 158GR                                 13.85      0.00
+WXZ268    ALUBIAS ANTIQUA 540GR                                            17.85      8.19
+ZNQ329    JUGO DE UVA MINUTE MAID 200ML                                     4.39      8.24
+RGI240    BARRA DE HOGUELAS DE ARROZ Y TRIGO 24 GR                          4.83      3.33
+YXQ457    LIMONADA H2O 250ML                                                8.58      4.82
+EWQ268    PALOMITAS POFETS FLAMIN HOT 28GR                                  6.88      0.00
+ARQ044    MANGO ECUATORIANO                                                16.50     11.83
+LYQ603    NARANJA SIN SEMILLA                                              10.24      0.00
+TYD312    NESCAFE DOLCA 200GR                                              42.01      6.26
+ISG853    LECHE EN POLVO NIDO KINDER 400GR                                 39.84      2.09
+TOP017    CROQUETAS PEDIGREE BENEFUL 10.1KG                               270.88     12.84
+YNM350    PASTILLA PEPTO BISMOL                                             3.15      2.41
+MWC081    YOGHURT NATURAL LIGHT LALA 1KG                                   25.86      4.70
+GIX433    AGUA NIAGARA 500ML                                                5.64      0.94
+EZX531    ACHIOTE MARIN 130GR                                               8.71      0.00
+KST413    CROQUETAS PEDIGREE BENEFUL 10.1KG                               270.88     12.84
+JYF824    TANJERINA                                                         5.58      0.00
+WNV654    PALOMITAS POFETS FLAMIN HOT 28GR                                  6.88      0.00
+VNB505    TANJERINA                                                         5.58      0.00
+BNG728    ACHIOTE LA EXTRA 1KG                                             45.54      6.77
+UMH316    TOSTILOCOS PREPARADOS                                            25.53      4.83
+GOV883    PINGUINOS MARINELA 40GR                                           4.40      7.02
+OJO070    CHILES CHIPOTLES LA COSTENA 380GR                                18.53      0.00
+EZJ651    PAPA EN CUBOS DEL FUERTE 12 380GR.                                9.53      0.00
+TYP962    LICUADO LALA CIRUELA PASA Y NUEZ 240GR                           10.89      5.13
+FDQ385    CHILE PASILLA MULATO LARGO 100GR                                 18.19     12.13
+GJX975    CORAZONES DE OREJONA PZA                                         10.79     14.32
+XIL352    YOGHURT P BEBER LACTIGURT COCO 250G                               9.87      0.00
+MPS752    MEDIA CREMA NESTLE 1LT                                           40.80      1.35
+QKA145    NARANJA SIN SEMILLA                                              10.24      0.00
+IKV163    PAPA EN CUBOS DEL FUERTE 12 380GR.                                9.53      0.00
+GZM689    TANJERINA                                                         5.58      0.00
+BPY520    TORTILLAS DE MAIZ 1KG                                            14.93      7.91
+EAP247    TORTILLAS DE MAIZ 1KG                                            14.93      7.91
+QAK642    SOPA MARUCHAN CAMARON 71GR                                        7.68     10.53
+PIZ883    CORAZONES DE OREJONA PZA                                         10.79     14.32
+QXS354    PINGUINOS MARINELA 40GR                                           4.40      7.02
+KWQ868    PAPATINAS CHILIX 25GR                                             4.71      0.00
+LSF152    CONDIMENTO PARA BIRRIA CUCU.                                     80.95     10.56
+TUC054    ZENZO BAR FRESA 66GR                                              4.05      9.41
+SRT338    MIEL DE ABEJA VIRGEN 1KG                                         30.92      0.21
+PUU204    GALLETAS LORS SNACKS MARINELA 75GR                                9.54      8.69
+SYR212    OREO C TROZOS DE CHOCOLATE 473ML                                 25.95      0.00
+CNI156    CONCHAS BIMBO 120GR                                              15.55      0.00
+PKJ721    SOPA MARUCHAN POLLO 12 64GR                                      66.70      0.00
+LTH458    SOPA MARUCHAN POLLO 12 64GR                                      66.70      0.00
+BPO839    SABRITAS ORIGINAL SAL 490GR                                      63.30      0.00
+ORQ738    SOPA MARUCHAN POLLO 12 64GR                                      66.70      0.00
+DYT695    CORNETO CLASSIC LOVE                                             19.45     10.33
+CFS987    SALSA TERIYAKI KIKKOMAN B.EN GRASA 296ML                         14.41      0.00
+IDL789    GELATINA SABOR PIÑA LIGHT LA GLORIA 25GR                          8.51     12.04
+VNU061    MAIZ POZOLERO TEASDALE 3.06KG                                    50.55      0.00
+ZQW769    GELATINA DANY LIMON 125GR                                         5.38      0.00
+NUD804    PAPA EN CUBOS DEL FUERTE 12 380GR.                                9.53      0.00
+IQR972    SABRITAS ORIGINAL SAL 490GR                                      63.30      0.00
+QNX158    TORTILLAS DE HARINA DEL HOGAR 15PZAS                             17.44      0.00
+QSL689    LECHUGA ROMANA                                                   20.79      0.00
+QGJ663    PASTILLA PEPTO BISMOL                                             3.15      2.41
+FLV982    ZAPOTE                                                           28.39      3.71
+AFG743    TOSTADAS HORNEADAS DEL HOGAR 210GR                               11.34      0.00
+JEU439    SOPA MARUCHAN CAMARON 71GR                                        7.68     10.53
+AKL299    HARINA DE ARROZ DULCE 454GR                                      21.13      0.00
+MLU539    ANIS VERDE                                                       95.95      0.00
+BJZ001    FLAN LALA SABOR VAINILLA 100GR                                    5.88      0.00
+FOL644    SAL BAJA PACIFIC BOLSA 1KGR                                       5.26      5.11
+NTP470    SALSA DE CHILE PERON PURHEPECHA 260GR                            14.47     11.51
+SDA460    PINGUINOS MARINELA 40GR                                           4.40      7.02
+FLV754    EMPANIZADOR CONTADINA TRADICIONAL 283GR                          16.50      0.00
+RTI494    MEDIA CREMA NESTLE 1LT                                           40.80      1.35
+APF705    GALLETAS CREMAX DE NIEVE VAINILLA 416GR                          26.76      7.99
+ZYK783    VINAGRE BLANCO CLEMENTE JACQUES 3.8LT                            24.29      0.00
+ZGJ107    ALUBIAS ANTIQUA 540GR                                            17.85      8.19
+GTH818    SAZONADOR SPECIAL VALUE 453G                                     28.24      0.00
+LON946    YOGHURT LALA FRESA 240GR                                          6.68      7.62
+LOT999    YOGHURT P BEBER FRUGGIS FRESA 150GR                               5.29      0.00
+EIX109    ELOTE DORADO DEL MONTE 225GR                                      5.92      0.00
+CPY121    NESQUIK CHOCOLATE 200GR                                          13.51      0.00
+YVX708    CHAMPINIONES TROCITOS MONTEBLANCO 380GR                          18.99      0.82
+URY351    JUGO DE UVA MINUTE MAID 200ML                                     4.39      8.24
+IOF258    CHAMPINIONES TROCITOS MONTEBLANCO 380GR                          18.99      0.82
+JZF150    YOGHURT FRESA NESTLE 1KG                                         23.27     12.73
+EDK831    SABRITAS ORIGINAL SAL 490GR                                      63.30      0.00
+QDA084    EMPANIZADOR CONTADINA TRADICIONAL 283GR                          16.50      0.00
+RMD500    YOGHURT FRESA NESTLE 1KG                                         23.27     12.73
+XQL366    TE LIPTON NATURAL 100 226GR                                      71.68     14.57
+OEN154    ZENZO BAR FRESA 66GR                                              4.05      9.41
+VIX712    SABRITAS ORIGINAL SAL 490GR                                      63.30      0.00
+LVZ379    LICUADO LALA CIRUELA PASA Y NUEZ 240GR                           10.89      5.13
+ABL244    LECHE LALA SEMI DESLACTOSADA 1LT                                 16.98      0.00
+XLJ218    YOGHURT FRESA NESTLE 1KG                                         23.27     12.73
+TSB522    CORAZONES DE OREJONA PZA                                         10.79     14.32
+CAB090    ELOTE DORADO DEL MONTE 225GR                                      5.92      0.00
+NBF044    MOLE SURTIDO CON ESPECIAS 250GR                                  25.11      0.00
+RMK547    MAIZ POZOLERO TEASDALE 3.06KG                                    50.55      0.00
+IYS769    LECHE YAQUI DESLACTOSADA 1LT                                     19.31      0.00
+UKO483    YOGHURT NATURAL LIGHT LALA 1KG                                   25.86      4.70
+TTB188    SEMILLAS DE CHILE HABANEROMANZANO.3GR                            15.31      7.75
+BKG451    PAN DE MUERTO GRANDE                                             25.42      2.63
+UFC690    FRIJOLES PUERCOS LILIS 500GR                                     16.26      8.22
+OLT478    TAMPICO CITRUS PUNCH 3.78LTS                                     29.35      4.30
+EKL497    YOGHURT FRESA NESTLE 1KG                                         23.27     12.73
+ULW068    CHURROMAIS CON LIMON 38GR                                         5.62      1.17
+====================================================================================================
+TELEFONO  DNI       
+71984468  935441620 
+CODIGO    CANTIDAD  FECHA     
+JGP724    20191006  17        
+MPS752    20190807  15        
+BJZ001    20220211  12        
+LON946    20211128  17        
+YVX708    20210305  20        
+EDK831    20201126  10        
+----------------------------------------------------------------------------------------------------
+TELEFONO  DNI       
+29847168  6261108   
+CODIGO    CANTIDAD  FECHA     
+LOA323    20210101  21        
+TOP017    20210802  1         
+EAP247    20200304  18        
+QAK642    20200626  11        
+PKJ721    20210423  25        
+SDA460    20191230  20        
+IYS769    20211102  18        
+----------------------------------------------------------------------------------------------------
+TELEFONO  DNI       
+79475585  941241092 
+CODIGO    CANTIDAD  FECHA     
+BNE007    20200514  16        
+ZYR094    20200907  17        
+AGB147    20191216  19        
+KWQ868    20210124  20        
+RTI494    20200718  14        
+URY351    20200430  2         
+----------------------------------------------------------------------------------------------------
+TELEFONO  DNI       
+91897732  954025615 
+CODIGO    CANTIDAD  FECHA     
+RAV186    20200720  13        
+IKV163    20211109  22        
+QXS354    20210309  19        
+LSF152    20211004  1         
+LTH458    20210705  15        
+VIX712    20211217  18        
+EKL497    20190313  23        
+----------------------------------------------------------------------------------------------------
+TELEFONO  DNI       
+33397650  3911397   
+CODIGO    CANTIDAD  FECHA     
+FRM097    20190817  11        
+TVM516    20201213  13        
+CPB299    20190101  2         
+WIO334    20201007  11        
+RGI240    20190201  14        
+EWQ268    20190605  24        
+ISG853    20190729  10        
+KST413    20190628  10        
+EZJ651    20211226  13        
+IDL789    20210115  7         
+XQL366    20210324  13        
+UKO483    20211111  5         
+----------------------------------------------------------------------------------------------------
+TELEFONO  DNI       
+83236386  946513105 
+CODIGO    CANTIDAD  FECHA     
+WNV654    20190815  23        
+QSL689    20190803  22        
+LOT999    20200911  16        
+EIX109    20190713  17        
+CPY121    20211020  5         
+IOF258    20200806  5         
+----------------------------------------------------------------------------------------------------
+TELEFONO  DNI       
+32821689  955248211 
+CODIGO    CANTIDAD  FECHA     
+MDA345    20200419  8         
+GIX433    20200428  4         
+EZX531    20211019  5         
+JYF824    20201010  16        
+SYR212    20210101  6         
+OEN154    20200210  16        
+BKG451    20210701  25        
+----------------------------------------------------------------------------------------------------
+TELEFONO  DNI       
+45783712  8252118   
+CODIGO    CANTIDAD  FECHA     
+YHH034    20190105  23        
+RRS386    20190701  20        
+OTD480    20201002  21        
+QKA145    20190927  7         
+QNX158    20200706  9         
+----------------------------------------------------------------------------------------------------
+TELEFONO  DNI       
+48184351  884716679 
+CODIGO    CANTIDAD  FECHA     
+XFA701    20220202  18        
+EPT862    20190725  17        
+GFW165    20220329  14        
+TYD312    20190602  25        
+YNM350    20201231  14        
+FDQ385    20210929  23        
+NUD804    20200531  23        
+XLJ218    20190418  15        
+NBF044    20200417  3         
+----------------------------------------------------------------------------------------------------
+TELEFONO  DNI       
+33713901  2339560   
+CODIGO    CANTIDAD  FECHA     
+WCF779    20200419  19        
+HDH878    20210902  23        
+GKY372    20191203  8         
+LYQ603    20200805  12        
+BPY520    20200126  6         
+ZGJ107    20190506  13        
+QDA084    20190319  4         
+TSB522    20191202  5         
+----------------------------------------------------------------------------------------------------
+TELEFONO  DNI       
+76388967  8094909   
+CODIGO    CANTIDAD  FECHA     
+WRW928    20200509  13        
+SMQ815    20190421  4         
+TYP962    20201129  10        
+ORQ738    20190203  20        
+ZYK783    20190105  20        
+----------------------------------------------------------------------------------------------------
+TELEFONO  DNI       
+81114108  5853087   
+CODIGO    CANTIDAD  FECHA     
+RTU236    20201006  24        
+JGS495    20200605  22        
+GOV883    20190710  21        
+XIL352    20220124  1         
+TUC054    20220205  20        
+ZQW769    20201105  9         
+QGJ663    20200309  9         
+FLV982    20200921  16        
+FOL644    20210713  9         
+JZF150    20190519  14        
+----------------------------------------------------------------------------------------------------
+TELEFONO  DNI       
+57263719  988736554 
+CODIGO    CANTIDAD  FECHA     
+KPJ711    20220101  24        
+ZNQ329    20200519  13        
+GZM689    20200925  20        
+CNI156    20211122  16        
+CFS987    20220106  7         
+CAB090    20200727  14        
+RMK547    20211010  7         
+----------------------------------------------------------------------------------------------------
+TELEFONO  DNI       
+79140840  876488179 
+CODIGO    CANTIDAD  FECHA     
+LPP315    20210415  12        
+CTR563    20210520  3         
+TCJ670    20190518  14        
+BPO839    20210528  6         
+VNU061    20210717  21        
+AFG743    20220221  6         
+RMD500    20190529  15        
+----------------------------------------------------------------------------------------------------
+TELEFONO  DNI       
+71378466  921051207 
+CODIGO    CANTIDAD  FECHA     
+FAY216    20201026  19        
+MWC081    20200319  13        
+PUU204    20210117  4         
+AKL299    20210104  19        
+LVZ379    20211219  22        
+TTB188    20200529  24        
+ULW068    20190424  13        
+----------------------------------------------------------------------------------------------------
+TELEFONO  DNI       
+17913944  967944433 
+CODIGO    CANTIDAD  FECHA     
+DMO873    20191020  9         
+VYH871    20211129  19        
+TQU476    20191228  14        
+VYG314    20190923  7         
+YXQ457    20200813  25        
+UMH316    20201015  1         
+SRT338    20210422  12        
+DYT695    20201129  1         
+IQR972    20210205  15        
+ABL244    20210704  14        
+OLT478    20210322  10        
+----------------------------------------------------------------------------------------------------
+TELEFONO  DNI       
+62566305  8206363   
+CODIGO    CANTIDAD  FECHA     
+CCQ309    20201123  4         
+GJX975    20210227  2         
+NTP470    20200730  3         
+APF705    20220123  17        
+----------------------------------------------------------------------------------------------------
+TELEFONO  DNI       
+46462527  5865695   
+CODIGO    CANTIDAD  FECHA     
+RSU947    20191018  19        
+DJC285    20190726  14        
+OJC654    20200714  14        
+WXZ268    20200816  6         
+ARQ044    20191009  21        
+VNB505    20191012  6         
+BNG728    20211227  7         
+OJO070    20211003  19        
+PIZ883    20210316  2         
+JEU439    20210606  13        
+MLU539    20210529  12        
+FLV754    20200312  2         
+GTH818    20190527  9         
+UFC690    20210823  19        
+----------------------------------------------------------------------------------------------------

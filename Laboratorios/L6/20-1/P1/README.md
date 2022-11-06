@@ -1,1 +1,0 @@
-La función atiendenumero puede atender un solo pedido o varios, sin embargo, deberíamos pasar por parámetro la hora de atención pero eso no está en el enunciado, por lo que se interpreta que es como desencolar totalmente el TAD de cola. 

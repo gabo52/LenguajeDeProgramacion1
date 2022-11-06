@@ -1,0 +1,110 @@
+
+No DNI       NOMBRE                                       CAT       TELEFONO
+1  71984468  IPARRAGUIRRE VILLEGAS NICOLAS EDILBERTO      B        935441620
+               Fecha   Cod Pro      Cant
+          11/02/2022         8   6510.34
+          28/11/2021         5      0.00
+
+No DNI       NOMBRE                                       CAT       TELEFONO
+2  29847168  ALDAVE ZEVALLOS ROSARIO                      A          6261108
+               Fecha   Cod Pro      Cant
+          02/11/2021         9   9798.65
+          02/08/2021         4      0.00
+
+No DNI       NOMBRE                                       CAT       TELEFONO
+3  79475585  RETTO ARCA ANNIE MAGDA                       A        941241092
+               Fecha   Cod Pro      Cant
+          24/01/2021         8   7488.99
+          07/09/2020         6      0.00
+
+No DNI       NOMBRE                                       CAT       TELEFONO
+4  91897732  GAMARRA ALCOCER VIRGINIA                     -        954025615
+               Fecha   Cod Pro      Cant
+          17/12/2021         9   3659.06
+          09/11/2021        11      0.00
+
+No DNI       NOMBRE                                       CAT       TELEFONO
+5  33397650  RONDON EGUSQUIZA CARMELA VALENTINA           A          3911397
+               Fecha   Cod Pro      Cant
+          26/12/2021         8   1789.43
+          11/11/2021         2      0.00
+
+No DNI       NOMBRE                                       CAT       TELEFONO
+6  83236386  RIVERO CORRALES JUAN FERNANDO                -        946513105
+               Fecha   Cod Pro      Cant
+          20/10/2021         1   8728.19
+          11/09/2020         2      0.00
+
+No DNI       NOMBRE                                       CAT       TELEFONO
+7  32821689  ZAVALETA EPIQUEN CARMEN ZKENIA               C        955248211
+               Fecha   Cod Pro      Cant
+          19/10/2021         8   4066.88
+          01/07/2021        10      0.00
+
+No DNI       NOMBRE                                       CAT       TELEFONO
+8  45783712  POZO CHUNG RAFAEL DEL                        B          8252118
+               Fecha   Cod Pro      Cant
+          02/10/2020         7   6960.00
+          06/07/2020         9      0.00
+
+No DNI       NOMBRE                                       CAT       TELEFONO
+9  48184351  LOPEZ JAUREGUI ROLANDO                       C        884716679
+               Fecha   Cod Pro      Cant
+          29/03/2022         6   5651.69
+          02/02/2022         1      0.00
+
+No DNI       NOMBRE                                       CAT       TELEFONO
+10 33713901  VILLEGAS CASTRO SOFIA VIRGINIA               A          2339560
+               Fecha   Cod Pro      Cant
+          02/09/2021         5   9018.16
+          05/08/2020         3      0.00
+
+No DNI       NOMBRE                                       CAT       TELEFONO
+11 76388967  GONZALES QUIO ISABEL                         B          8094909
+               Fecha   Cod Pro      Cant
+          29/11/2020         3   5364.72
+          09/05/2020        11      0.00
+
+No DNI       NOMBRE                                       CAT       TELEFONO
+12 81114108  ZAMBRANO SHIRAKAWA WILMER                    B          5853087
+               Fecha   Cod Pro      Cant
+          05/02/2022         6   9416.99
+          24/01/2022        11      0.00
+
+No DNI       NOMBRE                                       CAT       TELEFONO
+13 57263719  PRADO TORREALBA CARMEN JANET                 C        988736554
+               Fecha   Cod Pro      Cant
+          06/01/2022         4   7930.26
+          01/01/2022         5      0.00
+
+No DNI       NOMBRE                                       CAT       TELEFONO
+14 79140840  TORREALBA ARCA VICTORIA GLENDA               -        876488179
+               Fecha   Cod Pro      Cant
+          21/02/2022         7   7480.08
+          17/07/2021         2      0.00
+
+No DNI       NOMBRE                                       CAT       TELEFONO
+15 71378466  MIYAKE CARO HENRRY EDGAR                     -        921051207
+               Fecha   Cod Pro      Cant
+          19/12/2021         0   3305.12
+          17/01/2021         8      0.00
+
+No DNI       NOMBRE                                       CAT       TELEFONO
+16 17913944  PALOMARES SANTISTEBAN HENRRY                 B        967944433
+               Fecha   Cod Pro      Cant
+          29/11/2021         5   5829.20
+          04/07/2021         0      0.00
+
+No DNI       NOMBRE                                       CAT       TELEFONO
+17 62566305  ROMERO ALFARO MONICA JOHANA                  C          8206363
+               Fecha   Cod Pro      Cant
+          23/01/2022        11   8820.99
+          27/02/2021         1   8820.99
+          23/11/2020         6   7147.88
+          30/07/2020        10   3113.43
+
+No DNI       NOMBRE                                       CAT       TELEFONO
+18 46462527  LOYOLA MORI NICOLAS FERNANDO                 B          5865695
+               Fecha   Cod Pro      Cant
+          27/12/2021         2   9018.16
+          03/10/2021         1      0.00

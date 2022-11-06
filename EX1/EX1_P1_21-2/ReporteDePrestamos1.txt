@@ -1,0 +1,202 @@
+Carne:    17750908  Tipo:     E         
+Fecha       Codigo Libro
+14102021     SA04133
+16102021     KC34197
+13102021     SK15788
+11102021     XN48844
+16102021     BH96036
+
+Carne:    26916299  Tipo:     E         
+Fecha       Codigo Libro
+12102021     MG75057
+12102021     FY25192
+13102021     IW10872
+15102021     ZQ38637
+12102021     SK15788
+09102021     FY82455
+
+Carne:    14268463  Tipo:     E         
+Fecha       Codigo Libro
+11102021     OT07742
+13102021     SV17719
+07102021     XW06135
+13102021     FW74175
+09102021     MG75057
+
+Carne:    37500242  Tipo:     E         
+Fecha       Codigo Libro
+17102021     OT07742
+13102021     KC34197
+13102021     FY82455
+13102021     SK15788
+13102021     FW74175
+11102021     JO84937
+
+Carne:    61212473  Tipo:     A         
+Fecha       Codigo Libro
+16102021     ZR63735
+16102021     FW74175
+
+Carne:    65071478  Tipo:     E         
+Fecha       Codigo Libro
+18102021     PL70268
+13102021     MG75057
+14102021     BB35881
+15102021     XW06135
+14102021     QV96140
+
+Carne:    96056368  Tipo:     A         
+Fecha       Codigo Libro
+17102021     PT00038
+17102021     FW74175
+17102021     QA53897
+18102021     ZQ38637
+
+Carne:    99215341  Tipo:     E         
+Fecha       Codigo Libro
+09102021     ZR63735
+09102021     FW74175
+17102021     ZK87496
+10102021     QV96140
+
+Carne:    33958767  Tipo:     A         
+Fecha       Codigo Libro
+18102021     KW25071
+14102021     ZK87496
+16102021     JO84937
+14102021     FY25192
+
+Carne:    72832218  Tipo:     A         
+Fecha       Codigo Libro
+17102021     IW10872
+16102021     QE47018
+
+Carne:    63602514  Tipo:     A         
+Fecha       Codigo Libro
+17102021     IW10872
+
+Carne:    49516360  Tipo:     D         
+Fecha       Codigo Libro
+02102021     JO84937
+05102021     KC34197
+08102021     XQ03477
+
+Carne:    15129661  Tipo:     E         
+Fecha       Codigo Libro
+15102021     OT07742
+17102021     FY25192
+10102021     FY82455
+
+Carne:    87804471  Tipo:     A         
+Fecha       Codigo Libro
+17102021     PL70268
+18102021     OC73472
+
+Carne:    37751890  Tipo:     D         
+Fecha       Codigo Libro
+06102021     FW74175
+17102021     OT07742
+
+Carne:    66152145  Tipo:     E         
+Fecha       Codigo Libro
+14102021     XW06135
+09102021     BH96036
+17102021     KC34197
+18102021     QA53897
+09102021     FY25192
+
+Carne:    33115577  Tipo:     E         
+Fecha       Codigo Libro
+13102021     FW74175
+18102021     ZR63735
+
+Carne:    55917355  Tipo:     A         
+Fecha       Codigo Libro
+17102021     BH96036
+18102021     ZQ38637
+16102021     FW74175
+
+Carne:    77001234  Tipo:     D         
+Fecha       Codigo Libro
+02102021     PT00038
+03102021     ZK87496
+03102021     FY25192
+10102021     IW10872
+10102021     VA35843
+18102021     ZR63735
+11102021     XW06135
+
+Carne:    61039260  Tipo:     D         
+Fecha       Codigo Libro
+09102021     ZM20053
+16102021     QE47018
+17102021     SK15788
+04102021     ZR63735
+16102021     SV17719
+18102021     QA53897
+13102021     ZK87496
+
+Carne:    54393647  Tipo:     A         
+Fecha       Codigo Libro
+18102021     PT00038
+16102021     XQ03477
+18102021     ZM20053
+16102021     FY82455
+
+Carne:    45834351  Tipo:     A         
+Fecha       Codigo Libro
+18102021     SK15788
+17102021     LM05731
+17102021     XQ03477
+18102021     IW10872
+
+Carne:    11750801  Tipo:     E         
+Fecha       Codigo Libro
+10102021     ZK87496
+16102021     BH96036
+17102021     KW25071
+09102021     FY82455
+11102021     XN48844
+
+Carne:    83265244  Tipo:     D         
+Fecha       Codigo Libro
+13102021     PT00038
+03102021     PL70268
+10102021     FY25192
+13102021     ZQ38637
+01102021     XW06135
+04102021     SA04133
+18102021     QE47018
+09102021     XQ03477
+01102021     KC34197
+07102021     MG75057
+15102021     FY25192
+
+Carne:    35030611  Tipo:     E         
+Fecha       Codigo Libro
+15102021     XN48844
+15102021     XQ03477
+09102021     FW74175
+14102021     KC34197
+16102021     FY25192
+10102021     BH96036
+
+Carne:    50860318  Tipo:     E         
+Fecha       Codigo Libro
+13102021     ZR63735
+15102021     FW74175
+16102021     SA04133
+15102021     PL70268
+
+Carne:    81082011  Tipo:     D         
+Fecha       Codigo Libro
+14102021     QV96140
+07102021     FY25192
+11102021     BH96036
+
+Carne:    92240876  Tipo:     E         
+Fecha       Codigo Libro
+15102021     BB35881
+16102021     PT00038
+14102021     SK15788
+

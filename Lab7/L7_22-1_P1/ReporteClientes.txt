@@ -1,0 +1,224 @@
+71984468                                          IPARRAGUIRRE VILLEGAS NICOLAS EDILBERTO
+====================================================================================================
+28/11/2021      126218   TANJERINA                                                6     2.7
+05/03/2021      283781   FRIJOLES REFRITOS ISADORA 430GR                          7    31.5
+26/11/2020      330512   YOGHURT LALA LIGHT 240GR                                 6    16.2
+11/02/2022      651034   MANGO EN REBANADAS LA MORENA 800GR                       8      36
+07/08/2019      874503   GALLETAS LORS SNACKS MARINELA 75GR                       1     0.9
+06/10/2019      997564   MANGO ECUATORIANO                                        1     0.9
+# de pedidos:       6
+Monto Total:       623.7
+====================================================================================================
+29847168                                          ALDAVE ZEVALLOS ROSARIO
+====================================================================================================
+04/03/2020      308982   YOGHURT P BEBER FRUGGIS FRESA 150GR                     11    19.8
+02/08/2021      422763   GALLETAS SUAVICREMAS FRESA 158GR                         4     1.8
+01/01/2021      580927   TORTILLAS DE HARINA DEL HOGAR 22P. 840GR                 4      18
+23/04/2021      620036   SABRITAS ORIGINAL SAL 490GR                              8      36
+30/12/2019      935218   FRIJOL AMARILLO KG                                       1     2.7
+26/06/2020      961802   ACHIOTE LA EXTRA 1KG                                     1     0.9
+# de pedidos:       6
+Monto Total:       588.6
+====================================================================================================
+79475585                                          RETTO ARCA ANNIE MAGDA
+====================================================================================================
+16/12/2019      118050   PAPAYA                                                   8     7.2
+30/04/2020      118050   PAPAYA                                                   5     4.5
+14/05/2020      390920   AGUA NIAGARA 500ML                                       4     7.2
+18/07/2020      565169   PASTILLA PEPTO BISMOL                                    5       9
+24/01/2021      748899   NARANJA SIN SEMILLA                                      9     8.1
+07/09/2020      793026   YOGHURT NATURAL LIGHT LALA 1KG                           7    31.5
+# de pedidos:       6
+Monto Total:       447.3
+====================================================================================================
+91897732                                          GAMARRA ALCOCER VIRGINIA
+====================================================================================================
+20/07/2020      151641   YOGHURT P BEBER LACTIGURT COCO 250G                      6    10.8
+13/03/2019      204890   LECHE YAQUI DESLACTOSADA 1LT                             6    10.8
+17/12/2021      365906   AGUACATE REGIONAL KG.1.000 GR                            9     8.1
+09/11/2021      423073   POLVO PARA HORNEAR REXAL 15KILOS                        12    10.8
+04/10/2021      961802   ACHIOTE LA EXTRA 1KG                                    12    10.8
+09/03/2021      947176   SALSA DE CHILE HABANERO ROJO 260GR                       2     5.4
+# de pedidos:       6
+Monto Total:       472.5
+====================================================================================================
+33397650                                          RONDON EGUSQUIZA CARMELA VALENTINA
+====================================================================================================
+26/12/2021      178943   YOGHURT P BEBER DURAZNO LIGHT YOP 250GR                  9    24.3
+01/02/2019      947176   SALSA DE CHILE HABANERO ROJO 260GR                       6    16.2
+01/01/2019      285807   YOGHURT BIOBALANCE NUEZ Y FRU.SECOS 250G                 4      18
+17/08/2019      365906   AGUACATE REGIONAL KG.1.000 GR                           11     9.9
+07/10/2020      374253   TE DE MANZANILLA NEBO 24 1GR                             9     8.1
+24/03/2021      374253   TE DE MANZANILLA NEBO 24 1GR                             4     3.6
+28/06/2019      412041   TORTILLAS DE MAIZ 1KG                                    9    40.5
+05/06/2019      415932   SOPA MARUCHAN CAMARON 71GR                               7    18.9
+13/12/2020      459032   GELATINA DANY LIMON 125GR                                5    13.5
+11/11/2021      651034   MANGO EN REBANADAS LA MORENA 800GR                       3    13.5
+29/07/2019      941699   MAIZ POZOLERO EXTRA 1KGR                                 3     8.1
+# de pedidos:      11
+Monto Total:      1213.2
+====================================================================================================
+83236386                                          RIVERO CORRALES JUAN FERNANDO
+====================================================================================================
+06/08/2020      311343   YOGHURT FRESA NESTLE 1KG                                 4      18
+13/07/2019      365379   YOGHURT FRESA CON GRANOLA CHELSY 240GR                   4    14.4
+03/08/2019      406688   CHURROMAIS CON LIMON 38GR                                9    4.05
+11/09/2020      675770   JARABE DE MAMEY 1.25KG                                   2       9
+20/10/2021      872819   GELATINA DE LECHE VAINILLA DANETTE 100GR                 1     1.8
+15/08/2019      923804   SAL BAJA PACIFIC BOLSA 1KGR                             11     9.9
+# de pedidos:       6
+Monto Total:      294.75
+====================================================================================================
+32821689                                          ZAVALETA EPIQUEN CARMEN ZKENIA
+====================================================================================================
+10/02/2020      151641   YOGHURT P BEBER LACTIGURT COCO 250G                      4     7.2
+19/10/2021      406688   CHURROMAIS CON LIMON 38GR                                9    4.05
+28/04/2020      422763   GALLETAS SUAVICREMAS FRESA 158GR                         4     1.8
+01/07/2021      793026   YOGHURT NATURAL LIGHT LALA 1KG                          10      45
+19/04/2020      872819   GELATINA DE LECHE VAINILLA DANETTE 100GR                 6    10.8
+01/01/2021      882099   NESQUIK CHOCOLATE 200GR                                  1     4.5
+10/10/2020      992564   LECHUGA ROMANA                                           2     0.9
+# de pedidos:       7
+Monto Total:      593.55
+====================================================================================================
+45783712                                          POZO CHUNG RAFAEL DEL
+====================================================================================================
+27/09/2019      979865   GALLETAS MARIAS CUETARA 160GR                           10     4.5
+01/07/2019      412041   TORTILLAS DE MAIZ 1KG                                    3    13.5
+02/10/2020      696000   MEDIA CREMA NESTLE 1LT                                   8      36
+# de pedidos:       3
+Monto Total:       373.5
+====================================================================================================
+11118888                                          PEREZ ALBELA COSSIO JOSE LUIS ALBERTO
+====================================================================================================
+# de pedidos:       0
+Monto Total:           0
+====================================================================================================
+48184351                                          LOPEZ JAUREGUI ROLANDO
+====================================================================================================
+02/02/2022      204890   LECHE YAQUI DESLACTOSADA 1LT                             1     1.8
+29/09/2021      317404   LICUADO LALA CIRUELA PASA Y NUEZ 240GR                   5       9
+25/07/2019      485302   YOGHURT LALA FRESA 240GR                                 1     4.5
+31/05/2020      511824   FLAN LALA SABOR VAINILLA 100GR                           4    10.8
+31/12/2020      536472   SABRITAS CASERAS JALAPENO 42GR                          12      54
+29/03/2022      565169   PASTILLA PEPTO BISMOL                                    6    10.8
+18/04/2019      748008   SANDWICH COMBINADA 3 FLORES 150GR                        3    13.5
+02/06/2019      856894   HARINA MAZATL 5KG                                        5      45
+17/04/2020      856894   HARINA MAZATL 5KG                                       12     108
+# de pedidos:       9
+Monto Total:      2368.8
+====================================================================================================
+33713901                                          VILLEGAS CASTRO SOFIA VIRGINIA
+====================================================================================================
+26/01/2020      126218   TANJERINA                                               11    4.95
+02/09/2021      901816   JUGO VALLE FRUT CITRUS 12 250ML                          5    13.5
+06/05/2019      415932   SOPA MARUCHAN CAMARON 71GR                              11    29.7
+05/08/2020      785062   CORAZON DE ALCACHOFA SAN MIGUEL                          4     7.2
+03/12/2019      536472   SABRITAS CASERAS JALAPENO 42GR                           6      27
+02/12/2019      696000   MEDIA CREMA NESTLE 1LT                                   8      36
+# de pedidos:       6
+Monto Total:      927.45
+====================================================================================================
+76388967                                          GONZALES QUIO ISABEL
+====================================================================================================
+05/01/2019      374253   TE DE MANZANILLA NEBO 24 1GR                             5     4.5
+29/11/2020      536472   SABRITAS CASERAS JALAPENO 42GR                           3    13.5
+21/04/2019      935218   FRIJOL AMARILLO KG                                       2     5.4
+03/02/2019      947176   SALSA DE CHILE HABANERO ROJO 260GR                       6    16.2
+# de pedidos:       4
+Monto Total:         171
+====================================================================================================
+81114108                                          ZAMBRANO SHIRAKAWA WILMER
+====================================================================================================
+09/03/2020      118050   PAPAYA                                                  11     9.9
+06/10/2020      182942   ZAPOTE                                                   3     2.7
+21/09/2020      308982   YOGHURT P BEBER FRUGGIS FRESA 150GR                      7    12.6
+24/01/2022      455703   PALOMITAS POFETS FLAMIN HOT 28GR                        12      54
+05/06/2020      565169   PASTILLA PEPTO BISMOL                                    5       9
+10/07/2019      662083   TAKIS SALSA BRAVA 62GR                                   2       9
+13/07/2021      793026   YOGHURT NATURAL LIGHT LALA 1KG                           7    31.5
+19/05/2019      900698   VAINILLA MOLINA 500ML                                    5    22.5
+05/02/2022      941699   MAIZ POZOLERO EXTRA 1KGR                                 6    16.2
+05/11/2020      992564   LECHUGA ROMANA                                           3    1.35
+# de pedidos:      10
+Monto Total:     1350.45
+====================================================================================================
+57263719                                          PRADO TORREALBA CARMEN JANET
+====================================================================================================
+10/10/2021      565169   PASTILLA PEPTO BISMOL                                   11    19.8
+27/07/2020      941699   MAIZ POZOLERO EXTRA 1KGR                                 9    24.3
+01/01/2022      662083   TAKIS SALSA BRAVA 62GR                                   5       9
+22/11/2021      778066   CHILES CHIPOTLES LA COSTENA 380GR                        9     8.1
+06/01/2022      793026   YOGHURT NATURAL LIGHT LALA 1KG                           5    22.5
+25/09/2020      856894   HARINA MAZATL 5KG                                        1       9
+# de pedidos:       6
+Monto Total:       675.9
+====================================================================================================
+79140840                                          TORREALBA ARCA VICTORIA GLENDA
+====================================================================================================
+17/07/2021      126218   TANJERINA                                                3    1.35
+15/04/2021      308982   YOGHURT P BEBER FRUGGIS FRESA 150GR                     10      18
+20/05/2021      317404   LICUADO LALA CIRUELA PASA Y NUEZ 240GR                   3     5.4
+18/05/2019      430669   AJO GRANULADO DE CALIFORNIA KIRKLAND 51.                10      27
+28/05/2021      455703   PALOMITAS POFETS FLAMIN HOT 28GR                         2       9
+29/05/2019      459032   GELATINA DANY LIMON 125GR                                8    21.6
+21/02/2022      748008   SANDWICH COMBINADA 3 FLORES 150GR                        8      36
+# de pedidos:       7
+Monto Total:      949.05
+====================================================================================================
+71378466                                          MIYAKE CARO HENRRY EDGAR
+====================================================================================================
+24/04/2019      308982   YOGHURT P BEBER FRUGGIS FRESA 150GR                      3     5.4
+19/12/2021      330512   YOGHURT LALA LIGHT 240GR                                 1     2.7
+26/10/2020      412041   TORTILLAS DE MAIZ 1KG                                    2       9
+29/05/2020      459032   GELATINA DANY LIMON 125GR                               10      27
+04/01/2021      485302   YOGHURT LALA FRESA 240GR                                 5    22.5
+17/01/2021      485302   YOGHURT LALA FRESA 240GR                                 8      36
+19/03/2020      923804   SAL BAJA PACIFIC BOLSA 1KGR                              7     6.3
+# de pedidos:       7
+Monto Total:       751.5
+====================================================================================================
+17913944                                          PALOMARES SANTISTEBAN HENRRY
+====================================================================================================
+22/03/2021      317404   LICUADO LALA CIRUELA PASA Y NUEZ 240GR                   2     3.6
+22/04/2021      390920   AGUA NIAGARA 500ML                                       8    14.4
+13/08/2020      415932   SOPA MARUCHAN CAMARON 71GR                               1     2.7
+04/07/2021      415932   SOPA MARUCHAN CAMARON 71GR                               1     2.7
+23/09/2019      422763   GALLETAS SUAVICREMAS FRESA 158GR                         2     0.9
+05/02/2021      422763   GALLETAS SUAVICREMAS FRESA 158GR                         3    1.35
+29/11/2020      434681   ELOTE DORADO DEL MONTE 225GR                             9     8.1
+29/11/2021      582920   PINGUINOS MARINELA 40GR                                  6    21.6
+20/10/2019      675770   JARABE DE MAMEY 1.25KG                                   5    22.5
+28/12/2019      696000   MEDIA CREMA NESTLE 1LT                                   1     4.5
+15/10/2020      856894   HARINA MAZATL 5KG                                        7      63
+# de pedidos:      11
+Monto Total:      894.15
+====================================================================================================
+62566305                                          ROMERO ALFARO MONICA JOHANA
+====================================================================================================
+30/07/2020      311343   YOGHURT FRESA NESTLE 1KG                                11    49.5
+23/11/2020      714788   PAPA EN CUBOS DEL FUERTE 12 380GR.                       7    18.9
+27/02/2021      882099   NESQUIK CHOCOLATE 200GR                                  2       9
+23/01/2022      882099   NESQUIK CHOCOLATE 200GR                                 12      54
+# de pedidos:       4
+Monto Total:      1342.8
+====================================================================================================
+46462527                                          LOYOLA MORI NICOLAS FERNANDO
+====================================================================================================
+27/05/2019      178943   YOGHURT P BEBER DURAZNO LIGHT YOP 250GR                  1     2.7
+16/03/2021      178943   YOGHURT P BEBER DURAZNO LIGHT YOP 250GR                  2     5.4
+12/10/2019      182942   ZAPOTE                                                   2     1.8
+23/08/2021      308982   YOGHURT P BEBER FRUGGIS FRESA 150GR                      6    10.8
+06/06/2021      317404   LICUADO LALA CIRUELA PASA Y NUEZ 240GR                  11    19.8
+03/10/2021      330512   YOGHURT LALA LIGHT 240GR                                 1     2.7
+12/03/2020      390920   AGUA NIAGARA 500ML                                       5       9
+18/10/2019      397718   LECHE LALA SEMI DESLACTOSADA 1LT                         0       0
+14/07/2020      434681   ELOTE DORADO DEL MONTE 225GR                             4     3.6
+16/08/2020      582920   PINGUINOS MARINELA 40GR                                 10      36
+26/07/2019      748899   NARANJA SIN SEMILLA                                     11     9.9
+29/05/2021      826317   CHAMYTO BIG 114ML                                        4     3.6
+09/10/2019      900698   VAINILLA MOLINA 500ML                                    5    22.5
+27/12/2021      901816   JUGO VALLE FRUT CITRUS 12 250ML                          2     5.4
+# de pedidos:      14
+Monto Total:       968.4
+====================================================================================================

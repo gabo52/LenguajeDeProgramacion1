@@ -1,0 +1,5 @@
+   DNI                       NOMBRE                              TELEFONO
+43704548                Vizcardo/Maribel                         960851431
+RELACION DE CITAS
+No.   FECHA             CODIGO DEL MEDICO   ESPECIALIDAD         TARIFA
+09/09/2022                    892133        Gastroenterologia    389.91
