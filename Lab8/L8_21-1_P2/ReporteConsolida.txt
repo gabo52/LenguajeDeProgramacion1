@@ -1,0 +1,784 @@
+Conductor:     VALVERDE MAEIREIZO MELVIN JAIR                    
+Licencia No.:  15029228
+------------------------------------------------------------
+Monto de multas:     5688.00
+PuntosPerdidos:         1400
+Meses sancionados:         7
+
+Conductor:     RAMIREZ ASTETE KARINA ESTEFANIA                   
+Licencia No.:  48450395
+------------------------------------------------------------
+Monto de multas:     2844.00
+PuntosPerdidos:         2400
+Meses sancionados:         0
+
+Conductor:     TRIGUEROS JUGO LUZ                                
+Licencia No.:  73357516
+------------------------------------------------------------
+Monto de multas:     3634.00
+PuntosPerdidos:         4300
+Meses sancionados:        13
+
+Conductor:     LEYVA SAM DIANA DELIA                             
+Licencia No.:  50200823
+------------------------------------------------------------
+Monto de multas:     3634.00
+PuntosPerdidos:         2200
+Meses sancionados:         0
+
+Conductor:     PRADO VERA JUAN                                   
+Licencia No.:  88167677
+------------------------------------------------------------
+Monto de multas:     6004.00
+PuntosPerdidos:         4300
+Meses sancionados:         0
+
+Conductor:     CABRERA TORO FANNY                                
+Licencia No.:  16925690
+------------------------------------------------------------
+Monto de multas:     3555.00
+PuntosPerdidos:         2800
+Meses sancionados:         0
+
+Conductor:     SUAREZ CHANG GLORIA                               
+Licencia No.:  87282766
+------------------------------------------------------------
+Monto de multas:     3555.00
+PuntosPerdidos:         2300
+Meses sancionados:         1
+
+Conductor:     WONG MAEIREIZO BEATRIZ                            
+Licencia No.:  38862473
+------------------------------------------------------------
+Monto de multas:     5214.00
+PuntosPerdidos:         6200
+Meses sancionados:        14
+
+Conductor:     EGUSQUIZA BERROCAL DORIS NANCY                    
+Licencia No.:  82031355
+------------------------------------------------------------
+Monto de multas:     4819.00
+PuntosPerdidos:         2600
+Meses sancionados:         3
+
+Conductor:     DURAND MIRANDA MIGUEL JUAN                        
+Licencia No.:  54141214
+------------------------------------------------------------
+Monto de multas:     5925.00
+PuntosPerdidos:         1500
+Meses sancionados:         6
+
+Conductor:     HERNANDEZ CORRALES GUILLERMO                      
+Licencia No.:  15115705
+------------------------------------------------------------
+Monto de multas:     1422.00
+PuntosPerdidos:          900
+Meses sancionados:         0
+
+Conductor:     LUNA VARGAS WALDEMAR                              
+Licencia No.:  39544560
+------------------------------------------------------------
+Monto de multas:     1896.00
+PuntosPerdidos:         1300
+Meses sancionados:         1
+
+Conductor:     HENRIQUEZ PAREDES PAUL RAFAEL                     
+Licencia No.:  32244565
+------------------------------------------------------------
+Monto de multas:     4345.00
+PuntosPerdidos:         7200
+Meses sancionados:        24
+
+Conductor:     RUIZ ZEVALLOS WALTER RONY                         
+Licencia No.:  60784914
+------------------------------------------------------------
+Monto de multas:     4108.00
+PuntosPerdidos:         2600
+Meses sancionados:         1
+
+Conductor:     ARCA SANCHEZ MAGALI BEATRIZ                       
+Licencia No.:  73567806
+------------------------------------------------------------
+Monto de multas:    15642.00
+PuntosPerdidos:         6300
+Meses sancionados:        15
+
+Conductor:     VILCA LEE NESTOR HUGO                             
+Licencia No.:  47844324
+------------------------------------------------------------
+Monto de multas:     1738.00
+PuntosPerdidos:         1400
+Meses sancionados:         0
+
+Conductor:     BRAVO CORTES JANET FLOR                           
+Licencia No.:  15559308
+------------------------------------------------------------
+Monto de multas:     8690.00
+PuntosPerdidos:         3400
+Meses sancionados:         6
+
+Conductor:     FIGUEROA MEDINA MADELEINE                         
+Licencia No.:  27864822
+------------------------------------------------------------
+Monto de multas:     4424.00
+PuntosPerdidos:         2800
+Meses sancionados:         3
+
+Conductor:     POMAJAMBO EGUSQUIZA PAUL                          
+Licencia No.:  42956681
+------------------------------------------------------------
+Monto de multas:     4029.00
+PuntosPerdidos:         2200
+Meses sancionados:         2
+
+Conductor:     SOLIS NARVAEZ MARIA MADELEINE                     
+Licencia No.:  53853385
+------------------------------------------------------------
+Monto de multas:     7821.00
+PuntosPerdidos:         2200
+Meses sancionados:         9
+
+Conductor:     AVILA DEL CASTILLO ANNIE                          
+Licencia No.:  54447051
+------------------------------------------------------------
+Monto de multas:     8295.00
+PuntosPerdidos:         3500
+Meses sancionados:         6
+
+Conductor:     ARCA LARRIEGA LUCERO YLIANA                       
+Licencia No.:  89941095
+------------------------------------------------------------
+Monto de multas:     7821.00
+PuntosPerdidos:         3200
+Meses sancionados:         6
+
+Conductor:     ARROYO TOMASICHE NATALIA                          
+Licencia No.:  71578206
+------------------------------------------------------------
+Monto de multas:     9796.00
+PuntosPerdidos:         4800
+Meses sancionados:         7
+
+Conductor:     SUELDO ANTEZANO LUIS JESUS                        
+Licencia No.:  32090869
+------------------------------------------------------------
+Monto de multas:     1659.00
+PuntosPerdidos:         1100
+Meses sancionados:         0
+
+Conductor:     FUENTES ESCALANTE PATRICIA ELIZABETH              
+Licencia No.:  79766395
+------------------------------------------------------------
+Monto de multas:     5372.00
+PuntosPerdidos:         3400
+Meses sancionados:         3
+
+Conductor:     ESCALANTE ROJAS INES ADRIA                        
+Licencia No.:  86718074
+------------------------------------------------------------
+Monto de multas:     7426.00
+PuntosPerdidos:         1800
+Meses sancionados:         9
+
+Conductor:     RIVERO CORTEZ WILVER ALFONSO                      
+Licencia No.:  49428502
+------------------------------------------------------------
+Monto de multas:     3397.00
+PuntosPerdidos:         3400
+Meses sancionados:        14
+
+Conductor:     ZAMORA ZAVALETA RONAL MANUEL                      
+Licencia No.:  63736112
+------------------------------------------------------------
+Monto de multas:     3871.00
+PuntosPerdidos:         2100
+Meses sancionados:         3
+
+Conductor:     SALAMANCA VEGA VIRGINIA MARTHA                    
+Licencia No.:  30046639
+------------------------------------------------------------
+Monto de multas:     6162.00
+PuntosPerdidos:         4400
+Meses sancionados:        16
+
+Conductor:     AVILA MARTEL JAIME MANUEL                         
+Licencia No.:  73972114
+------------------------------------------------------------
+Monto de multas:     6873.00
+PuntosPerdidos:         2300
+Meses sancionados:         7
+
+Conductor:     JAUREGUI DEL CASTILLO VICTOR RICARDO              
+Licencia No.:  77367073
+------------------------------------------------------------
+Monto de multas:     3792.00
+PuntosPerdidos:         2600
+Meses sancionados:         0
+
+Conductor:     SEDANO RETAMOSO ELIA YOLANDA                      
+Licencia No.:  82870470
+------------------------------------------------------------
+Monto de multas:     1659.00
+PuntosPerdidos:          700
+Meses sancionados:         0
+
+Conductor:     FARFAN SALAZAR MARGOT                             
+Licencia No.:  77763722
+------------------------------------------------------------
+Monto de multas:    12561.00
+PuntosPerdidos:         6300
+Meses sancionados:        24
+
+Conductor:     LOZADA IBEROS HELI BLANCA                         
+Licencia No.:  27268323
+------------------------------------------------------------
+Monto de multas:      553.00
+PuntosPerdidos:          200
+Meses sancionados:         0
+
+Conductor:     LEYVA LANDEO NANCY SONIA                          
+Licencia No.:  34248357
+------------------------------------------------------------
+Monto de multas:    12087.00
+PuntosPerdidos:         5300
+Meses sancionados:        11
+
+Conductor:     FLORIAN CUBA CHRISTIAN                            
+Licencia No.:  24859596
+------------------------------------------------------------
+Monto de multas:     6004.00
+PuntosPerdidos:         3900
+Meses sancionados:         4
+
+Conductor:     NORABUENA MOYA HECTOR                             
+Licencia No.:  80457845
+------------------------------------------------------------
+Monto de multas:     2923.00
+PuntosPerdidos:         2000
+Meses sancionados:         0
+
+Conductor:     PINTO ROJAS JUVENAL FRANCISCO                     
+Licencia No.:  88854166
+------------------------------------------------------------
+Monto de multas:     2449.00
+PuntosPerdidos:         1700
+Meses sancionados:         0
+
+Conductor:     MORALES PASQUEL KARIN MARIBEL                     
+Licencia No.:  87495937
+------------------------------------------------------------
+Monto de multas:    13430.00
+PuntosPerdidos:         4700
+Meses sancionados:        13
+
+Conductor:     SAAVEDRA GONZALES WILMER                          
+Licencia No.:  47528229
+------------------------------------------------------------
+Monto de multas:     7505.00
+PuntosPerdidos:         4700
+Meses sancionados:         5
+
+Conductor:     INFANTES MERCADO LUIS WALDEMAR                    
+Licencia No.:  64532449
+------------------------------------------------------------
+Monto de multas:     2923.00
+PuntosPerdidos:         1200
+Meses sancionados:         0
+
+Conductor:     RAFFO CORONADO ROLANDO                            
+Licencia No.:  48878256
+------------------------------------------------------------
+Monto de multas:     8690.00
+PuntosPerdidos:         5500
+Meses sancionados:         6
+
+Conductor:     SOLIS CHUNG ROLANDO                               
+Licencia No.:  27185429
+------------------------------------------------------------
+Monto de multas:     3871.00
+PuntosPerdidos:         2000
+Meses sancionados:         1
+
+Conductor:     BACA CAMACHO MILAGROS NATALIA                     
+Licencia No.:  16477908
+------------------------------------------------------------
+Monto de multas:     6320.00
+PuntosPerdidos:         3800
+Meses sancionados:        19
+
+Conductor:     VEGA VILCARA CARMELA TERESA                       
+Licencia No.:  45043076
+------------------------------------------------------------
+Monto de multas:     3318.00
+PuntosPerdidos:         3200
+Meses sancionados:         1
+
+Conductor:     SALAMANCA CABRERA NESTOR EVERT                    
+Licencia No.:  19963454
+------------------------------------------------------------
+Monto de multas:     2449.00
+PuntosPerdidos:         3600
+Meses sancionados:        12
+
+Conductor:     TOKESHI GUEVARA JAIME                             
+Licencia No.:  79641328
+------------------------------------------------------------
+Monto de multas:     5609.00
+PuntosPerdidos:         2100
+Meses sancionados:         6
+
+Conductor:     ZAVALETA VILCA ERICKA ELEONOR                     
+Licencia No.:  36079131
+------------------------------------------------------------
+Monto de multas:     6636.00
+PuntosPerdidos:         3100
+Meses sancionados:         7
+
+Conductor:     CUEVA FUENTES CINTHIA DELIA                       
+Licencia No.:  12270502
+------------------------------------------------------------
+Monto de multas:     3555.00
+PuntosPerdidos:         5000
+Meses sancionados:        12
+
+Conductor:     LOZADA FORZANI DELIA                              
+Licencia No.:  75348522
+------------------------------------------------------------
+Monto de multas:     2370.00
+PuntosPerdidos:         1500
+Meses sancionados:         1
+
+Conductor:     MERCADO CORONEL ELIA                              
+Licencia No.:  66849703
+------------------------------------------------------------
+Monto de multas:     2449.00
+PuntosPerdidos:         1400
+Meses sancionados:         2
+
+Conductor:     IPARRAGUIRRE PEREZ NICOLAS                        
+Licencia No.:  90467829
+------------------------------------------------------------
+Monto de multas:     7268.00
+PuntosPerdidos:         3000
+Meses sancionados:         5
+
+Conductor:     SANCHEZ DEL CASTILLO FIORELLA ROSARIO             
+Licencia No.:  26522329
+------------------------------------------------------------
+Monto de multas:    10507.00
+PuntosPerdidos:         5100
+Meses sancionados:         8
+
+Conductor:     SERRANO IBEROS FRANCISCO                          
+Licencia No.:  53374153
+------------------------------------------------------------
+Monto de multas:     6794.00
+PuntosPerdidos:         3600
+Meses sancionados:         6
+
+Conductor:     MARTINEZ CRUZ EVERT RONY                          
+Licencia No.:  35912665
+------------------------------------------------------------
+Monto de multas:     7268.00
+PuntosPerdidos:         6900
+Meses sancionados:        30
+
+Conductor:     VALDERRAMA BERROCAL EVERT                         
+Licencia No.:  96693273
+------------------------------------------------------------
+Monto de multas:     5925.00
+PuntosPerdidos:         4400
+Meses sancionados:         2
+
+Conductor:     DIAZ MOYA ELIA ANNIE                              
+Licencia No.:  35683701
+------------------------------------------------------------
+Monto de multas:     2133.00
+PuntosPerdidos:         1900
+Meses sancionados:         0
+
+Conductor:     ZEGARRA PENA CARMELA                              
+Licencia No.:  50201756
+------------------------------------------------------------
+Monto de multas:     2923.00
+PuntosPerdidos:         1800
+Meses sancionados:         0
+
+Conductor:     MENDOZA ROMERO VIRGINIA YDALI                     
+Licencia No.:  69494747
+------------------------------------------------------------
+Monto de multas:      474.00
+PuntosPerdidos:          200
+Meses sancionados:         0
+
+Conductor:     INGA PALOMARES ERIKA                              
+Licencia No.:  49927087
+------------------------------------------------------------
+Monto de multas:     3160.00
+PuntosPerdidos:         2200
+Meses sancionados:         0
+
+Conductor:     FUENTES GAMARRA HUGO                              
+Licencia No.:  73818744
+------------------------------------------------------------
+Monto de multas:     1185.00
+PuntosPerdidos:         1100
+Meses sancionados:         0
+
+Conductor:     EPIQUEN YEP GUIDA VICTORIA                        
+Licencia No.:  35671623
+------------------------------------------------------------
+Monto de multas:     3634.00
+PuntosPerdidos:         5100
+Meses sancionados:        12
+
+Conductor:     VEGA SORIA HENRRY                                 
+Licencia No.:  19568447
+------------------------------------------------------------
+Monto de multas:      474.00
+PuntosPerdidos:          200
+Meses sancionados:         0
+
+Conductor:     AVILA REYES TATIANA                               
+Licencia No.:  70414420
+------------------------------------------------------------
+Monto de multas:     2449.00
+PuntosPerdidos:         3600
+Meses sancionados:        12
+
+Conductor:     CHAVEZ BERROCAL JOHAN                             
+Licencia No.:  51929951
+------------------------------------------------------------
+Monto de multas:     1501.00
+PuntosPerdidos:         1200
+Meses sancionados:         0
+
+Conductor:     SUELDO SEDANO ADRIA                               
+Licencia No.:  71832810
+------------------------------------------------------------
+Monto de multas:     1738.00
+PuntosPerdidos:         1100
+Meses sancionados:         0
+
+Conductor:     AYALA CASTILLO ERICKA OFELIA                      
+Licencia No.:  21621497
+------------------------------------------------------------
+Monto de multas:     4108.00
+PuntosPerdidos:         3000
+Meses sancionados:         0
+
+Conductor:     HIJAR LAM MARTIN                                  
+Licencia No.:  29833157
+------------------------------------------------------------
+Monto de multas:     1027.00
+PuntosPerdidos:          400
+Meses sancionados:         0
+
+Conductor:     RETAMOSO SALAMANCA DELIA MARITZA                  
+Licencia No.:  30441350
+------------------------------------------------------------
+Monto de multas:     5056.00
+PuntosPerdidos:         5200
+Meses sancionados:        14
+
+Conductor:     RIVERO CORONADO HECTOR ALONSO                     
+Licencia No.:  84186239
+------------------------------------------------------------
+Monto de multas:     3397.00
+PuntosPerdidos:         2700
+Meses sancionados:         0
+
+Conductor:     FLORIAN VALDERRAMA JOSE                           
+Licencia No.:  37080813
+------------------------------------------------------------
+Monto de multas:     1738.00
+PuntosPerdidos:         1300
+Meses sancionados:         0
+
+Conductor:     CORTES CORTEZ RAUL ALEX                           
+Licencia No.:  99950484
+------------------------------------------------------------
+Monto de multas:     2370.00
+PuntosPerdidos:         1700
+Meses sancionados:         0
+
+Conductor:     MOSCOSO LAURA JANET VALENTINA                     
+Licencia No.:  86429854
+------------------------------------------------------------
+Monto de multas:      711.00
+PuntosPerdidos:          300
+Meses sancionados:         0
+
+Conductor:     LAU ZAVALETA YDALI ELIA                           
+Licencia No.:  63291514
+------------------------------------------------------------
+Monto de multas:     1027.00
+PuntosPerdidos:          400
+Meses sancionados:         0
+
+Conductor:     CASANOVA ZEGARRA MARITZA                          
+Licencia No.:  52002275
+------------------------------------------------------------
+Monto de multas:     3160.00
+PuntosPerdidos:         2200
+Meses sancionados:         1
+
+Conductor:     CAMACHO PAIRAZAMAN YDALI LUCERO                   
+Licencia No.:  29989682
+------------------------------------------------------------
+Monto de multas:     5451.00
+PuntosPerdidos:         2500
+Meses sancionados:         4
+
+Conductor:     VIZCARDO SINCHE MARIBEL                           
+Licencia No.:  85501710
+------------------------------------------------------------
+Monto de multas:     2923.00
+PuntosPerdidos:         4100
+Meses sancionados:        12
+
+Conductor:     RIOS DURAND CARLOS EDILBERTO                      
+Licencia No.:  89314225
+------------------------------------------------------------
+Monto de multas:     1659.00
+PuntosPerdidos:         1300
+Meses sancionados:         0
+
+Conductor:     CANO POLO MILAGROS ISABEL                         
+Licencia No.:  68310808
+------------------------------------------------------------
+Monto de multas:     3871.00
+PuntosPerdidos:         2300
+Meses sancionados:         1
+
+Conductor:     MINAYA BERROCAL HELI                              
+Licencia No.:  80310768
+------------------------------------------------------------
+Monto de multas:     7189.00
+PuntosPerdidos:         3100
+Meses sancionados:         6
+
+Conductor:     TANG MOSCOSO JOHANA                               
+Licencia No.:  74325123
+------------------------------------------------------------
+Monto de multas:     4898.00
+PuntosPerdidos:         2400
+Meses sancionados:         5
+
+Conductor:     JUSTINO MARTINEZ ENRIQUE                          
+Licencia No.:  81485316
+------------------------------------------------------------
+Monto de multas:     9559.00
+PuntosPerdidos:         5300
+Meses sancionados:        21
+
+Conductor:     RODRIGUEZ MORENO BLANCA OFELIA                    
+Licencia No.:  13219606
+------------------------------------------------------------
+Monto de multas:     4108.00
+PuntosPerdidos:         2200
+Meses sancionados:         3
+
+Conductor:     PRADO ESPINOZA MILAGROS                           
+Licencia No.:  97849227
+------------------------------------------------------------
+Monto de multas:      474.00
+PuntosPerdidos:          300
+Meses sancionados:         0
+
+Conductor:     MOSCOSO ARIAS FIORELLA                            
+Licencia No.:  31107104
+------------------------------------------------------------
+Monto de multas:     5372.00
+PuntosPerdidos:         1600
+Meses sancionados:         6
+
+Conductor:     CONTRERAS CHANG JOHANA CINTHIA                    
+Licencia No.:  79672079
+------------------------------------------------------------
+Monto de multas:    12561.00
+PuntosPerdidos:         5300
+Meses sancionados:        13
+
+Conductor:     GORDILLO SANCHEZ RONALD JUVENAL                   
+Licencia No.:  69252518
+------------------------------------------------------------
+Monto de multas:     8058.00
+PuntosPerdidos:         2500
+Meses sancionados:         9
+
+Conductor:     RONDON CABRERA ALEXANDER ADOLFO                   
+Licencia No.:  25518120
+------------------------------------------------------------
+Monto de multas:     2449.00
+PuntosPerdidos:         1500
+Meses sancionados:         1
+
+Conductor:     GONZALES GAMARRA GIOVANA KARINA                   
+Licencia No.:  54665716
+------------------------------------------------------------
+Monto de multas:      316.00
+PuntosPerdidos:          100
+Meses sancionados:         0
+
+Conductor:     LOZADA ARGUEDAS FELICITA VALENTINA                
+Licencia No.:  34976629
+------------------------------------------------------------
+Monto de multas:     3397.00
+PuntosPerdidos:         2200
+Meses sancionados:         1
+
+Conductor:     MEJIA RODRIGUEZ INES VALENTINA                    
+Licencia No.:  75945248
+------------------------------------------------------------
+Monto de multas:     5846.00
+PuntosPerdidos:         2400
+Meses sancionados:         7
+
+Conductor:     FLORENCIO CORONADO ALONSO                         
+Licencia No.:  67185679
+------------------------------------------------------------
+Monto de multas:     4503.00
+PuntosPerdidos:         2800
+Meses sancionados:         2
+
+Conductor:     PENA SUAREZ GLENDA MARGOT                         
+Licencia No.:  39244942
+------------------------------------------------------------
+Monto de multas:      711.00
+PuntosPerdidos:         2600
+Meses sancionados:        12
+
+Conductor:     CARBAJAL SALAS MAGDA ZKENIA                       
+Licencia No.:  52003695
+------------------------------------------------------------
+Monto de multas:      474.00
+PuntosPerdidos:          200
+Meses sancionados:         0
+
+Conductor:     NARVAEZ CASTILLO JESUS RAFAEL                     
+Licencia No.:  58992942
+------------------------------------------------------------
+Monto de multas:     1501.00
+PuntosPerdidos:         1200
+Meses sancionados:         0
+
+Conductor:     ESPINOZA CHANG SHIRLEY                            
+Licencia No.:  43454884
+------------------------------------------------------------
+Monto de multas:     3713.00
+PuntosPerdidos:         2000
+Meses sancionados:         2
+
+Conductor:     VIZCARRA CARBAJAL IVAN FAUSTO                     
+Licencia No.:  64178096
+------------------------------------------------------------
+Monto de multas:     3634.00
+PuntosPerdidos:         2300
+Meses sancionados:         1
+
+Conductor:     QUIROGA HERNANDEZ SILVANA ZKENIA                  
+Licencia No.:  13628871
+------------------------------------------------------------
+Monto de multas:     4424.00
+PuntosPerdidos:          300
+Meses sancionados:         6
+
+Conductor:     RIOS ZAMORA INES                                  
+Licencia No.:  28820944
+------------------------------------------------------------
+Monto de multas:      237.00
+PuntosPerdidos:          200
+Meses sancionados:         0
+
+Conductor:     CERNA CERNA CINTHIA                               
+Licencia No.:  81799482
+------------------------------------------------------------
+Monto de multas:     3555.00
+PuntosPerdidos:         2200
+Meses sancionados:         2
+
+Conductor:     ASTETE CHANG GUIDA                                
+Licencia No.:  35297848
+------------------------------------------------------------
+Monto de multas:      790.00
+PuntosPerdidos:          600
+Meses sancionados:         0
+
+Conductor:     PATINO BOLANOS DELICIA VIRGINIA                   
+Licencia No.:  68303148
+------------------------------------------------------------
+Monto de multas:      553.00
+PuntosPerdidos:          200
+Meses sancionados:         0
+
+Conductor:     DIAZ TANG ENRIQUE                                 
+Licencia No.:  60335381
+------------------------------------------------------------
+Monto de multas:    11534.00
+PuntosPerdidos:         5000
+Meses sancionados:        25
+
+Conductor:     EPIQUEN AVILA ENRIQUE                             
+Licencia No.:  81528434
+------------------------------------------------------------
+Monto de multas:     1185.00
+PuntosPerdidos:          900
+Meses sancionados:         0
+
+Conductor:     VILCARA YALLICO MAGALI                            
+Licencia No.:  44188994
+------------------------------------------------------------
+Monto de multas:      553.00
+PuntosPerdidos:         2200
+Meses sancionados:        12
+
+Conductor:     YEP PRECIADO RICHARD                              
+Licencia No.:  16136330
+------------------------------------------------------------
+Monto de multas:     6162.00
+PuntosPerdidos:         2100
+Meses sancionados:         6
+
+Conductor:     TRIGUEROS PORTUGAL ARTURO FAUSTO                  
+Licencia No.:  51395324
+------------------------------------------------------------
+Monto de multas:      237.00
+PuntosPerdidos:          200
+Meses sancionados:         0
+
+Conductor:     VIZCARRA MONTERO JAIR                             
+Licencia No.:  31205866
+------------------------------------------------------------
+Monto de multas:      948.00
+PuntosPerdidos:          700
+Meses sancionados:         1
+
+Conductor:     ZARATE PEREZ ALEXANDER                            
+Licencia No.:  12858682
+------------------------------------------------------------
+Monto de multas:      474.00
+PuntosPerdidos:         2300
+Meses sancionados:        12
+
+Conductor:     ZAVALETA CORONADO FELICITA ELOISA                 
+Licencia No.:  48528209
+------------------------------------------------------------
+Monto de multas:     3950.00
+PuntosPerdidos:          100
+Meses sancionados:         6
+
+Conductor:     LEE SERRANO ROSARIO                               
+Licencia No.:  12443643
+------------------------------------------------------------
+Monto de multas:     2449.00
+PuntosPerdidos:          900
+Meses sancionados:         1
+
+Conductor:     ALFARO ALFARO ERICK BRUNO                         
+Licencia No.:  44346371
+------------------------------------------------------------
+Monto de multas:      553.00
+PuntosPerdidos:          500
+Meses sancionados:         0
+
