@@ -1,0 +1,1938 @@
+Conductor: VALVERDE MAEIREIZO MELVIN JAIR
+201                 Leve                158.00                              0.50
+Conductor: RAMIREZ ASTETE KARINA ESTEFANIA
+151                 Grave               316.00                              0.25       100
+Conductor: TRIGUEROS JUGO LUZ
+151                 Grave               316.00                              0.25       100
+Conductor: LEYVA SAM DIANA DELIA
+115                 Grave               316.00                              0.25       200
+Conductor: PRADO VERA JUAN
+127                 Grave               316.00                              0.25       100
+Conductor: CABRERA TORO FANNY
+321                 Muy Grave           474.00                                 0       500
+Conductor: SUAREZ CHANG GLORIA
+135                 Grave               316.00                              0.25       100
+Conductor: TRIGUEROS JUGO LUZ
+339                 Muy Grave           0.00                                  12      2000
+Conductor: WONG MAEIREIZO BEATRIZ
+306                 Muy Grave           948.00                                 1       600
+Conductor: EGUSQUIZA BERROCAL DORIS NANCY
+102                 Grave               316.00                              0.25       100
+Conductor: DURAND MIRANDA MIGUEL JUAN
+140                 Grave               316.00                              0.25       100
+Conductor: HERNANDEZ CORRALES GUILLERMO
+170                 Grave               316.00                              0.25       100
+Conductor: LUNA VARGAS WALDEMAR
+126                 Grave               316.00                              0.25       100
+Conductor: HENRIQUEZ PAREDES PAUL RAFAEL
+339                 Muy Grave           0.00                                  12      2000
+Conductor: RUIZ ZEVALLOS WALTER RONY
+128                 Grave               316.00                              0.25       100
+Conductor: ARCA SANCHEZ MAGALI BEATRIZ
+320                 Muy Grave           711.00                                 1       600
+Conductor: VILCA LEE NESTOR HUGO
+329                 Muy Grave           474.00                                 0       500
+Conductor: BRAVO CORTES JANET FLOR
+330                 Muy Grave           474.00                                 0       500
+Conductor: CABRERA TORO FANNY
+323                 Muy Grave           474.00                                 0       500
+Conductor: FIGUEROA MEDINA MADELEINE
+318                 Muy Grave           474.00                                 0       500
+Conductor: POMAJAMBO EGUSQUIZA PAUL
+134                 Grave               316.00                              0.25       100
+Conductor: SOLIS NARVAEZ MARIA MADELEINE
+153                 Grave               316.00                              0.25       100
+Conductor: AVILA DEL CASTILLO ANNIE
+132                 Grave               316.00                              0.25       100
+Conductor: RUIZ ZEVALLOS WALTER RONY
+319                 Muy Grave           474.00                                 0       500
+Conductor: ARCA LARRIEGA LUCERO YLIANA
+131                 Grave               316.00                              0.25       200
+Conductor: ARROYO TOMASICHE NATALIA
+162                 Grave               316.00                              0.25       100
+Conductor: SUELDO ANTEZANO LUIS JESUS
+331                 Muy Grave           474.00                                 0       500
+Conductor: FUENTES ESCALANTE PATRICIA ELIZABETH
+305                 Muy Grave           1975.00                                3       800
+Conductor: PRADO VERA JUAN
+335                 Muy Grave           474.00                                 0       500
+Conductor: ARCA SANCHEZ MAGALI BEATRIZ
+124                 Grave               316.00                              0.25       100
+Conductor: TRIGUEROS JUGO LUZ
+158                 Grave               316.00                              0.25       100
+Conductor: ESCALANTE ROJAS INES ADRIA
+104                 Grave               316.00                              0.25       100
+Conductor: ARROYO TOMASICHE NATALIA
+341                 Muy Grave           5925.00                                6      2000
+Conductor: HENRIQUEZ PAREDES PAUL RAFAEL
+316                 Muy Grave           474.00                                 0       500
+Conductor: FUENTES ESCALANTE PATRICIA ELIZABETH
+204                 Leve                158.00                              0.50
+Conductor: RIVERO CORTEZ WILVER ALFONSO
+306                 Muy Grave           948.00                                 1       600
+Conductor: ZAMORA ZAVALETA RONAL MANUEL
+137                 Grave               316.00                              0.25       200
+Conductor: SOLIS NARVAEZ MARIA MADELEINE
+156                 Grave               316.00                              0.25       200
+Conductor: TRIGUEROS JUGO LUZ
+126                 Grave               316.00                              0.25       100
+Conductor: TRIGUEROS JUGO LUZ
+311                 Muy Grave           474.00                                 0       500
+Conductor: SALAMANCA VEGA VIRGINIA MARTHA
+305                 Muy Grave           1975.00                                3       800
+Conductor: AVILA MARTEL JAIME MANUEL
+316                 Muy Grave           474.00                                 0       500
+Conductor: JAUREGUI DEL CASTILLO VICTOR RICARDO
+313                 Muy Grave           474.00                                 0       500
+Conductor: JAUREGUI DEL CASTILLO VICTOR RICARDO
+101                 Grave               316.00                              0.25       200
+Conductor: SEDANO RETAMOSO ELIA YOLANDA
+108                 Grave               316.00                              0.25       100
+Conductor: FARFAN SALAZAR MARGOT
+112                 Grave               316.00                              0.25       100
+Conductor: HENRIQUEZ PAREDES PAUL RAFAEL
+134                 Grave               316.00                              0.25       100
+Conductor: LOZADA IBEROS HELI BLANCA
+138                 Grave               316.00                              0.25       100
+Conductor: LEYVA LANDEO NANCY SONIA
+103                 Grave               316.00                              0.25       200
+Conductor: FLORIAN CUBA CHRISTIAN
+310                 Muy Grave           474.00                                 0       500
+Conductor: NORABUENA MOYA HECTOR
+133                 Grave               316.00                              0.25       100
+Conductor: PINTO ROJAS JUVENAL FRANCISCO
+127                 Grave               316.00                              0.25       100
+Conductor: LEYVA LANDEO NANCY SONIA
+138                 Grave               316.00                              0.25       100
+Conductor: MORALES PASQUEL KARIN MARIBEL
+115                 Grave               316.00                              0.25       200
+Conductor: LUNA VARGAS WALDEMAR
+306                 Muy Grave           948.00                                 1       600
+Conductor: SAAVEDRA GONZALES WILMER
+149                 Grave               316.00                              0.25       100
+Conductor: LEYVA SAM DIANA DELIA
+336                 Muy Grave           474.00                                 0       500
+Conductor: EGUSQUIZA BERROCAL DORIS NANCY
+113                 Grave               316.00                              0.25       100
+Conductor: DURAND MIRANDA MIGUEL JUAN
+333                 Muy Grave           474.00                                 0       500
+Conductor: INFANTES MERCADO LUIS WALDEMAR
+126                 Grave               316.00                              0.25       100
+Conductor: BRAVO CORTES JANET FLOR
+130                 Grave               316.00                              0.25       100
+Conductor: RAFFO CORONADO ROLANDO
+335                 Muy Grave           474.00                                 0       500
+Conductor: SOLIS CHUNG ROLANDO
+111                 Grave               316.00                              0.25       100
+Conductor: AVILA DEL CASTILLO ANNIE
+331                 Muy Grave           474.00                                 0       500
+Conductor: BACA CAMACHO MILAGROS NATALIA
+110                 Grave               316.00                              0.25       100
+Conductor: INFANTES MERCADO LUIS WALDEMAR
+161                 Grave               316.00                              0.25       100
+Conductor: VEGA VILCARA CARMELA TERESA
+316                 Muy Grave           474.00                                 0       500
+Conductor: BACA CAMACHO MILAGROS NATALIA
+320                 Muy Grave           711.00                                 1       600
+Conductor: RUIZ ZEVALLOS WALTER RONY
+170                 Grave               316.00                              0.25       100
+Conductor: SALAMANCA CABRERA NESTOR EVERT
+165                 Grave               316.00                              0.25       100
+Conductor: TOKESHI GUEVARA JAIME
+324                 Muy Grave           474.00                                 0       500
+Conductor: SALAMANCA CABRERA NESTOR EVERT
+202                 Leve                158.00                              0.50
+Conductor: RAFFO CORONADO ROLANDO
+322                 Muy Grave           474.00                                 0       500
+Conductor: ESCALANTE ROJAS INES ADRIA
+302                 Muy Grave           1975.00                                3       800
+Conductor: ZAVALETA VILCA ERICKA ELEONOR
+141                 Grave               316.00                              0.25       100
+Conductor: CUEVA FUENTES CINTHIA DELIA
+330                 Muy Grave           474.00                                 0       500
+Conductor: LOZADA FORZANI DELIA
+107                 Grave               316.00                              0.25       100
+Conductor: POMAJAMBO EGUSQUIZA PAUL
+127                 Grave               316.00                              0.25       100
+Conductor: MERCADO CORONEL ELIA
+307                 Muy Grave           948.00                                 1       600
+Conductor: ARCA SANCHEZ MAGALI BEATRIZ
+341                 Muy Grave           5925.00                                6      2000
+Conductor: NORABUENA MOYA HECTOR
+122                 Grave               316.00                              0.25       100
+Conductor: SAAVEDRA GONZALES WILMER
+322                 Muy Grave           474.00                                 0       500
+Conductor: IPARRAGUIRRE PEREZ NICOLAS
+112                 Grave               316.00                              0.25       100
+Conductor: SANCHEZ DEL CASTILLO FIORELLA ROSARIO
+207                 Leve                158.00                              0.50
+Conductor: SEDANO RETAMOSO ELIA YOLANDA
+159                 Grave               316.00                              0.25       100
+Conductor: FARFAN SALAZAR MARGOT
+329                 Muy Grave           474.00                                 0       500
+Conductor: HENRIQUEZ PAREDES PAUL RAFAEL
+325                 Muy Grave           474.00                                 0       500
+Conductor: SALAMANCA CABRERA NESTOR EVERT
+332                 Muy Grave           474.00                                 0       500
+Conductor: ARROYO TOMASICHE NATALIA
+320                 Muy Grave           711.00                                 1       600
+Conductor: SERRANO IBEROS FRANCISCO
+159                 Grave               316.00                              0.25       100
+Conductor: RAFFO CORONADO ROLANDO
+329                 Muy Grave           474.00                                 0       500
+Conductor: MARTINEZ CRUZ EVERT RONY
+136                 Grave               316.00                              0.25       100
+Conductor: VEGA VILCARA CARMELA TERESA
+334                 Muy Grave           474.00                                 0       500
+Conductor: VALDERRAMA BERROCAL EVERT
+306                 Muy Grave           948.00                                 1       600
+Conductor: RAMIREZ ASTETE KARINA ESTEFANIA
+133                 Grave               316.00                              0.25       100
+Conductor: DIAZ MOYA ELIA ANNIE
+314                 Muy Grave           474.00                                 0       500
+Conductor: ZEGARRA PENA CARMELA
+106                 Grave               316.00                              0.25       100
+Conductor: FARFAN SALAZAR MARGOT
+159                 Grave               316.00                              0.25       100
+Conductor: MENDOZA ROMERO VIRGINIA YDALI
+117                 Grave               316.00                              0.25       100
+Conductor: INFANTES MERCADO LUIS WALDEMAR
+108                 Grave               316.00                              0.25       100
+Conductor: POMAJAMBO EGUSQUIZA PAUL
+110                 Grave               316.00                              0.25       100
+Conductor: RUIZ ZEVALLOS WALTER RONY
+124                 Grave               316.00                              0.25       100
+Conductor: MERCADO CORONEL ELIA
+201                 Leve                158.00                              0.50
+Conductor: FARFAN SALAZAR MARGOT
+129                 Grave               316.00                              0.25       100
+Conductor: INGA PALOMARES ERIKA
+334                 Muy Grave           474.00                                 0       500
+Conductor: BRAVO CORTES JANET FLOR
+335                 Muy Grave           474.00                                 0       500
+Conductor: FUENTES GAMARRA HUGO
+122                 Grave               316.00                              0.25       100
+Conductor: EPIQUEN YEP GUIDA VICTORIA
+127                 Grave               316.00                              0.25       100
+Conductor: VEGA SORIA HENRRY
+161                 Grave               316.00                              0.25       100
+Conductor: AVILA REYES TATIANA
+112                 Grave               316.00                              0.25       100
+Conductor: CHAVEZ BERROCAL JOHAN
+149                 Grave               316.00                              0.25       100
+Conductor: RAFFO CORONADO ROLANDO
+163                 Grave               316.00                              0.25       100
+Conductor: SUELDO SEDANO ADRIA
+166                 Grave               316.00                              0.25       100
+Conductor: AYALA CASTILLO ERICKA OFELIA
+136                 Grave               316.00                              0.25       100
+Conductor: POMAJAMBO EGUSQUIZA PAUL
+144                 Grave               316.00                              0.25       100
+Conductor: LEYVA LANDEO NANCY SONIA
+305                 Muy Grave           1975.00                                3       800
+Conductor: ARROYO TOMASICHE NATALIA
+333                 Muy Grave           474.00                                 0       500
+Conductor: SUAREZ CHANG GLORIA
+111                 Grave               316.00                              0.25       100
+Conductor: HIJAR LAM MARTIN
+114                 Grave               316.00                              0.25       100
+Conductor: AVILA DEL CASTILLO ANNIE
+126                 Grave               316.00                              0.25       100
+Conductor: VALDERRAMA BERROCAL EVERT
+142                 Grave               316.00                              0.25       100
+Conductor: VALDERRAMA BERROCAL EVERT
+148                 Grave               316.00                              0.25       100
+Conductor: LUNA VARGAS WALDEMAR
+328                 Muy Grave           474.00                                 0       500
+Conductor: RAFFO CORONADO ROLANDO
+134                 Grave               316.00                              0.25       100
+Conductor: FLORIAN CUBA CHRISTIAN
+329                 Muy Grave           474.00                                 0       500
+Conductor: RETAMOSO SALAMANCA DELIA MARITZA
+152                 Grave               316.00                              0.25       100
+Conductor: EGUSQUIZA BERROCAL DORIS NANCY
+122                 Grave               316.00                              0.25       100
+Conductor: IPARRAGUIRRE PEREZ NICOLAS
+148                 Grave               316.00                              0.25       100
+Conductor: SERRANO IBEROS FRANCISCO
+123                 Grave               316.00                              0.25       100
+Conductor: AYALA CASTILLO ERICKA OFELIA
+101                 Grave               316.00                              0.25       200
+Conductor: HENRIQUEZ PAREDES PAUL RAFAEL
+315                 Muy Grave           474.00                                 0       500
+Conductor: RIVERO CORONADO HECTOR ALONSO
+330                 Muy Grave           474.00                                 0       500
+Conductor: NORABUENA MOYA HECTOR
+108                 Grave               316.00                              0.25       100
+Conductor: PINTO ROJAS JUVENAL FRANCISCO
+125                 Grave               316.00                              0.25       100
+Conductor: SANCHEZ DEL CASTILLO FIORELLA ROSARIO
+101                 Grave               316.00                              0.25       200
+Conductor: VEGA VILCARA CARMELA TERESA
+325                 Muy Grave           474.00                                 0       500
+Conductor: FLORIAN VALDERRAMA JOSE
+315                 Muy Grave           474.00                                 0       500
+Conductor: SOLIS NARVAEZ MARIA MADELEINE
+170                 Grave               316.00                              0.25       100
+Conductor: AVILA MARTEL JAIME MANUEL
+319                 Muy Grave           474.00                                 0       500
+Conductor: LOZADA FORZANI DELIA
+336                 Muy Grave           474.00                                 0       500
+Conductor: CORTES CORTEZ RAUL ALEX
+144                 Grave               316.00                              0.25       100
+Conductor: CORTES CORTEZ RAUL ALEX
+333                 Muy Grave           474.00                                 0       500
+Conductor: LEYVA LANDEO NANCY SONIA
+104                 Grave               316.00                              0.25       100
+Conductor: SUELDO SEDANO ADRIA
+124                 Grave               316.00                              0.25       100
+Conductor: DIAZ MOYA ELIA ANNIE
+137                 Grave               316.00                              0.25       200
+Conductor: IPARRAGUIRRE PEREZ NICOLAS
+146                 Grave               316.00                              0.25       100
+Conductor: MOSCOSO LAURA JANET VALENTINA
+151                 Grave               316.00                              0.25       100
+Conductor: LAU ZAVALETA YDALI ELIA
+142                 Grave               316.00                              0.25       100
+Conductor: RAFFO CORONADO ROLANDO
+145                 Grave               316.00                              0.25       100
+Conductor: SAAVEDRA GONZALES WILMER
+207                 Leve                158.00                              0.50
+Conductor: PRADO VERA JUAN
+134                 Grave               316.00                              0.25       100
+Conductor: TOKESHI GUEVARA JAIME
+156                 Grave               316.00                              0.25       200
+Conductor: CUEVA FUENTES CINTHIA DELIA
+135                 Grave               316.00                              0.25       100
+Conductor: CASANOVA ZEGARRA MARITZA
+118                 Grave               316.00                              0.25       100
+Conductor: CAMACHO PAIRAZAMAN YDALI LUCERO
+153                 Grave               316.00                              0.25       100
+Conductor: MARTINEZ CRUZ EVERT RONY
+124                 Grave               316.00                              0.25       100
+Conductor: POMAJAMBO EGUSQUIZA PAUL
+122                 Grave               316.00                              0.25       100
+Conductor: FARFAN SALAZAR MARGOT
+115                 Grave               316.00                              0.25       200
+Conductor: ZAMORA ZAVALETA RONAL MANUEL
+325                 Muy Grave           474.00                                 0       500
+Conductor: CABRERA TORO FANNY
+330                 Muy Grave           474.00                                 0       500
+Conductor: BRAVO CORTES JANET FLOR
+304                 Muy Grave           3950.00                                6       100
+Conductor: DURAND MIRANDA MIGUEL JUAN
+139                 Grave               316.00                              0.25       100
+Conductor: SUAREZ CHANG GLORIA
+114                 Grave               316.00                              0.25       100
+Conductor: CAMACHO PAIRAZAMAN YDALI LUCERO
+311                 Muy Grave           474.00                                 0       500
+Conductor: INFANTES MERCADO LUIS WALDEMAR
+130                 Grave               316.00                              0.25       100
+Conductor: VIZCARDO SINCHE MARIBEL
+112                 Grave               316.00                              0.25       100
+Conductor: CORTES CORTEZ RAUL ALEX
+119                 Grave               316.00                              0.25       100
+Conductor: BRAVO CORTES JANET FLOR
+334                 Muy Grave           474.00                                 0       500
+Conductor: SALAMANCA VEGA VIRGINIA MARTHA
+116                 Grave               316.00                              0.25       100
+Conductor: LEYVA SAM DIANA DELIA
+138                 Grave               316.00                              0.25       100
+Conductor: RIOS DURAND CARLOS EDILBERTO
+318                 Muy Grave           474.00                                 0       500
+Conductor: CANO POLO MILAGROS ISABEL
+206                 Leve                158.00                              0.50
+Conductor: CUEVA FUENTES CINTHIA DELIA
+130                 Grave               316.00                              0.25       100
+Conductor: WONG MAEIREIZO BEATRIZ
+321                 Muy Grave           474.00                                 0       500
+Conductor: MOSCOSO LAURA JANET VALENTINA
+147                 Grave               316.00                              0.25       100
+Conductor: RETAMOSO SALAMANCA DELIA MARITZA
+332                 Muy Grave           474.00                                 0       500
+Conductor: CABRERA TORO FANNY
+143                 Grave               316.00                              0.25       100
+Conductor: RUIZ ZEVALLOS WALTER RONY
+315                 Muy Grave           474.00                                 0       500
+Conductor: MINAYA BERROCAL HELI
+323                 Muy Grave           474.00                                 0       500
+Conductor: ZEGARRA PENA CARMELA
+207                 Leve                158.00                              0.50
+Conductor: LOZADA IBEROS HELI BLANCA
+205                 Leve                158.00                              0.50
+Conductor: CAMACHO PAIRAZAMAN YDALI LUCERO
+121                 Grave               316.00                              0.25       200
+Conductor: TANG MOSCOSO JOHANA
+123                 Grave               316.00                              0.25       100
+Conductor: EPIQUEN YEP GUIDA VICTORIA
+338                 Muy Grave           0.00                                  12      2000
+Conductor: SUAREZ CHANG GLORIA
+133                 Grave               316.00                              0.25       100
+Conductor: INGA PALOMARES ERIKA
+205                 Leve                158.00                              0.50
+Conductor: EPIQUEN YEP GUIDA VICTORIA
+102                 Grave               316.00                              0.25       100
+Conductor: DIAZ MOYA ELIA ANNIE
+313                 Muy Grave           474.00                                 0       500
+Conductor: EPIQUEN YEP GUIDA VICTORIA
+151                 Grave               316.00                              0.25       100
+Conductor: JUSTINO MARTINEZ ENRIQUE
+147                 Grave               316.00                              0.25       100
+Conductor: SAAVEDRA GONZALES WILMER
+127                 Grave               316.00                              0.25       100
+Conductor: CABRERA TORO FANNY
+144                 Grave               316.00                              0.25       100
+Conductor: EPIQUEN YEP GUIDA VICTORIA
+206                 Leve                158.00                              0.50
+Conductor: JAUREGUI DEL CASTILLO VICTOR RICARDO
+102                 Grave               316.00                              0.25       100
+Conductor: FARFAN SALAZAR MARGOT
+324                 Muy Grave           474.00                                 0       500
+Conductor: EGUSQUIZA BERROCAL DORIS NANCY
+133                 Grave               316.00                              0.25       100
+Conductor: PRADO VERA JUAN
+161                 Grave               316.00                              0.25       100
+Conductor: MARTINEZ CRUZ EVERT RONY
+155                 Grave               316.00                              0.25       100
+Conductor: RODRIGUEZ MORENO BLANCA OFELIA
+305                 Muy Grave           1975.00                                3       800
+Conductor: SAAVEDRA GONZALES WILMER
+302                 Muy Grave           1975.00                                3       800
+Conductor: SERRANO IBEROS FRANCISCO
+305                 Muy Grave           1975.00                                3       800
+Conductor: FLORIAN VALDERRAMA JOSE
+151                 Grave               316.00                              0.25       100
+Conductor: VEGA VILCARA CARMELA TERESA
+170                 Grave               316.00                              0.25       100
+Conductor: PRADO ESPINOZA MILAGROS
+101                 Grave               316.00                              0.25       200
+Conductor: JAUREGUI DEL CASTILLO VICTOR RICARDO
+148                 Grave               316.00                              0.25       100
+Conductor: ARROYO TOMASICHE NATALIA
+317                 Muy Grave           474.00                                 0       500
+Conductor: MOSCOSO ARIAS FIORELLA
+154                 Grave               316.00                              0.25       100
+Conductor: ARCA SANCHEZ MAGALI BEATRIZ
+327                 Muy Grave           1975.00                                1       600
+Conductor: RUIZ ZEVALLOS WALTER RONY
+103                 Grave               316.00                              0.25       200
+Conductor: DIAZ MOYA ELIA ANNIE
+130                 Grave               316.00                              0.25       100
+Conductor: LEYVA LANDEO NANCY SONIA
+311                 Muy Grave           474.00                                 0       500
+Conductor: LEYVA SAM DIANA DELIA
+136                 Grave               316.00                              0.25       100
+Conductor: RETAMOSO SALAMANCA DELIA MARITZA
+203                 Leve                158.00                              0.50
+Conductor: SEDANO RETAMOSO ELIA YOLANDA
+138                 Grave               316.00                              0.25       100
+Conductor: PRADO VERA JUAN
+104                 Grave               316.00                              0.25       100
+Conductor: CABRERA TORO FANNY
+161                 Grave               316.00                              0.25       100
+Conductor: VALVERDE MAEIREIZO MELVIN JAIR
+304                 Muy Grave           3950.00                                6       100
+Conductor: ZAMORA ZAVALETA RONAL MANUEL
+302                 Muy Grave           1975.00                                3       800
+Conductor: ZEGARRA PENA CARMELA
+132                 Grave               316.00                              0.25       100
+Conductor: SAAVEDRA GONZALES WILMER
+153                 Grave               316.00                              0.25       100
+Conductor: INGA PALOMARES ERIKA
+124                 Grave               316.00                              0.25       100
+Conductor: NORABUENA MOYA HECTOR
+334                 Muy Grave           474.00                                 0       500
+Conductor: VALVERDE MAEIREIZO MELVIN JAIR
+322                 Muy Grave           474.00                                 0       500
+Conductor: ARCA SANCHEZ MAGALI BEATRIZ
+301                 Muy Grave           3950.00                                6      1000
+Conductor: MARTINEZ CRUZ EVERT RONY
+157                 Grave               316.00                              0.25       100
+Conductor: CONTRERAS CHANG JOHANA CINTHIA
+120                 Grave               316.00                              0.25       100
+Conductor: AVILA DEL CASTILLO ANNIE
+333                 Muy Grave           474.00                                 0       500
+Conductor: INGA PALOMARES ERIKA
+137                 Grave               316.00                              0.25       200
+Conductor: RIOS DURAND CARLOS EDILBERTO
+310                 Muy Grave           474.00                                 0       500
+Conductor: GORDILLO SANCHEZ RONALD JUVENAL
+142                 Grave               316.00                              0.25       100
+Conductor: JUSTINO MARTINEZ ENRIQUE
+104                 Grave               316.00                              0.25       100
+Conductor: SALAMANCA VEGA VIRGINIA MARTHA
+144                 Grave               316.00                              0.25       100
+Conductor: LEYVA LANDEO NANCY SONIA
+137                 Grave               316.00                              0.25       200
+Conductor: RIVERO CORONADO HECTOR ALONSO
+152                 Grave               316.00                              0.25       100
+Conductor: RAFFO CORONADO ROLANDO
+310                 Muy Grave           474.00                                 0       500
+Conductor: CASANOVA ZEGARRA MARITZA
+154                 Grave               316.00                              0.25       100
+Conductor: CHAVEZ BERROCAL JOHAN
+325                 Muy Grave           474.00                                 0       500
+Conductor: LOZADA FORZANI DELIA
+309                 Muy Grave           948.00                                 1       600
+Conductor: WONG MAEIREIZO BEATRIZ
+103                 Grave               316.00                              0.25       200
+Conductor: MERCADO CORONEL ELIA
+207                 Leve                158.00                              0.50
+Conductor: CABRERA TORO FANNY
+321                 Muy Grave           474.00                                 0       500
+Conductor: FLORIAN VALDERRAMA JOSE
+110                 Grave               316.00                              0.25       100
+Conductor: INGA PALOMARES ERIKA
+131                 Grave               316.00                              0.25       200
+Conductor: MARTINEZ CRUZ EVERT RONY
+337                 Muy Grave           0.00                                  12      2000
+Conductor: GORDILLO SANCHEZ RONALD JUVENAL
+305                 Muy Grave           1975.00                                3       800
+Conductor: VEGA VILCARA CARMELA TERESA
+312                 Muy Grave           474.00                                 0       500
+Conductor: CUEVA FUENTES CINTHIA DELIA
+148                 Grave               316.00                              0.25       100
+Conductor: FIGUEROA MEDINA MADELEINE
+140                 Grave               316.00                              0.25       100
+Conductor: SANCHEZ DEL CASTILLO FIORELLA ROSARIO
+103                 Grave               316.00                              0.25       200
+Conductor: ZEGARRA PENA CARMELA
+161                 Grave               316.00                              0.25       100
+Conductor: LOZADA FORZANI DELIA
+126                 Grave               316.00                              0.25       100
+Conductor: MARTINEZ CRUZ EVERT RONY
+162                 Grave               316.00                              0.25       100
+Conductor: INFANTES MERCADO LUIS WALDEMAR
+127                 Grave               316.00                              0.25       100
+Conductor: BRAVO CORTES JANET FLOR
+312                 Muy Grave           474.00                                 0       500
+Conductor: IPARRAGUIRRE PEREZ NICOLAS
+154                 Grave               316.00                              0.25       100
+Conductor: BACA CAMACHO MILAGROS NATALIA
+315                 Muy Grave           474.00                                 0       500
+Conductor: RONDON CABRERA ALEXANDER ADOLFO
+109                 Grave               316.00                              0.25       200
+Conductor: PRADO VERA JUAN
+160                 Grave               316.00                              0.25       100
+Conductor: CUEVA FUENTES CINTHIA DELIA
+334                 Muy Grave           474.00                                 0       500
+Conductor: TANG MOSCOSO JOHANA
+202                 Leve                158.00                              0.50
+Conductor: GORDILLO SANCHEZ RONALD JUVENAL
+147                 Grave               316.00                              0.25       100
+Conductor: HENRIQUEZ PAREDES PAUL RAFAEL
+164                 Grave               316.00                              0.25       100
+Conductor: SAAVEDRA GONZALES WILMER
+207                 Leve                158.00                              0.50
+Conductor: HENRIQUEZ PAREDES PAUL RAFAEL
+136                 Grave               316.00                              0.25       100
+Conductor: RIVERO CORTEZ WILVER ALFONSO
+151                 Grave               316.00                              0.25       100
+Conductor: RODRIGUEZ MORENO BLANCA OFELIA
+164                 Grave               316.00                              0.25       100
+Conductor: LEYVA LANDEO NANCY SONIA
+304                 Muy Grave           3950.00                                6       100
+Conductor: WONG MAEIREIZO BEATRIZ
+328                 Muy Grave           474.00                                 0       500
+Conductor: CANO POLO MILAGROS ISABEL
+306                 Muy Grave           948.00                                 1       600
+Conductor: FARFAN SALAZAR MARGOT
+205                 Leve                158.00                              0.50
+Conductor: BRAVO CORTES JANET FLOR
+139                 Grave               316.00                              0.25       100
+Conductor: ZEGARRA PENA CARMELA
+119                 Grave               316.00                              0.25       100
+Conductor: BRAVO CORTES JANET FLOR
+161                 Grave               316.00                              0.25       100
+Conductor: HENRIQUEZ PAREDES PAUL RAFAEL
+335                 Muy Grave           474.00                                 0       500
+Conductor: MINAYA BERROCAL HELI
+317                 Muy Grave           474.00                                 0       500
+Conductor: LEYVA SAM DIANA DELIA
+129                 Grave               316.00                              0.25       100
+Conductor: SOLIS CHUNG ROLANDO
+129                 Grave               316.00                              0.25       100
+Conductor: ZEGARRA PENA CARMELA
+161                 Grave               316.00                              0.25       100
+Conductor: VEGA VILCARA CARMELA TERESA
+317                 Muy Grave           474.00                                 0       500
+Conductor: CONTRERAS CHANG JOHANA CINTHIA
+157                 Grave               316.00                              0.25       100
+Conductor: EPIQUEN YEP GUIDA VICTORIA
+328                 Muy Grave           474.00                                 0       500
+Conductor: RAMIREZ ASTETE KARINA ESTEFANIA
+132                 Grave               316.00                              0.25       100
+Conductor: ZAVALETA VILCA ERICKA ELEONOR
+204                 Leve                158.00                              0.50
+Conductor: GONZALES GAMARRA GIOVANA KARINA
+112                 Grave               316.00                              0.25       100
+Conductor: SAAVEDRA GONZALES WILMER
+142                 Grave               316.00                              0.25       100
+Conductor: ZAVALETA VILCA ERICKA ELEONOR
+137                 Grave               316.00                              0.25       200
+Conductor: SOLIS NARVAEZ MARIA MADELEINE
+146                 Grave               316.00                              0.25       100
+Conductor: VIZCARDO SINCHE MARIBEL
+137                 Grave               316.00                              0.25       200
+Conductor: LOZADA ARGUEDAS FELICITA VALENTINA
+143                 Grave               316.00                              0.25       100
+Conductor: MEJIA RODRIGUEZ INES VALENTINA
+301                 Muy Grave           3950.00                                6      1000
+Conductor: SANCHEZ DEL CASTILLO FIORELLA ROSARIO
+102                 Grave               316.00                              0.25       100
+Conductor: CANO POLO MILAGROS ISABEL
+155                 Grave               316.00                              0.25       100
+Conductor: RIVERO CORONADO HECTOR ALONSO
+109                 Grave               316.00                              0.25       200
+Conductor: FLORIAN VALDERRAMA JOSE
+203                 Leve                158.00                              0.50
+Conductor: FLORENCIO CORONADO ALONSO
+308                 Muy Grave           948.00                                 1       600
+Conductor: CASANOVA ZEGARRA MARITZA
+101                 Grave               316.00                              0.25       200
+Conductor: NORABUENA MOYA HECTOR
+101                 Grave               316.00                              0.25       200
+Conductor: RONDON CABRERA ALEXANDER ADOLFO
+103                 Grave               316.00                              0.25       200
+Conductor: FARFAN SALAZAR MARGOT
+101                 Grave               316.00                              0.25       200
+Conductor: RAFFO CORONADO ROLANDO
+118                 Grave               316.00                              0.25       100
+Conductor: AVILA DEL CASTILLO ANNIE
+152                 Grave               316.00                              0.25       100
+Conductor: LOZADA ARGUEDAS FELICITA VALENTINA
+117                 Grave               316.00                              0.25       100
+Conductor: JAUREGUI DEL CASTILLO VICTOR RICARDO
+126                 Grave               316.00                              0.25       100
+Conductor: PENA SUAREZ GLENDA MARGOT
+118                 Grave               316.00                              0.25       100
+Conductor: PRADO VERA JUAN
+132                 Grave               316.00                              0.25       100
+Conductor: FUENTES ESCALANTE PATRICIA ELIZABETH
+336                 Muy Grave           474.00                                 0       500
+Conductor: PENA SUAREZ GLENDA MARGOT
+331                 Muy Grave           474.00                                 0       500
+Conductor: IPARRAGUIRRE PEREZ NICOLAS
+132                 Grave               316.00                              0.25       100
+Conductor: MENDOZA ROMERO VIRGINIA YDALI
+162                 Grave               316.00                              0.25       100
+Conductor: INFANTES MERCADO LUIS WALDEMAR
+122                 Grave               316.00                              0.25       100
+Conductor: SERRANO IBEROS FRANCISCO
+315                 Muy Grave           474.00                                 0       500
+Conductor: AYALA CASTILLO ERICKA OFELIA
+163                 Grave               316.00                              0.25       100
+Conductor: EPIQUEN YEP GUIDA VICTORIA
+321                 Muy Grave           474.00                                 0       500
+Conductor: SOLIS CHUNG ROLANDO
+325                 Muy Grave           474.00                                 0       500
+Conductor: ARCA LARRIEGA LUCERO YLIANA
+150                 Grave               316.00                              0.25       100
+Conductor: FUENTES ESCALANTE PATRICIA ELIZABETH
+313                 Muy Grave           474.00                                 0       500
+Conductor: FUENTES ESCALANTE PATRICIA ELIZABETH
+143                 Grave               316.00                              0.25       100
+Conductor: RAMIREZ ASTETE KARINA ESTEFANIA
+324                 Muy Grave           474.00                                 0       500
+Conductor: CABRERA TORO FANNY
+144                 Grave               316.00                              0.25       100
+Conductor: FLORENCIO CORONADO ALONSO
+103                 Grave               316.00                              0.25       200
+Conductor: AVILA MARTEL JAIME MANUEL
+113                 Grave               316.00                              0.25       100
+Conductor: FLORENCIO CORONADO ALONSO
+309                 Muy Grave           948.00                                 1       600
+Conductor: VALDERRAMA BERROCAL EVERT
+170                 Grave               316.00                              0.25       100
+Conductor: NORABUENA MOYA HECTOR
+113                 Grave               316.00                              0.25       100
+Conductor: WONG MAEIREIZO BEATRIZ
+118                 Grave               316.00                              0.25       100
+Conductor: SALAMANCA VEGA VIRGINIA MARTHA
+150                 Grave               316.00                              0.25       100
+Conductor: ARROYO TOMASICHE NATALIA
+111                 Grave               316.00                              0.25       100
+Conductor: CARBAJAL SALAS MAGDA ZKENIA
+118                 Grave               316.00                              0.25       100
+Conductor: CAMACHO PAIRAZAMAN YDALI LUCERO
+327                 Muy Grave           1975.00                                1       600
+Conductor: RUIZ ZEVALLOS WALTER RONY
+155                 Grave               316.00                              0.25       100
+Conductor: LOZADA ARGUEDAS FELICITA VALENTINA
+130                 Grave               316.00                              0.25       100
+Conductor: SAAVEDRA GONZALES WILMER
+330                 Muy Grave           474.00                                 0       500
+Conductor: HENRIQUEZ PAREDES PAUL RAFAEL
+123                 Grave               316.00                              0.25       100
+Conductor: LEYVA LANDEO NANCY SONIA
+328                 Muy Grave           474.00                                 0       500
+Conductor: MORALES PASQUEL KARIN MARIBEL
+333                 Muy Grave           474.00                                 0       500
+Conductor: RAFFO CORONADO ROLANDO
+305                 Muy Grave           1975.00                                3       800
+Conductor: SANCHEZ DEL CASTILLO FIORELLA ROSARIO
+122                 Grave               316.00                              0.25       100
+Conductor: NARVAEZ CASTILLO JESUS RAFAEL
+205                 Leve                158.00                              0.50
+Conductor: VIZCARDO SINCHE MARIBEL
+121                 Grave               316.00                              0.25       200
+Conductor: FLORIAN CUBA CHRISTIAN
+163                 Grave               316.00                              0.25       100
+Conductor: JAUREGUI DEL CASTILLO VICTOR RICARDO
+113                 Grave               316.00                              0.25       100
+Conductor: ESPINOZA CHANG SHIRLEY
+156                 Grave               316.00                              0.25       200
+Conductor: INFANTES MERCADO LUIS WALDEMAR
+149                 Grave               316.00                              0.25       100
+Conductor: AVILA REYES TATIANA
+164                 Grave               316.00                              0.25       100
+Conductor: ARROYO TOMASICHE NATALIA
+133                 Grave               316.00                              0.25       100
+Conductor: MORALES PASQUEL KARIN MARIBEL
+324                 Muy Grave           474.00                                 0       500
+Conductor: PRADO VERA JUAN
+330                 Muy Grave           474.00                                 0       500
+Conductor: SALAMANCA VEGA VIRGINIA MARTHA
+327                 Muy Grave           1975.00                                1       600
+Conductor: RETAMOSO SALAMANCA DELIA MARITZA
+309                 Muy Grave           948.00                                 1       600
+Conductor: ARROYO TOMASICHE NATALIA
+208                 Leve                158.00                              0.50
+Conductor: VIZCARRA CARBAJAL IVAN FAUSTO
+110                 Grave               316.00                              0.25       100
+Conductor: QUIROGA HERNANDEZ SILVANA ZKENIA
+113                 Grave               316.00                              0.25       100
+Conductor: TRIGUEROS JUGO LUZ
+122                 Grave               316.00                              0.25       100
+Conductor: RONDON CABRERA ALEXANDER ADOLFO
+203                 Leve                158.00                              0.50
+Conductor: NORABUENA MOYA HECTOR
+126                 Grave               316.00                              0.25       100
+Conductor: AVILA REYES TATIANA
+336                 Muy Grave           474.00                                 0       500
+Conductor: MARTINEZ CRUZ EVERT RONY
+154                 Grave               316.00                              0.25       100
+Conductor: INFANTES MERCADO LUIS WALDEMAR
+146                 Grave               316.00                              0.25       100
+Conductor: MARTINEZ CRUZ EVERT RONY
+301                 Muy Grave           3950.00                                6      1000
+Conductor: AVILA MARTEL JAIME MANUEL
+304                 Muy Grave           3950.00                                6       100
+Conductor: INFANTES MERCADO LUIS WALDEMAR
+165                 Grave               316.00                              0.25       100
+Conductor: VIZCARRA CARBAJAL IVAN FAUSTO
+135                 Grave               316.00                              0.25       100
+Conductor: TRIGUEROS JUGO LUZ
+152                 Grave               316.00                              0.25       100
+Conductor: RIOS ZAMORA INES
+131                 Grave               316.00                              0.25       200
+Conductor: CERNA CERNA CINTHIA
+161                 Grave               316.00                              0.25       100
+Conductor: RAFFO CORONADO ROLANDO
+137                 Grave               316.00                              0.25       200
+Conductor: MEJIA RODRIGUEZ INES VALENTINA
+307                 Muy Grave           948.00                                 1       600
+Conductor: ESPINOZA CHANG SHIRLEY
+327                 Muy Grave           1975.00                                1       600
+Conductor: INFANTES MERCADO LUIS WALDEMAR
+120                 Grave               316.00                              0.25       100
+Conductor: ARCA SANCHEZ MAGALI BEATRIZ
+106                 Grave               316.00                              0.25       100
+Conductor: RODRIGUEZ MORENO BLANCA OFELIA
+114                 Grave               316.00                              0.25       100
+Conductor: FUENTES ESCALANTE PATRICIA ELIZABETH
+163                 Grave               316.00                              0.25       100
+Conductor: MARTINEZ CRUZ EVERT RONY
+339                 Muy Grave           0.00                                  12      2000
+Conductor: RETAMOSO SALAMANCA DELIA MARITZA
+134                 Grave               316.00                              0.25       100
+Conductor: SANCHEZ DEL CASTILLO FIORELLA ROSARIO
+341                 Muy Grave           5925.00                                6      2000
+Conductor: PRADO VERA JUAN
+114                 Grave               316.00                              0.25       100
+Conductor: MEJIA RODRIGUEZ INES VALENTINA
+109                 Grave               316.00                              0.25       200
+Conductor: VILCA LEE NESTOR HUGO
+101                 Grave               316.00                              0.25       200
+Conductor: VEGA VILCARA CARMELA TERESA
+320                 Muy Grave           711.00                                 1       600
+Conductor: CASANOVA ZEGARRA MARITZA
+333                 Muy Grave           474.00                                 0       500
+Conductor: FUENTES ESCALANTE PATRICIA ELIZABETH
+329                 Muy Grave           474.00                                 0       500
+Conductor: RIVERO CORTEZ WILVER ALFONSO
+152                 Grave               316.00                              0.25       100
+Conductor: MARTINEZ CRUZ EVERT RONY
+156                 Grave               316.00                              0.25       200
+Conductor: CANO POLO MILAGROS ISABEL
+132                 Grave               316.00                              0.25       100
+Conductor: FUENTES GAMARRA HUGO
+332                 Muy Grave           474.00                                 0       500
+Conductor: HENRIQUEZ PAREDES PAUL RAFAEL
+146                 Grave               316.00                              0.25       100
+Conductor: NORABUENA MOYA HECTOR
+141                 Grave               316.00                              0.25       100
+Conductor: POMAJAMBO EGUSQUIZA PAUL
+143                 Grave               316.00                              0.25       100
+Conductor: FLORIAN CUBA CHRISTIAN
+302                 Muy Grave           1975.00                                3       800
+Conductor: CONTRERAS CHANG JOHANA CINTHIA
+306                 Muy Grave           948.00                                 1       600
+Conductor: ARCA SANCHEZ MAGALI BEATRIZ
+311                 Muy Grave           474.00                                 0       500
+Conductor: BACA CAMACHO MILAGROS NATALIA
+304                 Muy Grave           3950.00                                6       100
+Conductor: TANG MOSCOSO JOHANA
+162                 Grave               316.00                              0.25       100
+Conductor: SOLIS CHUNG ROLANDO
+327                 Muy Grave           1975.00                                1       600
+Conductor: SALAMANCA CABRERA NESTOR EVERT
+337                 Muy Grave           0.00                                  12      2000
+Conductor: ASTETE CHANG GUIDA
+117                 Grave               316.00                              0.25       100
+Conductor: MOSCOSO ARIAS FIORELLA
+104                 Grave               316.00                              0.25       100
+Conductor: RODRIGUEZ MORENO BLANCA OFELIA
+107                 Grave               316.00                              0.25       100
+Conductor: RETAMOSO SALAMANCA DELIA MARITZA
+128                 Grave               316.00                              0.25       100
+Conductor: ARCA LARRIEGA LUCERO YLIANA
+134                 Grave               316.00                              0.25       100
+Conductor: CORTES CORTEZ RAUL ALEX
+147                 Grave               316.00                              0.25       100
+Conductor: MARTINEZ CRUZ EVERT RONY
+156                 Grave               316.00                              0.25       200
+Conductor: LOZADA ARGUEDAS FELICITA VALENTINA
+132                 Grave               316.00                              0.25       100
+Conductor: PATINO BOLANOS DELICIA VIRGINIA
+202                 Leve                158.00                              0.50
+Conductor: RAMIREZ ASTETE KARINA ESTEFANIA
+321                 Muy Grave           474.00                                 0       500
+Conductor: FLORIAN CUBA CHRISTIAN
+306                 Muy Grave           948.00                                 1       600
+Conductor: DIAZ MOYA ELIA ANNIE
+155                 Grave               316.00                              0.25       100
+Conductor: GORDILLO SANCHEZ RONALD JUVENAL
+321                 Muy Grave           474.00                                 0       500
+Conductor: SEDANO RETAMOSO ELIA YOLANDA
+102                 Grave               316.00                              0.25       100
+Conductor: SOLIS NARVAEZ MARIA MADELEINE
+304                 Muy Grave           3950.00                                6       100
+Conductor: FIGUEROA MEDINA MADELEINE
+119                 Grave               316.00                              0.25       100
+Conductor: DIAZ TANG ENRIQUE
+337                 Muy Grave           0.00                                  12      2000
+Conductor: PINTO ROJAS JUVENAL FRANCISCO
+319                 Muy Grave           474.00                                 0       500
+Conductor: EGUSQUIZA BERROCAL DORIS NANCY
+155                 Grave               316.00                              0.25       100
+Conductor: EPIQUEN AVILA ENRIQUE
+311                 Muy Grave           474.00                                 0       500
+Conductor: DURAND MIRANDA MIGUEL JUAN
+152                 Grave               316.00                              0.25       100
+Conductor: VILCARA YALLICO MAGALI
+204                 Leve                158.00                              0.50
+Conductor: ESPINOZA CHANG SHIRLEY
+329                 Muy Grave           474.00                                 0       500
+Conductor: LEYVA LANDEO NANCY SONIA
+308                 Muy Grave           948.00                                 1       600
+Conductor: SOLIS NARVAEZ MARIA MADELEINE
+323                 Muy Grave           474.00                                 0       500
+Conductor: CABRERA TORO FANNY
+166                 Grave               316.00                              0.25       100
+Conductor: YEP PRECIADO RICHARD
+118                 Grave               316.00                              0.25       100
+Conductor: AVILA MARTEL JAIME MANUEL
+144                 Grave               316.00                              0.25       100
+Conductor: VIZCARRA CARBAJAL IVAN FAUSTO
+142                 Grave               316.00                              0.25       100
+Conductor: HIJAR LAM MARTIN
+130                 Grave               316.00                              0.25       100
+Conductor: HIJAR LAM MARTIN
+146                 Grave               316.00                              0.25       100
+Conductor: FLORENCIO CORONADO ALONSO
+122                 Grave               316.00                              0.25       100
+Conductor: RETAMOSO SALAMANCA DELIA MARITZA
+339                 Muy Grave           0.00                                  12      2000
+Conductor: AVILA DEL CASTILLO ANNIE
+105                 Grave               316.00                              0.25       200
+Conductor: PRADO VERA JUAN
+118                 Grave               316.00                              0.25       100
+Conductor: RONDON CABRERA ALEXANDER ADOLFO
+136                 Grave               316.00                              0.25       100
+Conductor: TRIGUEROS JUGO LUZ
+203                 Leve                158.00                              0.50
+Conductor: QUIROGA HERNANDEZ SILVANA ZKENIA
+304                 Muy Grave           3950.00                                6       100
+Conductor: SERRANO IBEROS FRANCISCO
+302                 Muy Grave           1975.00                                3       800
+Conductor: JUSTINO MARTINEZ ENRIQUE
+327                 Muy Grave           1975.00                                1       600
+Conductor: SUELDO ANTEZANO LUIS JESUS
+109                 Grave               316.00                              0.25       200
+Conductor: BACA CAMACHO MILAGROS NATALIA
+132                 Grave               316.00                              0.25       100
+Conductor: SUAREZ CHANG GLORIA
+321                 Muy Grave           474.00                                 0       500
+Conductor: AVILA DEL CASTILLO ANNIE
+312                 Muy Grave           474.00                                 0       500
+Conductor: LAU ZAVALETA YDALI ELIA
+107                 Grave               316.00                              0.25       100
+Conductor: VALDERRAMA BERROCAL EVERT
+147                 Grave               316.00                              0.25       100
+Conductor: VEGA SORIA HENRRY
+102                 Grave               316.00                              0.25       100
+Conductor: EGUSQUIZA BERROCAL DORIS NANCY
+143                 Grave               316.00                              0.25       100
+Conductor: VIZCARDO SINCHE MARIBEL
+133                 Grave               316.00                              0.25       100
+Conductor: CAMACHO PAIRAZAMAN YDALI LUCERO
+206                 Leve                158.00                              0.50
+Conductor: VIZCARDO SINCHE MARIBEL
+207                 Leve                158.00                              0.50
+Conductor: RONDON CABRERA ALEXANDER ADOLFO
+162                 Grave               316.00                              0.25       100
+Conductor: PINTO ROJAS JUVENAL FRANCISCO
+121                 Grave               316.00                              0.25       200
+Conductor: RONDON CABRERA ALEXANDER ADOLFO
+309                 Muy Grave           948.00                                 1       600
+Conductor: HENRIQUEZ PAREDES PAUL RAFAEL
+153                 Grave               316.00                              0.25       100
+Conductor: ESCALANTE ROJAS INES ADRIA
+120                 Grave               316.00                              0.25       100
+Conductor: MORALES PASQUEL KARIN MARIBEL
+308                 Muy Grave           948.00                                 1       600
+Conductor: AVILA DEL CASTILLO ANNIE
+314                 Muy Grave           474.00                                 0       500
+Conductor: MOSCOSO ARIAS FIORELLA
+113                 Grave               316.00                              0.25       100
+Conductor: SANCHEZ DEL CASTILLO FIORELLA ROSARIO
+307                 Muy Grave           948.00                                 1       600
+Conductor: BRAVO CORTES JANET FLOR
+164                 Grave               316.00                              0.25       100
+Conductor: ZAVALETA VILCA ERICKA ELEONOR
+205                 Leve                158.00                              0.50
+Conductor: PINTO ROJAS JUVENAL FRANCISCO
+319                 Muy Grave           474.00                                 0       500
+Conductor: GORDILLO SANCHEZ RONALD JUVENAL
+304                 Muy Grave           3950.00                                6       100
+Conductor: VIZCARRA CARBAJAL IVAN FAUSTO
+114                 Grave               316.00                              0.25       100
+Conductor: SUAREZ CHANG GLORIA
+165                 Grave               316.00                              0.25       100
+Conductor: CABRERA TORO FANNY
+117                 Grave               316.00                              0.25       100
+Conductor: LAU ZAVALETA YDALI ELIA
+204                 Leve                158.00                              0.50
+Conductor: EPIQUEN YEP GUIDA VICTORIA
+332                 Muy Grave           474.00                                 0       500
+Conductor: PATINO BOLANOS DELICIA VIRGINIA
+147                 Grave               316.00                              0.25       100
+Conductor: RUIZ ZEVALLOS WALTER RONY
+126                 Grave               316.00                              0.25       100
+Conductor: CASANOVA ZEGARRA MARITZA
+321                 Muy Grave           474.00                                 0       500
+Conductor: ARCA LARRIEGA LUCERO YLIANA
+144                 Grave               316.00                              0.25       100
+Conductor: SERRANO IBEROS FRANCISCO
+156                 Grave               316.00                              0.25       200
+Conductor: TRIGUEROS JUGO LUZ
+310                 Muy Grave           474.00                                 0       500
+Conductor: LOZADA ARGUEDAS FELICITA VALENTINA
+334                 Muy Grave           474.00                                 0       500
+Conductor: SALAMANCA VEGA VIRGINIA MARTHA
+160                 Grave               316.00                              0.25       100
+Conductor: POMAJAMBO EGUSQUIZA PAUL
+320                 Muy Grave           711.00                                 1       600
+Conductor: RIOS DURAND CARLOS EDILBERTO
+151                 Grave               316.00                              0.25       100
+Conductor: LEYVA LANDEO NANCY SONIA
+128                 Grave               316.00                              0.25       100
+Conductor: SUELDO SEDANO ADRIA
+202                 Leve                158.00                              0.50
+Conductor: FUENTES ESCALANTE PATRICIA ELIZABETH
+127                 Grave               316.00                              0.25       100
+Conductor: VALDERRAMA BERROCAL EVERT
+137                 Grave               316.00                              0.25       200
+Conductor: RAFFO CORONADO ROLANDO
+106                 Grave               316.00                              0.25       100
+Conductor: TRIGUEROS JUGO LUZ
+113                 Grave               316.00                              0.25       100
+Conductor: CERNA CERNA CINTHIA
+135                 Grave               316.00                              0.25       100
+Conductor: RIVERO CORTEZ WILVER ALFONSO
+338                 Muy Grave           0.00                                  12      2000
+Conductor: VALVERDE MAEIREIZO MELVIN JAIR
+320                 Muy Grave           711.00                                 1       600
+Conductor: FARFAN SALAZAR MARGOT
+337                 Muy Grave           0.00                                  12      2000
+Conductor: ARROYO TOMASICHE NATALIA
+127                 Grave               316.00                              0.25       100
+Conductor: CUEVA FUENTES CINTHIA DELIA
+316                 Muy Grave           474.00                                 0       500
+Conductor: VIZCARDO SINCHE MARIBEL
+333                 Muy Grave           474.00                                 0       500
+Conductor: SAAVEDRA GONZALES WILMER
+208                 Leve                158.00                              0.50
+Conductor: RIVERO CORONADO HECTOR ALONSO
+335                 Muy Grave           474.00                                 0       500
+Conductor: SALAMANCA CABRERA NESTOR EVERT
+148                 Grave               316.00                              0.25       100
+Conductor: PINTO ROJAS JUVENAL FRANCISCO
+120                 Grave               316.00                              0.25       100
+Conductor: AYALA CASTILLO ERICKA OFELIA
+146                 Grave               316.00                              0.25       100
+Conductor: VIZCARDO SINCHE MARIBEL
+203                 Leve                158.00                              0.50
+Conductor: GORDILLO SANCHEZ RONALD JUVENAL
+325                 Muy Grave           474.00                                 0       500
+Conductor: SOLIS NARVAEZ MARIA MADELEINE
+302                 Muy Grave           1975.00                                3       800
+Conductor: CERNA CERNA CINTHIA
+315                 Muy Grave           474.00                                 0       500
+Conductor: LUNA VARGAS WALDEMAR
+127                 Grave               316.00                              0.25       100
+Conductor: ZEGARRA PENA CARMELA
+140                 Grave               316.00                              0.25       100
+Conductor: ZAMORA ZAVALETA RONAL MANUEL
+135                 Grave               316.00                              0.25       100
+Conductor: VALDERRAMA BERROCAL EVERT
+110                 Grave               316.00                              0.25       100
+Conductor: INGA PALOMARES ERIKA
+328                 Muy Grave           474.00                                 0       500
+Conductor: HERNANDEZ CORRALES GUILLERMO
+157                 Grave               316.00                              0.25       100
+Conductor: MORALES PASQUEL KARIN MARIBEL
+108                 Grave               316.00                              0.25       100
+Conductor: SANCHEZ DEL CASTILLO FIORELLA ROSARIO
+120                 Grave               316.00                              0.25       100
+Conductor: ZEGARRA PENA CARMELA
+204                 Leve                158.00                              0.50
+Conductor: VIZCARDO SINCHE MARIBEL
+113                 Grave               316.00                              0.25       100
+Conductor: RODRIGUEZ MORENO BLANCA OFELIA
+150                 Grave               316.00                              0.25       100
+Conductor: VILCARA YALLICO MAGALI
+338                 Muy Grave           0.00                                  12      2000
+Conductor: VALDERRAMA BERROCAL EVERT
+311                 Muy Grave           474.00                                 0       500
+Conductor: ZAVALETA VILCA ERICKA ELEONOR
+308                 Muy Grave           948.00                                 1       600
+Conductor: POMAJAMBO EGUSQUIZA PAUL
+308                 Muy Grave           948.00                                 1       600
+Conductor: PRADO VERA JUAN
+154                 Grave               316.00                              0.25       100
+Conductor: SUAREZ CHANG GLORIA
+306                 Muy Grave           948.00                                 1       600
+Conductor: RIVERO CORONADO HECTOR ALONSO
+158                 Grave               316.00                              0.25       100
+Conductor: FLORENCIO CORONADO ALONSO
+135                 Grave               316.00                              0.25       100
+Conductor: LOZADA ARGUEDAS FELICITA VALENTINA
+133                 Grave               316.00                              0.25       100
+Conductor: MERCADO CORONEL ELIA
+118                 Grave               316.00                              0.25       100
+Conductor: SALAMANCA CABRERA NESTOR EVERT
+111                 Grave               316.00                              0.25       100
+Conductor: MORALES PASQUEL KARIN MARIBEL
+324                 Muy Grave           474.00                                 0       500
+Conductor: RETAMOSO SALAMANCA DELIA MARITZA
+108                 Grave               316.00                              0.25       100
+Conductor: EGUSQUIZA BERROCAL DORIS NANCY
+165                 Grave               316.00                              0.25       100
+Conductor: FLORIAN VALDERRAMA JOSE
+311                 Muy Grave           474.00                                 0       500
+Conductor: VIZCARRA CARBAJAL IVAN FAUSTO
+336                 Muy Grave           474.00                                 0       500
+Conductor: DIAZ MOYA ELIA ANNIE
+313                 Muy Grave           474.00                                 0       500
+Conductor: VILCA LEE NESTOR HUGO
+104                 Grave               316.00                              0.25       100
+Conductor: SALAMANCA CABRERA NESTOR EVERT
+111                 Grave               316.00                              0.25       100
+Conductor: RUIZ ZEVALLOS WALTER RONY
+208                 Leve                158.00                              0.50
+Conductor: FLORENCIO CORONADO ALONSO
+126                 Grave               316.00                              0.25       100
+Conductor: PRADO VERA JUAN
+315                 Muy Grave           474.00                                 0       500
+Conductor: MORALES PASQUEL KARIN MARIBEL
+119                 Grave               316.00                              0.25       100
+Conductor: RIOS DURAND CARLOS EDILBERTO
+149                 Grave               316.00                              0.25       100
+Conductor: ESCALANTE ROJAS INES ADRIA
+151                 Grave               316.00                              0.25       100
+Conductor: SERRANO IBEROS FRANCISCO
+142                 Grave               316.00                              0.25       100
+Conductor: VALVERDE MAEIREIZO MELVIN JAIR
+207                 Leve                158.00                              0.50
+Conductor: RAMIREZ ASTETE KARINA ESTEFANIA
+147                 Grave               316.00                              0.25       100
+Conductor: LEYVA LANDEO NANCY SONIA
+161                 Grave               316.00                              0.25       100
+Conductor: VILCA LEE NESTOR HUGO
+335                 Muy Grave           474.00                                 0       500
+Conductor: CERNA CERNA CINTHIA
+152                 Grave               316.00                              0.25       100
+Conductor: TRIGUEROS PORTUGAL ARTURO FAUSTO
+121                 Grave               316.00                              0.25       200
+Conductor: LEYVA SAM DIANA DELIA
+208                 Leve                158.00                              0.50
+Conductor: ARCA SANCHEZ MAGALI BEATRIZ
+306                 Muy Grave           948.00                                 1       600
+Conductor: AVILA DEL CASTILLO ANNIE
+331                 Muy Grave           474.00                                 0       500
+Conductor: PINTO ROJAS JUVENAL FRANCISCO
+204                 Leve                158.00                              0.50
+Conductor: EPIQUEN AVILA ENRIQUE
+158                 Grave               316.00                              0.25       100
+Conductor: JUSTINO MARTINEZ ENRIQUE
+320                 Muy Grave           711.00                                 1       600
+Conductor: AVILA REYES TATIANA
+113                 Grave               316.00                              0.25       100
+Conductor: RAFFO CORONADO ROLANDO
+318                 Muy Grave           474.00                                 0       500
+Conductor: EPIQUEN YEP GUIDA VICTORIA
+105                 Grave               316.00                              0.25       200
+Conductor: ARCA LARRIEGA LUCERO YLIANA
+154                 Grave               316.00                              0.25       100
+Conductor: RETAMOSO SALAMANCA DELIA MARITZA
+306                 Muy Grave           948.00                                 1       600
+Conductor: FIGUEROA MEDINA MADELEINE
+134                 Grave               316.00                              0.25       100
+Conductor: IPARRAGUIRRE PEREZ NICOLAS
+148                 Grave               316.00                              0.25       100
+Conductor: CABRERA TORO FANNY
+103                 Grave               316.00                              0.25       200
+Conductor: PINTO ROJAS JUVENAL FRANCISCO
+164                 Grave               316.00                              0.25       100
+Conductor: ESCALANTE ROJAS INES ADRIA
+334                 Muy Grave           474.00                                 0       500
+Conductor: SOLIS CHUNG ROLANDO
+151                 Grave               316.00                              0.25       100
+Conductor: MOSCOSO ARIAS FIORELLA
+138                 Grave               316.00                              0.25       100
+Conductor: HERNANDEZ CORRALES GUILLERMO
+123                 Grave               316.00                              0.25       100
+Conductor: LEYVA LANDEO NANCY SONIA
+322                 Muy Grave           474.00                                 0       500
+Conductor: SERRANO IBEROS FRANCISCO
+134                 Grave               316.00                              0.25       100
+Conductor: VIZCARRA MONTERO JAIR
+129                 Grave               316.00                              0.25       100
+Conductor: RAFFO CORONADO ROLANDO
+328                 Muy Grave           474.00                                 0       500
+Conductor: ZAMORA ZAVALETA RONAL MANUEL
+160                 Grave               316.00                              0.25       100
+Conductor: FARFAN SALAZAR MARGOT
+341                 Muy Grave           5925.00                                6      2000
+Conductor: HENRIQUEZ PAREDES PAUL RAFAEL
+337                 Muy Grave           0.00                                  12      2000
+Conductor: AVILA REYES TATIANA
+144                 Grave               316.00                              0.25       100
+Conductor: JAUREGUI DEL CASTILLO VICTOR RICARDO
+134                 Grave               316.00                              0.25       100
+Conductor: AYALA CASTILLO ERICKA OFELIA
+127                 Grave               316.00                              0.25       100
+Conductor: CERNA CERNA CINTHIA
+104                 Grave               316.00                              0.25       100
+Conductor: MORALES PASQUEL KARIN MARIBEL
+141                 Grave               316.00                              0.25       100
+Conductor: EPIQUEN AVILA ENRIQUE
+133                 Grave               316.00                              0.25       100
+Conductor: SUELDO SEDANO ADRIA
+315                 Muy Grave           474.00                                 0       500
+Conductor: SOLIS CHUNG ROLANDO
+332                 Muy Grave           474.00                                 0       500
+Conductor: DURAND MIRANDA MIGUEL JUAN
+335                 Muy Grave           474.00                                 0       500
+Conductor: ZAVALETA VILCA ERICKA ELEONOR
+330                 Muy Grave           474.00                                 0       500
+Conductor: RETAMOSO SALAMANCA DELIA MARITZA
+129                 Grave               316.00                              0.25       100
+Conductor: AVILA MARTEL JAIME MANUEL
+142                 Grave               316.00                              0.25       100
+Conductor: WONG MAEIREIZO BEATRIZ
+318                 Muy Grave           474.00                                 0       500
+Conductor: ESCALANTE ROJAS INES ADRIA
+304                 Muy Grave           3950.00                                6       100
+Conductor: AYALA CASTILLO ERICKA OFELIA
+160                 Grave               316.00                              0.25       100
+Conductor: VIZCARRA CARBAJAL IVAN FAUSTO
+138                 Grave               316.00                              0.25       100
+Conductor: HERNANDEZ CORRALES GUILLERMO
+163                 Grave               316.00                              0.25       100
+Conductor: SANCHEZ DEL CASTILLO FIORELLA ROSARIO
+332                 Muy Grave           474.00                                 0       500
+Conductor: FIGUEROA MEDINA MADELEINE
+302                 Muy Grave           1975.00                                3       800
+Conductor: IPARRAGUIRRE PEREZ NICOLAS
+305                 Muy Grave           1975.00                                3       800
+Conductor: FLORIAN CUBA CHRISTIAN
+328                 Muy Grave           474.00                                 0       500
+Conductor: PRADO VERA JUAN
+208                 Leve                158.00                              0.50
+Conductor: HENRIQUEZ PAREDES PAUL RAFAEL
+137                 Grave               316.00                              0.25       200
+Conductor: VIZCARRA MONTERO JAIR
+320                 Muy Grave           711.00                                 1       600
+Conductor: LEYVA SAM DIANA DELIA
+114                 Grave               316.00                              0.25       100
+Conductor: CORTES CORTEZ RAUL ALEX
+141                 Grave               316.00                              0.25       100
+Conductor: FUENTES ESCALANTE PATRICIA ELIZABETH
+159                 Grave               316.00                              0.25       100
+Conductor: FLORENCIO CORONADO ALONSO
+134                 Grave               316.00                              0.25       100
+Conductor: ARROYO TOMASICHE NATALIA
+143                 Grave               316.00                              0.25       100
+Conductor: NORABUENA MOYA HECTOR
+137                 Grave               316.00                              0.25       200
+Conductor: MEJIA RODRIGUEZ INES VALENTINA
+331                 Muy Grave           474.00                                 0       500
+Conductor: SUELDO SEDANO ADRIA
+146                 Grave               316.00                              0.25       100
+Conductor: MORALES PASQUEL KARIN MARIBEL
+304                 Muy Grave           3950.00                                6       100
+Conductor: PATINO BOLANOS DELICIA VIRGINIA
+160                 Grave               316.00                              0.25       100
+Conductor: VALDERRAMA BERROCAL EVERT
+142                 Grave               316.00                              0.25       100
+Conductor: FUENTES GAMARRA HUGO
+316                 Muy Grave           474.00                                 0       500
+Conductor: EPIQUEN YEP GUIDA VICTORIA
+315                 Muy Grave           474.00                                 0       500
+Conductor: AYALA CASTILLO ERICKA OFELIA
+119                 Grave               316.00                              0.25       100
+Conductor: SALAMANCA VEGA VIRGINIA MARTHA
+131                 Grave               316.00                              0.25       200
+Conductor: FLORIAN CUBA CHRISTIAN
+125                 Grave               316.00                              0.25       100
+Conductor: ESPINOZA CHANG SHIRLEY
+203                 Leve                158.00                              0.50
+Conductor: GORDILLO SANCHEZ RONALD JUVENAL
+148                 Grave               316.00                              0.25       100
+Conductor: MOSCOSO LAURA JANET VALENTINA
+153                 Grave               316.00                              0.25       100
+Conductor: ARCA SANCHEZ MAGALI BEATRIZ
+161                 Grave               316.00                              0.25       100
+Conductor: LEYVA LANDEO NANCY SONIA
+332                 Muy Grave           474.00                                 0       500
+Conductor: VIZCARDO SINCHE MARIBEL
+311                 Muy Grave           474.00                                 0       500
+Conductor: ZAMORA ZAVALETA RONAL MANUEL
+147                 Grave               316.00                              0.25       100
+Conductor: ESCALANTE ROJAS INES ADRIA
+126                 Grave               316.00                              0.25       100
+Conductor: WONG MAEIREIZO BEATRIZ
+339                 Muy Grave           0.00                                  12      2000
+Conductor: CONTRERAS CHANG JOHANA CINTHIA
+205                 Leve                158.00                              0.50
+Conductor: IPARRAGUIRRE PEREZ NICOLAS
+126                 Grave               316.00                              0.25       100
+Conductor: IPARRAGUIRRE PEREZ NICOLAS
+308                 Muy Grave           948.00                                 1       600
+Conductor: LOZADA IBEROS HELI BLANCA
+106                 Grave               316.00                              0.25       100
+Conductor: JAUREGUI DEL CASTILLO VICTOR RICARDO
+127                 Grave               316.00                              0.25       100
+Conductor: HIJAR LAM MARTIN
+165                 Grave               316.00                              0.25       100
+Conductor: TANG MOSCOSO JOHANA
+306                 Muy Grave           948.00                                 1       600
+Conductor: CASANOVA ZEGARRA MARITZA
+117                 Grave               316.00                              0.25       100
+Conductor: LOZADA ARGUEDAS FELICITA VALENTINA
+134                 Grave               316.00                              0.25       100
+Conductor: HENRIQUEZ PAREDES PAUL RAFAEL
+207                 Leve                158.00                              0.50
+Conductor: FLORENCIO CORONADO ALONSO
+112                 Grave               316.00                              0.25       100
+Conductor: RUIZ ZEVALLOS WALTER RONY
+307                 Muy Grave           948.00                                 1       600
+Conductor: MORALES PASQUEL KARIN MARIBEL
+304                 Muy Grave           3950.00                                6       100
+Conductor: MINAYA BERROCAL HELI
+208                 Leve                158.00                              0.50
+Conductor: INGA PALOMARES ERIKA
+145                 Grave               316.00                              0.25       100
+Conductor: PRADO VERA JUAN
+316                 Muy Grave           474.00                                 0       500
+Conductor: ARCA LARRIEGA LUCERO YLIANA
+341                 Muy Grave           5925.00                                6      2000
+Conductor: ESCALANTE ROJAS INES ADRIA
+203                 Leve                158.00                              0.50
+Conductor: LEYVA SAM DIANA DELIA
+165                 Grave               316.00                              0.25       100
+Conductor: JUSTINO MARTINEZ ENRIQUE
+121                 Grave               316.00                              0.25       200
+Conductor: VALDERRAMA BERROCAL EVERT
+306                 Muy Grave           948.00                                 1       600
+Conductor: JUSTINO MARTINEZ ENRIQUE
+301                 Muy Grave           3950.00                                6      1000
+Conductor: ZEGARRA PENA CARMELA
+315                 Muy Grave           474.00                                 0       500
+Conductor: LEYVA SAM DIANA DELIA
+111                 Grave               316.00                              0.25       100
+Conductor: BACA CAMACHO MILAGROS NATALIA
+146                 Grave               316.00                              0.25       100
+Conductor: SALAMANCA VEGA VIRGINIA MARTHA
+108                 Grave               316.00                              0.25       100
+Conductor: SAAVEDRA GONZALES WILMER
+317                 Muy Grave           474.00                                 0       500
+Conductor: RUIZ ZEVALLOS WALTER RONY
+116                 Grave               316.00                              0.25       100
+Conductor: SANCHEZ DEL CASTILLO FIORELLA ROSARIO
+164                 Grave               316.00                              0.25       100
+Conductor: TANG MOSCOSO JOHANA
+143                 Grave               316.00                              0.25       100
+Conductor: SUELDO SEDANO ADRIA
+109                 Grave               316.00                              0.25       200
+Conductor: MARTINEZ CRUZ EVERT RONY
+126                 Grave               316.00                              0.25       100
+Conductor: CORTES CORTEZ RAUL ALEX
+329                 Muy Grave           474.00                                 0       500
+Conductor: AVILA MARTEL JAIME MANUEL
+320                 Muy Grave           711.00                                 1       600
+Conductor: AVILA DEL CASTILLO ANNIE
+304                 Muy Grave           3950.00                                6       100
+Conductor: RIVERO CORONADO HECTOR ALONSO
+208                 Leve                158.00                              0.50
+Conductor: MERCADO CORONEL ELIA
+307                 Muy Grave           948.00                                 1       600
+Conductor: RODRIGUEZ MORENO BLANCA OFELIA
+328                 Muy Grave           474.00                                 0       500
+Conductor: RONDON CABRERA ALEXANDER ADOLFO
+122                 Grave               316.00                              0.25       100
+Conductor: SANCHEZ DEL CASTILLO FIORELLA ROSARIO
+323                 Muy Grave           474.00                                 0       500
+Conductor: RIVERO CORONADO HECTOR ALONSO
+153                 Grave               316.00                              0.25       100
+Conductor: MORALES PASQUEL KARIN MARIBEL
+205                 Leve                158.00                              0.50
+Conductor: GONZALES GAMARRA GIOVANA KARINA
+204                 Leve                158.00                              0.50
+Conductor: SALAMANCA VEGA VIRGINIA MARTHA
+155                 Grave               316.00                              0.25       100
+Conductor: VALDERRAMA BERROCAL EVERT
+324                 Muy Grave           474.00                                 0       500
+Conductor: AYALA CASTILLO ERICKA OFELIA
+205                 Leve                158.00                              0.50
+Conductor: MOSCOSO ARIAS FIORELLA
+154                 Grave               316.00                              0.25       100
+Conductor: VILCARA YALLICO MAGALI
+126                 Grave               316.00                              0.25       100
+Conductor: EGUSQUIZA BERROCAL DORIS NANCY
+311                 Muy Grave           474.00                                 0       500
+Conductor: SAAVEDRA GONZALES WILMER
+158                 Grave               316.00                              0.25       100
+Conductor: ZAMORA ZAVALETA RONAL MANUEL
+107                 Grave               316.00                              0.25       100
+Conductor: RUIZ ZEVALLOS WALTER RONY
+165                 Grave               316.00                              0.25       100
+Conductor: SOLIS NARVAEZ MARIA MADELEINE
+104                 Grave               316.00                              0.25       100
+Conductor: WONG MAEIREIZO BEATRIZ
+328                 Muy Grave           474.00                                 0       500
+Conductor: RIVERO CORONADO HECTOR ALONSO
+322                 Muy Grave           474.00                                 0       500
+Conductor: RUIZ ZEVALLOS WALTER RONY
+139                 Grave               316.00                              0.25       100
+Conductor: WONG MAEIREIZO BEATRIZ
+309                 Muy Grave           948.00                                 1       600
+Conductor: FLORENCIO CORONADO ALONSO
+115                 Grave               316.00                              0.25       200
+Conductor: DIAZ TANG ENRIQUE
+341                 Muy Grave           5925.00                                6      2000
+Conductor: FARFAN SALAZAR MARGOT
+304                 Muy Grave           3950.00                                6       100
+Conductor: ARCA LARRIEGA LUCERO YLIANA
+147                 Grave               316.00                              0.25       100
+Conductor: VILCARA YALLICO MAGALI
+126                 Grave               316.00                              0.25       100
+Conductor: POMAJAMBO EGUSQUIZA PAUL
+122                 Grave               316.00                              0.25       100
+Conductor: VIZCARRA CARBAJAL IVAN FAUSTO
+322                 Muy Grave           474.00                                 0       500
+Conductor: NORABUENA MOYA HECTOR
+323                 Muy Grave           474.00                                 0       500
+Conductor: LEYVA SAM DIANA DELIA
+139                 Grave               316.00                              0.25       100
+Conductor: RODRIGUEZ MORENO BLANCA OFELIA
+115                 Grave               316.00                              0.25       200
+Conductor: ARCA SANCHEZ MAGALI BEATRIZ
+334                 Muy Grave           474.00                                 0       500
+Conductor: CASANOVA ZEGARRA MARITZA
+202                 Leve                158.00                              0.50
+Conductor: CORTES CORTEZ RAUL ALEX
+166                 Grave               316.00                              0.25       100
+Conductor: SEDANO RETAMOSO ELIA YOLANDA
+112                 Grave               316.00                              0.25       100
+Conductor: LEYVA SAM DIANA DELIA
+108                 Grave               316.00                              0.25       100
+Conductor: FLORENCIO CORONADO ALONSO
+332                 Muy Grave           474.00                                 0       500
+Conductor: FIGUEROA MEDINA MADELEINE
+137                 Grave               316.00                              0.25       200
+Conductor: CANO POLO MILAGROS ISABEL
+133                 Grave               316.00                              0.25       100
+Conductor: SERRANO IBEROS FRANCISCO
+325                 Muy Grave           474.00                                 0       500
+Conductor: CAMACHO PAIRAZAMAN YDALI LUCERO
+115                 Grave               316.00                              0.25       200
+Conductor: ZARATE PEREZ ALEXANDER
+153                 Grave               316.00                              0.25       100
+Conductor: LAU ZAVALETA YDALI ELIA
+122                 Grave               316.00                              0.25       100
+Conductor: AVILA DEL CASTILLO ANNIE
+163                 Grave               316.00                              0.25       100
+Conductor: RAFFO CORONADO ROLANDO
+305                 Muy Grave           1975.00                                3       800
+Conductor: CARBAJAL SALAS MAGDA ZKENIA
+130                 Grave               316.00                              0.25       100
+Conductor: MOSCOSO ARIAS FIORELLA
+145                 Grave               316.00                              0.25       100
+Conductor: LOZADA ARGUEDAS FELICITA VALENTINA
+311                 Muy Grave           474.00                                 0       500
+Conductor: FIGUEROA MEDINA MADELEINE
+208                 Leve                158.00                              0.50
+Conductor: ZAVALETA CORONADO FELICITA ELOISA
+304                 Muy Grave           3950.00                                6       100
+Conductor: CANO POLO MILAGROS ISABEL
+139                 Grave               316.00                              0.25       100
+Conductor: RETAMOSO SALAMANCA DELIA MARITZA
+154                 Grave               316.00                              0.25       100
+Conductor: LAU ZAVALETA YDALI ELIA
+124                 Grave               316.00                              0.25       100
+Conductor: AVILA REYES TATIANA
+138                 Grave               316.00                              0.25       100
+Conductor: ZAVALETA VILCA ERICKA ELEONOR
+301                 Muy Grave           3950.00                                6      1000
+Conductor: CERNA CERNA CINTHIA
+309                 Muy Grave           948.00                                 1       600
+Conductor: CONTRERAS CHANG JOHANA CINTHIA
+334                 Muy Grave           474.00                                 0       500
+Conductor: BRAVO CORTES JANET FLOR
+145                 Grave               316.00                              0.25       100
+Conductor: SALAMANCA VEGA VIRGINIA MARTHA
+130                 Grave               316.00                              0.25       100
+Conductor: CANO POLO MILAGROS ISABEL
+164                 Grave               316.00                              0.25       100
+Conductor: FLORENCIO CORONADO ALONSO
+152                 Grave               316.00                              0.25       100
+Conductor: CUEVA FUENTES CINTHIA DELIA
+331                 Muy Grave           474.00                                 0       500
+Conductor: VALDERRAMA BERROCAL EVERT
+322                 Muy Grave           474.00                                 0       500
+Conductor: FLORENCIO CORONADO ALONSO
+141                 Grave               316.00                              0.25       100
+Conductor: TANG MOSCOSO JOHANA
+305                 Muy Grave           1975.00                                3       800
+Conductor: BRAVO CORTES JANET FLOR
+140                 Grave               316.00                              0.25       100
+Conductor: SUELDO ANTEZANO LUIS JESUS
+145                 Grave               316.00                              0.25       100
+Conductor: CAMACHO PAIRAZAMAN YDALI LUCERO
+302                 Muy Grave           1975.00                                3       800
+Conductor: NARVAEZ CASTILLO JESUS RAFAEL
+323                 Muy Grave           474.00                                 0       500
+Conductor: VIZCARDO SINCHE MARIBEL
+206                 Leve                158.00                              0.50
+Conductor: AVILA DEL CASTILLO ANNIE
+130                 Grave               316.00                              0.25       100
+Conductor: MORALES PASQUEL KARIN MARIBEL
+109                 Grave               316.00                              0.25       200
+Conductor: GORDILLO SANCHEZ RONALD JUVENAL
+115                 Grave               316.00                              0.25       200
+Conductor: WONG MAEIREIZO BEATRIZ
+324                 Muy Grave           474.00                                 0       500
+Conductor: TOKESHI GUEVARA JAIME
+301                 Muy Grave           3950.00                                6      1000
+Conductor: SUELDO SEDANO ADRIA
+128                 Grave               316.00                              0.25       100
+Conductor: MORALES PASQUEL KARIN MARIBEL
+326                 Muy Grave           474.00                                 0       500
+Conductor: RAMIREZ ASTETE KARINA ESTEFANIA
+325                 Muy Grave           474.00                                 0       500
+Conductor: MORALES PASQUEL KARIN MARIBEL
+312                 Muy Grave           474.00                                 0       500
+Conductor: PRADO VERA JUAN
+108                 Grave               316.00                              0.25       100
+Conductor: VIZCARRA CARBAJAL IVAN FAUSTO
+125                 Grave               316.00                              0.25       100
+Conductor: SERRANO IBEROS FRANCISCO
+101                 Grave               316.00                              0.25       200
+Conductor: RETAMOSO SALAMANCA DELIA MARITZA
+105                 Grave               316.00                              0.25       200
+Conductor: ZARATE PEREZ ALEXANDER
+337                 Muy Grave           0.00                                  12      2000
+Conductor: VIZCARDO SINCHE MARIBEL
+122                 Grave               316.00                              0.25       100
+Conductor: SALAMANCA CABRERA NESTOR EVERT
+315                 Muy Grave           474.00                                 0       500
+Conductor: RETAMOSO SALAMANCA DELIA MARITZA
+324                 Muy Grave           474.00                                 0       500
+Conductor: LOZADA FORZANI DELIA
+135                 Grave               316.00                              0.25       100
+Conductor: HIJAR LAM MARTIN
+201                 Leve                158.00                              0.50
+Conductor: MOSCOSO ARIAS FIORELLA
+301                 Muy Grave           3950.00                                6      1000
+Conductor: RIVERO CORONADO HECTOR ALONSO
+112                 Grave               316.00                              0.25       100
+Conductor: AVILA MARTEL JAIME MANUEL
+204                 Leve                158.00                              0.50
+Conductor: ZEGARRA PENA CARMELA
+124                 Grave               316.00                              0.25       100
+Conductor: RONDON CABRERA ALEXANDER ADOLFO
+121                 Grave               316.00                              0.25       200
+Conductor: CONTRERAS CHANG JOHANA CINTHIA
+305                 Muy Grave           1975.00                                3       800
+Conductor: MORALES PASQUEL KARIN MARIBEL
+105                 Grave               316.00                              0.25       200
+Conductor: INFANTES MERCADO LUIS WALDEMAR
+126                 Grave               316.00                              0.25       100
+Conductor: JAUREGUI DEL CASTILLO VICTOR RICARDO
+336                 Muy Grave           474.00                                 0       500
+Conductor: BRAVO CORTES JANET FLOR
+133                 Grave               316.00                              0.25       100
+Conductor: SAAVEDRA GONZALES WILMER
+307                 Muy Grave           948.00                                 1       600
+Conductor: FLORIAN CUBA CHRISTIAN
+312                 Muy Grave           474.00                                 0       500
+Conductor: CASANOVA ZEGARRA MARITZA
+110                 Grave               316.00                              0.25       100
+Conductor: FLORIAN CUBA CHRISTIAN
+106                 Grave               316.00                              0.25       100
+Conductor: VALVERDE MAEIREIZO MELVIN JAIR
+206                 Leve                158.00                              0.50
+Conductor: BRAVO CORTES JANET FLOR
+156                 Grave               316.00                              0.25       200
+Conductor: VIZCARRA CARBAJAL IVAN FAUSTO
+207                 Leve                158.00                              0.50
+Conductor: TANG MOSCOSO JOHANA
+205                 Leve                158.00                              0.50
+Conductor: GORDILLO SANCHEZ RONALD JUVENAL
+163                 Grave               316.00                              0.25       100
+Conductor: AVILA DEL CASTILLO ANNIE
+133                 Grave               316.00                              0.25       100
+Conductor: FUENTES ESCALANTE PATRICIA ELIZABETH
+149                 Grave               316.00                              0.25       100
+Conductor: VIZCARRA CARBAJAL IVAN FAUSTO
+118                 Grave               316.00                              0.25       100
+Conductor: INGA PALOMARES ERIKA
+101                 Grave               316.00                              0.25       200
+Conductor: ARROYO TOMASICHE NATALIA
+324                 Muy Grave           474.00                                 0       500
+Conductor: ESPINOZA CHANG SHIRLEY
+320                 Muy Grave           711.00                                 1       600
+Conductor: CORTES CORTEZ RAUL ALEX
+101                 Grave               316.00                              0.25       200
+Conductor: LEYVA LANDEO NANCY SONIA
+157                 Grave               316.00                              0.25       100
+Conductor: AVILA REYES TATIANA
+338                 Muy Grave           0.00                                  12      2000
+Conductor: VIZCARDO SINCHE MARIBEL
+339                 Muy Grave           0.00                                  12      2000
+Conductor: SUAREZ CHANG GLORIA
+123                 Grave               316.00                              0.25       100
+Conductor: LOZADA ARGUEDAS FELICITA VALENTINA
+201                 Leve                158.00                              0.50
+Conductor: RODRIGUEZ MORENO BLANCA OFELIA
+101                 Grave               316.00                              0.25       200
+Conductor: VALDERRAMA BERROCAL EVERT
+109                 Grave               316.00                              0.25       200
+Conductor: VALDERRAMA BERROCAL EVERT
+333                 Muy Grave           474.00                                 0       500
+Conductor: RETAMOSO SALAMANCA DELIA MARITZA
+208                 Leve                158.00                              0.50
+Conductor: LEYVA LANDEO NANCY SONIA
+163                 Grave               316.00                              0.25       100
+Conductor: JAUREGUI DEL CASTILLO VICTOR RICARDO
+111                 Grave               316.00                              0.25       100
+Conductor: DIAZ TANG ENRIQUE
+307                 Muy Grave           948.00                                 1       600
+Conductor: PATINO BOLANOS DELICIA VIRGINIA
+203                 Leve                158.00                              0.50
+Conductor: FIGUEROA MEDINA MADELEINE
+326                 Muy Grave           474.00                                 0       500
+Conductor: JUSTINO MARTINEZ ENRIQUE
+339                 Muy Grave           0.00                                  12      2000
+Conductor: WONG MAEIREIZO BEATRIZ
+163                 Grave               316.00                              0.25       100
+Conductor: AVILA DEL CASTILLO ANNIE
+150                 Grave               316.00                              0.25       100
+Conductor: DIAZ TANG ENRIQUE
+133                 Grave               316.00                              0.25       100
+Conductor: JAUREGUI DEL CASTILLO VICTOR RICARDO
+132                 Grave               316.00                              0.25       100
+Conductor: LEYVA LANDEO NANCY SONIA
+106                 Grave               316.00                              0.25       100
+Conductor: SUELDO ANTEZANO LUIS JESUS
+114                 Grave               316.00                              0.25       100
+Conductor: ESPINOZA CHANG SHIRLEY
+153                 Grave               316.00                              0.25       100
+Conductor: FIGUEROA MEDINA MADELEINE
+321                 Muy Grave           474.00                                 0       500
+Conductor: PINTO ROJAS JUVENAL FRANCISCO
+166                 Grave               316.00                              0.25       100
+Conductor: AVILA REYES TATIANA
+106                 Grave               316.00                              0.25       100
+Conductor: ZAVALETA VILCA ERICKA ELEONOR
+317                 Muy Grave           474.00                                 0       500
+Conductor: FUENTES ESCALANTE PATRICIA ELIZABETH
+325                 Muy Grave           474.00                                 0       500
+Conductor: FUENTES ESCALANTE PATRICIA ELIZABETH
+111                 Grave               316.00                              0.25       100
+Conductor: SUELDO ANTEZANO LUIS JESUS
+147                 Grave               316.00                              0.25       100
+Conductor: TANG MOSCOSO JOHANA
+309                 Muy Grave           948.00                                 1       600
+Conductor: SANCHEZ DEL CASTILLO FIORELLA ROSARIO
+306                 Muy Grave           948.00                                 1       600
+Conductor: CONTRERAS CHANG JOHANA CINTHIA
+305                 Muy Grave           1975.00                                3       800
+Conductor: DURAND MIRANDA MIGUEL JUAN
+147                 Grave               316.00                              0.25       100
+Conductor: NORABUENA MOYA HECTOR
+202                 Leve                158.00                              0.50
+Conductor: MARTINEZ CRUZ EVERT RONY
+160                 Grave               316.00                              0.25       100
+Conductor: CONTRERAS CHANG JOHANA CINTHIA
+115                 Grave               316.00                              0.25       200
+Conductor: CUEVA FUENTES CINTHIA DELIA
+312                 Muy Grave           474.00                                 0       500
+Conductor: SAAVEDRA GONZALES WILMER
+154                 Grave               316.00                              0.25       100
+Conductor: POMAJAMBO EGUSQUIZA PAUL
+145                 Grave               316.00                              0.25       100
+Conductor: TRIGUEROS JUGO LUZ
+147                 Grave               316.00                              0.25       100
+Conductor: PRADO ESPINOZA MILAGROS
+104                 Grave               316.00                              0.25       100
+Conductor: TOKESHI GUEVARA JAIME
+148                 Grave               316.00                              0.25       100
+Conductor: CANO POLO MILAGROS ISABEL
+160                 Grave               316.00                              0.25       100
+Conductor: ARROYO TOMASICHE NATALIA
+125                 Grave               316.00                              0.25       100
+Conductor: SAAVEDRA GONZALES WILMER
+163                 Grave               316.00                              0.25       100
+Conductor: SALAMANCA VEGA VIRGINIA MARTHA
+205                 Leve                158.00                              0.50
+Conductor: BRAVO CORTES JANET FLOR
+164                 Grave               316.00                              0.25       100
+Conductor: MORALES PASQUEL KARIN MARIBEL
+121                 Grave               316.00                              0.25       200
+Conductor: MINAYA BERROCAL HELI
+341                 Muy Grave           5925.00                                6      2000
+Conductor: NARVAEZ CASTILLO JESUS RAFAEL
+127                 Grave               316.00                              0.25       100
+Conductor: AYALA CASTILLO ERICKA OFELIA
+332                 Muy Grave           474.00                                 0       500
+Conductor: LEE SERRANO ROSARIO
+327                 Muy Grave           1975.00                                1       600
+Conductor: ARROYO TOMASICHE NATALIA
+123                 Grave               316.00                              0.25       100
+Conductor: IPARRAGUIRRE PEREZ NICOLAS
+124                 Grave               316.00                              0.25       100
+Conductor: RIOS DURAND CARLOS EDILBERTO
+117                 Grave               316.00                              0.25       100
+Conductor: MORALES PASQUEL KARIN MARIBEL
+160                 Grave               316.00                              0.25       100
+Conductor: MINAYA BERROCAL HELI
+108                 Grave               316.00                              0.25       100
+Conductor: CONTRERAS CHANG JOHANA CINTHIA
+127                 Grave               316.00                              0.25       100
+Conductor: AYALA CASTILLO ERICKA OFELIA
+170                 Grave               316.00                              0.25       100
+Conductor: JUSTINO MARTINEZ ENRIQUE
+159                 Grave               316.00                              0.25       100
+Conductor: LEE SERRANO ROSARIO
+121                 Grave               316.00                              0.25       200
+Conductor: SALAMANCA VEGA VIRGINIA MARTHA
+136                 Grave               316.00                              0.25       100
+Conductor: CERNA CERNA CINTHIA
+309                 Muy Grave           948.00                                 1       600
+Conductor: RIVERO CORTEZ WILVER ALFONSO
+327                 Muy Grave           1975.00                                1       600
+Conductor: SERRANO IBEROS FRANCISCO
+158                 Grave               316.00                              0.25       100
+Conductor: SUELDO ANTEZANO LUIS JESUS
+136                 Grave               316.00                              0.25       100
+Conductor: LEYVA SAM DIANA DELIA
+147                 Grave               316.00                              0.25       100
+Conductor: AVILA DEL CASTILLO ANNIE
+205                 Leve                158.00                              0.50
+Conductor: EGUSQUIZA BERROCAL DORIS NANCY
+305                 Muy Grave           1975.00                                3       800
+Conductor: LEYVA LANDEO NANCY SONIA
+306                 Muy Grave           948.00                                 1       600
+Conductor: MERCADO CORONEL ELIA
+126                 Grave               316.00                              0.25       100
+Conductor: AVILA REYES TATIANA
+202                 Leve                158.00                              0.50
+Conductor: BACA CAMACHO MILAGROS NATALIA
+115                 Grave               316.00                              0.25       200
+Conductor: PRADO VERA JUAN
+128                 Grave               316.00                              0.25       100
+Conductor: CHAVEZ BERROCAL JOHAN
+314                 Muy Grave           474.00                                 0       500
+Conductor: CAMACHO PAIRAZAMAN YDALI LUCERO
+136                 Grave               316.00                              0.25       100
+Conductor: RETAMOSO SALAMANCA DELIA MARITZA
+117                 Grave               316.00                              0.25       100
+Conductor: PRADO VERA JUAN
+116                 Grave               316.00                              0.25       100
+Conductor: RAFFO CORONADO ROLANDO
+125                 Grave               316.00                              0.25       100
+Conductor: LEYVA SAM DIANA DELIA
+152                 Grave               316.00                              0.25       100
+Conductor: BRAVO CORTES JANET FLOR
+150                 Grave               316.00                              0.25       100
+Conductor: FARFAN SALAZAR MARGOT
+325                 Muy Grave           474.00                                 0       500
+Conductor: DIAZ TANG ENRIQUE
+118                 Grave               316.00                              0.25       100
+Conductor: CANO POLO MILAGROS ISABEL
+109                 Grave               316.00                              0.25       200
+Conductor: NARVAEZ CASTILLO JESUS RAFAEL
+159                 Grave               316.00                              0.25       100
+Conductor: SALAMANCA CABRERA NESTOR EVERT
+151                 Grave               316.00                              0.25       100
+Conductor: ZEGARRA PENA CARMELA
+142                 Grave               316.00                              0.25       100
+Conductor: IPARRAGUIRRE PEREZ NICOLAS
+170                 Grave               316.00                              0.25       100
+Conductor: AVILA MARTEL JAIME MANUEL
+156                 Grave               316.00                              0.25       200
+Conductor: JAUREGUI DEL CASTILLO VICTOR RICARDO
+318                 Muy Grave           474.00                                 0       500
+Conductor: VILCA LEE NESTOR HUGO
+205                 Leve                158.00                              0.50
+Conductor: YEP PRECIADO RICHARD
+341                 Muy Grave           5925.00                                6      2000
+Conductor: AYALA CASTILLO ERICKA OFELIA
+166                 Grave               316.00                              0.25       100
+Conductor: SALAMANCA VEGA VIRGINIA MARTHA
+337                 Muy Grave           0.00                                  12      2000
+Conductor: CANO POLO MILAGROS ISABEL
+141                 Grave               316.00                              0.25       100
+Conductor: TOKESHI GUEVARA JAIME
+151                 Grave               316.00                              0.25       100
+Conductor: VALVERDE MAEIREIZO MELVIN JAIR
+144                 Grave               316.00                              0.25       100
+Conductor: DURAND MIRANDA MIGUEL JUAN
+304                 Muy Grave           3950.00                                6       100
+Conductor: EGUSQUIZA BERROCAL DORIS NANCY
+334                 Muy Grave           474.00                                 0       500
+Conductor: JUSTINO MARTINEZ ENRIQUE
+327                 Muy Grave           1975.00                                1       600
+Conductor: HENRIQUEZ PAREDES PAUL RAFAEL
+155                 Grave               316.00                              0.25       100
+Conductor: INGA PALOMARES ERIKA
+108                 Grave               316.00                              0.25       100
+Conductor: EPIQUEN YEP GUIDA VICTORIA
+315                 Muy Grave           474.00                                 0       500
+Conductor: BRAVO CORTES JANET FLOR
+147                 Grave               316.00                              0.25       100
+Conductor: SUAREZ CHANG GLORIA
+154                 Grave               316.00                              0.25       100
+Conductor: LEYVA SAM DIANA DELIA
+310                 Muy Grave           474.00                                 0       500
+Conductor: ARCA SANCHEZ MAGALI BEATRIZ
+106                 Grave               316.00                              0.25       100
+Conductor: IPARRAGUIRRE PEREZ NICOLAS
+327                 Muy Grave           1975.00                                1       600
+Conductor: QUIROGA HERNANDEZ SILVANA ZKENIA
+153                 Grave               316.00                              0.25       100
+Conductor: CONTRERAS CHANG JOHANA CINTHIA
+126                 Grave               316.00                              0.25       100
+Conductor: SOLIS NARVAEZ MARIA MADELEINE
+109                 Grave               316.00                              0.25       200
+Conductor: VALVERDE MAEIREIZO MELVIN JAIR
+152                 Grave               316.00                              0.25       100
+Conductor: ZARATE PEREZ ALEXANDER
+121                 Grave               316.00                              0.25       200
+Conductor: AVILA MARTEL JAIME MANUEL
+130                 Grave               316.00                              0.25       100
+Conductor: VILCA LEE NESTOR HUGO
+111                 Grave               316.00                              0.25       100
+Conductor: PRADO VERA JUAN
+330                 Muy Grave           474.00                                 0       500
+Conductor: CANO POLO MILAGROS ISABEL
+109                 Grave               316.00                              0.25       200
+Conductor: HENRIQUEZ PAREDES PAUL RAFAEL
+103                 Grave               316.00                              0.25       200
+Conductor: RAFFO CORONADO ROLANDO
+149                 Grave               316.00                              0.25       100
+Conductor: CHAVEZ BERROCAL JOHAN
+202                 Leve                158.00                              0.50
+Conductor: RETAMOSO SALAMANCA DELIA MARITZA
+135                 Grave               316.00                              0.25       100
+Conductor: BRAVO CORTES JANET FLOR
+154                 Grave               316.00                              0.25       100
+Conductor: JAUREGUI DEL CASTILLO VICTOR RICARDO
+157                 Grave               316.00                              0.25       100
+Conductor: EPIQUEN AVILA ENRIQUE
+109                 Grave               316.00                              0.25       200
+Conductor: BACA CAMACHO MILAGROS NATALIA
+104                 Grave               316.00                              0.25       100
+Conductor: ASTETE CHANG GUIDA
+201                 Leve                158.00                              0.50
+Conductor: LEE SERRANO ROSARIO
+170                 Grave               316.00                              0.25       100
+Conductor: LEYVA LANDEO NANCY SONIA
+102                 Grave               316.00                              0.25       100
+Conductor: AVILA REYES TATIANA
+331                 Muy Grave           474.00                                 0       500
+Conductor: HENRIQUEZ PAREDES PAUL RAFAEL
+154                 Grave               316.00                              0.25       100
+Conductor: PRADO VERA JUAN
+148                 Grave               316.00                              0.25       100
+Conductor: CHAVEZ BERROCAL JOHAN
+120                 Grave               316.00                              0.25       100
+Conductor: AYALA CASTILLO ERICKA OFELIA
+321                 Muy Grave           474.00                                 0       500
+Conductor: ZEGARRA PENA CARMELA
+323                 Muy Grave           474.00                                 0       500
+Conductor: POMAJAMBO EGUSQUIZA PAUL
+136                 Grave               316.00                              0.25       100
+Conductor: LOZADA FORZANI DELIA
+157                 Grave               316.00                              0.25       100
+Conductor: TOKESHI GUEVARA JAIME
+163                 Grave               316.00                              0.25       100
+Conductor: RODRIGUEZ MORENO BLANCA OFELIA
+136                 Grave               316.00                              0.25       100
+Conductor: ASTETE CHANG GUIDA
+335                 Muy Grave           474.00                                 0       500
+Conductor: MORALES PASQUEL KARIN MARIBEL
+131                 Grave               316.00                              0.25       200
+Conductor: MARTINEZ CRUZ EVERT RONY
+333                 Muy Grave           474.00                                 0       500
+Conductor: MARTINEZ CRUZ EVERT RONY
+149                 Grave               316.00                              0.25       100
+Conductor: TOKESHI GUEVARA JAIME
+142                 Grave               316.00                              0.25       100
+Conductor: INGA PALOMARES ERIKA
+144                 Grave               316.00                              0.25       100
+Conductor: ALFARO ALFARO ERICK BRUNO
+203                 Leve                158.00                              0.50
+Conductor: FLORIAN VALDERRAMA JOSE
+153                 Grave               316.00                              0.25       100
+Conductor: SUAREZ CHANG GLORIA
+319                 Muy Grave           474.00                                 0       500
+Conductor: CONTRERAS CHANG JOHANA CINTHIA
+341                 Muy Grave           5925.00                                6      2000
+Conductor: MEJIA RODRIGUEZ INES VALENTINA
+152                 Grave               316.00                              0.25       100
+Conductor: SANCHEZ DEL CASTILLO FIORELLA ROSARIO
+104                 Grave               316.00                              0.25       100
+Conductor: DIAZ TANG ENRIQUE
+114                 Grave               316.00                              0.25       100
+Conductor: LOZADA ARGUEDAS FELICITA VALENTINA
+308                 Muy Grave           948.00                                 1       600
+Conductor: VIZCARDO SINCHE MARIBEL
+131                 Grave               316.00                              0.25       200
+Conductor: SAAVEDRA GONZALES WILMER
+311                 Muy Grave           474.00                                 0       500
+Conductor: SALAMANCA CABRERA NESTOR EVERT
+129                 Grave               316.00                              0.25       100
+Conductor: IPARRAGUIRRE PEREZ NICOLAS
+107                 Grave               316.00                              0.25       100
+Conductor: SEDANO RETAMOSO ELIA YOLANDA
+150                 Grave               316.00                              0.25       100
+Conductor: CERNA CERNA CINTHIA
+151                 Grave               316.00                              0.25       100
+Conductor: INFANTES MERCADO LUIS WALDEMAR
+162                 Grave               316.00                              0.25       100
+Conductor: VALDERRAMA BERROCAL EVERT
+131                 Grave               316.00                              0.25       200
+Conductor: VIZCARDO SINCHE MARIBEL
+125                 Grave               316.00                              0.25       100
+Conductor: CUEVA FUENTES CINTHIA DELIA
+104                 Grave               316.00                              0.25       100
+Conductor: HERNANDEZ CORRALES GUILLERMO
+314                 Muy Grave           474.00                                 0       500
+Conductor: ZAVALETA VILCA ERICKA ELEONOR
+137                 Grave               316.00                              0.25       200
+Conductor: TRIGUEROS JUGO LUZ
+309                 Muy Grave           948.00                                 1       600
+Conductor: EGUSQUIZA BERROCAL DORIS NANCY
+165                 Grave               316.00                              0.25       100
+Conductor: CUEVA FUENTES CINTHIA DELIA
+338                 Muy Grave           0.00                                  12      2000
+Conductor: ARCA LARRIEGA LUCERO YLIANA
+312                 Muy Grave           474.00                                 0       500
+Conductor: CASANOVA ZEGARRA MARITZA
+308                 Muy Grave           948.00                                 1       600
+Conductor: POMAJAMBO EGUSQUIZA PAUL
+120                 Grave               316.00                              0.25       100
+Conductor: INGA PALOMARES ERIKA
+152                 Grave               316.00                              0.25       100
+Conductor: FLORIAN CUBA CHRISTIAN
+151                 Grave               316.00                              0.25       100
+Conductor: DIAZ TANG ENRIQUE
+304                 Muy Grave           3950.00                                6       100
+Conductor: INFANTES MERCADO LUIS WALDEMAR
+208                 Leve                158.00                              0.50
+Conductor: SAAVEDRA GONZALES WILMER
+306                 Muy Grave           948.00                                 1       600
+Conductor: PENA SUAREZ GLENDA MARGOT
+338                 Muy Grave           0.00                                  12      2000
+Conductor: WONG MAEIREIZO BEATRIZ
+151                 Grave               316.00                              0.25       100
+Conductor: MARTINEZ CRUZ EVERT RONY
+136                 Grave               316.00                              0.25       100
+Conductor: RIVERO CORONADO HECTOR ALONSO
+117                 Grave               316.00                              0.25       100
+Conductor: CANO POLO MILAGROS ISABEL
+142                 Grave               316.00                              0.25       100
+Conductor: SEDANO RETAMOSO ELIA YOLANDA
+106                 Grave               316.00                              0.25       100
+Conductor: NARVAEZ CASTILLO JESUS RAFAEL
+323                 Muy Grave           474.00                                 0       500
+Conductor: RAMIREZ ASTETE KARINA ESTEFANIA
+326                 Muy Grave           474.00                                 0       500
+Conductor: INGA PALOMARES ERIKA
+146                 Grave               316.00                              0.25       100
+Conductor: ZAMORA ZAVALETA RONAL MANUEL
+103                 Grave               316.00                              0.25       200
+Conductor: MERCADO CORONEL ELIA
+202                 Leve                158.00                              0.50
+Conductor: BACA CAMACHO MILAGROS NATALIA
+339                 Muy Grave           0.00                                  12      2000
+Conductor: EPIQUEN YEP GUIDA VICTORIA
+157                 Grave               316.00                              0.25       100
+Conductor: ALFARO ALFARO ERICK BRUNO
+335                 Muy Grave           474.00                                 0       500
+Conductor: SAAVEDRA GONZALES WILMER
+203                 Leve                158.00                              0.50
+Conductor: AYALA CASTILLO ERICKA OFELIA
+336                 Muy Grave           474.00                                 0       500
+Conductor: RIVERO CORONADO HECTOR ALONSO
+323                 Muy Grave           474.00                                 0       500
+Conductor: FLORIAN CUBA CHRISTIAN
+120                 Grave               316.00                              0.25       100
+Conductor: AYALA CASTILLO ERICKA OFELIA
+315                 Muy Grave           474.00                                 0       500
+Conductor: PRADO VERA JUAN
+323                 Muy Grave           474.00                                 0       500
+Conductor: CANO POLO MILAGROS ISABEL
+326                 Muy Grave           474.00                                 0       500
+Conductor: CUEVA FUENTES CINTHIA DELIA
+107                 Grave               316.00                              0.25       100
+Conductor: SERRANO IBEROS FRANCISCO
+128                 Grave               316.00                              0.25       100
+Conductor: TANG MOSCOSO JOHANA
+128                 Grave               316.00                              0.25       100
+Conductor: SOLIS CHUNG ROLANDO
+143                 Grave               316.00                              0.25       100
+Conductor: VIZCARRA CARBAJAL IVAN FAUSTO
+309                 Muy Grave           948.00                                 1       600
+Conductor: ARCA SANCHEZ MAGALI BEATRIZ
+130                 Grave               316.00                              0.25       100
+Conductor: HENRIQUEZ PAREDES PAUL RAFAEL
+208                 Leve                158.00                              0.50
+Conductor: DURAND MIRANDA MIGUEL JUAN
+204                 Leve                158.00                              0.50

@@ -1,0 +1,1657 @@
+41379     EDGAR  MUNOZ VERGEL                               5         50611          Urologia
+47697     EDGAR  MUNOZ VERGEL                               30        50611          Urologia
+61039     LUZ SOFIA JAUREGUI BRAVO                          28        15092          Dermatologia
+72969     LUZ SOFIA JAUREGUI BRAVO                          30        61061535       Solis/Maria
+22232     LUZ SOFIA JAUREGUI BRAVO                          21        15092          Dermatologia
+86158     EDGAR  MUNOZ VERGEL                               23        50611          Urologia
+30796     EDGAR  MUNOZ VERGEL                               5         51642949       Miranda/Alfonso
+47697     EDGAR  MUNOZ VERGEL                               22        50611          Urologia
+53846     EDGAR  MUNOZ VERGEL                               17        51642949       Miranda/Alfonso
+31883     EDGAR  MUNOZ VERGEL                               19        51642949       Miranda/Alfonso
+37007     LUZ SOFIA JAUREGUI BRAVO                          19        61061535       Solis/Maria
+57269     LUZ SOFIA JAUREGUI BRAVO                          12        61061535       Solis/Maria
+57269     LUZ SOFIA JAUREGUI BRAVO                          15        61061535       Solis/Maria
+25684     GIOVANA  MEJIA ZEGARRA                            30        90798          Traumatologia
+39088     GIOVANA  MEJIA ZEGARRA                            35        15290194       Hernandez/Guillermo
+79996     ROSARIO MARIBEL YEP ZAVALETA                      10        35347567       Sedano/Elia
+46000     SURAMI HELI PRECIADO PINTO                        33        60184          Traumatologia
+17790     GIOVANA  MEJIA ZEGARRA                            21        15290194       Hernandez/Guillermo
+49157     GIOVANA  MEJIA ZEGARRA                            25        90798          Traumatologia
+38648     ROSARIO MARIBEL YEP ZAVALETA                      28        35347567       Sedano/Elia
+75565     SURAMI HELI PRECIADO PINTO                        26        54815159       Patino/Delicia
+81695     LUZ SOFIA JAUREGUI BRAVO                          11        15092          Dermatologia
+57036     LUZ SOFIA JAUREGUI BRAVO                          5         61061535       Solis/Maria
+36711     SURAMI HELI PRECIADO PINTO                        16        54815159       Patino/Delicia
+17790     GIOVANA  MEJIA ZEGARRA                            25        15290194       Hernandez/Guillermo
+40997     ROSARIO MARIBEL YEP ZAVALETA                      10        80786          Ginecologia
+37007     ROSARIO MARIBEL YEP ZAVALETA                      33        35347567       Sedano/Elia
+17790     GIOVANA  MEJIA ZEGARRA                            23        15290194       Hernandez/Guillermo
+17804     SURAMI HELI PRECIADO PINTO                        5         54815159       Patino/Delicia
+12388     SURAMI HELI PRECIADO PINTO                        17        54815159       Patino/Delicia
+72061     GIOVANA  MEJIA ZEGARRA                            28        15290194       Hernandez/Guillermo
+72061     GIOVANA  MEJIA ZEGARRA                            18        15290194       Hernandez/Guillermo
+65667     GIOVANA  MEJIA ZEGARRA                            22        90798          Traumatologia
+11592     FIORELLA ERIKA FLORENCIO POLO                     23        43704548       Vizcardo/Maribel
+85641     CINTHIA MILENA ZEGARRA CABELLO                    23        70233          Ginecologia
+77466     WALTER  JOLAY CHUMPITAZ                           6         93939698       Henriquez/Silvana
+85641     CINTHIA MILENA ZEGARRA CABELLO                    5         70233          Ginecologia
+65536     FIORELLA ERIKA FLORENCIO POLO                     7         90907          Dermatologia
+42053     ROSARIO MARIBEL YEP ZAVALETA                      33        80786          Ginecologia
+24522     CINTHIA MILENA ZEGARRA CABELLO                    17        70233          Ginecologia
+60685     DELIA  ZARATE URBINA                              19        89213          Gastroenterologia
+43633     DELIA  ZARATE URBINA                              6         89213          Gastroenterologia
+14962     DELIA  ZARATE URBINA                              6         93282118       Zambrano/Ofelia
+95540     ROSARIO MARIBEL YEP ZAVALETA                      23        35347567       Sedano/Elia
+82528     OFELIA CARMEN MERCADO CARO                        35        60934          Neumologia
+88681     OFELIA CARMEN MERCADO CARO                        27        60934          Neumologia
+96881     OFELIA CARMEN MERCADO CARO                        8         20371464       Lozada/Heli
+18672     ROSARIO MARIBEL YEP ZAVALETA                      12        35347567       Sedano/Elia
+85641     CINTHIA MILENA ZEGARRA CABELLO                    30        70233          Ginecologia
+97465     ROSARIO MARIBEL YEP ZAVALETA                      33        35347567       Sedano/Elia
+67784     FIORELLA ERIKA FLORENCIO POLO                     20        90907          Dermatologia
+30007     DELIA  ZARATE URBINA                              14        93282118       Zambrano/Ofelia
+34066     CINTHIA MILENA ZEGARRA CABELLO                    6         52313890       Rivero/Wilver
+14962     CINTHIA MILENA ZEGARRA CABELLO                    19        52313890       Rivero/Wilver
+81695     DELIA  ZARATE URBINA                              8         89213          Gastroenterologia
+55021     FIORELLA ERIKA FLORENCIO POLO                     5         43704548       Vizcardo/Maribel
+88681     OFELIA CARMEN MERCADO CARO                        19        60934          Neumologia
+81695     DELIA  ZARATE URBINA                              6         89213          Gastroenterologia
+75565     FIORELLA ERIKA FLORENCIO POLO                     1         43704548       Vizcardo/Maribel
+70116     FIORELLA ERIKA FLORENCIO POLO                     21        43704548       Vizcardo/Maribel
+15098     DELIA  ZARATE URBINA                              17        93282118       Zambrano/Ofelia
+96881     OFELIA CARMEN MERCADO CARO                        23        20371464       Lozada/Heli
+48244     CINTHIA MILENA ZEGARRA CABELLO                    4         70233          Ginecologia
+67784     CINTHIA MILENA ZEGARRA CABELLO                    33        70233          Ginecologia
+91282     FIORELLA ERIKA FLORENCIO POLO                     5         43704548       Vizcardo/Maribel
+97465     HUMBERTO ALBERTO VARGAS GUEVARA                   27        86988155       Cerna/Cinthia
+58259     HUMBERTO ALBERTO VARGAS GUEVARA                   15        86988155       Cerna/Cinthia
+84766     WALTER  JOLAY CHUMPITAZ                           31        14787          Traumatologia
+61295     HUMBERTO ALBERTO VARGAS GUEVARA                   22        60049          Gastroenterologia
+84766     WALTER  JOLAY CHUMPITAZ                           25        14787          Traumatologia
+84766     WALTER  JOLAY CHUMPITAZ                           21        14787          Traumatologia
+96554     WALTER  JOLAY CHUMPITAZ                           17        93939698       Henriquez/Silvana
+77466     WALTER  JOLAY CHUMPITAZ                           14        93939698       Henriquez/Silvana
+16055     HUMBERTO ALBERTO VARGAS GUEVARA                   18        86988155       Cerna/Cinthia
+37549     VALENTINA PAULA URBINA ANTEZANO                   7         32538825       Hijar/Martin
+86828     HUMBERTO ALBERTO VARGAS GUEVARA                   1         60049          Gastroenterologia
+81333     ZKENIA IRMA CHUNG ZUNIGA                          26        70612          Traumatologia
+47697     LOURDES CARMELA YALLICO PAREDES                   33        64405          Oftalmologia
+18672     DELICIA ROSA ARCA LEIVA                           5         93939698       Henriquez/Silvana
+74680     DELICIA  ARCA AQUINO                              3         34697743       Ayala/Ericka
+55701     DELICIA ROSA ARCA LEIVA                           20        93939698       Henriquez/Silvana
+98261     DELICIA ROSA ARCA LEIVA                           33        93939698       Henriquez/Silvana
+85641     DELICIA  ARCA AQUINO                              17        70269          Dermatologia
+34070     DELICIA  ARCA AQUINO                              10        34697743       Ayala/Ericka
+58259     HUMBERTO ALBERTO VARGAS GUEVARA                   25        86988155       Cerna/Cinthia
+34070     DELICIA  ARCA AQUINO                              7         34697743       Ayala/Ericka
+60685     DELICIA  ARCA AQUINO                              18        70269          Dermatologia
+16055     VALENTINA PAULA URBINA ANTEZANO                   30        32538825       Hijar/Martin
+61039     ZKENIA IRMA CHUNG ZUNIGA                          13        70612          Traumatologia
+63555     ZKENIA IRMA CHUNG ZUNIGA                          15        70612          Traumatologia
+37549     VALENTINA PAULA URBINA ANTEZANO                   14        32538825       Hijar/Martin
+16055     DELICIA  ARCA AQUINO                              23        34697743       Ayala/Ericka
+31883     ZKENIA IRMA CHUNG ZUNIGA                          34        22598563       Sueldo/Adria
+84766     DELICIA  ARCA AQUINO                              34        70269          Dermatologia
+81333     ZKENIA IRMA CHUNG ZUNIGA                          19        70612          Traumatologia
+53846     LOURDES CARMELA YALLICO PAREDES                   16        37282858       Soma/Lourdes
+13364     LOURDES CARMELA YALLICO PAREDES                   32        37282858       Soma/Lourdes
+67784     LOURDES CARMELA YALLICO PAREDES                   26        64405          Oftalmologia
+60685     DELICIA  ARCA AQUINO                              35        70269          Dermatologia
+22232     VALENTINA PAULA URBINA ANTEZANO                   35        53556          Pediatria
+67784     DELICIA  ARCA AQUINO                              30        70269          Dermatologia
+24733     VALENTINA PAULA URBINA ANTEZANO                   11        53556          Pediatria
+24733     VALENTINA PAULA URBINA ANTEZANO                   26        53556          Pediatria
+84771     LOURDES CARMELA YALLICO PAREDES                   7         64405          Oftalmologia
+18672     ZKENIA IRMA CHUNG ZUNIGA                          29        22598563       Sueldo/Adria
+72495     DELICIA  ARCA AQUINO                              9         34697743       Ayala/Ericka
+79996     DELIA ESTEFANIA CABRERA MORENO                    16        95656771       Raffo/Rolando
+84766     DELICIA ROSA ARCA LEIVA                           18        90929          Oftalmologia
+28992     DELICIA ROSA ARCA LEIVA                           25        90929          Oftalmologia
+40862     DELICIA ROSA ARCA LEIVA                           3         90929          Oftalmologia
+58036     DELIA ESTEFANIA CABRERA MORENO                    5         95656771       Raffo/Rolando
+14962     DELIA ESTEFANIA CABRERA MORENO                    19        95656771       Raffo/Rolando
+22553     DELIA ESTEFANIA CABRERA MORENO                    7         70367          Urologia
+57269     DELIA ESTEFANIA CABRERA MORENO                    34        95656771       Raffo/Rolando
+39779     DELICIA ROSA ARCA LEIVA                           14        93939698       Henriquez/Silvana
+76238     OFELIA BEATRIZ MONTERO BOLANOS                    33        95656771       Raffo/Rolando
+92517     WILMER  SAENZ ARANDA                              31        57182371       Moscoso/Fiorella
+76238     DELIA ESTEFANIA CABRERA MORENO                    13        95656771       Raffo/Rolando
+59121     MARINA NATALIA GARCIA INGA                        8         36471787       Pena/Glenda
+27016     MARINA NATALIA GARCIA INGA                        14        49768          Cardiologia
+92517     WILMER  SAENZ ARANDA                              5         57182371       Moscoso/Fiorella
+53166     GUSTAVO ALONSO DEL CASTILLO MEJIA                 3         93231760       Zarate/Alexander
+77203     MARINA NATALIA GARCIA INGA                        31        36471787       Pena/Glenda
+12388     WILMER  SAENZ ARANDA                              6         57182371       Moscoso/Fiorella
+50450     GUSTAVO ALONSO DEL CASTILLO MEJIA                 12        93231760       Zarate/Alexander
+81062     WILMER  SAENZ ARANDA                              17        18708          Ginecologia
+36711     WILMER  SAENZ ARANDA                              11        57182371       Moscoso/Fiorella
+50450     GUSTAVO ALONSO DEL CASTILLO MEJIA                 32        93231760       Zarate/Alexander
+25684     DELIA ESTEFANIA CABRERA MORENO                    14        70367          Urologia
+42856     GUSTAVO ALONSO DEL CASTILLO MEJIA                 8         80138          Geriatria
+30796     WILMER  SAENZ ARANDA                              22        57182371       Moscoso/Fiorella
+58036     DELIA ESTEFANIA CABRERA MORENO                    22        95656771       Raffo/Rolando
+33200     GUSTAVO ALONSO DEL CASTILLO MEJIA                 33        93231760       Zarate/Alexander
+53166     GUSTAVO ALONSO DEL CASTILLO MEJIA                 27        93231760       Zarate/Alexander
+33390     JAVIER EDGARD LANDA CABRERA                       12        68269451       Asmad/Adria
+84766     GUSTAVO ALONSO DEL CASTILLO MEJIA                 32        80138          Geriatria
+68860     JAVIER EDGARD LANDA CABRERA                       25        35451          Pediatria
+28992     OFELIA BEATRIZ MONTERO BOLANOS                    19        70992          Gastroenterologia
+48557     OFELIA BEATRIZ MONTERO BOLANOS                    7         70992          Gastroenterologia
+85325     JAVIER EDGARD LANDA CABRERA                       5         35451          Pediatria
+53846     BLANCA LUZ ACUNA AYLLON                           1         45914393       Lozada/Antonio
+30430     BLANCA LUZ ACUNA AYLLON                           15        45914393       Lozada/Antonio
+55021     MARINA NATALIA GARCIA INGA                        6         36471787       Pena/Glenda
+46000     MARINA NATALIA GARCIA INGA                        34        49768          Cardiologia
+28892     MARINA NATALIA GARCIA INGA                        19        49768          Cardiologia
+86828     MARINA NATALIA GARCIA INGA                        33        49768          Cardiologia
+65536     BLANCA LUZ ACUNA AYLLON                           21        33687          Oftalmologia
+11592     BLANCA LUZ ACUNA AYLLON                           30        45914393       Lozada/Antonio
+70116     BLANCA LUZ ACUNA AYLLON                           35        45914393       Lozada/Antonio
+55021     MIGUEL ALEX LANDEO ESTRADA                        32        36471787       Pena/Glenda
+27447     TERESA TERESA MARTEL MERCADO                      12        80227          Pediatria
+70303     GLENDA  CABRERA MORI                              19        81647285       Vega/Henrry
+65536     TERESA TERESA MARTEL MERCADO                      18        80227          Pediatria
+28892     MIGUEL ALEX LANDEO ESTRADA                        32        34115          Cardiologia
+54692     GLENDA  CABRERA MORI                              33        81647285       Vega/Henrry
+80830     TERESA TERESA MARTEL MERCADO                      13        80227          Pediatria
+86828     MIGUEL ALEX LANDEO ESTRADA                        1         34115          Cardiologia
+70226     MIGUEL ALEX LANDEO ESTRADA                        19        36471787       Pena/Glenda
+28409     TERESA TERESA MARTEL MERCADO                      30        80227          Pediatria
+44215     MIGUEL ALEX LANDEO ESTRADA                        22        34115          Cardiologia
+89839     GLENDA  CABRERA MORI                              15        14655          Oncologia
+85641     GLENDA  CABRERA MORI                              31        14655          Oncologia
+83510     TERESA TERESA MARTEL MERCADO                      5         80227          Pediatria
+46000     MIGUEL ALEX LANDEO ESTRADA                        31        34115          Cardiologia
+85865     DAVID CARLOS PEREZ ANTEZANO                       15        80040          Endocrinologia
+59121     DAVID CARLOS PEREZ ANTEZANO                       27        54815159       Patino/Delicia
+30796     DAVID CARLOS PEREZ ANTEZANO                       5         54815159       Patino/Delicia
+46000     DAVID CARLOS PEREZ ANTEZANO                       14        80040          Endocrinologia
+46919     DAVID CARLOS PEREZ ANTEZANO                       26        80040          Endocrinologia
+59121     MIGUEL ALEX LANDEO ESTRADA                        26        36471787       Pena/Glenda
+28892     MIGUEL ALEX LANDEO ESTRADA                        14        34115          Cardiologia
+81960     MIGUEL ALEX LANDEO ESTRADA                        18        34115          Cardiologia
+94415     CARMEN  ZAMORA CABRERA                            21        13731806       Salamanca/Virginia
+74924     CARMEN  ZAMORA CABRERA                            35        13731806       Salamanca/Virginia
+16813     CARMEN  ZAMORA CABRERA                            19        13731806       Salamanca/Virginia
+65667     GLENDA  CABRERA MORI                              24        14655          Oncologia
+76238     GLENDA  CABRERA MORI                              26        81647285       Vega/Henrry
+70303     GLENDA  CABRERA MORI                              14        81647285       Vega/Henrry
+76238     GLENDA  CABRERA MORI                              22        81647285       Vega/Henrry
+80830     TERESA TERESA MARTEL MERCADO                      29        80227          Pediatria
+28892     MIGUEL ALEX LANDEO ESTRADA                        11        34115          Cardiologia
+11592     BLANCA LUZ ACUNA AYLLON                           17        45914393       Lozada/Antonio
+89839     GLENDA  CABRERA MORI                              20        14655          Oncologia
+54692     EMILIO EMIGDIO GONZALES AGUIRRE                   13        14956687       Luna/Waldemar
+60509     BLANCA LUZ ACUNA AYLLON                           23        33687          Oftalmologia
+61039     VICTORIA MILAGROS SHIRAKAWA SAONA                 5         70789          Pediatria
+14962     VICTORIA MILAGROS SHIRAKAWA SAONA                 27        53420926       Prado/Juan
+60685     EMILIO EMIGDIO GONZALES AGUIRRE                   26        18262          Urologia
+94415     YLIANA FLOR ORTIZ GUEVARA                         35        62126128       Durand/Enrique
+39088     JAIME JULIAN SHIRAKAWA FLORIAN                    21        93961840       Pairazaman/Tatiana
+92628     FRANCISCO  ZIMIC SALAS                            19        20371464       Lozada/Heli
+75565     YLIANA FLOR ORTIZ GUEVARA                         26        62126128       Durand/Enrique
+22232     YLIANA FLOR ORTIZ GUEVARA                         18        40414          Ginecologia
+89839     JAIME JULIAN SHIRAKAWA FLORIAN                    15        30557          Neumologia
+89528     YLIANA FLOR ORTIZ GUEVARA                         6         40414          Ginecologia
+73174     JAIME JULIAN SHIRAKAWA FLORIAN                    9         93961840       Pairazaman/Tatiana
+72061     FRANCISCO  ZIMIC SALAS                            35        20371464       Lozada/Heli
+57269     FRANCISCO  ZIMIC SALAS                            33        20371464       Lozada/Heli
+79996     HUMBERTO ALFONSO AMEZQUITA CONTRERAS              19        22598563       Sueldo/Adria
+63555     JAIME JULIAN SHIRAKAWA FLORIAN                    6         30557          Neumologia
+60685     JAIME JULIAN SHIRAKAWA FLORIAN                    21        30557          Neumologia
+30796     JAIME JULIAN SHIRAKAWA FLORIAN                    31        93961840       Pairazaman/Tatiana
+94415     YLIANA FLOR ORTIZ GUEVARA                         9         62126128       Durand/Enrique
+48557     CARMEN  ZAMORA CABRERA                            27        25448          Endocrinologia
+53166     JAIME JULIAN SHIRAKAWA FLORIAN                    20        93961840       Pairazaman/Tatiana
+39088     JAIME JULIAN SHIRAKAWA FLORIAN                    30        93961840       Pairazaman/Tatiana
+73972     HUMBERTO ALFONSO AMEZQUITA CONTRERAS              8         22598563       Sueldo/Adria
+63555     HUMBERTO ALFONSO AMEZQUITA CONTRERAS              28        90562          Dermatologia
+18672     HUMBERTO ALFONSO AMEZQUITA CONTRERAS              15        22598563       Sueldo/Adria
+22553     HUMBERTO ALFONSO AMEZQUITA CONTRERAS              22        90562          Dermatologia
+68539     RAUL  COLLADO VILLA                               16        91509          Cardiologia
+61508     JAIME JULIAN SHIRAKAWA FLORIAN                    24        30557          Neumologia
+58200     FRANCISCO  ZIMIC SALAS                            31        20371464       Lozada/Heli
+28992     RAUL  COLLADO VILLA                               6         91509          Cardiologia
+58200     CARMEN  ZAMORA CABRERA                            5         13731806       Salamanca/Virginia
+90198     ESTEFANIA  ZEGARRA CASANOVA                       20        35852072       Jauregui/Victor
+70226     ALFONSO WALDEMAR CABELLO LAM                      25        32538825       Hijar/Martin
+77203     ALFONSO WALDEMAR CABELLO LAM                      15        32538825       Hijar/Martin
+80839     ESTEFANIA  ZEGARRA CASANOVA                       5         50718          Pediatria
+82469     ESTEFANIA  ZEGARRA CASANOVA                       6         50718          Pediatria
+60888     ESTEFANIA  ZEGARRA CASANOVA                       19        50718          Pediatria
+76360     ESTEFANIA  ZEGARRA CASANOVA                       27        35852072       Jauregui/Victor
+42053     ESTEFANIA  ZEGARRA CASANOVA                       26        50718          Pediatria
+79996     ESTEFANIA  ZEGARRA CASANOVA                       12        35852072       Jauregui/Victor
+61039     LUZ SOFIA JAUREGUI BRAVO                          30        15092          Dermatologia
+90300     SURAMI HELI PRECIADO PINTO                        1         54149342       Leyva/Diana
+31189     SURAMI HELI PRECIADO PINTO                        16        54149342       Leyva/Diana
+42861     SURAMI HELI PRECIADO PINTO                        25        60184          Traumatologia
+88681     SURAMI HELI PRECIADO PINTO                        25        60184          Traumatologia
+93578     GIOVANA  MEJIA ZEGARRA                            13        65912822       Camacho/Ydali
+70807     VICTORIA FIORELLA CUBA POMAJAMBO                  14        93282118       Zambrano/Ofelia
+43222     ROSARIO  TABORI ARIAS                             21        19777          Oftalmologia
+70116     ESTEFANIA  ZEGARRA CASANOVA                       8         35852072       Jauregui/Victor
+57036     LUZ SOFIA JAUREGUI BRAVO                          14        62126128       Durand/Enrique
+62008     VICTORIA FIORELLA CUBA POMAJAMBO                  11        80063          Gastroenterologia
+77466     MILENA CINTHIA ZARATE ACUNA                       7         63640178       Rodriguez/Blanca
+68346     MILENA CINTHIA ZARATE ACUNA                       18        52063          Traumatologia
+60685     VICTORIA FIORELLA CUBA POMAJAMBO                  5         80063          Gastroenterologia
+91282     VICTORIA FIORELLA CUBA POMAJAMBO                  12        93282118       Zambrano/Ofelia
+34080     MILENA CINTHIA ZARATE ACUNA                       17        63640178       Rodriguez/Blanca
+74924     ESTEFANIA  ZEGARRA CASANOVA                       12        35852072       Jauregui/Victor
+12388     EDGAR  MUNOZ VERGEL                               11        57182371       Moscoso/Fiorella
+92517     EDGAR  MUNOZ VERGEL                               13        57182371       Moscoso/Fiorella
+42856     VICTORIA FIORELLA CUBA POMAJAMBO                  11        80063          Gastroenterologia
+40645     SURAMI HELI PRECIADO PINTO                        14        60184          Traumatologia
+11370     ROSARIO  TABORI ARIAS                             5         35606314       Mercado/Elia
+55813     SURAMI HELI PRECIADO PINTO                        31        54149342       Leyva/Diana
+75565     LUZ SOFIA JAUREGUI BRAVO                          28        62126128       Durand/Enrique
+62008     VICTORIA FIORELLA CUBA POMAJAMBO                  7         80063          Gastroenterologia
+40645     SURAMI HELI PRECIADO PINTO                        25        60184          Traumatologia
+65667     ROSARIO MARIBEL YEP ZAVALETA                      16        80786          Ginecologia
+14075     ROSARIO MARIBEL YEP ZAVALETA                      32        81647285       Vega/Henrry
+55021     GIOVANA  MEJIA ZEGARRA                            10        65912822       Camacho/Ydali
+93578     GIOVANA  MEJIA ZEGARRA                            1         65912822       Camacho/Ydali
+65667     ROSARIO MARIBEL YEP ZAVALETA                      28        80786          Ginecologia
+81695     GIOVANA  MEJIA ZEGARRA                            10        90798          Traumatologia
+72939     GIOVANA  MEJIA ZEGARRA                            1         65912822       Camacho/Ydali
+70225     GIOVANA  MEJIA ZEGARRA                            31        65912822       Camacho/Ydali
+34080     GIOVANA  MEJIA ZEGARRA                            6         65912822       Camacho/Ydali
+79996     CINTHIA MILENA ZEGARRA CABELLO                    23        99891737       Contreras/Johana
+84771     CINTHIA MILENA ZEGARRA CABELLO                    20        70233          Ginecologia
+70116     CINTHIA MILENA ZEGARRA CABELLO                    30        99891737       Contreras/Johana
+82528     FIORELLA ERIKA FLORENCIO POLO                     16        90907          Dermatologia
+53200     FIORELLA ERIKA FLORENCIO POLO                     9         68114999       Rios/Ines
+61039     DELIA  ZARATE URBINA                              7         89213          Gastroenterologia
+30430     CINTHIA MILENA ZEGARRA CABELLO                    22        99891737       Contreras/Johana
+31311     FIORELLA ERIKA FLORENCIO POLO                     19        68114999       Rios/Ines
+75565     DELIA  ZARATE URBINA                              23        62287143       Wong/Beatriz
+17804     FIORELLA ERIKA FLORENCIO POLO                     32        68114999       Rios/Ines
+80839     FIORELLA ERIKA FLORENCIO POLO                     20        90907          Dermatologia
+62302     OFELIA CARMEN MERCADO CARO                        30        60934          Neumologia
+67784     CINTHIA MILENA ZEGARRA CABELLO                    34        70233          Ginecologia
+76238     FIORELLA ERIKA FLORENCIO POLO                     23        68114999       Rios/Ines
+13364     FIORELLA ERIKA FLORENCIO POLO                     18        68114999       Rios/Ines
+22232     DELIA  ZARATE URBINA                              27        89213          Gastroenterologia
+91282     CINTHIA MILENA ZEGARRA CABELLO                    33        99891737       Contreras/Johana
+16681     WALTER  JOLAY CHUMPITAZ                           34        12484697       Diaz/Enrique
+53846     CINTHIA MILENA ZEGARRA CABELLO                    17        99891737       Contreras/Johana
+70024     ROSARIO MARIBEL YEP ZAVALETA                      35        81647285       Vega/Henrry
+89528     ROSARIO MARIBEL YEP ZAVALETA                      22        80786          Ginecologia
+13364     CINTHIA MILENA ZEGARRA CABELLO                    18        99891737       Contreras/Johana
+12388     DELIA  ZARATE URBINA                              25        62287143       Wong/Beatriz
+68860     FIORELLA ERIKA FLORENCIO POLO                     35        90907          Dermatologia
+82528     OFELIA CARMEN MERCADO CARO                        27        60934          Neumologia
+28892     CINTHIA MILENA ZEGARRA CABELLO                    14        70233          Ginecologia
+39172     ROSARIO MARIBEL YEP ZAVALETA                      14        81647285       Vega/Henrry
+65536     CINTHIA MILENA ZEGARRA CABELLO                    17        70233          Ginecologia
+37007     DELIA  ZARATE URBINA                              4         62287143       Wong/Beatriz
+36711     WALTER  JOLAY CHUMPITAZ                           10        12484697       Diaz/Enrique
+64347     WALTER  JOLAY CHUMPITAZ                           6         14787          Traumatologia
+85641     ROSARIO MARIBEL YEP ZAVALETA                      18        80786          Ginecologia
+58259     WALTER  JOLAY CHUMPITAZ                           12        12484697       Diaz/Enrique
+88266     HUMBERTO ALBERTO VARGAS GUEVARA                   16        60049          Gastroenterologia
+26920     WALTER  JOLAY CHUMPITAZ                           21        14787          Traumatologia
+96031     HUMBERTO ALBERTO VARGAS GUEVARA                   27        51465986       Sam/Ines
+68539     HUMBERTO ALBERTO VARGAS GUEVARA                   33        60049          Gastroenterologia
+60086     HUMBERTO ALBERTO VARGAS GUEVARA                   15        60049          Gastroenterologia
+86158     HUMBERTO ALBERTO VARGAS GUEVARA                   31        60049          Gastroenterologia
+63555     HUMBERTO ALBERTO VARGAS GUEVARA                   31        60049          Gastroenterologia
+70024     DELICIA  ARCA AQUINO                              29        58643376       Arroyo/Natalia
+61295     DELICIA  ARCA AQUINO                              10        70269          Dermatologia
+25684     VALENTINA PAULA URBINA ANTEZANO                   14        53556          Pediatria
+14962     VALENTINA PAULA URBINA ANTEZANO                   8         17299012       Suarez/Amaru
+81695     ZKENIA IRMA CHUNG ZUNIGA                          16        70612          Traumatologia
+16359     ZKENIA IRMA CHUNG ZUNIGA                          9         35347567       Sedano/Elia
+26506     VALENTINA PAULA URBINA ANTEZANO                   15        53556          Pediatria
+92628     LOURDES CARMELA YALLICO PAREDES                   25        20371464       Lozada/Heli
+22232     DELICIA ROSA ARCA LEIVA                           29        90929          Oftalmologia
+22306     LOURDES CARMELA YALLICO PAREDES                   26        64405          Oftalmologia
+61508     DELICIA ROSA ARCA LEIVA                           6         90929          Oftalmologia
+89528     VALENTINA PAULA URBINA ANTEZANO                   17        53556          Pediatria
+72969     DELICIA ROSA ARCA LEIVA                           12        62126128       Durand/Enrique
+13364     ZKENIA IRMA CHUNG ZUNIGA                          7         35347567       Sedano/Elia
+75565     DELICIA ROSA ARCA LEIVA                           6         62126128       Durand/Enrique
+57269     DELICIA ROSA ARCA LEIVA                           14        62126128       Durand/Enrique
+60086     DELIA ESTEFANIA CABRERA MORENO                    22        70367          Urologia
+46919     DELICIA  ARCA AQUINO                              25        70269          Dermatologia
+48244     ZKENIA IRMA CHUNG ZUNIGA                          27        70612          Traumatologia
+86158     LOURDES CARMELA YALLICO PAREDES                   32        64405          Oftalmologia
+84766     ZKENIA IRMA CHUNG ZUNIGA                          1         70612          Traumatologia
+22842     DELICIA  ARCA AQUINO                              24        70269          Dermatologia
+68610     VALENTINA PAULA URBINA ANTEZANO                   7         53556          Pediatria
+91282     DELICIA  ARCA AQUINO                              2         58643376       Arroyo/Natalia
+82528     LOURDES CARMELA YALLICO PAREDES                   17        64405          Oftalmologia
+84771     DELICIA ROSA ARCA LEIVA                           2         90929          Oftalmologia
+92628     LOURDES CARMELA YALLICO PAREDES                   31        20371464       Lozada/Heli
+61508     DELICIA ROSA ARCA LEIVA                           30        90929          Oftalmologia
+28992     LOURDES CARMELA YALLICO PAREDES                   14        64405          Oftalmologia
+58252     LOURDES CARMELA YALLICO PAREDES                   15        20371464       Lozada/Heli
+30796     DELIA ESTEFANIA CABRERA MORENO                    26        51465986       Sam/Ines
+89528     ZKENIA IRMA CHUNG ZUNIGA                          16        70612          Traumatologia
+65667     VALENTINA PAULA URBINA ANTEZANO                   11        53556          Pediatria
+26360     DELIA ESTEFANIA CABRERA MORENO                    21        70367          Urologia
+50450     DELIA ESTEFANIA CABRERA MORENO                    11        51465986       Sam/Ines
+91653     WILMER  SAENZ ARANDA                              21        71422479       Lozada/Felicita
+36822     WILMER  SAENZ ARANDA                              8         71422479       Lozada/Felicita
+12388     WILMER  SAENZ ARANDA                              18        71422479       Lozada/Felicita
+34080     DELIA ESTEFANIA CABRERA MORENO                    14        51465986       Sam/Ines
+47697     DELIA ESTEFANIA CABRERA MORENO                    2         70367          Urologia
+63555     DELIA ESTEFANIA CABRERA MORENO                    12        70367          Urologia
+96031     DELIA ESTEFANIA CABRERA MORENO                    28        51465986       Sam/Ines
+26920     DAVID CARLOS PEREZ ANTEZANO                       34        80040          Endocrinologia
+31189     YLIANA FLOR ORTIZ GUEVARA                         12        93961840       Pairazaman/Tatiana
+39172     HUMBERTO ALFONSO AMEZQUITA CONTRERAS              27        30246960       Escalante/Ines
+70225     DAVID CARLOS PEREZ ANTEZANO                       23        27709566       Ortiz/Raul
+70225     DAVID CARLOS PEREZ ANTEZANO                       19        27709566       Ortiz/Raul
+14075     MIGUEL ALEX LANDEO ESTRADA                        35        68269451       Asmad/Adria
+17790     DAVID CARLOS PEREZ ANTEZANO                       21        27709566       Ortiz/Raul
+76238     MIGUEL ALEX LANDEO ESTRADA                        26        68269451       Asmad/Adria
+13364     CARMEN  ZAMORA CABRERA                            17        45914393       Lozada/Antonio
+30430     CARMEN  ZAMORA CABRERA                            24        45914393       Lozada/Antonio
+63555     YLIANA FLOR ORTIZ GUEVARA                         33        40414          Ginecologia
+70226     CARMEN  ZAMORA CABRERA                            24        45914393       Lozada/Antonio
+30796     DAVID CARLOS PEREZ ANTEZANO                       31        27709566       Ortiz/Raul
+13364     CARMEN  ZAMORA CABRERA                            20        45914393       Lozada/Antonio
+31311     MIGUEL ALEX LANDEO ESTRADA                        31        68269451       Asmad/Adria
+67784     CARMEN  ZAMORA CABRERA                            19        25448          Endocrinologia
+28892     CARMEN  ZAMORA CABRERA                            15        25448          Endocrinologia
+31189     YLIANA FLOR ORTIZ GUEVARA                         18        93961840       Pairazaman/Tatiana
+86158     YLIANA FLOR ORTIZ GUEVARA                         27        40414          Ginecologia
+13364     MIGUEL ALEX LANDEO ESTRADA                        29        68269451       Asmad/Adria
+73174     YLIANA FLOR ORTIZ GUEVARA                         11        93961840       Pairazaman/Tatiana
+17804     MIGUEL ALEX LANDEO ESTRADA                        14        68269451       Asmad/Adria
+48557     DAVID CARLOS PEREZ ANTEZANO                       6         80040          Endocrinologia
+47697     CARMEN  ZAMORA CABRERA                            33        25448          Endocrinologia
+30796     YLIANA FLOR ORTIZ GUEVARA                         1         93961840       Pairazaman/Tatiana
+80839     MIGUEL ALEX LANDEO ESTRADA                        32        34115          Cardiologia
+84766     DAVID CARLOS PEREZ ANTEZANO                       11        80040          Endocrinologia
+11592     CARMEN  ZAMORA CABRERA                            1         45914393       Lozada/Antonio
+60685     YLIANA FLOR ORTIZ GUEVARA                         33        40414          Ginecologia
+33200     HUMBERTO ALFONSO AMEZQUITA CONTRERAS              14        30246960       Escalante/Ines
+42856     MARINA NATALIA GARCIA INGA                        28        49768          Cardiologia
+51148     BLANCA LUZ ACUNA AYLLON                           20        80694546       Ramirez/Karina
+61508     GUSTAVO ALONSO DEL CASTILLO MEJIA                 16        80138          Geriatria
+39779     OFELIA BEATRIZ MONTERO BOLANOS                    33        59561864       Rosemberg/Julio
+72969     GUSTAVO ALONSO DEL CASTILLO MEJIA                 8         62287143       Wong/Beatriz
+22842     GUSTAVO ALONSO DEL CASTILLO MEJIA                 12        80138          Geriatria
+70024     OFELIA BEATRIZ MONTERO BOLANOS                    12        59561864       Rosemberg/Julio
+33276     MARINA NATALIA GARCIA INGA                        16        77324146       Moscoso/Janet
+61508     GUSTAVO ALONSO DEL CASTILLO MEJIA                 8         80138          Geriatria
+30220     MARINA NATALIA GARCIA INGA                        13        77324146       Moscoso/Janet
+59121     MARINA NATALIA GARCIA INGA                        19        77324146       Moscoso/Janet
+33390     BLANCA LUZ ACUNA AYLLON                           8         80694546       Ramirez/Karina
+84771     JAVIER EDGARD LANDA CABRERA                       8         35451          Pediatria
+36822     MARINA NATALIA GARCIA INGA                        15        77324146       Moscoso/Janet
+62302     BLANCA LUZ ACUNA AYLLON                           26        33687          Oftalmologia
+89325     JAVIER EDGARD LANDA CABRERA                       28        35451          Pediatria
+67415     JAVIER EDGARD LANDA CABRERA                       19        35451          Pediatria
+61039     JAVIER EDGARD LANDA CABRERA                       15        35451          Pediatria
+81333     JAVIER EDGARD LANDA CABRERA                       22        35451          Pediatria
+37549     MARINA NATALIA GARCIA INGA                        5         77324146       Moscoso/Janet
+86158     MARINA NATALIA GARCIA INGA                        31        49768          Cardiologia
+76238     MARINA NATALIA GARCIA INGA                        13        77324146       Moscoso/Janet
+22842     GUSTAVO ALONSO DEL CASTILLO MEJIA                 14        80138          Geriatria
+76247     MARINA NATALIA GARCIA INGA                        28        77324146       Moscoso/Janet
+33390     BLANCA LUZ ACUNA AYLLON                           16        80694546       Ramirez/Karina
+84771     GUSTAVO ALONSO DEL CASTILLO MEJIA                 34        80138          Geriatria
+17804     TERESA TERESA MARTEL MERCADO                      33        72973662       Vargas/Daniel
+41403     TERESA TERESA MARTEL MERCADO                      18        80227          Pediatria
+59395     TERESA TERESA MARTEL MERCADO                      12        72973662       Vargas/Daniel
+92560     BLANCA LUZ ACUNA AYLLON                           13        80694546       Ramirez/Karina
+41403     TERESA TERESA MARTEL MERCADO                      30        80227          Pediatria
+77534     BLANCA LUZ ACUNA AYLLON                           23        80694546       Ramirez/Karina
+22306     TERESA TERESA MARTEL MERCADO                      21        80227          Pediatria
+44215     EMILIO EMIGDIO GONZALES AGUIRRE                   15        18262          Urologia
+62302     MIGUEL ALEX LANDEO ESTRADA                        6         34115          Cardiologia
+53200     BLANCA LUZ ACUNA AYLLON                           24        80694546       Ramirez/Karina
+59121     EMILIO EMIGDIO GONZALES AGUIRRE                   9         36471787       Pena/Glenda
+81960     GLENDA  CABRERA MORI                              17        14655          Oncologia
+74924     GLENDA  CABRERA MORI                              10        35606314       Mercado/Elia
+81960     GLENDA  CABRERA MORI                              5         14655          Oncologia
+80830     TERESA TERESA MARTEL MERCADO                      18        80227          Pediatria
+70303     BLANCA LUZ ACUNA AYLLON                           10        80694546       Ramirez/Karina
+60086     VICTORIA MILAGROS SHIRAKAWA SAONA                 35        70789          Pediatria
+30796     VICTORIA MILAGROS SHIRAKAWA SAONA                 7         51465986       Sam/Ines
+16813     EDGAR  MUNOZ VERGEL                               33        45201670       Guevara/Milena
+70116     ROSARIO  TABORI ARIAS                             19        35852072       Jauregui/Victor
+76360     ROSARIO  TABORI ARIAS                             13        35852072       Jauregui/Victor
+65985     EDGAR  MUNOZ VERGEL                               15        50611          Urologia
+36208     EDGAR  MUNOZ VERGEL                               32        45201670       Guevara/Milena
+28409     ROSARIO  TABORI ARIAS                             10        19777          Oftalmologia
+48039     EDGAR  MUNOZ VERGEL                               29        50611          Urologia
+60888     LUZ SOFIA JAUREGUI BRAVO                          16        15092          Dermatologia
+80839     ROSARIO  TABORI ARIAS                             8         19777          Oftalmologia
+77203     LUZ SOFIA JAUREGUI BRAVO                          33        32538825       Hijar/Martin
+70807     SURAMI HELI PRECIADO PINTO                        8         66091742       Baca/Milagros
+58252     ROSARIO  TABORI ARIAS                             23        35852072       Jauregui/Victor
+70225     SURAMI HELI PRECIADO PINTO                        11        66091742       Baca/Milagros
+42861     SURAMI HELI PRECIADO PINTO                        22        60184          Traumatologia
+55021     SURAMI HELI PRECIADO PINTO                        2         66091742       Baca/Milagros
+70225     EDGAR  MUNOZ VERGEL                               26        45201670       Guevara/Milena
+68346     SURAMI HELI PRECIADO PINTO                        28        60184          Traumatologia
+46000     GIOVANA  MEJIA ZEGARRA                            15        90798          Traumatologia
+86828     GIOVANA  MEJIA ZEGARRA                            14        90798          Traumatologia
+28409     ROSARIO  TABORI ARIAS                             11        19777          Oftalmologia
+72061     EDGAR  MUNOZ VERGEL                               31        45201670       Guevara/Milena
+90300     EDGAR  MUNOZ VERGEL                               31        45201670       Guevara/Milena
+30007     EDGAR  MUNOZ VERGEL                               8         45201670       Guevara/Milena
+22306     EDGAR  MUNOZ VERGEL                               11        50611          Urologia
+89325     GIOVANA  MEJIA ZEGARRA                            6         90798          Traumatologia
+76360     ROSARIO  TABORI ARIAS                             5         35852072       Jauregui/Victor
+93578     SURAMI HELI PRECIADO PINTO                        13        66091742       Baca/Milagros
+47697     GIOVANA  MEJIA ZEGARRA                            18        90798          Traumatologia
+47697     SURAMI HELI PRECIADO PINTO                        15        60184          Traumatologia
+42053     ROSARIO  TABORI ARIAS                             17        19777          Oftalmologia
+65985     EDGAR  MUNOZ VERGEL                               28        50611          Urologia
+53166     ESTEFANIA  ZEGARRA CASANOVA                       32        72330000       Vega/Carmela
+53166     ESTEFANIA  ZEGARRA CASANOVA                       14        72330000       Vega/Carmela
+57505     ESTEFANIA  ZEGARRA CASANOVA                       31        72330000       Vega/Carmela
+22306     JAIME JULIAN SHIRAKAWA FLORIAN                    17        30557          Neumologia
+77203     ESTEFANIA  ZEGARRA CASANOVA                       33        72330000       Vega/Carmela
+70116     ALFONSO WALDEMAR CABELLO LAM                      9         45914393       Lozada/Antonio
+37007     RAUL  COLLADO VILLA                               31        61061535       Solis/Maria
+42053     JAIME JULIAN SHIRAKAWA FLORIAN                    10        30557          Neumologia
+91282     ALFONSO WALDEMAR CABELLO LAM                      17        45914393       Lozada/Antonio
+36622     ESTEFANIA  ZEGARRA CASANOVA                       35        72330000       Vega/Carmela
+53846     ALFONSO WALDEMAR CABELLO LAM                      34        45914393       Lozada/Antonio
+97465     HUMBERTO ALFONSO AMEZQUITA CONTRERAS              8         30246960       Escalante/Ines
+82528     FRANCISCO  ZIMIC SALAS                            7         20189          Endocrinologia
+90300     HUMBERTO ALFONSO AMEZQUITA CONTRERAS              19        30246960       Escalante/Ines
+82469     ESTEFANIA  ZEGARRA CASANOVA                       6         50718          Pediatria
+33311     ESTEFANIA  ZEGARRA CASANOVA                       4         72330000       Vega/Carmela
+36822     JAIME JULIAN SHIRAKAWA FLORIAN                    11        77324146       Moscoso/Janet
+60509     ALFONSO WALDEMAR CABELLO LAM                      33        30082          Cardiologia
+61039     RAUL  COLLADO VILLA                               22        91509          Cardiologia
+84771     ALFONSO WALDEMAR CABELLO LAM                      16        30082          Cardiologia
+16299     ESTEFANIA  ZEGARRA CASANOVA                       18        72330000       Vega/Carmela
+77203     ESTEFANIA  ZEGARRA CASANOVA                       16        72330000       Vega/Carmela
+58200     FRANCISCO  ZIMIC SALAS                            35        85395219       Fuentes/Patricia
+89325     HUMBERTO ALFONSO AMEZQUITA CONTRERAS              30        90562          Dermatologia
+68730     FRANCISCO  ZIMIC SALAS                            21        20189          Endocrinologia
+72969     RAUL  COLLADO VILLA                               8         61061535       Solis/Maria
+76247     JAIME JULIAN SHIRAKAWA FLORIAN                    25        77324146       Moscoso/Janet
+37549     JAIME JULIAN SHIRAKAWA FLORIAN                    35        77324146       Moscoso/Janet
+55813     FRANCISCO  ZIMIC SALAS                            23        85395219       Fuentes/Patricia
+55021     MILENA CINTHIA ZARATE ACUNA                       11        36934113       Serrano/Arturo
+34027     VICTORIA FIORELLA CUBA POMAJAMBO                  22        62287143       Wong/Beatriz
+44215     MILENA CINTHIA ZARATE ACUNA                       31        52063          Traumatologia
+57036     VICTORIA FIORELLA CUBA POMAJAMBO                  34        62287143       Wong/Beatriz
+27016     MILENA CINTHIA ZARATE ACUNA                       34        52063          Traumatologia
+59121     MILENA CINTHIA ZARATE ACUNA                       26        36934113       Serrano/Arturo
+44215     MILENA CINTHIA ZARATE ACUNA                       12        52063          Traumatologia
+70226     MILENA CINTHIA ZARATE ACUNA                       9         36934113       Serrano/Arturo
+27016     MILENA CINTHIA ZARATE ACUNA                       5         52063          Traumatologia
+61039     VICTORIA FIORELLA CUBA POMAJAMBO                  25        80063          Gastroenterologia
+30428     MILENA CINTHIA ZARATE ACUNA                       26        36934113       Serrano/Arturo
+89528     VICTORIA FIORELLA CUBA POMAJAMBO                  15        80063          Gastroenterologia
+89325     MILENA CINTHIA ZARATE ACUNA                       24        52063          Traumatologia
+75565     VICTORIA FIORELLA CUBA POMAJAMBO                  1         62287143       Wong/Beatriz
+22232     VICTORIA FIORELLA CUBA POMAJAMBO                  32        80063          Gastroenterologia
+42053     HUMBERTO ALBERTO VARGAS GUEVARA                   35        60049          Gastroenterologia
+24522     DELICIA  ARCA AQUINO                              11        70269          Dermatologia
+79851     VALENTINA PAULA URBINA ANTEZANO                   23        85395219       Fuentes/Patricia
+89528     OFELIA CARMEN MERCADO CARO                        6         60934          Neumologia
+60888     DELICIA  ARCA AQUINO                              20        70269          Dermatologia
+37549     HUMBERTO ALBERTO VARGAS GUEVARA                   18        77440060       Escalante/Emigdio
+49685     HUMBERTO ALBERTO VARGAS GUEVARA                   20        60049          Gastroenterologia
+57269     OFELIA CARMEN MERCADO CARO                        9         62126128       Durand/Enrique
+42053     HUMBERTO ALBERTO VARGAS GUEVARA                   20        60049          Gastroenterologia
+22842     DELICIA  ARCA AQUINO                              1         70269          Dermatologia
+79996     WALTER  JOLAY CHUMPITAZ                           13        99891737       Contreras/Johana
+13364     WALTER  JOLAY CHUMPITAZ                           10        99891737       Contreras/Johana
+98261     DELICIA  ARCA AQUINO                              35        81539774       Alfaro/Erick
+34027     VALENTINA PAULA URBINA ANTEZANO                   33        85395219       Fuentes/Patricia
+84771     OFELIA CARMEN MERCADO CARO                        6         60934          Neumologia
+55813     VALENTINA PAULA URBINA ANTEZANO                   22        85395219       Fuentes/Patricia
+28219     WALTER  JOLAY CHUMPITAZ                           9         14787          Traumatologia
+55813     VALENTINA PAULA URBINA ANTEZANO                   16        85395219       Fuentes/Patricia
+79851     VALENTINA PAULA URBINA ANTEZANO                   2         85395219       Fuentes/Patricia
+72969     OFELIA CARMEN MERCADO CARO                        16        62126128       Durand/Enrique
+60509     WALTER  JOLAY CHUMPITAZ                           33        14787          Traumatologia
+72939     HUMBERTO ALBERTO VARGAS GUEVARA                   17        77440060       Escalante/Emigdio
+68730     VALENTINA PAULA URBINA ANTEZANO                   35        53556          Pediatria
+77203     ZKENIA IRMA CHUNG ZUNIGA                          9         36934113       Serrano/Arturo
+30428     ZKENIA IRMA CHUNG ZUNIGA                          22        36934113       Serrano/Arturo
+28219     WALTER  JOLAY CHUMPITAZ                           18        14787          Traumatologia
+60509     WALTER  JOLAY CHUMPITAZ                           11        14787          Traumatologia
+27016     OFELIA CARMEN MERCADO CARO                        31        60934          Neumologia
+86158     HUMBERTO ALBERTO VARGAS GUEVARA                   25        60049          Gastroenterologia
+83510     DELICIA  ARCA AQUINO                              17        70269          Dermatologia
+37007     OFELIA CARMEN MERCADO CARO                        10        62126128       Durand/Enrique
+81695     OFELIA CARMEN MERCADO CARO                        17        60934          Neumologia
+61295     DELIA ESTEFANIA CABRERA MORENO                    28        70367          Urologia
+89528     ZKENIA IRMA CHUNG ZUNIGA                          34        70612          Traumatologia
+76360     WILMER  SAENZ ARANDA                              20        68114999       Rios/Ines
+82528     WILMER  SAENZ ARANDA                              30        18708          Ginecologia
+44215     ZKENIA IRMA CHUNG ZUNIGA                          26        70612          Traumatologia
+17804     LOURDES CARMELA YALLICO PAREDES                   23        54815159       Patino/Delicia
+92560     DELICIA ROSA ARCA LEIVA                           34        80694546       Ramirez/Karina
+86828     GUSTAVO ALONSO DEL CASTILLO MEJIA                 15        80138          Geriatria
+79189     DELIA ESTEFANIA CABRERA MORENO                    25        54815159       Patino/Delicia
+46000     LOURDES CARMELA YALLICO PAREDES                   25        64405          Oftalmologia
+33390     DELICIA ROSA ARCA LEIVA                           15        80694546       Ramirez/Karina
+17804     LOURDES CARMELA YALLICO PAREDES                   17        54815159       Patino/Delicia
+79851     DELICIA ROSA ARCA LEIVA                           32        80694546       Ramirez/Karina
+59121     DELIA ESTEFANIA CABRERA MORENO                    5         54815159       Patino/Delicia
+30796     LOURDES CARMELA YALLICO PAREDES                   15        54815159       Patino/Delicia
+53200     DELICIA ROSA ARCA LEIVA                           25        80694546       Ramirez/Karina
+70226     ZKENIA IRMA CHUNG ZUNIGA                          29        36934113       Serrano/Arturo
+83510     DELICIA ROSA ARCA LEIVA                           2         90929          Oftalmologia
+68860     WILMER  SAENZ ARANDA                              29        18708          Ginecologia
+77466     DELICIA ROSA ARCA LEIVA                           31        80694546       Ramirez/Karina
+49685     LOURDES CARMELA YALLICO PAREDES                   2         64405          Oftalmologia
+52072     DELICIA ROSA ARCA LEIVA                           23        80694546       Ramirez/Karina
+46000     DELIA ESTEFANIA CABRERA MORENO                    27        70367          Urologia
+37549     LOURDES CARMELA YALLICO PAREDES                   6         54815159       Patino/Delicia
+59121     LOURDES CARMELA YALLICO PAREDES                   15        54815159       Patino/Delicia
+59121     DELIA ESTEFANIA CABRERA MORENO                    30        54815159       Patino/Delicia
+33390     DELICIA ROSA ARCA LEIVA                           31        80694546       Ramirez/Karina
+82528     WILMER  SAENZ ARANDA                              24        18708          Ginecologia
+36711     LOURDES CARMELA YALLICO PAREDES                   34        54815159       Patino/Delicia
+61295     LOURDES CARMELA YALLICO PAREDES                   30        64405          Oftalmologia
+55021     ZKENIA IRMA CHUNG ZUNIGA                          30        36934113       Serrano/Arturo
+27016     ZKENIA IRMA CHUNG ZUNIGA                          31        70612          Traumatologia
+63555     FIORELLA ERIKA FLORENCIO POLO                     9         90907          Dermatologia
+26754     OFELIA CARMEN MERCADO CARO                        16        60934          Neumologia
+70807     FIORELLA ERIKA FLORENCIO POLO                     18        93961840       Pairazaman/Tatiana
+86158     ROSARIO MARIBEL YEP ZAVALETA                      11        80786          Ginecologia
+22842     CINTHIA MILENA ZEGARRA CABELLO                    24        70233          Ginecologia
+84555     DELIA  ZARATE URBINA                              26        89213          Gastroenterologia
+76360     ROSARIO MARIBEL YEP ZAVALETA                      23        68114999       Rios/Ines
+89528     OFELIA CARMEN MERCADO CARO                        8         60934          Neumologia
+61508     FIORELLA ERIKA FLORENCIO POLO                     7         90907          Dermatologia
+79189     FIORELLA ERIKA FLORENCIO POLO                     18        93961840       Pairazaman/Tatiana
+68860     ROSARIO MARIBEL YEP ZAVALETA                      14        80786          Ginecologia
+63555     FIORELLA ERIKA FLORENCIO POLO                     31        90907          Dermatologia
+80839     ROSARIO MARIBEL YEP ZAVALETA                      18        80786          Ginecologia
+82528     ROSARIO MARIBEL YEP ZAVALETA                      3         80786          Ginecologia
+63555     FIORELLA ERIKA FLORENCIO POLO                     33        90907          Dermatologia
+70226     GIOVANA  MEJIA ZEGARRA                            29        36934113       Serrano/Arturo
+91282     CINTHIA MILENA ZEGARRA CABELLO                    21        59561864       Rosemberg/Julio
+76247     CINTHIA MILENA ZEGARRA CABELLO                    33        59561864       Rosemberg/Julio
+85325     DELIA  ZARATE URBINA                              16        89213          Gastroenterologia
+86828     ROSARIO MARIBEL YEP ZAVALETA                      23        80786          Ginecologia
+83510     TERESA TERESA MARTEL MERCADO                      28        80227          Pediatria
+41403     DAVID CARLOS PEREZ ANTEZANO                       34        80040          Endocrinologia
+60888     TERESA TERESA MARTEL MERCADO                      33        80227          Pediatria
+88681     DAVID CARLOS PEREZ ANTEZANO                       22        80040          Endocrinologia
+84771     YLIANA FLOR ORTIZ GUEVARA                         4         40414          Ginecologia
+57036     HUMBERTO ALFONSO AMEZQUITA CONTRERAS              10        62126128       Durand/Enrique
+34080     CARMEN  ZAMORA CABRERA                            26        65912822       Camacho/Ydali
+26754     HUMBERTO ALFONSO AMEZQUITA CONTRERAS              29        90562          Dermatologia
+70303     TERESA TERESA MARTEL MERCADO                      3         80694546       Ramirez/Karina
+86158     DAVID CARLOS PEREZ ANTEZANO                       11        80040          Endocrinologia
+77466     DAVID CARLOS PEREZ ANTEZANO                       32        72973662       Vargas/Daniel
+60888     TERESA TERESA MARTEL MERCADO                      19        80227          Pediatria
+12388     MIGUEL ALEX LANDEO ESTRADA                        27        20371464       Lozada/Heli
+82528     MIGUEL ALEX LANDEO ESTRADA                        17        34115          Cardiologia
+81695     CARMEN  ZAMORA CABRERA                            3         25448          Endocrinologia
+62302     TERESA TERESA MARTEL MERCADO                      6         80227          Pediatria
+47697     CARMEN  ZAMORA CABRERA                            27        25448          Endocrinologia
+16055     CARMEN  ZAMORA CABRERA                            12        65912822       Camacho/Ydali
+57269     MIGUEL ALEX LANDEO ESTRADA                        27        20371464       Lozada/Heli
+62302     TERESA TERESA MARTEL MERCADO                      24        80227          Pediatria
+73972     YLIANA FLOR ORTIZ GUEVARA                         29        22598563       Sueldo/Adria
+89528     HUMBERTO ALFONSO AMEZQUITA CONTRERAS              6         90562          Dermatologia
+90300     TERESA TERESA MARTEL MERCADO                      6         80694546       Ramirez/Karina
+70303     TERESA TERESA MARTEL MERCADO                      22        80694546       Ramirez/Karina
+96881     MIGUEL ALEX LANDEO ESTRADA                        28        20371464       Lozada/Heli
+46000     DAVID CARLOS PEREZ ANTEZANO                       33        80040          Endocrinologia
+79996     YLIANA FLOR ORTIZ GUEVARA                         23        22598563       Sueldo/Adria
+58200     YLIANA FLOR ORTIZ GUEVARA                         9         22598563       Sueldo/Adria
+72969     HUMBERTO ALFONSO AMEZQUITA CONTRERAS              7         62126128       Durand/Enrique
+45814     GUSTAVO ALONSO DEL CASTILLO MEJIA                 33        80138          Geriatria
+92560     GUSTAVO ALONSO DEL CASTILLO MEJIA                 24        68269451       Asmad/Adria
+68860     GUSTAVO ALONSO DEL CASTILLO MEJIA                 18        80138          Geriatria
+76360     GUSTAVO ALONSO DEL CASTILLO MEJIA                 3         68269451       Asmad/Adria
+53846     JAVIER EDGARD LANDA CABRERA                       27        51465986       Sam/Ines
+63555     JAVIER EDGARD LANDA CABRERA                       16        35451          Pediatria
+46000     GUSTAVO ALONSO DEL CASTILLO MEJIA                 12        80138          Geriatria
+86828     GUSTAVO ALONSO DEL CASTILLO MEJIA                 26        80138          Geriatria
+34080     JAVIER EDGARD LANDA CABRERA                       22        51465986       Sam/Ines
+45814     GUSTAVO ALONSO DEL CASTILLO MEJIA                 26        80138          Geriatria
+34080     JAVIER EDGARD LANDA CABRERA                       17        51465986       Sam/Ines
+58252     JAVIER EDGARD LANDA CABRERA                       16        51465986       Sam/Ines
+58252     JAVIER EDGARD LANDA CABRERA                       16        51465986       Sam/Ines
+67784     OFELIA BEATRIZ MONTERO BOLANOS                    34        70992          Gastroenterologia
+31189     MARINA NATALIA GARCIA INGA                        8         93961840       Pairazaman/Tatiana
+86451     MARINA NATALIA GARCIA INGA                        18        49768          Cardiologia
+39088     BLANCA LUZ ACUNA AYLLON                           10        93961840       Pairazaman/Tatiana
+68610     BLANCA LUZ ACUNA AYLLON                           19        33687          Oftalmologia
+39088     BLANCA LUZ ACUNA AYLLON                           33        93961840       Pairazaman/Tatiana
+68860     BLANCA LUZ ACUNA AYLLON                           7         33687          Oftalmologia
+53846     OFELIA BEATRIZ MONTERO BOLANOS                    7         99891737       Contreras/Johana
+86451     MARINA NATALIA GARCIA INGA                        34        49768          Cardiologia
+68860     MARINA NATALIA GARCIA INGA                        29        49768          Cardiologia
+31189     MARINA NATALIA GARCIA INGA                        5         93961840       Pairazaman/Tatiana
+58036     VICTORIA MILAGROS SHIRAKAWA SAONA                 5         93231760       Zarate/Alexander
+33276     EMILIO EMIGDIO GONZALES AGUIRRE                   24        77440060       Escalante/Emigdio
+68610     BLANCA LUZ ACUNA AYLLON                           17        33687          Oftalmologia
+86451     BLANCA LUZ ACUNA AYLLON                           18        33687          Oftalmologia
+49685     EMILIO EMIGDIO GONZALES AGUIRRE                   8         18262          Urologia
+86158     EMILIO EMIGDIO GONZALES AGUIRRE                   2         18262          Urologia
+68610     BLANCA LUZ ACUNA AYLLON                           16        33687          Oftalmologia
+63555     BLANCA LUZ ACUNA AYLLON                           12        33687          Oftalmologia
+85641     VICTORIA MILAGROS SHIRAKAWA SAONA                 19        70789          Pediatria
+95540     EMILIO EMIGDIO GONZALES AGUIRRE                   25        77440060       Escalante/Emigdio
+65536     GLENDA  CABRERA MORI                              25        14655          Oncologia
+47697     GLENDA  CABRERA MORI                              27        14655          Oncologia
+67784     VICTORIA MILAGROS SHIRAKAWA SAONA                 5         70789          Pediatria
+42053     EMILIO EMIGDIO GONZALES AGUIRRE                   33        18262          Urologia
+75565     GLENDA  CABRERA MORI                              2         94683380       Farfan/Margot
+22306     EMILIO EMIGDIO GONZALES AGUIRRE                   22        18262          Urologia
+42053     EMILIO EMIGDIO GONZALES AGUIRRE                   9         18262          Urologia
+60086     GUSTAVO ALONSO DEL CASTILLO MEJIA                 20        80138          Geriatria
+58259     LOURDES CARMELA YALLICO PAREDES                   13        86988155       Cerna/Cinthia
+31883     GUSTAVO ALONSO DEL CASTILLO MEJIA                 13        51642949       Miranda/Alfonso
+11592     GUSTAVO ALONSO DEL CASTILLO MEJIA                 34        51642949       Miranda/Alfonso
+58259     DELICIA ROSA ARCA LEIVA                           31        15290194       Hernandez/Guillermo
+86451     GUSTAVO ALONSO DEL CASTILLO MEJIA                 26        80138          Geriatria
+72969     DELIA ESTEFANIA CABRERA MORENO                    6         61061535       Solis/Maria
+61508     DELIA ESTEFANIA CABRERA MORENO                    14        70367          Urologia
+89528     DELIA ESTEFANIA CABRERA MORENO                    18        70367          Urologia
+95540     WILMER  SAENZ ARANDA                              15        13731806       Salamanca/Virginia
+88266     GUSTAVO ALONSO DEL CASTILLO MEJIA                 7         80138          Geriatria
+34080     GUSTAVO ALONSO DEL CASTILLO MEJIA                 32        51642949       Miranda/Alfonso
+61039     DELIA ESTEFANIA CABRERA MORENO                    26        70367          Urologia
+85325     WILMER  SAENZ ARANDA                              24        18708          Ginecologia
+76247     LOURDES CARMELA YALLICO PAREDES                   15        86988155       Cerna/Cinthia
+80839     LOURDES CARMELA YALLICO PAREDES                   27        64405          Oftalmologia
+27016     DELIA ESTEFANIA CABRERA MORENO                    13        70367          Urologia
+22553     WILMER  SAENZ ARANDA                              13        18708          Ginecologia
+58200     WILMER  SAENZ ARANDA                              11        13731806       Salamanca/Virginia
+74924     WILMER  SAENZ ARANDA                              31        13731806       Salamanca/Virginia
+84771     DELIA ESTEFANIA CABRERA MORENO                    4         70367          Urologia
+92517     GUSTAVO ALONSO DEL CASTILLO MEJIA                 9         51642949       Miranda/Alfonso
+26754     DELIA ESTEFANIA CABRERA MORENO                    14        70367          Urologia
+68860     DELICIA ROSA ARCA LEIVA                           11        90929          Oftalmologia
+89528     DELIA ESTEFANIA CABRERA MORENO                    8         70367          Urologia
+58259     LOURDES CARMELA YALLICO PAREDES                   30        86988155       Cerna/Cinthia
+95540     FRANCISCO  ZIMIC SALAS                            8         77440060       Escalante/Emigdio
+74924     JAIME JULIAN SHIRAKAWA FLORIAN                    33        13731806       Salamanca/Virginia
+76238     FRANCISCO  ZIMIC SALAS                            11        77440060       Escalante/Emigdio
+55021     RAUL  COLLADO VILLA                               29        51873364       Calixto/Erick
+49685     FRANCISCO  ZIMIC SALAS                            16        20189          Endocrinologia
+42053     FRANCISCO  ZIMIC SALAS                            9         20189          Endocrinologia
+72495     RAUL  COLLADO VILLA                               26        51873364       Calixto/Erick
+85325     JAIME JULIAN SHIRAKAWA FLORIAN                    17        30557          Neumologia
+94415     JAIME JULIAN SHIRAKAWA FLORIAN                    5         13731806       Salamanca/Virginia
+41995     FRANCISCO  ZIMIC SALAS                            17        20189          Endocrinologia
+95540     FRANCISCO  ZIMIC SALAS                            16        77440060       Escalante/Emigdio
+24522     ALFONSO WALDEMAR CABELLO LAM                      13        30082          Cardiologia
+77466     ALFONSO WALDEMAR CABELLO LAM                      4         53420926       Prado/Juan
+41379     ESTEFANIA  ZEGARRA CASANOVA                       15        50718          Pediatria
+86451     ESTEFANIA  ZEGARRA CASANOVA                       19        50718          Pediatria
+70113     RAUL  COLLADO VILLA                               21        51873364       Calixto/Erick
+75565     HUMBERTO ALFONSO AMEZQUITA CONTRERAS              25        62126128       Durand/Enrique
+83510     RAUL  COLLADO VILLA                               11        91509          Cardiologia
+44253     ALFONSO WALDEMAR CABELLO LAM                      26        30082          Cardiologia
+31189     ALFONSO WALDEMAR CABELLO LAM                      26        53420926       Prado/Juan
+88266     ESTEFANIA  ZEGARRA CASANOVA                       10        50718          Pediatria
+26360     ESTEFANIA  ZEGARRA CASANOVA                       31        50718          Pediatria
+16359     RAUL  COLLADO VILLA                               22        51873364       Calixto/Erick
+34080     JAIME JULIAN SHIRAKAWA FLORIAN                    24        13731806       Salamanca/Virginia
+36208     ALFONSO WALDEMAR CABELLO LAM                      21        53420926       Prado/Juan
+58252     ESTEFANIA  ZEGARRA CASANOVA                       30        51642949       Miranda/Alfonso
+67415     RAUL  COLLADO VILLA                               31        91509          Cardiologia
+95540     FRANCISCO  ZIMIC SALAS                            30        77440060       Escalante/Emigdio
+34070     RAUL  COLLADO VILLA                               18        51873364       Calixto/Erick
+37549     FRANCISCO  ZIMIC SALAS                            29        77440060       Escalante/Emigdio
+63555     LUZ SOFIA JAUREGUI BRAVO                          5         15092          Dermatologia
+60086     EDGAR  MUNOZ VERGEL                               26        50611          Urologia
+79996     EDGAR  MUNOZ VERGEL                               12        90367684       Sinche/Yvonne
+68860     LUZ SOFIA JAUREGUI BRAVO                          18        15092          Dermatologia
+11592     ROSARIO  TABORI ARIAS                             6         99891737       Contreras/Johana
+30796     LUZ SOFIA JAUREGUI BRAVO                          27        93961840       Pairazaman/Tatiana
+31883     ESTEFANIA  ZEGARRA CASANOVA                       17        51642949       Miranda/Alfonso
+36208     VICTORIA FIORELLA CUBA POMAJAMBO                  26        36934113       Serrano/Arturo
+79996     ROSARIO  TABORI ARIAS                             35        99891737       Contreras/Johana
+31189     LUZ SOFIA JAUREGUI BRAVO                          22        93961840       Pairazaman/Tatiana
+27447     SURAMI HELI PRECIADO PINTO                        10        60184          Traumatologia
+49644     EDGAR  MUNOZ VERGEL                               27        50611          Urologia
+89528     MILENA CINTHIA ZARATE ACUNA                       30        52063          Traumatologia
+27016     VICTORIA FIORELLA CUBA POMAJAMBO                  24        80063          Gastroenterologia
+11592     EDGAR  MUNOZ VERGEL                               24        90367684       Sinche/Yvonne
+31189     LUZ SOFIA JAUREGUI BRAVO                          4         93961840       Pairazaman/Tatiana
+27016     MILENA CINTHIA ZARATE ACUNA                       34        52063          Traumatologia
+31189     LUZ SOFIA JAUREGUI BRAVO                          15        93961840       Pairazaman/Tatiana
+55021     VICTORIA FIORELLA CUBA POMAJAMBO                  3         36934113       Serrano/Arturo
+30796     LUZ SOFIA JAUREGUI BRAVO                          18        93961840       Pairazaman/Tatiana
+72969     MILENA CINTHIA ZARATE ACUNA                       21        61061535       Solis/Maria
+89839     LUZ SOFIA JAUREGUI BRAVO                          27        15092          Dermatologia
+12388     MILENA CINTHIA ZARATE ACUNA                       23        61061535       Solis/Maria
+75565     ROSARIO  TABORI ARIAS                             31        99891737       Contreras/Johana
+89528     VICTORIA FIORELLA CUBA POMAJAMBO                  20        80063          Gastroenterologia
+96554     VICTORIA FIORELLA CUBA POMAJAMBO                  24        36934113       Serrano/Arturo
+30796     LUZ SOFIA JAUREGUI BRAVO                          30        93961840       Pairazaman/Tatiana
+17804     SURAMI HELI PRECIADO PINTO                        13        68114999       Rios/Ines
+80839     SURAMI HELI PRECIADO PINTO                        10        60184          Traumatologia
+75565     ROSARIO MARIBEL YEP ZAVALETA                      21        54815159       Patino/Delicia
+75565     ROSARIO MARIBEL YEP ZAVALETA                      25        54815159       Patino/Delicia
+61508     DELIA  ZARATE URBINA                              9         89213          Gastroenterologia
+60509     CINTHIA MILENA ZEGARRA CABELLO                    35        70233          Ginecologia
+82528     SURAMI HELI PRECIADO PINTO                        8         60184          Traumatologia
+49644     CINTHIA MILENA ZEGARRA CABELLO                    26        70233          Ginecologia
+96031     GIOVANA  MEJIA ZEGARRA                            10        32538825       Hijar/Martin
+42053     ROSARIO MARIBEL YEP ZAVALETA                      9         80786          Ginecologia
+60509     GIOVANA  MEJIA ZEGARRA                            20        90798          Traumatologia
+85865     ROSARIO MARIBEL YEP ZAVALETA                      30        80786          Ginecologia
+80839     CINTHIA MILENA ZEGARRA CABELLO                    32        70233          Ginecologia
+31311     CINTHIA MILENA ZEGARRA CABELLO                    1         91187814       Narvaez/Jesus
+67784     FIORELLA ERIKA FLORENCIO POLO                     9         90907          Dermatologia
+70226     FIORELLA ERIKA FLORENCIO POLO                     17        45914393       Lozada/Antonio
+30796     DELIA  ZARATE URBINA                              29        27709566       Ortiz/Raul
+39088     OFELIA CARMEN MERCADO CARO                        9         93939698       Henriquez/Silvana
+70225     DELIA  ZARATE URBINA                              23        27709566       Ortiz/Raul
+91653     DELIA  ZARATE URBINA                              4         27709566       Ortiz/Raul
+70116     FIORELLA ERIKA FLORENCIO POLO                     28        45914393       Lozada/Antonio
+31311     SURAMI HELI PRECIADO PINTO                        17        68114999       Rios/Ines
+85325     SURAMI HELI PRECIADO PINTO                        14        60184          Traumatologia
+22232     GIOVANA  MEJIA ZEGARRA                            28        90798          Traumatologia
+67784     FIORELLA ERIKA FLORENCIO POLO                     11        90907          Dermatologia
+74924     GIOVANA  MEJIA ZEGARRA                            14        32538825       Hijar/Martin
+47697     FIORELLA ERIKA FLORENCIO POLO                     24        90907          Dermatologia
+92628     GIOVANA  MEJIA ZEGARRA                            24        32538825       Hijar/Martin
+36711     ROSARIO MARIBEL YEP ZAVALETA                      5         54815159       Patino/Delicia
+75565     FIORELLA ERIKA FLORENCIO POLO                     27        45914393       Lozada/Antonio
+53846     FIORELLA ERIKA FLORENCIO POLO                     19        45914393       Lozada/Antonio
+47697     FIORELLA ERIKA FLORENCIO POLO                     13        90907          Dermatologia
+81960     WALTER  JOLAY CHUMPITAZ                           5         14787          Traumatologia
+37007     OFELIA CARMEN MERCADO CARO                        5         93939698       Henriquez/Silvana
+26754     DELICIA  ARCA AQUINO                              13        70269          Dermatologia
+94459     OFELIA CARMEN MERCADO CARO                        4         93939698       Henriquez/Silvana
+70950     OFELIA CARMEN MERCADO CARO                        16        93939698       Henriquez/Silvana
+40862     DELICIA  ARCA AQUINO                              27        70269          Dermatologia
+53166     DELICIA  ARCA AQUINO                              15        90367684       Sinche/Yvonne
+86828     WALTER  JOLAY CHUMPITAZ                           33        14787          Traumatologia
+55813     DELICIA  ARCA AQUINO                              1         90367684       Sinche/Yvonne
+26754     DELICIA  ARCA AQUINO                              22        70269          Dermatologia
+77466     OFELIA CARMEN MERCADO CARO                        19        93939698       Henriquez/Silvana
+53166     DELICIA  ARCA AQUINO                              29        90367684       Sinche/Yvonne
+55021     WALTER  JOLAY CHUMPITAZ                           22        36934113       Serrano/Arturo
+28219     DELICIA  ARCA AQUINO                              8         70269          Dermatologia
+40862     OFELIA CARMEN MERCADO CARO                        14        60934          Neumologia
+36208     DELICIA  ARCA AQUINO                              19        90367684       Sinche/Yvonne
+53166     DELICIA  ARCA AQUINO                              7         90367684       Sinche/Yvonne
+39088     VALENTINA PAULA URBINA ANTEZANO                   9         15290194       Hernandez/Guillermo
+65667     VALENTINA PAULA URBINA ANTEZANO                   27        53556          Pediatria
+55021     WALTER  JOLAY CHUMPITAZ                           21        36934113       Serrano/Arturo
+65985     OFELIA CARMEN MERCADO CARO                        15        60934          Neumologia
+59121     WALTER  JOLAY CHUMPITAZ                           35        36934113       Serrano/Arturo
+89528     WALTER  JOLAY CHUMPITAZ                           17        14787          Traumatologia
+26920     HUMBERTO ALBERTO VARGAS GUEVARA                   20        60049          Gastroenterologia
+82469     HUMBERTO ALBERTO VARGAS GUEVARA                   17        60049          Gastroenterologia
+36649     HUMBERTO ALBERTO VARGAS GUEVARA                   7         72330000       Vega/Carmela
+44215     WALTER  JOLAY CHUMPITAZ                           28        14787          Traumatologia
+53084     HUMBERTO ALBERTO VARGAS GUEVARA                   13        72330000       Vega/Carmela
+26754     DELICIA  ARCA AQUINO                              18        70269          Dermatologia
+25684     VALENTINA PAULA URBINA ANTEZANO                   12        53556          Pediatria
+72061     VALENTINA PAULA URBINA ANTEZANO                   33        15290194       Hernandez/Guillermo
+47697     HUMBERTO ALBERTO VARGAS GUEVARA                   21        60049          Gastroenterologia
+42856     ZKENIA IRMA CHUNG ZUNIGA                          17        70612          Traumatologia
+30007     ZKENIA IRMA CHUNG ZUNIGA                          15        93282118       Zambrano/Ofelia
+62008     ZKENIA IRMA CHUNG ZUNIGA                          13        70612          Traumatologia
+70225     ZKENIA IRMA CHUNG ZUNIGA                          16        93282118       Zambrano/Ofelia
+89528     ZKENIA IRMA CHUNG ZUNIGA                          29        70612          Traumatologia
+81695     ZKENIA IRMA CHUNG ZUNIGA                          32        70612          Traumatologia
+77203     LOURDES CARMELA YALLICO PAREDES                   34        86988155       Cerna/Cinthia
+91282     ZKENIA IRMA CHUNG ZUNIGA                          29        93282118       Zambrano/Ofelia
+70807     ZKENIA IRMA CHUNG ZUNIGA                          23        93282118       Zambrano/Ofelia
+28219     SURAMI HELI PRECIADO PINTO                        5         60184          Traumatologia
+28219     ROSARIO MARIBEL YEP ZAVALETA                      12        80786          Ginecologia
+84771     ROSARIO MARIBEL YEP ZAVALETA                      1         80786          Ginecologia
+67784     ROSARIO MARIBEL YEP ZAVALETA                      4         80786          Ginecologia
+60509     ROSARIO MARIBEL YEP ZAVALETA                      19        80786          Ginecologia
+60509     LUZ SOFIA JAUREGUI BRAVO                          3         15092          Dermatologia
+81062     LUZ SOFIA JAUREGUI BRAVO                          16        15092          Dermatologia
+57036     SURAMI HELI PRECIADO PINTO                        22        15290194       Hernandez/Guillermo
+57036     SURAMI HELI PRECIADO PINTO                        33        15290194       Hernandez/Guillermo
+13364     ROSARIO MARIBEL YEP ZAVALETA                      11        37282858       Soma/Lourdes
+11592     ROSARIO MARIBEL YEP ZAVALETA                      7         37282858       Soma/Lourdes
+60888     SURAMI HELI PRECIADO PINTO                        32        60184          Traumatologia
+11592     ROSARIO MARIBEL YEP ZAVALETA                      33        37282858       Soma/Lourdes
+30428     CINTHIA MILENA ZEGARRA CABELLO                    8         27709566       Ortiz/Raul
+84555     CINTHIA MILENA ZEGARRA CABELLO                    29        70233          Ginecologia
+30796     CINTHIA MILENA ZEGARRA CABELLO                    27        27709566       Ortiz/Raul
+37007     CINTHIA MILENA ZEGARRA CABELLO                    9         27709566       Ortiz/Raul
+53846     LUZ SOFIA JAUREGUI BRAVO                          8         91187814       Narvaez/Jesus
+77358     SURAMI HELI PRECIADO PINTO                        1         15290194       Hernandez/Guillermo
+68860     LUZ SOFIA JAUREGUI BRAVO                          34        15092          Dermatologia
+57036     SURAMI HELI PRECIADO PINTO                        31        15290194       Hernandez/Guillermo
+61508     SURAMI HELI PRECIADO PINTO                        27        60184          Traumatologia
+68860     SURAMI HELI PRECIADO PINTO                        21        60184          Traumatologia
+37549     GIOVANA  MEJIA ZEGARRA                            25        77324146       Moscoso/Janet
+39088     SURAMI HELI PRECIADO PINTO                        23        15290194       Hernandez/Guillermo
+68860     SURAMI HELI PRECIADO PINTO                        29        60184          Traumatologia
+30220     GIOVANA  MEJIA ZEGARRA                            29        77324146       Moscoso/Janet
+84771     ROSARIO MARIBEL YEP ZAVALETA                      29        80786          Ginecologia
+30228     LUZ SOFIA JAUREGUI BRAVO                          15        91187814       Narvaez/Jesus
+83510     GIOVANA  MEJIA ZEGARRA                            19        90798          Traumatologia
+41995     GIOVANA  MEJIA ZEGARRA                            25        90798          Traumatologia
+83510     GIOVANA  MEJIA ZEGARRA                            12        90798          Traumatologia
+57269     OFELIA BEATRIZ MONTERO BOLANOS                    2         20371464       Lozada/Heli
+57269     OFELIA BEATRIZ MONTERO BOLANOS                    27        20371464       Lozada/Heli
+76247     BLANCA LUZ ACUNA AYLLON                           33        59596317       Justino/Virginia
+46919     BLANCA LUZ ACUNA AYLLON                           14        33687          Oftalmologia
+30220     BLANCA LUZ ACUNA AYLLON                           9         59596317       Justino/Virginia
+70950     OFELIA BEATRIZ MONTERO BOLANOS                    1         20371464       Lozada/Heli
+30220     BLANCA LUZ ACUNA AYLLON                           21        59596317       Justino/Virginia
+86158     OFELIA BEATRIZ MONTERO BOLANOS                    9         70992          Gastroenterologia
+14962     MARINA NATALIA GARCIA INGA                        35        52313890       Rivero/Wilver
+86451     GUSTAVO ALONSO DEL CASTILLO MEJIA                 18        80138          Geriatria
+44253     JAVIER EDGARD LANDA CABRERA                       8         35451          Pediatria
+36208     MARINA NATALIA GARCIA INGA                        34        52313890       Rivero/Wilver
+31883     BLANCA LUZ ACUNA AYLLON                           7         59596317       Justino/Virginia
+31189     VICTORIA MILAGROS SHIRAKAWA SAONA                 6         93961840       Pairazaman/Tatiana
+79189     VICTORIA MILAGROS SHIRAKAWA SAONA                 32        93961840       Pairazaman/Tatiana
+96881     OFELIA BEATRIZ MONTERO BOLANOS                    25        20371464       Lozada/Heli
+16055     JAVIER EDGARD LANDA CABRERA                       25        52313890       Rivero/Wilver
+60086     GUSTAVO ALONSO DEL CASTILLO MEJIA                 5         80138          Geriatria
+44253     BLANCA LUZ ACUNA AYLLON                           33        33687          Oftalmologia
+61508     VICTORIA MILAGROS SHIRAKAWA SAONA                 9         70789          Pediatria
+90300     MARINA NATALIA GARCIA INGA                        32        52313890       Rivero/Wilver
+67784     MARINA NATALIA GARCIA INGA                        26        49768          Cardiologia
+88681     OFELIA BEATRIZ MONTERO BOLANOS                    30        70992          Gastroenterologia
+60086     GUSTAVO ALONSO DEL CASTILLO MEJIA                 25        80138          Geriatria
+26920     BLANCA LUZ ACUNA AYLLON                           17        33687          Oftalmologia
+77358     MIGUEL ALEX LANDEO ESTRADA                        30        91187814       Narvaez/Jesus
+96031     GLENDA  CABRERA MORI                              29        51642949       Miranda/Alfonso
+82469     CARMEN  ZAMORA CABRERA                            28        25448          Endocrinologia
+94429     EMILIO EMIGDIO GONZALES AGUIRRE                   34        30246960       Escalante/Ines
+80830     EMILIO EMIGDIO GONZALES AGUIRRE                   34        18262          Urologia
+94415     MIGUEL ALEX LANDEO ESTRADA                        13        91187814       Narvaez/Jesus
+31311     MIGUEL ALEX LANDEO ESTRADA                        23        91187814       Narvaez/Jesus
+40645     CARMEN  ZAMORA CABRERA                            21        25448          Endocrinologia
+60509     MIGUEL ALEX LANDEO ESTRADA                        3         34115          Cardiologia
+37549     EMILIO EMIGDIO GONZALES AGUIRRE                   34        30246960       Escalante/Ines
+26360     GLENDA  CABRERA MORI                              20        14655          Oncologia
+50450     GLENDA  CABRERA MORI                              29        51642949       Miranda/Alfonso
+41379     GLENDA  CABRERA MORI                              8         14655          Oncologia
+27016     TERESA TERESA MARTEL MERCADO                      29        80227          Pediatria
+81695     MIGUEL ALEX LANDEO ESTRADA                        31        34115          Cardiologia
+26754     DAVID CARLOS PEREZ ANTEZANO                       8         80040          Endocrinologia
+37007     DAVID CARLOS PEREZ ANTEZANO                       8         62126128       Durand/Enrique
+37007     DAVID CARLOS PEREZ ANTEZANO                       4         62126128       Durand/Enrique
+84771     DAVID CARLOS PEREZ ANTEZANO                       24        80040          Endocrinologia
+11592     GLENDA  CABRERA MORI                              26        51642949       Miranda/Alfonso
+73972     CARMEN  ZAMORA CABRERA                            11        71422479       Lozada/Felicita
+31311     MIGUEL ALEX LANDEO ESTRADA                        33        91187814       Narvaez/Jesus
+30430     CARMEN  ZAMORA CABRERA                            5         71422479       Lozada/Felicita
+47697     CARMEN  ZAMORA CABRERA                            23        25448          Endocrinologia
+24733     EMILIO EMIGDIO GONZALES AGUIRRE                   29        18262          Urologia
+89528     TERESA TERESA MARTEL MERCADO                      23        80227          Pediatria
+84766     CARMEN  ZAMORA CABRERA                            3         25448          Endocrinologia
+12388     TERESA TERESA MARTEL MERCADO                      11        61061535       Solis/Maria
+58252     MIGUEL ALEX LANDEO ESTRADA                        20        91187814       Narvaez/Jesus
+57036     DAVID CARLOS PEREZ ANTEZANO                       6         62126128       Durand/Enrique
+39172     EMILIO EMIGDIO GONZALES AGUIRRE                   8         30246960       Escalante/Ines
+81062     MIGUEL ALEX LANDEO ESTRADA                        33        34115          Cardiologia
+82469     CARMEN  ZAMORA CABRERA                            27        25448          Endocrinologia
+42856     HUMBERTO ALFONSO AMEZQUITA CONTRERAS              26        90562          Dermatologia
+37549     HUMBERTO ALFONSO AMEZQUITA CONTRERAS              15        77324146       Moscoso/Janet
+14962     RAUL  COLLADO VILLA                               11        54149342       Leyva/Diana
+26484     JAIME JULIAN SHIRAKAWA FLORIAN                    17        30557          Neumologia
+72969     YLIANA FLOR ORTIZ GUEVARA                         22        62126128       Durand/Enrique
+41995     HUMBERTO ALFONSO AMEZQUITA CONTRERAS              29        90562          Dermatologia
+61039     RAUL  COLLADO VILLA                               23        91509          Cardiologia
+88681     RAUL  COLLADO VILLA                               23        91509          Cardiologia
+90300     RAUL  COLLADO VILLA                               6         54149342       Leyva/Diana
+85325     JAIME JULIAN SHIRAKAWA FLORIAN                    5         30557          Neumologia
+85325     JAIME JULIAN SHIRAKAWA FLORIAN                    32        30557          Neumologia
+26484     JAIME JULIAN SHIRAKAWA FLORIAN                    30        30557          Neumologia
+95540     JAIME JULIAN SHIRAKAWA FLORIAN                    7         13731806       Salamanca/Virginia
+40862     FRANCISCO  ZIMIC SALAS                            21        20189          Endocrinologia
+81695     YLIANA FLOR ORTIZ GUEVARA                         14        40414          Ginecologia
+12388     YLIANA FLOR ORTIZ GUEVARA                         30        62126128       Durand/Enrique
+90300     RAUL  COLLADO VILLA                               26        54149342       Leyva/Diana
+90300     RAUL  COLLADO VILLA                               24        54149342       Leyva/Diana
+40862     FRANCISCO  ZIMIC SALAS                            26        20189          Endocrinologia
+37549     HUMBERTO ALFONSO AMEZQUITA CONTRERAS              35        77324146       Moscoso/Janet
+61039     YLIANA FLOR ORTIZ GUEVARA                         26        40414          Ginecologia
+37549     HUMBERTO ALFONSO AMEZQUITA CONTRERAS              35        77324146       Moscoso/Janet
+30220     CARMEN  ZAMORA CABRERA                            5         71422479       Lozada/Felicita
+22306     HUMBERTO ALFONSO AMEZQUITA CONTRERAS              11        90562          Dermatologia
+72969     YLIANA FLOR ORTIZ GUEVARA                         26        62126128       Durand/Enrique
+70225     ALFONSO WALDEMAR CABELLO LAM                      31        63640178       Rodriguez/Blanca
+93578     ALFONSO WALDEMAR CABELLO LAM                      21        63640178       Rodriguez/Blanca
+60888     ESTEFANIA  ZEGARRA CASANOVA                       7         50718          Pediatria
+55021     ALFONSO WALDEMAR CABELLO LAM                      6         63640178       Rodriguez/Blanca
+57269     MILENA CINTHIA ZARATE ACUNA                       18        93231760       Zarate/Alexander
+67784     VICTORIA FIORELLA CUBA POMAJAMBO                  10        80063          Gastroenterologia
+74924     ROSARIO  TABORI ARIAS                             23        35852072       Jauregui/Victor
+80839     ESTEFANIA  ZEGARRA CASANOVA                       14        50718          Pediatria
+70807     ALFONSO WALDEMAR CABELLO LAM                      34        63640178       Rodriguez/Blanca
+93578     ALFONSO WALDEMAR CABELLO LAM                      30        63640178       Rodriguez/Blanca
+79996     ESTEFANIA  ZEGARRA CASANOVA                       23        35852072       Jauregui/Victor
+39779     FRANCISCO  ZIMIC SALAS                            28        93939698       Henriquez/Silvana
+90300     VICTORIA FIORELLA CUBA POMAJAMBO                  30        54149342       Leyva/Diana
+40645     VICTORIA FIORELLA CUBA POMAJAMBO                  12        80063          Gastroenterologia
+90300     VICTORIA FIORELLA CUBA POMAJAMBO                  28        54149342       Leyva/Diana
+31189     VICTORIA FIORELLA CUBA POMAJAMBO                  19        54149342       Leyva/Diana
+58252     ROSARIO  TABORI ARIAS                             12        35852072       Jauregui/Victor
+31189     ROSARIO  TABORI ARIAS                             19        35852072       Jauregui/Victor
+36822     ALFONSO WALDEMAR CABELLO LAM                      7         63640178       Rodriguez/Blanca
+88681     VICTORIA FIORELLA CUBA POMAJAMBO                  30        80063          Gastroenterologia
+39779     FRANCISCO  ZIMIC SALAS                            23        93939698       Henriquez/Silvana
+34070     ALFONSO WALDEMAR CABELLO LAM                      22        63640178       Rodriguez/Blanca
+84771     ROSARIO  TABORI ARIAS                             6         19777          Oftalmologia
+96554     FRANCISCO  ZIMIC SALAS                            34        93939698       Henriquez/Silvana
+82469     ESTEFANIA  ZEGARRA CASANOVA                       31        50718          Pediatria
+50450     MILENA CINTHIA ZARATE ACUNA                       16        93231760       Zarate/Alexander
+96031     EDGAR  MUNOZ VERGEL                               13        51465986       Sam/Ines
+68539     EDGAR  MUNOZ VERGEL                               25        50611          Urologia
+84771     ROSARIO  TABORI ARIAS                             19        19777          Oftalmologia
+88266     EDGAR  MUNOZ VERGEL                               11        50611          Urologia
+34080     EDGAR  MUNOZ VERGEL                               25        51465986       Sam/Ines
+26360     EDGAR  MUNOZ VERGEL                               18        50611          Urologia
+26360     EDGAR  MUNOZ VERGEL                               6         50611          Urologia
+60888     ROSARIO  TABORI ARIAS                             24        19777          Oftalmologia
+47697     EDGAR  MUNOZ VERGEL                               31        50611          Urologia
+58200     MIGUEL ALEX LANDEO ESTRADA                        19        20371464       Lozada/Heli
+61295     CARMEN  ZAMORA CABRERA                            35        25448          Endocrinologia
+92628     MIGUEL ALEX LANDEO ESTRADA                        18        20371464       Lozada/Heli
+61295     CARMEN  ZAMORA CABRERA                            24        25448          Endocrinologia
+34080     YLIANA FLOR ORTIZ GUEVARA                         27        66039166       Chavez/Johan
+75565     CARMEN  ZAMORA CABRERA                            8         54815159       Patino/Delicia
+95540     CARMEN  ZAMORA CABRERA                            5         54815159       Patino/Delicia
+82528     MIGUEL ALEX LANDEO ESTRADA                        31        34115          Cardiologia
+12388     MIGUEL ALEX LANDEO ESTRADA                        3         20371464       Lozada/Heli
+59121     DAVID CARLOS PEREZ ANTEZANO                       34        72330000       Vega/Carmela
+47697     YLIANA FLOR ORTIZ GUEVARA                         30        40414          Ginecologia
+82469     DAVID CARLOS PEREZ ANTEZANO                       7         80040          Endocrinologia
+59121     CARMEN  ZAMORA CABRERA                            26        54815159       Patino/Delicia
+16055     YLIANA FLOR ORTIZ GUEVARA                         8         66039166       Chavez/Johan
+17804     CARMEN  ZAMORA CABRERA                            29        54815159       Patino/Delicia
+47697     YLIANA FLOR ORTIZ GUEVARA                         1         40414          Ginecologia
+68539     DAVID CARLOS PEREZ ANTEZANO                       34        80040          Endocrinologia
+44253     DAVID CARLOS PEREZ ANTEZANO                       20        80040          Endocrinologia
+54692     HUMBERTO ALFONSO AMEZQUITA CONTRERAS              20        58643376       Arroyo/Natalia
+76247     HUMBERTO ALFONSO AMEZQUITA CONTRERAS              20        58643376       Arroyo/Natalia
+58200     MIGUEL ALEX LANDEO ESTRADA                        10        20371464       Lozada/Heli
+12388     MIGUEL ALEX LANDEO ESTRADA                        30        20371464       Lozada/Heli
+49685     CARMEN  ZAMORA CABRERA                            31        25448          Endocrinologia
+55021     YLIANA FLOR ORTIZ GUEVARA                         22        66039166       Chavez/Johan
+24522     CARMEN  ZAMORA CABRERA                            7         25448          Endocrinologia
+49685     CARMEN  ZAMORA CABRERA                            25        25448          Endocrinologia
+46919     CARMEN  ZAMORA CABRERA                            14        25448          Endocrinologia
+96881     MIGUEL ALEX LANDEO ESTRADA                        24        20371464       Lozada/Heli
+86158     MIGUEL ALEX LANDEO ESTRADA                        20        34115          Cardiologia
+26920     DAVID CARLOS PEREZ ANTEZANO                       6         80040          Endocrinologia
+42861     YLIANA FLOR ORTIZ GUEVARA                         18        40414          Ginecologia
+79996     OFELIA CARMEN MERCADO CARO                        4         90367684       Sinche/Yvonne
+65667     DELIA  ZARATE URBINA                              30        89213          Gastroenterologia
+88681     HUMBERTO ALBERTO VARGAS GUEVARA                   15        60049          Gastroenterologia
+83801     WALTER  JOLAY CHUMPITAZ                           8         14787          Traumatologia
+88681     HUMBERTO ALBERTO VARGAS GUEVARA                   18        60049          Gastroenterologia
+90300     HUMBERTO ALBERTO VARGAS GUEVARA                   30        41964357       Arca/Magali
+68539     FIORELLA ERIKA FLORENCIO POLO                     4         90907          Dermatologia
+48039     HUMBERTO ALBERTO VARGAS GUEVARA                   24        60049          Gastroenterologia
+81960     OFELIA CARMEN MERCADO CARO                        21        60934          Neumologia
+18672     DELICIA  ARCA AQUINO                              29        93939698       Henriquez/Silvana
+18672     DELIA  ZARATE URBINA                              12        15290194       Hernandez/Guillermo
+82469     DELIA  ZARATE URBINA                              11        89213          Gastroenterologia
+48039     FIORELLA ERIKA FLORENCIO POLO                     23        90907          Dermatologia
+25684     DELIA  ZARATE URBINA                              29        89213          Gastroenterologia
+90300     HUMBERTO ALBERTO VARGAS GUEVARA                   5         41964357       Arca/Magali
+60509     HUMBERTO ALBERTO VARGAS GUEVARA                   27        60049          Gastroenterologia
+48039     HUMBERTO ALBERTO VARGAS GUEVARA                   32        60049          Gastroenterologia
+96554     DELICIA  ARCA AQUINO                              23        93939698       Henriquez/Silvana
+57036     VALENTINA PAULA URBINA ANTEZANO                   25        15290194       Hernandez/Guillermo
+25684     DELIA  ZARATE URBINA                              10        89213          Gastroenterologia
+55021     WALTER  JOLAY CHUMPITAZ                           31        49357767       Solis/Rolando
+28219     OFELIA CARMEN MERCADO CARO                        25        60934          Neumologia
+75565     HUMBERTO ALBERTO VARGAS GUEVARA                   6         41964357       Arca/Magali
+96554     DELICIA  ARCA AQUINO                              19        93939698       Henriquez/Silvana
+82469     DELIA  ZARATE URBINA                              20        89213          Gastroenterologia
+17790     DELIA  ZARATE URBINA                              33        15290194       Hernandez/Guillermo
+27447     DELICIA  ARCA AQUINO                              6         70269          Dermatologia
+58259     DELIA  ZARATE URBINA                              25        15290194       Hernandez/Guillermo
+24522     FIORELLA ERIKA FLORENCIO POLO                     23        90907          Dermatologia
+68539     WALTER  JOLAY CHUMPITAZ                           3         14787          Traumatologia
+86451     FIORELLA ERIKA FLORENCIO POLO                     29        90907          Dermatologia
+36208     HUMBERTO ALBERTO VARGAS GUEVARA                   5         41964357       Arca/Magali
+55813     LOURDES CARMELA YALLICO PAREDES                   9         54149342       Leyva/Diana
+96554     ZKENIA IRMA CHUNG ZUNIGA                          35        36934113       Serrano/Arturo
+61039     LOURDES CARMELA YALLICO PAREDES                   10        64405          Oftalmologia
+76596     DELICIA ROSA ARCA LEIVA                           3         93231760       Zarate/Alexander
+70225     DELIA ESTEFANIA CABRERA MORENO                    16        51873364       Calixto/Erick
+76596     DELIA ESTEFANIA CABRERA MORENO                    31        51873364       Calixto/Erick
+47734     DELICIA ROSA ARCA LEIVA                           28        90929          Oftalmologia
+44215     ZKENIA IRMA CHUNG ZUNIGA                          31        70612          Traumatologia
+70226     ZKENIA IRMA CHUNG ZUNIGA                          22        36934113       Serrano/Arturo
+30428     ZKENIA IRMA CHUNG ZUNIGA                          31        36934113       Serrano/Arturo
+40645     LOURDES CARMELA YALLICO PAREDES                   14        64405          Oftalmologia
+57269     DELICIA ROSA ARCA LEIVA                           6         93231760       Zarate/Alexander
+83510     DELIA ESTEFANIA CABRERA MORENO                    33        70367          Urologia
+83510     DELIA ESTEFANIA CABRERA MORENO                    32        70367          Urologia
+70807     DELIA ESTEFANIA CABRERA MORENO                    26        51873364       Calixto/Erick
+34070     DELIA ESTEFANIA CABRERA MORENO                    23        51873364       Calixto/Erick
+34066     WILMER  SAENZ ARANDA                              11        59596317       Justino/Virginia
+46919     WILMER  SAENZ ARANDA                              15        18708          Ginecologia
+54692     WILMER  SAENZ ARANDA                              30        59596317       Justino/Virginia
+70226     ZKENIA IRMA CHUNG ZUNIGA                          12        36934113       Serrano/Arturo
+55021     ZKENIA IRMA CHUNG ZUNIGA                          33        36934113       Serrano/Arturo
+76596     DELICIA ROSA ARCA LEIVA                           32        93231760       Zarate/Alexander
+55021     ZKENIA IRMA CHUNG ZUNIGA                          30        36934113       Serrano/Arturo
+72969     VALENTINA PAULA URBINA ANTEZANO                   13        15290194       Hernandez/Guillermo
+77203     ZKENIA IRMA CHUNG ZUNIGA                          8         36934113       Serrano/Arturo
+60685     DELIA ESTEFANIA CABRERA MORENO                    29        70367          Urologia
+42856     DELICIA ROSA ARCA LEIVA                           22        90929          Oftalmologia
+70226     ZKENIA IRMA CHUNG ZUNIGA                          16        36934113       Serrano/Arturo
+89325     ZKENIA IRMA CHUNG ZUNIGA                          18        70612          Traumatologia
+25684     VALENTINA PAULA URBINA ANTEZANO                   16        53556          Pediatria
+57036     VALENTINA PAULA URBINA ANTEZANO                   24        15290194       Hernandez/Guillermo
+48244     LOURDES CARMELA YALLICO PAREDES                   13        64405          Oftalmologia
+89528     MARINA NATALIA GARCIA INGA                        21        49768          Cardiologia
+94415     GUSTAVO ALONSO DEL CASTILLO MEJIA                 12        13731806       Salamanca/Virginia
+22553     GUSTAVO ALONSO DEL CASTILLO MEJIA                 16        80138          Geriatria
+70024     MARINA NATALIA GARCIA INGA                        34        81647285       Vega/Henrry
+89528     MARINA NATALIA GARCIA INGA                        21        49768          Cardiologia
+85641     MARINA NATALIA GARCIA INGA                        10        49768          Cardiologia
+54692     MARINA NATALIA GARCIA INGA                        18        81647285       Vega/Henrry
+91282     WILMER  SAENZ ARANDA                              12        59596317       Justino/Virginia
+26484     GUSTAVO ALONSO DEL CASTILLO MEJIA                 18        80138          Geriatria
+16813     GUSTAVO ALONSO DEL CASTILLO MEJIA                 7         13731806       Salamanca/Virginia
+68539     GUSTAVO ALONSO DEL CASTILLO MEJIA                 25        80138          Geriatria
+96554     GUSTAVO ALONSO DEL CASTILLO MEJIA                 15        13731806       Salamanca/Virginia
+67784     JAVIER EDGARD LANDA CABRERA                       8         35451          Pediatria
+75565     OFELIA BEATRIZ MONTERO BOLANOS                    8         37282858       Soma/Lourdes
+91282     OFELIA BEATRIZ MONTERO BOLANOS                    17        37282858       Soma/Lourdes
+67784     OFELIA BEATRIZ MONTERO BOLANOS                    12        70992          Gastroenterologia
+70226     JAVIER EDGARD LANDA CABRERA                       28        94683380       Farfan/Margot
+30430     JAVIER EDGARD LANDA CABRERA                       24        94683380       Farfan/Margot
+11592     JAVIER EDGARD LANDA CABRERA                       3         94683380       Farfan/Margot
+12388     OFELIA BEATRIZ MONTERO BOLANOS                    23        37282858       Soma/Lourdes
+74924     GUSTAVO ALONSO DEL CASTILLO MEJIA                 16        13731806       Salamanca/Virginia
+12388     OFELIA BEATRIZ MONTERO BOLANOS                    35        37282858       Soma/Lourdes
+70226     JAVIER EDGARD LANDA CABRERA                       5         94683380       Farfan/Margot
+70303     MARINA NATALIA GARCIA INGA                        6         81647285       Vega/Henrry
+91282     OFELIA BEATRIZ MONTERO BOLANOS                    9         37282858       Soma/Lourdes
+79189     EMILIO EMIGDIO GONZALES AGUIRRE                   24        57182371       Moscoso/Fiorella
+16813     EMILIO EMIGDIO GONZALES AGUIRRE                   22        57182371       Moscoso/Fiorella
+68610     GLENDA  CABRERA MORI                              12        14655          Oncologia
+94429     GLENDA  CABRERA MORI                              8         30246960       Escalante/Ines
+39172     GLENDA  CABRERA MORI                              26        30246960       Escalante/Ines
+16813     BLANCA LUZ ACUNA AYLLON                           35        45201670       Guevara/Milena
+33200     GLENDA  CABRERA MORI                              19        30246960       Escalante/Ines
+60086     GLENDA  CABRERA MORI                              5         14655          Oncologia
+22553     VICTORIA MILAGROS SHIRAKAWA SAONA                 19        70789          Pediatria
+48557     VICTORIA MILAGROS SHIRAKAWA SAONA                 29        70789          Pediatria
+16813     BLANCA LUZ ACUNA AYLLON                           31        45201670       Guevara/Milena
+74924     VICTORIA MILAGROS SHIRAKAWA SAONA                 20        13731806       Salamanca/Virginia
+26484     VICTORIA MILAGROS SHIRAKAWA SAONA                 7         70789          Pediatria
+68539     VICTORIA MILAGROS SHIRAKAWA SAONA                 21        70789          Pediatria
+61295     EMILIO EMIGDIO GONZALES AGUIRRE                   7         18262          Urologia
+95540     EMILIO EMIGDIO GONZALES AGUIRRE                   12        57182371       Moscoso/Fiorella
+79189     EMILIO EMIGDIO GONZALES AGUIRRE                   21        57182371       Moscoso/Fiorella
+89325     BLANCA LUZ ACUNA AYLLON                           27        33687          Oftalmologia
+42053     EMILIO EMIGDIO GONZALES AGUIRRE                   26        18262          Urologia
+83510     EMILIO EMIGDIO GONZALES AGUIRRE                   31        18262          Urologia
+26484     VICTORIA MILAGROS SHIRAKAWA SAONA                 19        70789          Pediatria
+94415     VICTORIA MILAGROS SHIRAKAWA SAONA                 19        13731806       Salamanca/Virginia
+12388     EMILIO EMIGDIO GONZALES AGUIRRE                   28        57182371       Moscoso/Fiorella
+94415     VICTORIA MILAGROS SHIRAKAWA SAONA                 9         13731806       Salamanca/Virginia
+41403     TERESA TERESA MARTEL MERCADO                      28        80227          Pediatria
+43633     TERESA TERESA MARTEL MERCADO                      25        80227          Pediatria
+43633     TERESA TERESA MARTEL MERCADO                      24        80227          Pediatria
+22306     TERESA TERESA MARTEL MERCADO                      12        80227          Pediatria
+58252     MIGUEL ALEX LANDEO ESTRADA                        11        20371464       Lozada/Heli
+90300     TERESA TERESA MARTEL MERCADO                      6         75100362       Arca/Lucero
+77466     TERESA TERESA MARTEL MERCADO                      7         75100362       Arca/Lucero
+60509     TERESA TERESA MARTEL MERCADO                      23        80227          Pediatria
+68610     GLENDA  CABRERA MORI                              29        14655          Oncologia
+67415     DELIA  ZARATE URBINA                              26        89213          Gastroenterologia
+41379     WALTER  JOLAY CHUMPITAZ                           10        14787          Traumatologia
+33276     HUMBERTO ALBERTO VARGAS GUEVARA                   26        77440060       Escalante/Emigdio
+96554     FIORELLA ERIKA FLORENCIO POLO                     18        13731806       Salamanca/Virginia
+22306     HUMBERTO ALBERTO VARGAS GUEVARA                   27        60049          Gastroenterologia
+70116     DELIA  ZARATE URBINA                              17        35852072       Jauregui/Victor
+94415     OFELIA CARMEN MERCADO CARO                        10        62287143       Wong/Beatriz
+60888     DELIA  ZARATE URBINA                              11        89213          Gastroenterologia
+94415     FIORELLA ERIKA FLORENCIO POLO                     7         13731806       Salamanca/Virginia
+26484     FIORELLA ERIKA FLORENCIO POLO                     24        90907          Dermatologia
+48557     FIORELLA ERIKA FLORENCIO POLO                     15        90907          Dermatologia
+12388     OFELIA CARMEN MERCADO CARO                        33        62287143       Wong/Beatriz
+72969     OFELIA CARMEN MERCADO CARO                        24        62287143       Wong/Beatriz
+47734     OFELIA CARMEN MERCADO CARO                        12        60934          Neumologia
+46919     OFELIA CARMEN MERCADO CARO                        13        60934          Neumologia
+16813     FIORELLA ERIKA FLORENCIO POLO                     9         13731806       Salamanca/Virginia
+84771     OFELIA CARMEN MERCADO CARO                        17        60934          Neumologia
+60086     WALTER  JOLAY CHUMPITAZ                           28        14787          Traumatologia
+49644     WALTER  JOLAY CHUMPITAZ                           21        14787          Traumatologia
+94415     FIORELLA ERIKA FLORENCIO POLO                     32        13731806       Salamanca/Virginia
+76360     DELIA  ZARATE URBINA                              27        35852072       Jauregui/Victor
+60086     WALTER  JOLAY CHUMPITAZ                           16        14787          Traumatologia
+90198     DELIA  ZARATE URBINA                              33        35852072       Jauregui/Victor
+28219     WALTER  JOLAY CHUMPITAZ                           24        14787          Traumatologia
+67784     FIORELLA ERIKA FLORENCIO POLO                     33        90907          Dermatologia
+49644     WALTER  JOLAY CHUMPITAZ                           10        14787          Traumatologia
+16813     FIORELLA ERIKA FLORENCIO POLO                     35        13731806       Salamanca/Virginia
+72939     HUMBERTO ALBERTO VARGAS GUEVARA                   9         77440060       Escalante/Emigdio
+16359     DELIA  ZARATE URBINA                              21        35852072       Jauregui/Victor
+76247     WALTER  JOLAY CHUMPITAZ                           17        90367684       Sinche/Yvonne
+76238     HUMBERTO ALBERTO VARGAS GUEVARA                   29        77440060       Escalante/Emigdio
+61039     OFELIA CARMEN MERCADO CARO                        22        60934          Neumologia
+58252     DELICIA  ARCA AQUINO                              21        51465986       Sam/Ines
+83801     ZKENIA IRMA CHUNG ZUNIGA                          10        70612          Traumatologia
+81062     HUMBERTO ALBERTO VARGAS GUEVARA                   30        60049          Gastroenterologia
+91653     ZKENIA IRMA CHUNG ZUNIGA                          30        71422479       Lozada/Felicita
+28892     LOURDES CARMELA YALLICO PAREDES                   6         64405          Oftalmologia
+91282     LOURDES CARMELA YALLICO PAREDES                   31        43704548       Vizcardo/Maribel
+96031     DELICIA  ARCA AQUINO                              9         51465986       Sam/Ines
+91653     ZKENIA IRMA CHUNG ZUNIGA                          5         71422479       Lozada/Felicita
+81062     HUMBERTO ALBERTO VARGAS GUEVARA                   10        60049          Gastroenterologia
+67784     LOURDES CARMELA YALLICO PAREDES                   11        64405          Oftalmologia
+67784     LOURDES CARMELA YALLICO PAREDES                   30        64405          Oftalmologia
+76247     ZKENIA IRMA CHUNG ZUNIGA                          28        71422479       Lozada/Felicita
+36822     ZKENIA IRMA CHUNG ZUNIGA                          22        71422479       Lozada/Felicita
+80830     VALENTINA PAULA URBINA ANTEZANO                   32        53556          Pediatria
+28409     VALENTINA PAULA URBINA ANTEZANO                   25        53556          Pediatria
+53846     LOURDES CARMELA YALLICO PAREDES                   29        43704548       Vizcardo/Maribel
+53846     LOURDES CARMELA YALLICO PAREDES                   11        43704548       Vizcardo/Maribel
+70116     LOURDES CARMELA YALLICO PAREDES                   4         43704548       Vizcardo/Maribel
+30220     DELICIA ROSA ARCA LEIVA                           13        59596317       Justino/Virginia
+42053     HUMBERTO ALBERTO VARGAS GUEVARA                   2         60049          Gastroenterologia
+65536     VALENTINA PAULA URBINA ANTEZANO                   17        53556          Pediatria
+58252     VALENTINA PAULA URBINA ANTEZANO                   2         31284904       Sakaguchi/Carlos
+86451     ZKENIA IRMA CHUNG ZUNIGA                          13        70612          Traumatologia
+22553     ZKENIA IRMA CHUNG ZUNIGA                          28        70612          Traumatologia
+77358     LOURDES CARMELA YALLICO PAREDES                   17        43704548       Vizcardo/Maribel
+28219     LOURDES CARMELA YALLICO PAREDES                   18        64405          Oftalmologia
+76360     VALENTINA PAULA URBINA ANTEZANO                   25        31284904       Sakaguchi/Carlos
+34070     ZKENIA IRMA CHUNG ZUNIGA                          23        71422479       Lozada/Felicita
+53846     DELICIA  ARCA AQUINO                              28        51465986       Sam/Ines
+49644     VALENTINA PAULA URBINA ANTEZANO                   25        53556          Pediatria
+30220     ZKENIA IRMA CHUNG ZUNIGA                          34        71422479       Lozada/Felicita
+39779     ZKENIA IRMA CHUNG ZUNIGA                          32        71422479       Lozada/Felicita
+34070     RAUL  COLLADO VILLA                               26        66091742       Baca/Milagros
+68860     FRANCISCO  ZIMIC SALAS                            9         20189          Endocrinologia
+90198     ALFONSO WALDEMAR CABELLO LAM                      28        35852072       Jauregui/Victor
+84771     ALFONSO WALDEMAR CABELLO LAM                      27        30082          Cardiologia
+70116     ESTEFANIA  ZEGARRA CASANOVA                       15        94683380       Farfan/Margot
+67415     ALFONSO WALDEMAR CABELLO LAM                      24        30082          Cardiologia
+16055     RAUL  COLLADO VILLA                               19        66091742       Baca/Milagros
+63555     JAIME JULIAN SHIRAKAWA FLORIAN                    7         30557          Neumologia
+73174     RAUL  COLLADO VILLA                               24        66091742       Baca/Milagros
+16055     RAUL  COLLADO VILLA                               11        66091742       Baca/Milagros
+46000     FRANCISCO  ZIMIC SALAS                            34        20189          Endocrinologia
+65536     ESTEFANIA  ZEGARRA CASANOVA                       25        50718          Pediatria
+34080     RAUL  COLLADO VILLA                               14        66091742       Baca/Milagros
+84771     ALFONSO WALDEMAR CABELLO LAM                      23        30082          Cardiologia
+60509     ESTEFANIA  ZEGARRA CASANOVA                       12        50718          Pediatria
+47697     ESTEFANIA  ZEGARRA CASANOVA                       24        50718          Pediatria
+84771     ESTEFANIA  ZEGARRA CASANOVA                       17        50718          Pediatria
+70226     ESTEFANIA  ZEGARRA CASANOVA                       3         94683380       Farfan/Margot
+26920     HUMBERTO ALFONSO AMEZQUITA CONTRERAS              33        90562          Dermatologia
+72939     RAUL  COLLADO VILLA                               27        66091742       Baca/Milagros
+47697     RAUL  COLLADO VILLA                               11        91509          Cardiologia
+36822     RAUL  COLLADO VILLA                               31        66091742       Baca/Milagros
+60086     JAIME JULIAN SHIRAKAWA FLORIAN                    33        30557          Neumologia
+85325     FRANCISCO  ZIMIC SALAS                            26        20189          Endocrinologia
+28409     ALFONSO WALDEMAR CABELLO LAM                      25        30082          Cardiologia
+47697     RAUL  COLLADO VILLA                               15        91509          Cardiologia
+82528     FRANCISCO  ZIMIC SALAS                            24        20189          Endocrinologia
+73174     RAUL  COLLADO VILLA                               11        66091742       Baca/Milagros
+67415     ALFONSO WALDEMAR CABELLO LAM                      20        30082          Cardiologia
+90198     ALFONSO WALDEMAR CABELLO LAM                      26        35852072       Jauregui/Victor
+41379     ROSARIO  TABORI ARIAS                             26        19777          Oftalmologia
+34070     MILENA CINTHIA ZARATE ACUNA                       23        63640178       Rodriguez/Blanca
+81960     ROSARIO  TABORI ARIAS                             18        19777          Oftalmologia
+76238     ROSARIO  TABORI ARIAS                             25        35606314       Mercado/Elia
+58259     EDGAR  MUNOZ VERGEL                               31        86988155       Cerna/Cinthia
+76247     EDGAR  MUNOZ VERGEL                               11        86988155       Cerna/Cinthia
+28892     VICTORIA FIORELLA CUBA POMAJAMBO                  5         80063          Gastroenterologia
+90198     ROSARIO  TABORI ARIAS                             7         35606314       Mercado/Elia
+34080     MILENA CINTHIA ZARATE ACUNA                       22        63640178       Rodriguez/Blanca
+53846     ESTEFANIA  ZEGARRA CASANOVA                       28        94683380       Farfan/Margot
+70807     MILENA CINTHIA ZARATE ACUNA                       18        63640178       Rodriguez/Blanca
+34070     MILENA CINTHIA ZARATE ACUNA                       29        63640178       Rodriguez/Blanca
+42856     VICTORIA FIORELLA CUBA POMAJAMBO                  13        80063          Gastroenterologia
+81960     ROSARIO  TABORI ARIAS                             20        19777          Oftalmologia
+86828     EDGAR  MUNOZ VERGEL                               23        50611          Urologia
+47697     MILENA CINTHIA ZARATE ACUNA                       31        52063          Traumatologia
+47734     VICTORIA FIORELLA CUBA POMAJAMBO                  20        80063          Gastroenterologia
+70225     VICTORIA FIORELLA CUBA POMAJAMBO                  32        41964357       Arca/Magali
+74924     ROSARIO  TABORI ARIAS                             4         35606314       Mercado/Elia
+60685     ROSARIO  TABORI ARIAS                             2         19777          Oftalmologia
+75565     VICTORIA FIORELLA CUBA POMAJAMBO                  17        41964357       Arca/Magali
+13364     ESTEFANIA  ZEGARRA CASANOVA                       14        94683380       Farfan/Margot
+53846     ESTEFANIA  ZEGARRA CASANOVA                       27        94683380       Farfan/Margot
+22306     VICTORIA FIORELLA CUBA POMAJAMBO                  29        80063          Gastroenterologia
+72061     VICTORIA FIORELLA CUBA POMAJAMBO                  9         41964357       Arca/Magali
+88681     LUZ SOFIA JAUREGUI BRAVO                          29        15092          Dermatologia
+12388     GIOVANA  MEJIA ZEGARRA                            5         62126128       Durand/Enrique
+41995     EDGAR  MUNOZ VERGEL                               30        50611          Urologia
+26754     SURAMI HELI PRECIADO PINTO                        12        60184          Traumatologia
+81695     GIOVANA  MEJIA ZEGARRA                            33        90798          Traumatologia
+90300     ROSARIO MARIBEL YEP ZAVALETA                      33        30246960       Escalante/Ines
+14962     LUZ SOFIA JAUREGUI BRAVO                          6         54149342       Leyva/Diana
+75565     GIOVANA  MEJIA ZEGARRA                            20        62126128       Durand/Enrique
+61295     EDGAR  MUNOZ VERGEL                               1         50611          Urologia
+60086     ROSARIO MARIBEL YEP ZAVALETA                      35        80786          Ginecologia
+39172     ROSARIO MARIBEL YEP ZAVALETA                      31        30246960       Escalante/Ines
+34027     SURAMI HELI PRECIADO PINTO                        25        62287143       Wong/Beatriz
+89528     SURAMI HELI PRECIADO PINTO                        32        60184          Traumatologia
+48244     LUZ SOFIA JAUREGUI BRAVO                          2         15092          Dermatologia
+46919     SURAMI HELI PRECIADO PINTO                        34        60184          Traumatologia
+12388     GIOVANA  MEJIA ZEGARRA                            25        62126128       Durand/Enrique
+88681     ROSARIO MARIBEL YEP ZAVALETA                      26        80786          Ginecologia
+92628     ROSARIO MARIBEL YEP ZAVALETA                      30        30246960       Escalante/Ines
+34027     CINTHIA MILENA ZEGARRA CABELLO                    6         62287143       Wong/Beatriz
+61039     LUZ SOFIA JAUREGUI BRAVO                          9         15092          Dermatologia
+27016     SURAMI HELI PRECIADO PINTO                        7         60184          Traumatologia
+97465     EDGAR  MUNOZ VERGEL                               6         86988155       Cerna/Cinthia
+31189     LUZ SOFIA JAUREGUI BRAVO                          7         54149342       Leyva/Diana
+57269     SURAMI HELI PRECIADO PINTO                        19        62287143       Wong/Beatriz
+88681     ROSARIO MARIBEL YEP ZAVALETA                      31        80786          Ginecologia
+72969     GIOVANA  MEJIA ZEGARRA                            32        62126128       Durand/Enrique
+67784     LUZ SOFIA JAUREGUI BRAVO                          27        15092          Dermatologia
+94415     SURAMI HELI PRECIADO PINTO                        7         62287143       Wong/Beatriz
+30796     EDGAR  MUNOZ VERGEL                               34        86988155       Cerna/Cinthia
+55813     LUZ SOFIA JAUREGUI BRAVO                          8         54149342       Leyva/Diana
+22842     SURAMI HELI PRECIADO PINTO                        17        60184          Traumatologia
+22232     SURAMI HELI PRECIADO PINTO                        11        60184          Traumatologia
+84771     CINTHIA MILENA ZEGARRA CABELLO                    30        70233          Ginecologia
+70116     DELIA  ZARATE URBINA                              16        35852072       Jauregui/Victor
+79996     DELIA  ZARATE URBINA                              7         35852072       Jauregui/Victor
+46919     CINTHIA MILENA ZEGARRA CABELLO                    30        70233          Ginecologia
+89528     CINTHIA MILENA ZEGARRA CABELLO                    30        70233          Ginecologia
+84771     CINTHIA MILENA ZEGARRA CABELLO                    8         70233          Ginecologia
+47734     CINTHIA MILENA ZEGARRA CABELLO                    28        70233          Ginecologia
+22232     CINTHIA MILENA ZEGARRA CABELLO                    9         70233          Ginecologia
+60888     DELIA  ZARATE URBINA                              18        89213          Gastroenterologia
+85865     DELICIA ROSA ARCA LEIVA                           21        90929          Oftalmologia
+61211     LOURDES CARMELA YALLICO PAREDES                   17        64405          Oftalmologia
+58200     LOURDES CARMELA YALLICO PAREDES                   18        85395219       Fuentes/Patricia
+61211     DELICIA ROSA ARCA LEIVA                           10        90929          Oftalmologia
+14962     DELIA ESTEFANIA CABRERA MORENO                    7         93282118       Zambrano/Ofelia
+39172     DELICIA ROSA ARCA LEIVA                           21        12484697       Diaz/Enrique
+91282     DELIA ESTEFANIA CABRERA MORENO                    26        93282118       Zambrano/Ofelia
+36822     DELICIA ROSA ARCA LEIVA                           5         12484697       Diaz/Enrique
+85865     DELICIA ROSA ARCA LEIVA                           2         90929          Oftalmologia
+89528     DELIA ESTEFANIA CABRERA MORENO                    32        70367          Urologia
+70116     WILMER  SAENZ ARANDA                              33        94683380       Farfan/Margot
+75565     WILMER  SAENZ ARANDA                              5         94683380       Farfan/Margot
+70807     DELIA ESTEFANIA CABRERA MORENO                    24        93282118       Zambrano/Ofelia
+65536     DELIA ESTEFANIA CABRERA MORENO                    33        70367          Urologia
+84771     WILMER  SAENZ ARANDA                              15        18708          Ginecologia
+53846     GUSTAVO ALONSO DEL CASTILLO MEJIA                 31        51465986       Sam/Ines
+85865     DELICIA ROSA ARCA LEIVA                           24        90929          Oftalmologia
+11592     WILMER  SAENZ ARANDA                              33        94683380       Farfan/Margot
+36208     LOURDES CARMELA YALLICO PAREDES                   19        85395219       Fuentes/Patricia
+64347     DELICIA ROSA ARCA LEIVA                           30        90929          Oftalmologia
+30796     GUSTAVO ALONSO DEL CASTILLO MEJIA                 27        51465986       Sam/Ines
+26360     GUSTAVO ALONSO DEL CASTILLO MEJIA                 14        80138          Geriatria
+88266     GUSTAVO ALONSO DEL CASTILLO MEJIA                 21        80138          Geriatria
+63555     GUSTAVO ALONSO DEL CASTILLO MEJIA                 13        80138          Geriatria
+34080     GUSTAVO ALONSO DEL CASTILLO MEJIA                 24        51465986       Sam/Ines
+58200     LOURDES CARMELA YALLICO PAREDES                   29        85395219       Fuentes/Patricia
+82528     LOURDES CARMELA YALLICO PAREDES                   31        64405          Oftalmologia
+33390     JAVIER EDGARD LANDA CABRERA                       10        80694546       Ramirez/Karina
+22842     JAVIER EDGARD LANDA CABRERA                       26        35451          Pediatria
+22553     VICTORIA MILAGROS SHIRAKAWA SAONA                 8         70789          Pediatria
+85325     JAVIER EDGARD LANDA CABRERA                       1         35451          Pediatria
+70303     JAVIER EDGARD LANDA CABRERA                       2         80694546       Ramirez/Karina
+41995     MARINA NATALIA GARCIA INGA                        34        49768          Cardiologia
+12388     OFELIA BEATRIZ MONTERO BOLANOS                    12        99891737       Contreras/Johana
+80839     MARINA NATALIA GARCIA INGA                        14        49768          Cardiologia
+94415     MARINA NATALIA GARCIA INGA                        15        92275859       Egusquiza/Doris
+53846     OFELIA BEATRIZ MONTERO BOLANOS                    31        99891737       Contreras/Johana
+90300     BLANCA LUZ ACUNA AYLLON                           9         41964357       Arca/Magali
+75565     BLANCA LUZ ACUNA AYLLON                           29        41964357       Arca/Magali
+60509     MARINA NATALIA GARCIA INGA                        9         49768          Cardiologia
+55439     BLANCA LUZ ACUNA AYLLON                           4         41964357       Arca/Magali
+48557     VICTORIA MILAGROS SHIRAKAWA SAONA                 30        70789          Pediatria
+19397     VICTORIA MILAGROS SHIRAKAWA SAONA                 30        95656771       Raffo/Rolando
+63555     GUSTAVO ALONSO DEL CASTILLO MEJIA                 2         80138          Geriatria
+28219     OFELIA BEATRIZ MONTERO BOLANOS                    31        70992          Gastroenterologia
+70116     OFELIA BEATRIZ MONTERO BOLANOS                    18        99891737       Contreras/Johana
+67784     OFELIA BEATRIZ MONTERO BOLANOS                    26        70992          Gastroenterologia
+17645     MARINA NATALIA GARCIA INGA                        14        92275859       Egusquiza/Doris
+30007     BLANCA LUZ ACUNA AYLLON                           16        41964357       Arca/Magali
+72061     BLANCA LUZ ACUNA AYLLON                           15        41964357       Arca/Magali
+65536     OFELIA BEATRIZ MONTERO BOLANOS                    16        70992          Gastroenterologia
+67784     OFELIA BEATRIZ MONTERO BOLANOS                    9         70992          Gastroenterologia
+81695     MARINA NATALIA GARCIA INGA                        5         49768          Cardiologia
+98679     MARINA NATALIA GARCIA INGA                        7         92275859       Egusquiza/Doris
+22306     BLANCA LUZ ACUNA AYLLON                           27        33687          Oftalmologia
+89325     GLENDA  CABRERA MORI                              15        14655          Oncologia
+36208     GLENDA  CABRERA MORI                              34        22679759       Bravo/Janet
+79996     GLENDA  CABRERA MORI                              26        22679759       Bravo/Janet
+47697     TERESA TERESA MARTEL MERCADO                      21        80227          Pediatria
+61295     VICTORIA MILAGROS SHIRAKAWA SAONA                 9         70789          Pediatria
+46000     TERESA TERESA MARTEL MERCADO                      16        80227          Pediatria
+46000     TERESA TERESA MARTEL MERCADO                      10        80227          Pediatria
+36208     TERESA TERESA MARTEL MERCADO                      26        36471787       Pena/Glenda
+46000     TERESA TERESA MARTEL MERCADO                      15        80227          Pediatria
+86158     EMILIO EMIGDIO GONZALES AGUIRRE                   2         18262          Urologia
+70950     EMILIO EMIGDIO GONZALES AGUIRRE                   7         20371464       Lozada/Heli
+41379     GLENDA  CABRERA MORI                              19        14655          Oncologia
+28892     TERESA TERESA MARTEL MERCADO                      33        80227          Pediatria
+46000     TERESA TERESA MARTEL MERCADO                      4         80227          Pediatria
+72061     EMILIO EMIGDIO GONZALES AGUIRRE                   10        20371464       Lozada/Heli
+88681     EMILIO EMIGDIO GONZALES AGUIRRE                   10        18262          Urologia
+55021     TERESA TERESA MARTEL MERCADO                      28        36471787       Pena/Glenda
+58252     EMILIO EMIGDIO GONZALES AGUIRRE                   15        20371464       Lozada/Heli
+82528     EMILIO EMIGDIO GONZALES AGUIRRE                   11        18262          Urologia
+77466     VICTORIA MILAGROS SHIRAKAWA SAONA                 34        95656771       Raffo/Rolando
+12388     EMILIO EMIGDIO GONZALES AGUIRRE                   35        20371464       Lozada/Heli
+73972     GLENDA  CABRERA MORI                              13        22679759       Bravo/Janet
+76238     VICTORIA MILAGROS SHIRAKAWA SAONA                 15        95656771       Raffo/Rolando
+79996     VICTORIA MILAGROS SHIRAKAWA SAONA                 34        95656771       Raffo/Rolando
+19397     VICTORIA MILAGROS SHIRAKAWA SAONA                 11        95656771       Raffo/Rolando
+67415     GLENDA  CABRERA MORI                              29        14655          Oncologia
+31189     DELIA ESTEFANIA CABRERA MORENO                    8         54149342       Leyva/Diana
+61508     GUSTAVO ALONSO DEL CASTILLO MEJIA                 20        80138          Geriatria
+57036     GUSTAVO ALONSO DEL CASTILLO MEJIA                 27        15290194       Hernandez/Guillermo
+47697     WILMER  SAENZ ARANDA                              25        18708          Ginecologia
+31883     JAVIER EDGARD LANDA CABRERA                       28        58643376       Arroyo/Natalia
+61295     DELICIA ROSA ARCA LEIVA                           31        90929          Oftalmologia
+40997     DELICIA ROSA ARCA LEIVA                           25        90929          Oftalmologia
+61295     DELICIA ROSA ARCA LEIVA                           15        90929          Oftalmologia
+88681     DELIA ESTEFANIA CABRERA MORENO                    27        70367          Urologia
+83801     WILMER  SAENZ ARANDA                              10        18708          Ginecologia
+82469     WILMER  SAENZ ARANDA                              25        18708          Ginecologia
+40997     DELICIA ROSA ARCA LEIVA                           19        90929          Oftalmologia
+82469     WILMER  SAENZ ARANDA                              9         18708          Ginecologia
+28219     GUSTAVO ALONSO DEL CASTILLO MEJIA                 13        80138          Geriatria
+77358     GUSTAVO ALONSO DEL CASTILLO MEJIA                 12        15290194       Hernandez/Guillermo
+54692     DELICIA ROSA ARCA LEIVA                           5         59596317       Justino/Virginia
+68860     GUSTAVO ALONSO DEL CASTILLO MEJIA                 16        80138          Geriatria
+90300     DELIA ESTEFANIA CABRERA MORENO                    8         54149342       Leyva/Diana
+38648     JAVIER EDGARD LANDA CABRERA                       7         58643376       Arroyo/Natalia
+72969     GUSTAVO ALONSO DEL CASTILLO MEJIA                 24        15290194       Hernandez/Guillermo
+44253     DELICIA ROSA ARCA LEIVA                           29        90929          Oftalmologia
+54692     JAVIER EDGARD LANDA CABRERA                       14        58643376       Arroyo/Natalia
+85641     DELIA ESTEFANIA CABRERA MORENO                    33        70367          Urologia
+49157     GUSTAVO ALONSO DEL CASTILLO MEJIA                 34        80138          Geriatria
+47697     WILMER  SAENZ ARANDA                              7         18708          Ginecologia
+67784     OFELIA BEATRIZ MONTERO BOLANOS                    14        70992          Gastroenterologia
+55813     JAVIER EDGARD LANDA CABRERA                       11        58643376       Arroyo/Natalia
+15098     OFELIA BEATRIZ MONTERO BOLANOS                    22        93282118       Zambrano/Ofelia
+36208     BLANCA LUZ ACUNA AYLLON                           24        53420926       Prado/Juan
+13364     VICTORIA MILAGROS SHIRAKAWA SAONA                 16        37282858       Soma/Lourdes
+60685     OFELIA BEATRIZ MONTERO BOLANOS                    16        70992          Gastroenterologia
+70024     JAVIER EDGARD LANDA CABRERA                       24        58643376       Arroyo/Natalia
+72495     MARINA NATALIA GARCIA INGA                        12        51873364       Calixto/Erick
+84771     VICTORIA MILAGROS SHIRAKAWA SAONA                 29        70789          Pediatria
+76596     MARINA NATALIA GARCIA INGA                        16        51873364       Calixto/Erick
+16055     BLANCA LUZ ACUNA AYLLON                           1         53420926       Prado/Juan
+55813     BLANCA LUZ ACUNA AYLLON                           23        53420926       Prado/Juan
+68610     MARINA NATALIA GARCIA INGA                        17        49768          Cardiologia
+85865     MARINA NATALIA GARCIA INGA                        10        49768          Cardiologia
+53846     VICTORIA MILAGROS SHIRAKAWA SAONA                 31        37282858       Soma/Lourdes
+65536     OFELIA BEATRIZ MONTERO BOLANOS                    7         70992          Gastroenterologia
+44253     JAVIER EDGARD LANDA CABRERA                       19        35451          Pediatria
+89528     OFELIA BEATRIZ MONTERO BOLANOS                    34        70992          Gastroenterologia
+54692     MARINA NATALIA GARCIA INGA                        11        51873364       Calixto/Erick
+70950     MARINA NATALIA GARCIA INGA                        22        51873364       Calixto/Erick
+70113     MARINA NATALIA GARCIA INGA                        12        51873364       Calixto/Erick
+55021     MARINA NATALIA GARCIA INGA                        17        51873364       Calixto/Erick
+28892     VICTORIA MILAGROS SHIRAKAWA SAONA                 18        70789          Pediatria
+47697     VICTORIA MILAGROS SHIRAKAWA SAONA                 14        70789          Pediatria
+16359     OFELIA BEATRIZ MONTERO BOLANOS                    31        93282118       Zambrano/Ofelia
+95540     OFELIA BEATRIZ MONTERO BOLANOS                    15        93282118       Zambrano/Ofelia
+85641     BLANCA LUZ ACUNA AYLLON                           15        33687          Oftalmologia
+55813     EMILIO EMIGDIO GONZALES AGUIRRE                   34        90367684       Sinche/Yvonne
+65985     EMILIO EMIGDIO GONZALES AGUIRRE                   25        18262          Urologia
+53846     GLENDA  CABRERA MORI                              29        90367684       Sinche/Yvonne
+70225     MIGUEL ALEX LANDEO ESTRADA                        21        65912822       Camacho/Ydali
+68610     CARMEN  ZAMORA CABRERA                            33        25448          Endocrinologia
+60086     EMILIO EMIGDIO GONZALES AGUIRRE                   13        18262          Urologia
+12388     VICTORIA MILAGROS SHIRAKAWA SAONA                 29        37282858       Soma/Lourdes
+28219     VICTORIA MILAGROS SHIRAKAWA SAONA                 24        70789          Pediatria
+53846     EMILIO EMIGDIO GONZALES AGUIRRE                   6         90367684       Sinche/Yvonne
+81960     EMILIO EMIGDIO GONZALES AGUIRRE                   31        18262          Urologia
+89325     TERESA TERESA MARTEL MERCADO                      29        80227          Pediatria
+67784     VICTORIA MILAGROS SHIRAKAWA SAONA                 34        70789          Pediatria
+28219     VICTORIA MILAGROS SHIRAKAWA SAONA                 25        70789          Pediatria
+41379     DAVID CARLOS PEREZ ANTEZANO                       15        80040          Endocrinologia
+86158     CARMEN  ZAMORA CABRERA                            26        25448          Endocrinologia
+36822     MIGUEL ALEX LANDEO ESTRADA                        33        65912822       Camacho/Ydali
+41379     EMILIO EMIGDIO GONZALES AGUIRRE                   26        18262          Urologia
+68610     CARMEN  ZAMORA CABRERA                            2         25448          Endocrinologia
+11592     GLENDA  CABRERA MORI                              12        90367684       Sinche/Yvonne
+67415     TERESA TERESA MARTEL MERCADO                      8         80227          Pediatria
+53166     TERESA TERESA MARTEL MERCADO                      9         22598563       Sueldo/Adria
+79996     EMILIO EMIGDIO GONZALES AGUIRRE                   14        90367684       Sinche/Yvonne
+73972     TERESA TERESA MARTEL MERCADO                      27        22598563       Sueldo/Adria
+70225     MIGUEL ALEX LANDEO ESTRADA                        24        65912822       Camacho/Ydali
+19397     DAVID CARLOS PEREZ ANTEZANO                       20        51642949       Miranda/Alfonso
+60086     DAVID CARLOS PEREZ ANTEZANO                       8         80040          Endocrinologia
+11592     VICTORIA MILAGROS SHIRAKAWA SAONA                 9         37282858       Soma/Lourdes
+82528     YLIANA FLOR ORTIZ GUEVARA                         24        40414          Ginecologia
+34080     RAUL  COLLADO VILLA                               15        85395219       Fuentes/Patricia
+49157     YLIANA FLOR ORTIZ GUEVARA                         23        40414          Ginecologia
+84771     JAIME JULIAN SHIRAKAWA FLORIAN                    14        30557          Neumologia
+88681     FRANCISCO  ZIMIC SALAS                            29        20189          Endocrinologia
+76360     RAUL  COLLADO VILLA                               15        85395219       Fuentes/Patricia
+42856     FRANCISCO  ZIMIC SALAS                            8         20189          Endocrinologia
+88681     FRANCISCO  ZIMIC SALAS                            33        20189          Endocrinologia
+53846     ALFONSO WALDEMAR CABELLO LAM                      11        99891737       Contreras/Johana
+42856     FRANCISCO  ZIMIC SALAS                            5         20189          Endocrinologia
+79851     RAUL  COLLADO VILLA                               10        85395219       Fuentes/Patricia
+16359     YLIANA FLOR ORTIZ GUEVARA                         26        49357767       Solis/Rolando
+86828     YLIANA FLOR ORTIZ GUEVARA                         25        40414          Ginecologia
+82528     RAUL  COLLADO VILLA                               30        91509          Cardiologia
+91653     HUMBERTO ALFONSO AMEZQUITA CONTRERAS              35        31284904       Sakaguchi/Carlos
+22306     RAUL  COLLADO VILLA                               24        91509          Cardiologia
+68539     YLIANA FLOR ORTIZ GUEVARA                         23        40414          Ginecologia
+68730     RAUL  COLLADO VILLA                               31        91509          Cardiologia
+22232     JAIME JULIAN SHIRAKAWA FLORIAN                    18        30557          Neumologia
+16813     FRANCISCO  ZIMIC SALAS                            5         45201670       Guevara/Milena
+68539     YLIANA FLOR ORTIZ GUEVARA                         33        40414          Ginecologia
+70225     FRANCISCO  ZIMIC SALAS                            1         45201670       Guevara/Milena
+55439     FRANCISCO  ZIMIC SALAS                            26        45201670       Guevara/Milena
+16813     FRANCISCO  ZIMIC SALAS                            33        45201670       Guevara/Milena
+85865     HUMBERTO ALFONSO AMEZQUITA CONTRERAS              11        90562          Dermatologia
+61211     RAUL  COLLADO VILLA                               3         91509          Cardiologia
+70807     FRANCISCO  ZIMIC SALAS                            30        45201670       Guevara/Milena
+85865     HUMBERTO ALFONSO AMEZQUITA CONTRERAS              15        90562          Dermatologia
+16055     RAUL  COLLADO VILLA                               23        85395219       Fuentes/Patricia
+36711     ESTEFANIA  ZEGARRA CASANOVA                       14        12484697       Diaz/Enrique
+86158     MILENA CINTHIA ZARATE ACUNA                       5         52063          Traumatologia
+38648     VICTORIA FIORELLA CUBA POMAJAMBO                  11        72330000       Vega/Carmela
+26920     VICTORIA FIORELLA CUBA POMAJAMBO                  23        80063          Gastroenterologia
+60509     ALFONSO WALDEMAR CABELLO LAM                      23        30082          Cardiologia
+80830     ESTEFANIA  ZEGARRA CASANOVA                       28        50718          Pediatria
+16681     ESTEFANIA  ZEGARRA CASANOVA                       7         12484697       Diaz/Enrique
+28892     ALFONSO WALDEMAR CABELLO LAM                      9         30082          Cardiologia
+92560     ESTEFANIA  ZEGARRA CASANOVA                       8         12484697       Diaz/Enrique
+68860     MILENA CINTHIA ZARATE ACUNA                       32        52063          Traumatologia
+28892     VICTORIA FIORELLA CUBA POMAJAMBO                  30        80063          Gastroenterologia
+60509     ALFONSO WALDEMAR CABELLO LAM                      15        30082          Cardiologia
+52072     ESTEFANIA  ZEGARRA CASANOVA                       25        12484697       Diaz/Enrique
+77203     VICTORIA FIORELLA CUBA POMAJAMBO                  7         72330000       Vega/Carmela
+85865     ESTEFANIA  ZEGARRA CASANOVA                       5         50718          Pediatria
+53084     VICTORIA FIORELLA CUBA POMAJAMBO                  12        72330000       Vega/Carmela
+86451     MILENA CINTHIA ZARATE ACUNA                       23        52063          Traumatologia
+70226     ALFONSO WALDEMAR CABELLO LAM                      28        99891737       Contreras/Johana
+61508     MILENA CINTHIA ZARATE ACUNA                       23        52063          Traumatologia
+60685     MILENA CINTHIA ZARATE ACUNA                       18        52063          Traumatologia
+72969     ROSARIO  TABORI ARIAS                             33        15290194       Hernandez/Guillermo
+17790     ROSARIO  TABORI ARIAS                             18        15290194       Hernandez/Guillermo
+36622     VICTORIA FIORELLA CUBA POMAJAMBO                  6         72330000       Vega/Carmela
+33311     VICTORIA FIORELLA CUBA POMAJAMBO                  29        72330000       Vega/Carmela
+30430     ALFONSO WALDEMAR CABELLO LAM                      35        99891737       Contreras/Johana
+61295     CINTHIA MILENA ZEGARRA CABELLO                    13        70233          Ginecologia
+46919     CINTHIA MILENA ZEGARRA CABELLO                    12        70233          Ginecologia
+36649     EDGAR  MUNOZ VERGEL                               11        34697743       Ayala/Ericka
+12388     SURAMI HELI PRECIADO PINTO                        29        71422479       Lozada/Felicita
+40645     SURAMI HELI PRECIADO PINTO                        19        60184          Traumatologia
+70303     LUZ SOFIA JAUREGUI BRAVO                          10        35606314       Mercado/Elia
+36649     EDGAR  MUNOZ VERGEL                               19        34697743       Ayala/Ericka
+58252     EDGAR  MUNOZ VERGEL                               9         34697743       Ayala/Ericka
+62302     GIOVANA  MEJIA ZEGARRA                            16        90798          Traumatologia
+26506     EDGAR  MUNOZ VERGEL                               6         50611          Urologia
+81960     LUZ SOFIA JAUREGUI BRAVO                          6         15092          Dermatologia
+61508     ROSARIO  TABORI ARIAS                             33        19777          Oftalmologia
+84771     ROSARIO MARIBEL YEP ZAVALETA                      33        80786          Ginecologia
+17790     ROSARIO  TABORI ARIAS                             8         15290194       Hernandez/Guillermo
+72495     EDGAR  MUNOZ VERGEL                               31        34697743       Ayala/Ericka
+37007     SURAMI HELI PRECIADO PINTO                        22        71422479       Lozada/Felicita
+36711     CINTHIA MILENA ZEGARRA CABELLO                    22        54815159       Patino/Delicia
+82469     ROSARIO  TABORI ARIAS                             20        19777          Oftalmologia
+42053     CINTHIA MILENA ZEGARRA CABELLO                    10        70233          Ginecologia
+22232     EDGAR  MUNOZ VERGEL                               2         50611          Urologia
+18672     ROSARIO  TABORI ARIAS                             11        15290194       Hernandez/Guillermo
+83801     SURAMI HELI PRECIADO PINTO                        14        60184          Traumatologia
+94415     ROSARIO MARIBEL YEP ZAVALETA                      22        62287143       Wong/Beatriz
+60888     ROSARIO  TABORI ARIAS                             9         19777          Oftalmologia
+82469     ROSARIO  TABORI ARIAS                             16        19777          Oftalmologia
+39088     ROSARIO  TABORI ARIAS                             14        15290194       Hernandez/Guillermo
+34027     EDGAR  MUNOZ VERGEL                               2         34697743       Ayala/Ericka
+68730     LUZ SOFIA JAUREGUI BRAVO                          16        15092          Dermatologia
+76247     SURAMI HELI PRECIADO PINTO                        5         71422479       Lozada/Felicita
+58259     ROSARIO  TABORI ARIAS                             12        15290194       Hernandez/Guillermo
+84771     GIOVANA  MEJIA ZEGARRA                            26        90798          Traumatologia
+92517     CINTHIA MILENA ZEGARRA CABELLO                    9         54815159       Patino/Delicia
+61211     FIORELLA ERIKA FLORENCIO POLO                     18        90907          Dermatologia
+91282     HUMBERTO ALBERTO VARGAS GUEVARA                   21        43704548       Vizcardo/Maribel
+28892     HUMBERTO ALBERTO VARGAS GUEVARA                   13        60049          Gastroenterologia
+46000     OFELIA CARMEN MERCADO CARO                        13        60934          Neumologia
+84771     HUMBERTO ALBERTO VARGAS GUEVARA                   32        60049          Gastroenterologia
+12388     HUMBERTO ALBERTO VARGAS GUEVARA                   22        43704548       Vizcardo/Maribel
+70950     DELIA  ZARATE URBINA                              22        20371464       Lozada/Heli
+57505     WALTER  JOLAY CHUMPITAZ                           19        72330000       Vega/Carmela
+53846     HUMBERTO ALBERTO VARGAS GUEVARA                   16        43704548       Vizcardo/Maribel
+22553     DELICIA  ARCA AQUINO                              28        70269          Dermatologia
+30796     DELICIA  ARCA AQUINO                              17        86988155       Cerna/Cinthia
+86158     DELIA  ZARATE URBINA                              7         89213          Gastroenterologia
+26920     FIORELLA ERIKA FLORENCIO POLO                     7         90907          Dermatologia
+46919     CINTHIA MILENA ZEGARRA CABELLO                    6         70233          Ginecologia
+75565     OFELIA CARMEN MERCADO CARO                        19        54815159       Patino/Delicia
+61295     OFELIA CARMEN MERCADO CARO                        4         60934          Neumologia
+22232     HUMBERTO ALBERTO VARGAS GUEVARA                   31        60049          Gastroenterologia
+61295     CINTHIA MILENA ZEGARRA CABELLO                    26        70233          Ginecologia
+79189     CINTHIA MILENA ZEGARRA CABELLO                    3         54815159       Patino/Delicia
+85865     OFELIA CARMEN MERCADO CARO                        34        60934          Neumologia
+95540     CINTHIA MILENA ZEGARRA CABELLO                    20        54815159       Patino/Delicia
+30796     OFELIA CARMEN MERCADO CARO                        26        54815159       Patino/Delicia
+16681     FIORELLA ERIKA FLORENCIO POLO                     32        12484697       Diaz/Enrique
+92628     DELIA  ZARATE URBINA                              16        20371464       Lozada/Heli
+86158     DELIA  ZARATE URBINA                              35        89213          Gastroenterologia
+12388     DELIA  ZARATE URBINA                              18        20371464       Lozada/Heli
+58259     FIORELLA ERIKA FLORENCIO POLO                     29        12484697       Diaz/Enrique
+28992     DELIA  ZARATE URBINA                              32        89213          Gastroenterologia
+36711     OFELIA CARMEN MERCADO CARO                        4         54815159       Patino/Delicia
+58200     DELIA  ZARATE URBINA                              20        20371464       Lozada/Heli
+30796     OFELIA CARMEN MERCADO CARO                        33        54815159       Patino/Delicia
+16299     WALTER  JOLAY CHUMPITAZ                           18        72330000       Vega/Carmela
+79851     VALENTINA PAULA URBINA ANTEZANO                   35        85395219       Fuentes/Patricia
+68730     VALENTINA PAULA URBINA ANTEZANO                   22        53556          Pediatria
+30796     DELICIA  ARCA AQUINO                              28        86988155       Cerna/Cinthia
+82528     VALENTINA PAULA URBINA ANTEZANO                   8         53556          Pediatria
+55813     VALENTINA PAULA URBINA ANTEZANO                   31        85395219       Fuentes/Patricia
+65667     DELICIA  ARCA AQUINO                              4         70269          Dermatologia
+27447     VALENTINA PAULA URBINA ANTEZANO                   18        53556          Pediatria
+58259     VALENTINA PAULA URBINA ANTEZANO                   24        85395219       Fuentes/Patricia
+58200     VALENTINA PAULA URBINA ANTEZANO                   30        85395219       Fuentes/Patricia
+57269     ZKENIA IRMA CHUNG ZUNIGA                          30        59596317       Justino/Virginia
+61295     DELICIA  ARCA AQUINO                              7         70269          Dermatologia
+93578     VALENTINA PAULA URBINA ANTEZANO                   29        85395219       Fuentes/Patricia
+70024     ZKENIA IRMA CHUNG ZUNIGA                          7         59596317       Justino/Virginia
+76247     ZKENIA IRMA CHUNG ZUNIGA                          9         59596317       Justino/Virginia
+22842     ZKENIA IRMA CHUNG ZUNIGA                          18        70612          Traumatologia
+70024     ZKENIA IRMA CHUNG ZUNIGA                          20        59596317       Justino/Virginia
+91282     ZKENIA IRMA CHUNG ZUNIGA                          17        59596317       Justino/Virginia
+58200     LOURDES CARMELA YALLICO PAREDES                   8         85395219       Fuentes/Patricia
+44215     VALENTINA PAULA URBINA ANTEZANO                   27        53556          Pediatria
+22232     YLIANA FLOR ORTIZ GUEVARA                         27        40414          Ginecologia
+52072     HUMBERTO ALFONSO AMEZQUITA CONTRERAS              27        12484697       Diaz/Enrique
+86476     YLIANA FLOR ORTIZ GUEVARA                         27        40414          Ginecologia
+86681     MIGUEL ALEX LANDEO ESTRADA                        20        34115          Cardiologia
+53084     DAVID CARLOS PEREZ ANTEZANO                       34        72330000       Vega/Carmela
+39172     CARMEN  ZAMORA CABRERA                            10        49357767       Solis/Rolando
+44253     DAVID CARLOS PEREZ ANTEZANO                       1         80040          Endocrinologia
+26360     DAVID CARLOS PEREZ ANTEZANO                       20        80040          Endocrinologia
+89528     HUMBERTO ALFONSO AMEZQUITA CONTRERAS              22        90562          Dermatologia
+60685     YLIANA FLOR ORTIZ GUEVARA                         12        40414          Ginecologia
+80830     HUMBERTO ALFONSO AMEZQUITA CONTRERAS              9         90562          Dermatologia
+61211     CARMEN  ZAMORA CABRERA                            29        25448          Endocrinologia
+72495     YLIANA FLOR ORTIZ GUEVARA                         16        34697743       Ayala/Ericka
+90300     HUMBERTO ALFONSO AMEZQUITA CONTRERAS              17        12484697       Diaz/Enrique
+22232     YLIANA FLOR ORTIZ GUEVARA                         26        40414          Ginecologia
+70225     CARMEN  ZAMORA CABRERA                            24        49357767       Solis/Rolando
+80839     MIGUEL ALEX LANDEO ESTRADA                        31        34115          Cardiologia
+80830     MIGUEL ALEX LANDEO ESTRADA                        33        34115          Cardiologia
+77203     DAVID CARLOS PEREZ ANTEZANO                       1         72330000       Vega/Carmela
+70225     CARMEN  ZAMORA CABRERA                            28        49357767       Solis/Rolando
+16359     CARMEN  ZAMORA CABRERA                            16        49357767       Solis/Rolando
+48039     YLIANA FLOR ORTIZ GUEVARA                         27        40414          Ginecologia
+27447     MIGUEL ALEX LANDEO ESTRADA                        19        34115          Cardiologia
+65536     MIGUEL ALEX LANDEO ESTRADA                        20        34115          Cardiologia
+84766     YLIANA FLOR ORTIZ GUEVARA                         14        40414          Ginecologia
+22232     YLIANA FLOR ORTIZ GUEVARA                         11        40414          Ginecologia
+44215     TERESA TERESA MARTEL MERCADO                      13        80227          Pediatria
+61211     CARMEN  ZAMORA CABRERA                            34        25448          Endocrinologia
+27447     CARMEN  ZAMORA CABRERA                            25        25448          Endocrinologia
+58259     HUMBERTO ALFONSO AMEZQUITA CONTRERAS              19        12484697       Diaz/Enrique
+77466     JAIME JULIAN SHIRAKAWA FLORIAN                    27        72973662       Vargas/Daniel
+46000     JAIME JULIAN SHIRAKAWA FLORIAN                    33        30557          Neumologia
+91282     RAUL  COLLADO VILLA                               33        86988155       Cerna/Cinthia
+40997     FRANCISCO  ZIMIC SALAS                            34        20189          Endocrinologia
+76247     RAUL  COLLADO VILLA                               31        86988155       Cerna/Cinthia
+49644     FRANCISCO  ZIMIC SALAS                            5         20189          Endocrinologia
+36711     HUMBERTO ALFONSO AMEZQUITA CONTRERAS              2         12484697       Diaz/Enrique
+51148     FRANCISCO  ZIMIC SALAS                            11        34571095       Infantes/Luis
+90300     JAIME JULIAN SHIRAKAWA FLORIAN                    10        72973662       Vargas/Daniel
+40997     FRANCISCO  ZIMIC SALAS                            27        20189          Endocrinologia
+76596     FRANCISCO  ZIMIC SALAS                            14        34571095       Infantes/Luis
+77466     FRANCISCO  ZIMIC SALAS                            18        34571095       Infantes/Luis
+40997     FRANCISCO  ZIMIC SALAS                            1         20189          Endocrinologia
+60509     ALFONSO WALDEMAR CABELLO LAM                      22        30082          Cardiologia
+16055     ALFONSO WALDEMAR CABELLO LAM                      26        32538825       Hijar/Martin
+60888     ALFONSO WALDEMAR CABELLO LAM                      23        30082          Cardiologia
+84771     FRANCISCO  ZIMIC SALAS                            4         20189          Endocrinologia
+41379     ESTEFANIA  ZEGARRA CASANOVA                       23        50718          Pediatria
+60509     ALFONSO WALDEMAR CABELLO LAM                      7         30082          Cardiologia
+86158     ESTEFANIA  ZEGARRA CASANOVA                       20        50718          Pediatria
+86451     ESTEFANIA  ZEGARRA CASANOVA                       35        50718          Pediatria
+90300     JAIME JULIAN SHIRAKAWA FLORIAN                    22        72973662       Vargas/Daniel
+31189     MILENA CINTHIA ZARATE ACUNA                       30        54149342       Leyva/Diana
+47697     MILENA CINTHIA ZARATE ACUNA                       9         52063          Traumatologia
+47697     MILENA CINTHIA ZARATE ACUNA                       32        52063          Traumatologia
+85641     MILENA CINTHIA ZARATE ACUNA                       33        52063          Traumatologia
+41403     JAIME JULIAN SHIRAKAWA FLORIAN                    7         30557          Neumologia
+61295     RAUL  COLLADO VILLA                               6         91509          Cardiologia
+18672     ROSARIO  TABORI ARIAS                             27        28992638       Trigueros/Luz
+82528     ROSARIO  TABORI ARIAS                             17        19777          Oftalmologia
+61039     MILENA CINTHIA ZARATE ACUNA                       10        52063          Traumatologia
+68539     ROSARIO  TABORI ARIAS                             7         19777          Oftalmologia
+16359     ROSARIO  TABORI ARIAS                             8         28992638       Trigueros/Luz
+42856     YLIANA FLOR ORTIZ GUEVARA                         11        40414          Ginecologia
+64347     ROSARIO  TABORI ARIAS                             26        19777          Oftalmologia
+75565     VICTORIA FIORELLA CUBA POMAJAMBO                  27        81647285       Vega/Henrry
+54692     VICTORIA FIORELLA CUBA POMAJAMBO                  34        81647285       Vega/Henrry
+89839     VICTORIA FIORELLA CUBA POMAJAMBO                  23        80063          Gastroenterologia
+85641     VICTORIA FIORELLA CUBA POMAJAMBO                  4         80063          Gastroenterologia
+16299     VICTORIA FIORELLA CUBA POMAJAMBO                  30        81647285       Vega/Henrry
+15098     ROSARIO  TABORI ARIAS                             24        28992638       Trigueros/Luz
+86158     ROSARIO  TABORI ARIAS                             35        19777          Oftalmologia
+16055     MILENA CINTHIA ZARATE ACUNA                       26        54149342       Leyva/Diana
+85641     MILENA CINTHIA ZARATE ACUNA                       22        52063          Traumatologia
+30228     VICTORIA FIORELLA CUBA POMAJAMBO                  29        81647285       Vega/Henrry
+18672     ROSARIO  TABORI ARIAS                             30        28992638       Trigueros/Luz
+15098     ROSARIO  TABORI ARIAS                             20        28992638       Trigueros/Luz
+85641     MILENA CINTHIA ZARATE ACUNA                       24        52063          Traumatologia
+54692     VICTORIA FIORELLA CUBA POMAJAMBO                  24        81647285       Vega/Henrry
+76238     VICTORIA FIORELLA CUBA POMAJAMBO                  26        81647285       Vega/Henrry
+75565     VICTORIA FIORELLA CUBA POMAJAMBO                  35        81647285       Vega/Henrry
+15098     HUMBERTO ALFONSO AMEZQUITA CONTRERAS              34        93282118       Zambrano/Ofelia
+59121     YLIANA FLOR ORTIZ GUEVARA                         10        77324146       Moscoso/Janet
+81062     YLIANA FLOR ORTIZ GUEVARA                         15        40414          Ginecologia
+60685     HUMBERTO ALFONSO AMEZQUITA CONTRERAS              7         90562          Dermatologia
+36822     YLIANA FLOR ORTIZ GUEVARA                         2         77324146       Moscoso/Janet
+37549     YLIANA FLOR ORTIZ GUEVARA                         2         77324146       Moscoso/Janet
+49685     YLIANA FLOR ORTIZ GUEVARA                         18        40414          Ginecologia
+81695     HUMBERTO ALFONSO AMEZQUITA CONTRERAS              17        90562          Dermatologia
+44215     YLIANA FLOR ORTIZ GUEVARA                         14        40414          Ginecologia
+91282     HUMBERTO ALFONSO AMEZQUITA CONTRERAS              22        93282118       Zambrano/Ofelia
+14962     HUMBERTO ALFONSO AMEZQUITA CONTRERAS              21        93282118       Zambrano/Ofelia
+41995     YLIANA FLOR ORTIZ GUEVARA                         25        40414          Ginecologia
+14962     HUMBERTO ALFONSO AMEZQUITA CONTRERAS              8         93282118       Zambrano/Ofelia
+76238     YLIANA FLOR ORTIZ GUEVARA                         31        77324146       Moscoso/Janet
+15098     HUMBERTO ALFONSO AMEZQUITA CONTRERAS              19        93282118       Zambrano/Ofelia
+60685     HUMBERTO ALFONSO AMEZQUITA CONTRERAS              32        90562          Dermatologia
