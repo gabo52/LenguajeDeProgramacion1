@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configurationDescriptor version="100">
+  <logicalFolder name="root" displayName="root" projectFiles="true" kind="ROOT">
+    <logicalFolder name="HeaderFiles"
+                   displayName="Header Files"
+                   projectFiles="true">
+      <itemPath>Alumno.h</itemPath>
+      <itemPath>Cola.h</itemPath>
+      <itemPath>NodoCola.h</itemPath>
+      <itemPath>Persona.h</itemPath>
+      <itemPath>Profesor.h</itemPath>
+    </logicalFolder>
+    <logicalFolder name="ResourceFiles"
+                   displayName="Resource Files"
+                   projectFiles="true">
+    </logicalFolder>
+    <logicalFolder name="SourceFiles"
+                   displayName="Source Files"
+                   projectFiles="true">
+      <itemPath>Alumno.cpp</itemPath>
+      <itemPath>Cola.cpp</itemPath>
+      <itemPath>NodoCola.cpp</itemPath>
+      <itemPath>Persona.cpp</itemPath>
+      <itemPath>Profesor.cpp</itemPath>
+      <itemPath>main.cpp</itemPath>
+    </logicalFolder>
+    <logicalFolder name="TestFiles"
+                   displayName="Test Files"
+                   projectFiles="false"
+                   kind="TEST_LOGICAL_FOLDER">
+    </logicalFolder>
+    <logicalFolder name="ExternalFiles"
+                   displayName="Important Files"
+                   projectFiles="false"
+                   kind="IMPORTANT_FILES_FOLDER">
+      <itemPath>Makefile</itemPath>
+    </logicalFolder>
+  </logicalFolder>
+  <projectmakefile>Makefile</projectmakefile>
+  <confs>
+    <conf name="Debug" type="1">
+      <toolsSet>
+        <compilerSet>default</compilerSet>
+        <dependencyChecking>true</dependencyChecking>
+        <rebuildPropChanged>false</rebuildPropChanged>
+      </toolsSet>
+      <compileType>
+        <ccTool>
+          <standard>8</standard>
+        </ccTool>
+      </compileType>
+      <item path="Alumno.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Alumno.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Cola.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Cola.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="NodoCola.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="NodoCola.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Persona.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Persona.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Profesor.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Profesor.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="main.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+    </conf>
+    <conf name="Release" type="1">
+      <toolsSet>
+        <compilerSet>default</compilerSet>
+        <dependencyChecking>true</dependencyChecking>
+        <rebuildPropChanged>false</rebuildPropChanged>
+      </toolsSet>
+      <compileType>
+        <cTool>
+          <developmentMode>5</developmentMode>
+        </cTool>
+        <ccTool>
+          <developmentMode>5</developmentMode>
+          <standard>8</standard>
+        </ccTool>
+        <fortranCompilerTool>
+          <developmentMode>5</developmentMode>
+        </fortranCompilerTool>
+        <asmTool>
+          <developmentMode>5</developmentMode>
+        </asmTool>
+      </compileType>
+      <item path="Alumno.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Alumno.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Cola.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Cola.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="NodoCola.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="NodoCola.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Persona.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Persona.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Profesor.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Profesor.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="main.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+    </conf>
+  </confs>
+</configurationDescriptor>
