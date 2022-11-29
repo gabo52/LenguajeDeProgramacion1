@@ -13,19 +13,22 @@
 
 #ifndef EMPRESA_H
 #define EMPRESA_H
-#include <list>
+
 #include <iterator>
 #include <iostream>
 #include <iomanip>
 #include <fstream>
 #include "Pedido.h"
 #include "Producto.h"
+#include <algorithm>
+#include <list>
+#include "RegCliente.h"
 using namespace std;
 class Empresa {
 public:
-    Empresa();
-    Empresa(const Empresa& orig);
-    virtual ~Empresa();
+//    Empresa();
+//    Empresa(const Empresa& orig);
+//    virtual ~Empresa();
     void leerClientes(const char *);
     void imprimirClientes(const char *);
     void leerPedidos(const char *);
@@ -34,6 +37,7 @@ public:
     void agregarPedido(int dni,class Pedido &ped);
     void agregarProducto(class Producto &prod);
     void asignaValoresPedido(class Pedido &ped,int dni,int codProd);
+    
 private:
     list <class Producto> lstProducto;
     list <class RegCliente> lstClientes;

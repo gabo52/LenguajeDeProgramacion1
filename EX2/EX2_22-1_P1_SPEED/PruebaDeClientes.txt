@@ -1,0 +1,55 @@
+                                        REPORTE DE CLIENTES 
+CODIGO    NOMBRE                        CATEGORIA      DESCUENTO      TELEFONO       
+71984468  IPARRAGUIRRE VILLEGAS NICOLAS EDILBERTO      B        0.17   935441620
+FECHA          CODIGO         CANTIDAD       SUBTOTAL       
+CODIGO    NOMBRE                        CATEGORIA      DESCUENTO      TELEFONO       
+29847168  ALDAVE ZEVALLOS ROSARIO                      A        0.23     6261108
+FECHA          CODIGO         CANTIDAD       SUBTOTAL       
+CODIGO    NOMBRE                        CATEGORIA      DESCUENTO      TELEFONO       
+79475585  RETTO ARCA ANNIE MAGDA                       A        0.23   941241092
+FECHA          CODIGO         CANTIDAD       SUBTOTAL       
+CODIGO    NOMBRE                        CATEGORIA      DESCUENTO      TELEFONO       
+91897732  GAMARRA ALCOCER VIRGINIA                     A        0.23   954025615
+FECHA          CODIGO         CANTIDAD       SUBTOTAL       
+CODIGO    NOMBRE                        CATEGORIA      DESCUENTO      TELEFONO       
+33397650  RONDON EGUSQUIZA CARMELA VALENTINA           A        0.23     3911397
+FECHA          CODIGO         CANTIDAD       SUBTOTAL       
+CODIGO    NOMBRE                        CATEGORIA      DESCUENTO      TELEFONO       
+83236386  RIVERO CORRALES JUAN FERNANDO                A        0.23   946513105
+FECHA          CODIGO         CANTIDAD       SUBTOTAL       
+CODIGO    NOMBRE                        CATEGORIA      DESCUENTO      TELEFONO       
+32821689  ZAVALETA EPIQUEN CARMEN ZKENIA               C        0.08   955248211
+FECHA          CODIGO         CANTIDAD       SUBTOTAL       
+CODIGO    NOMBRE                        CATEGORIA      DESCUENTO      TELEFONO       
+45783712  POZO CHUNG RAFAEL DEL                        B        0.17     8252118
+FECHA          CODIGO         CANTIDAD       SUBTOTAL       
+CODIGO    NOMBRE                        CATEGORIA      DESCUENTO      TELEFONO       
+48184351  LOPEZ JAUREGUI ROLANDO                       C        0.08   884716679
+FECHA          CODIGO         CANTIDAD       SUBTOTAL       
+CODIGO    NOMBRE                        CATEGORIA      DESCUENTO      TELEFONO       
+33713901  VILLEGAS CASTRO SOFIA VIRGINIA               A        0.23     2339560
+FECHA          CODIGO         CANTIDAD       SUBTOTAL       
+CODIGO    NOMBRE                        CATEGORIA      DESCUENTO      TELEFONO       
+76388967  GONZALES QUIO ISABEL                         B        0.17     8094909
+FECHA          CODIGO         CANTIDAD       SUBTOTAL       
+CODIGO    NOMBRE                        CATEGORIA      DESCUENTO      TELEFONO       
+81114108  ZAMBRANO SHIRAKAWA WILMER                    B        0.17     5853087
+FECHA          CODIGO         CANTIDAD       SUBTOTAL       
+CODIGO    NOMBRE                        CATEGORIA      DESCUENTO      TELEFONO       
+57263719  PRADO TORREALBA CARMEN JANET                 C        0.08   988736554
+FECHA          CODIGO         CANTIDAD       SUBTOTAL       
+CODIGO    NOMBRE                        CATEGORIA      DESCUENTO      TELEFONO       
+79140840  TORREALBA ARCA VICTORIA GLENDA               C        0.08   876488179
+FECHA          CODIGO         CANTIDAD       SUBTOTAL       
+CODIGO    NOMBRE                        CATEGORIA      DESCUENTO      TELEFONO       
+71378466  MIYAKE CARO HENRRY EDGAR                     C        0.08   921051207
+FECHA          CODIGO         CANTIDAD       SUBTOTAL       
+CODIGO    NOMBRE                        CATEGORIA      DESCUENTO      TELEFONO       
+17913944  PALOMARES SANTISTEBAN HENRRY                 B        0.17   967944433
+FECHA          CODIGO         CANTIDAD       SUBTOTAL       
+CODIGO    NOMBRE                        CATEGORIA      DESCUENTO      TELEFONO       
+62566305  ROMERO ALFARO MONICA JOHANA                  C        0.08     8206363
+FECHA          CODIGO         CANTIDAD       SUBTOTAL       
+CODIGO    NOMBRE                        CATEGORIA      DESCUENTO      TELEFONO       
+46462527  LOYOLA MORI NICOLAS FERNANDO                 B        0.17     5865695
+FECHA          CODIGO         CANTIDAD       SUBTOTAL       

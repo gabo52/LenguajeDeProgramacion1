@@ -14,7 +14,8 @@
 #ifndef REGCLIENTE_H
 #define REGCLIENTE_H
 #include <list>
-
+#include <iterator>
+#include <algorithm>
 #include "Cliente.h"
 #include "Pedido.h"
 using namespace std;

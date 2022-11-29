@@ -1,0 +1,112 @@
+CARNE     NOMBRE                                       TIPO
+17750908  Hernandez Barrios Emilio                     Estudiante     
+CODIGO        FECHA
+
+CARNE     NOMBRE                                       TIPO
+26916299  Diaz Antezano Magali Silvana                 Estudiante     
+CODIGO        FECHA
+
+CARNE     NOMBRE                                       TIPO
+14268463  Raffo Chung Adria Gloria                     Estudiante     
+CODIGO        FECHA
+
+CARNE     NOMBRE                                       TIPO
+37500242  Vasquez Paz Alex Martin                      Estudiante     
+CODIGO        FECHA
+
+CARNE     NOMBRE                                       TIPO
+61212473  Castro Suarez Rolando                        Administrativo 
+CODIGO        FECHA
+
+CARNE     NOMBRE                                       TIPO
+65071478  Mejia Diaz Blanca Milagros                   Estudiante     
+CODIGO        FECHA
+
+CARNE     NOMBRE                                       TIPO
+96056368  Pasquel Quio Surami Janet                    Administrativo 
+CODIGO        FECHA
+
+CARNE     NOMBRE                                       TIPO
+99215341  Raffo Arias Surami Annie                     Estudiante     
+CODIGO        FECHA
+
+CARNE     NOMBRE                                       TIPO
+33958767  Aquino Toro Valentina Rocio                  Administrativo 
+CODIGO        FECHA
+
+CARNE     NOMBRE                                       TIPO
+72832218  Corrales Tsukazan Irma Lourdes               Administrativo 
+CODIGO        FECHA
+
+CARNE     NOMBRE                                       TIPO
+63602514  Auris Zimic Javier Daniel                    Administrativo 
+CODIGO        FECHA
+
+CARNE     NOMBRE                                       TIPO
+49516360  Delgado Gonzales Guillermo Alfonso           Docente        
+CODIGO        FECHA
+
+CARNE     NOMBRE                                       TIPO
+15129661  Wong Martel Madeleine                        Estudiante     
+CODIGO        FECHA
+
+CARNE     NOMBRE                                       TIPO
+87804471  Cerna Durand Martin                          Administrativo 
+CODIGO        FECHA
+
+CARNE     NOMBRE                                       TIPO
+37751890  Shirakawa Miranda Madeleine                  Docente        
+CODIGO        FECHA
+
+CARNE     NOMBRE                                       TIPO
+66152145  Salas Aguero Daniel                          Estudiante     
+CODIGO        FECHA
+
+CARNE     NOMBRE                                       TIPO
+33115577  Chumpitaz Iberos Ronal                       Estudiante     
+CODIGO        FECHA
+
+CARNE     NOMBRE                                       TIPO
+55917355  Valverde Flores Irma Ydali                   Administrativo 
+CODIGO        FECHA
+
+CARNE     NOMBRE                                       TIPO
+77001234  Diaz Correa Irma Virginia                    Docente        
+CODIGO        FECHA
+
+CARNE     NOMBRE                                       TIPO
+61039260  Mejia De La Haza Francisco Edgar             Docente        
+CODIGO        FECHA
+
+CARNE     NOMBRE                                       TIPO
+54393647  Norabuena Preciado Cinthia                   Administrativo 
+CODIGO        FECHA
+
+CARNE     NOMBRE                                       TIPO
+45834351  Velasquez Huayanay Edgard Henry              Administrativo 
+CODIGO        FECHA
+
+CARNE     NOMBRE                                       TIPO
+11750801  Shirakawa Ortega Angel                       Estudiante     
+CODIGO        FECHA
+
+CARNE     NOMBRE                                       TIPO
+83265244  Pairazaman Alamo Moises Miguel               Docente        
+CODIGO        FECHA
+
+CARNE     NOMBRE                                       TIPO
+35030611  Inga Flores Cesar Adolfo                     Estudiante     
+CODIGO        FECHA
+
+CARNE     NOMBRE                                       TIPO
+50860318  Prado Vergel Carlos Julian                   Estudiante     
+CODIGO        FECHA
+
+CARNE     NOMBRE                                       TIPO
+81082011  Arroyo Gordillo Maria Heli                   Docente        
+CODIGO        FECHA
+
+CARNE     NOMBRE                                       TIPO
+92240876  Vega Garcia Janet Rebeca                     Estudiante     
+CODIGO        FECHA
+

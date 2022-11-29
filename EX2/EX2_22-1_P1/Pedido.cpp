@@ -95,7 +95,7 @@ ofstream &operator <<(ofstream & arch, Pedido &c){
 }
 
 bool Pedido::operator < (const Pedido &c){
-    return getFecha()>c.getFecha();
+    return -getFecha()>c.getFecha();
 }
 
 bool Pedido::operator > (const Pedido &c){

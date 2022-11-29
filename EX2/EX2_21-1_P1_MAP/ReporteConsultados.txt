@@ -1,0 +1,26 @@
+                                                         Renovacion de Licencias
+======================================================================================================================================================
+Licencia    Nombre                                         Observacion       Multas  Tramites    Ex.Med       Manejo/Reglas          Total
+13219606    RODRIGUEZ MORENO BLANCA OFELIA                      -             14062       900       900                4500       20362.00
+13628871    QUIROGA HERNANDEZ SILVANA ZKENIA                    -              6557       300       300                1500        8657.00
+16477908    BACA CAMACHO MILAGROS NATALIA                       -             25280       900       900                4500       31580.00
+27864822    FIGUEROA MEDINA MADELEINE                           -             25122       900       900                4500       31422.00
+29989682    CAMACHO PAIRAZAMAN YDALI LUCERO                     -             19197       800       800                4000       24797.00
+31107104    MOSCOSO ARIAS FIORELLA                              -              7821       700       700                3500       12721.00
+32090869    SUELDO ANTEZANO LUIS JESUS                          -              7505       600       600                3000       11705.00
+35912665    MARTINEZ CRUZ EVERT RONY                            -             27492      1600      1600                8000       38692.00
+48450395    RAMIREZ ASTETE KARINA ESTEFANIA                     -             24964       800       800                4000       30564.00
+49927087    INGA PALOMARES ERIKA                                -             14852      1200      1200                6000       23252.00
+50201756    ZEGARRA PENA CARMELA                                -              5925      2000      1000                1500       10425.00
+58992942    NARVAEZ CASTILLO JESUS RAFAEL                       -             11850      1000       500                 750       14100.00
+64178096    VIZCARRA CARBAJAL IVAN FAUSTO                       -             17775      2200      1100                1650       22725.00
+64532449    INFANTES MERCADO LUIS WALDEMAR                      -                 0      2600      1300                1950        5850.00
+66849703    MERCADO CORONEL ELIA                                -             11850      1400       700                1050       15000.00
+71832810    SUELDO SEDANO ADRIA                                 -              5925      1400       700                1050        9075.00
+73357516    TRIGUEROS JUGO LUZ                                  -             23700      2400      1200                1800       29100.00
+77367073    JAUREGUI DEL CASTILLO VICTOR RICARDO                -             17775      2600      1300                1950       23625.00
+77763722    FARFAN SALAZAR MARGOT                               -             35550      2400      1200                1800       40950.00
+81799482    CERNA CERNA CINTHIA                                 -             17775      1600       800                1200       21375.00
+85501710    VIZCARDO SINCHE MARIBEL                             -             17775      2800      1400                2100       24075.00
+87495937    MORALES PASQUEL KARIN MARIBEL                       -             47400      3600      1800                2700       55500.00
+96693273    VALDERRAMA BERROCAL EVERT                           -             35550      3000      1500                2250       42300.00

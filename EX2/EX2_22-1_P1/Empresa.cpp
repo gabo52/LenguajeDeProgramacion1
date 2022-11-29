@@ -19,14 +19,15 @@
 #include "Producto.h"
 void AbrirArchivo(const char *nomb,ifstream &arch);
 void AbrirArchivo(const char *nomb,ofstream &arch);
-Empresa::Empresa() {
-}
 
-Empresa::Empresa(const Empresa& orig) {
-}
-
-Empresa::~Empresa() {
-}
+//Empresa::Empresa() {
+//}
+//
+//Empresa::Empresa(const Empresa& orig) {
+//}
+//
+//Empresa::~Empresa() {
+//}
 
 void AbrirArchivo(const char *nomb,ifstream &arch){
     arch.open(nomb,ios::in);
@@ -47,7 +48,6 @@ void AbrirArchivo(const char *nomb,ofstream &arch){
 void Empresa::leerClientes(const char *nomb){
     ifstream arch;
     AbrirArchivo(nomb,arch);
-    Cliente cli;
     RegCliente reg;
     while(1){
         reg.leerDatosCliente(arch);
@@ -124,7 +124,6 @@ void Empresa::agregarPedido(int dni,Pedido &ped){
 void Empresa::ordenarPedidos(){
     RegCliente *aux;
     for(list<class RegCliente>::iterator it=lstClientes.begin();it!=lstClientes.end();it++){
-        //aux=it;
         (*it).ordena();
     }    
 }

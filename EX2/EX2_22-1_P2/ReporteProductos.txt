@@ -1,0 +1,78 @@
+412041    TORTILLAS DE MAIZ 1KG                             15        0         10        
+690039    CORAZONES DE OREJONA PZA                          11        0         10        
+151641    YOGHURT P BEBER LACTIGURT COCO 250G               10        0         20        
+632129    VINAGRE BLANCO CLEMENTE JACQUES 3.8LT             15        0         10        
+178943    YOGHURT P BEBER DURAZNO LIGHT YOP 250GR           13        0         10        
+330512    YOGHURT LALA LIGHT 240GR                          6         0         20        
+365379    YOGHURT FRESA CON GRANOLA CHELSY 240GR            0         0         20        
+118050    PAPAYA                                            23        0         10        
+365906    AGUACATE REGIONAL KG.1.000 GR                     22        0         15        
+285807    YOGHURT BIOBALANCE NUEZ Y FRU.SECOS 250G          5         0         15        
+397718    LECHE LALA SEMI DESLACTOSADA 1LT                  3         0         10        
+941699    MAIZ POZOLERO EXTRA 1KGR                          21        0         20        
+935218    FRIJOL AMARILLO KG                                0         0         10        
+311343    YOGHURT FRESA NESTLE 1KG                          16        0         20        
+651034    MANGO EN REBANADAS LA MORENA 800GR                14        0         15        
+434681    ELOTE DORADO DEL MONTE 225GR                      11        0         15        
+182942    ZAPOTE                                            6         0         10        
+992564    LECHUGA ROMANA                                    8         0         10        
+674767    CHICHARRON BOTANA CON CHAMOY BOLSA                3         0         20        
+485302    YOGHURT LALA FRESA 240GR                          23        0         20        
+856894    HARINA MAZATL 5KG                                 30        0         15        
+714788    PAPA EN CUBOS DEL FUERTE 12 380GR.                10        0         15        
+997564    MANGO ECUATORIANO                                 11        0         10        
+785062    CORAZON DE ALCACHOFA SAN MIGUEL                   7         0         20        
+283781    FRIJOLES REFRITOS ISADORA 430GR                   9         0         15        
+308982    YOGHURT P BEBER FRUGGIS FRESA 150GR               42        0         15        
+204890    LECHE YAQUI DESLACTOSADA 1LT                      10        0         10        
+580927    TORTILLAS DE HARINA DEL HOGAR 22P. 840GR          6         0         0.00      
+923804    SAL BAJA PACIFIC BOLSA 1KGR                       18        0         0.00      
+423073    POLVO PARA HORNEAR REXAL 15KILOS                  10        0         0.00      
+947176    SALSA DE CHILE HABANERO ROJO 260GR                15        0         0.00      
+455703    PALOMITAS POFETS FLAMIN HOT 28GR                  12        0         0.00      
+900698    VAINILLA MOLINA 500ML                             11        0         0.00      
+696000    MEDIA CREMA NESTLE 1LT                            18        0         0.00      
+790585    SALSA CASERA ENEDELIA 250GR                       5         0         0.00      
+374588    BEBIDA DE SOYA ADES GUANABANA 946ML               18        0         0.00      
+901816    JUGO VALLE FRUT CITRUS 12 250ML                   11        0         0.00      
+261009    CUITLACOCHE MONTEBLANCO 215GR                     12        0         0.00      
+748008    SANDWICH COMBINADA 3 FLORES 150GR                 13        0         0.00      
+536472    SABRITAS CASERAS JALAPENO 42GR                    20        0         0.00      
+979865    GALLETAS MARIAS CUETARA 160GR                     22        0         0.00      
+874884    BEBIDA NARANJA BEBERE 470ML                       17        0         0.00      
+863714    LECHE DE COCO CALAHUA 500ML                       5         0         0.00      
+179485    MOLE SURTIDO CON ESPECIAS 250GR                   11        0         0.00      
+582920    PINGUINOS MARINELA 40GR                           6         0         0.00      
+565169    PASTILLA PEPTO BISMOL                             27        0         0.00      
+620036    SABRITAS ORIGINAL SAL 490GR                       13        0         0.00      
+748899    NARANJA SIN SEMILLA                               23        0         0.00      
+374253    TE DE MANZANILLA NEBO 24 1GR                      18        0         0.00      
+874503    GALLETAS LORS SNACKS MARINELA 75GR                4         0         0.00      
+430669    AJO GRANULADO DE CALIFORNIA KIRKLAND 51.          0         0         0.00      
+778066    CHILES CHIPOTLES LA COSTENA 380GR                 10        0         0.00      
+882099    NESQUIK CHOCOLATE 200GR                           15        0         0.00      
+375507    TE DE MANZANILLA McCORMICK 100 1.2GR              15        0         0.00      
+459032    GELATINA DANY LIMON 125GR                         24        1         0.00      
+422763    GALLETAS SUAVICREMAS FRESA 158GR                  14        1         0.00      
+178097    CROQUETAS PEDIGREE BENEFUL 10.1KG                 12        1         0.00      
+170844    EMPANIZADOR CONTADINA TRADICIONAL 283GR           12        1         0.00      
+511824    FLAN LALA SABOR VAINILLA 100GR                    14        1         0.00      
+415932    SOPA MARUCHAN CAMARON 71GR                        22        1         0.00      
+662083    TAKIS SALSA BRAVA 62GR                            6         1         0.00      
+349098    SALSA HABANERA ROJA GUACAMAYA 150GR               23        1         0.00      
+967922    NESCAFE VAINILLA FRESCA 25GR                      11        1         0.00      
+744237    ALUBIAS ANTIQUA 540GR                             3         1         0.00      
+891590    MIEL DE ABEJA VIRGEN 1KG                          9         1         0.00      
+317404    LICUADO LALA CIRUELA PASA Y NUEZ 240GR            24        1         0.00      
+387889    CONDIMENTO PARA BIRRIA CUCU.                      7         1         0.00      
+390920    AGUA NIAGARA 500ML                                15        1         0.00      
+406688    CHURROMAIS CON LIMON 38GR                         20        1         0.00      
+793026    YOGHURT NATURAL LIGHT LALA 1KG                    30        1         0.00      
+826317    CHAMYTO BIG 114ML                                 0         1         0.00      
+126218    TANJERINA                                         18        1         0.00      
+940876    SAL DE AJO McCORMICK 1.16KG                       8         1         0.00      
+872819    GELATINA DE LECHE VAINILLA DANETTE 100GR          8         1         0.00      
+675770    JARABE DE MAMEY 1.25KG                            10        1         0.00      
+961802    ACHIOTE LA EXTRA 1KG                              13        1         0.00      
+588754    LIMONADA H2O 250ML                                9         1         0.00      
+613623    CHILE PASILLA MULATO LARGO 100GR                  17        1         0.00      
