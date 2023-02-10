@@ -1,9 +1,5 @@
-*.o
-*.d
-*.exe
-*.o.d
+build/
+dist/
+nbproject/
 *.inc
-
-**/**/build
-**/**/dist
-**/**/nbproject
+Makefile
