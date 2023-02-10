@@ -1,0 +1,9 @@
+*.o
+*.d
+*.exe
+*.o.d
+*.inc
+
+**/**/build
+**/**/dist
+**/**/nbproject
