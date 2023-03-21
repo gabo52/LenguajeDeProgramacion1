@@ -1,0 +1,39 @@
+CONSOLIDAD DE NOTAS DE LOS ALUMNOS
+============================================================================================================================================
+CODIGO    NOMBRE                                            CARNE          CRED. CURSADOS  CRED. APROBADOS   PROMEDIO       ESTADO
+============================================================================================================================================
+20110165  Landeo/Sueldo/Adolfo                                                 48.00           33.00            3.52      NO EGRESADO
+4450      Vega/Munoz/Gonzalo                                129302             23.00           15.00            3.35      NO EGRESADO
+20127352  Justino/Cruz/Williams                                                44.00           39.50            3.57      NO EGRESADO
+5395      Alamo/Pairazaman/Miguel-Roberto                                      33.50           33.50            3.82      NO EGRESADO
+2075      Moya/Aranda/Johnny                                212931             58.00           36.50            3.29      NO EGRESADO
+20119778  Morales/Valverde/Ines-Martha                                         44.00           44.00            3.64      NO EGRESADO
+20170596  Portugal/Benavente/Johana-Gloria                                     41.50           37.50            3.11      NO EGRESADO
+20160119  Paredes/Patino/Christian                                             52.00           48.00            3.81      EGRESADO
+6965      Antezano/Segura/Teresa-Delia                      761209             28.00           24.00            3.46      NO EGRESADO
+20109738  Caro/Polo/Sandro                                                     35.00           22.00            2.74      NO EGRESADO
+1994      Ruiz/Gordillo/Carola-Erika                        341239             48.50           41.00            3.26      NO EGRESADO
+6553      Coronado/Figueroa/Johan                           877261             33.50           18.50            2.78      NO EGRESADO
+1346      Hijar/Pairazaman/Jenny-Delicia                    738812             42.00           28.00            3.45      NO EGRESADO
+6702      Calixto/Tomasiche/Monica-Doris                                       64.00           49.50            3.25      EGRESADO
+8528      Zarate/Del_Pozo/Humberto-Antonio                  873651             24.50           24.50            3.96      NO EGRESADO
+7613      Cortez/Segura/Carmela-Ines                        878291             30.00           18.00            3.20      NO EGRESADO
+20120476  Henriquez/Espino/Beatriz                                             32.00           32.00            3.94      NO EGRESADO
+20167828  Pasquel/Quio/Surami-Janet                                            54.50           40.00            3.38      NO EGRESADO
+20150564  Auris/Zimic/Javier-Daniel                                            19.00           19.00            3.42      NO EGRESADO
+20160658  Arca/Amezquita/Edric-Ronald                                          17.00           17.00            4.18      NO EGRESADO
+20080667  Lozada/Yino/Martha                                                   22.50           22.50            3.47      NO EGRESADO
+9442      Florian/Morales/Ydali                             998212             37.50           29.50            3.33      NO EGRESADO
+20003541  Cabrera/Canales/Guillermo-Edric                                      24.50           21.00            3.27      NO EGRESADO
+5258      Gavidia/Mendoza/Ronald-Johnny                     394930             26.50           15.50            3.43      NO EGRESADO
+20083333  Laura/Wong/Melvin-Henrry                                              0.00            0.00            0.00      NO EGRESADO
+20097877  Coronel/Chumpitaz/Heli                                               25.00           25.00            4.12      NO EGRESADO
+20164217  Palomares/Vera/Henrry-Humberto                                        0.00            0.00            0.00      NO EGRESADO
+============================================================================================================================================
+RESUMEN :
+TOTAL DE ALUMNOS REGULARES:           15
+TOTAL DE ALUMNOS DE INTERCAMBIO:      12
+
+EGRESADOS:                             2
+ALUMNOS DE INTERCAMBIO SIN CARNE:     10
+============================================================================================================================================

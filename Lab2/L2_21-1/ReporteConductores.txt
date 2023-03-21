@@ -1,0 +1,16 @@
+19568447       CUEVA/FUENTES/CINTHIA_DELIA                       0       3       2       158.00    632.00    948.00    1738.00   
+15559308       LEE/SERRANO/ROSARIO                               1       0       1       0.00      316.00    474.00    790.00    
+16136330       ZARATE/PEREZ/ALEXANDER                            1       1       2       158.00    316.00    948.00    1422.00   
+13219606       RODRIGUEZ/MORENO/BLANCA_OFELIA                    3       1       4       0.00      1264.00   2370.00   3634.00   
+12858682       QUIROGA/HERNANDEZ/SILVANA_ZKENIA                  1       2       2       0.00      948.00    3950.00   4898.00   
+24859596       VALVERDE/MAEIREIZO/MELVIN_JAIR                    2       3       2       0.00      1580.00   948.00    2528.00   
+12270502       BRAVO/CORTES/JANET_FLOR                           3       3       2       0.00      1896.00   2923.00   4819.00   
+15029228       YEP/PRECIADO/RICHARD                              1       1       1       0.00      632.00    474.00    1106.00   
+16925690       BACA/CAMACHO/MILAGROS_NATALIA                     1       1       2       0.00      632.00    474.00    1106.00   
+16477908       CABRERA/TORO/FANNY                                3       4       2       0.00      2212.00   1422.00   3634.00   
+12443643       VEGA/SORIA/HENRRY                                 1       1       0       0.00      632.00    0.00      632.00    
+13628871       SALAMANCA/CABRERA/NESTOR_EVERT                    2       3       5       0.00      1580.00   2844.00   4424.00   
+19963454       AYALA/CASTILLO/ERICKA_OFELIA                      1       1       1       0.00      632.00    711.00    1343.00   
+25518120       FLORIAN/CUBA/CHRISTIAN                            1       1       3       0.00      632.00    1422.00   2054.00   
+26522329       RONDON/CABRERA/ALEXANDER_ADOLFO                   4       0       2       158.00    948.00    474.00    1580.00   
+21621497       SANCHEZ/DEL_CASTILLO/FIORELLA_ROSARIO             3       1       2       158.00    948.00    0.00      1106.00   

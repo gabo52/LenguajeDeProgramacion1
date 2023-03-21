@@ -1,0 +1,4 @@
+no olvidar el ::binary en archivos binarios
+
+Los clusters particionan los espacios de memoria para guardar informacion en caso se borre informacion
+el mapa indica los espacios destinados a los clusters
