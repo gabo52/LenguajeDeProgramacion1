@@ -1,5 +1,6 @@
 build/
 dist/
 nbproject/
+*.inc
 .dep.inc
 Makefile
