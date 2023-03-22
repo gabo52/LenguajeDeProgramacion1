@@ -1,1 +1,0 @@
-Fecha     Codigo    Descripcion del Prod.                             Cant.     Precio    Total     Observaciones
