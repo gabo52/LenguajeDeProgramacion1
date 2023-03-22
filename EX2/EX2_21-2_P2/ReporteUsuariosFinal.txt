@@ -1,0 +1,258 @@
+CARNE     NOMBRE                                       TIPO
+17750908  Hernandez Barrios Emilio                     Estudiante     
+CODIGO        FECHA
+MG75057     16/10/2021
+SA04133     14/10/2021
+KC34197     16/10/2021
+SK15788     13/10/2021
+XN48844     11/10/2021
+BH96036     16/10/2021
+
+CARNE     NOMBRE                                       TIPO
+26916299  Diaz Antezano Magali Silvana                 Estudiante     
+CODIGO        FECHA
+PL70268     18/10/2021
+MG75057     12/10/2021
+FY25192     12/10/2021
+IW10872     13/10/2021
+ZQ38637     15/10/2021
+SK15788     12/10/2021
+FY82455     09/10/2021
+
+CARNE     NOMBRE                                       TIPO
+14268463  Raffo Chung Adria Gloria                     Estudiante     
+CODIGO        FECHA
+PL70268     18/10/2021
+OT07742     11/10/2021
+SV17719     13/10/2021
+XW06135     07/10/2021
+FW74175     13/10/2021
+MG75057     09/10/2021
+
+CARNE     NOMBRE                                       TIPO
+37500242  Vasquez Paz Alex Martin                      Estudiante     
+CODIGO        FECHA
+PL70268     13/10/2021
+OT07742     17/10/2021
+KC34197     13/10/2021
+FY82455     13/10/2021
+SK15788     13/10/2021
+FW74175     13/10/2021
+JO84937     11/10/2021
+
+CARNE     NOMBRE                                       TIPO
+61212473  Castro Suarez Rolando                        Administrativo 
+CODIGO        FECHA
+ZQ38637     14/10/2021
+ZR63735     16/10/2021
+FW74175     16/10/2021
+
+CARNE     NOMBRE                                       TIPO
+65071478  Mejia Diaz Blanca Milagros                   Estudiante     
+CODIGO        FECHA
+KC34197     13/10/2021
+PL70268     18/10/2021
+MG75057     13/10/2021
+BB35881     14/10/2021
+XW06135     15/10/2021
+QV96140     14/10/2021
+
+CARNE     NOMBRE                                       TIPO
+96056368  Pasquel Quio Surami Janet                    Administrativo 
+CODIGO        FECHA
+FY82455     16/10/2021
+PT00038     17/10/2021
+FW74175     17/10/2021
+QA53897     17/10/2021
+ZQ38637     18/10/2021
+
+CARNE     NOMBRE                                       TIPO
+99215341  Raffo Arias Surami Annie                     Estudiante     
+CODIGO        FECHA
+ZM20053     10/10/2021
+ZR63735     09/10/2021
+FW74175     09/10/2021
+ZK87496     17/10/2021
+QV96140     10/10/2021
+
+CARNE     NOMBRE                                       TIPO
+33958767  Aquino Toro Valentina Rocio                  Administrativo 
+CODIGO        FECHA
+SV17719     18/10/2021
+KW25071     18/10/2021
+ZK87496     14/10/2021
+JO84937     16/10/2021
+FY25192     14/10/2021
+
+CARNE     NOMBRE                                       TIPO
+72832218  Corrales Tsukazan Irma Lourdes               Administrativo 
+CODIGO        FECHA
+VA35843     15/10/2021
+IW10872     17/10/2021
+QE47018     16/10/2021
+
+CARNE     NOMBRE                                       TIPO
+63602514  Auris Zimic Javier Daniel                    Administrativo 
+CODIGO        FECHA
+QE47018     18/10/2021
+IW10872     17/10/2021
+
+CARNE     NOMBRE                                       TIPO
+49516360  Delgado Gonzales Guillermo Alfonso           Docente        
+CODIGO        FECHA
+IW10872     01/10/2021
+JO84937     02/10/2021
+KC34197     05/10/2021
+XQ03477     08/10/2021
+
+CARNE     NOMBRE                                       TIPO
+15129661  Wong Martel Madeleine                        Estudiante     
+CODIGO        FECHA
+SK15788     12/10/2021
+OT07742     15/10/2021
+FY25192     17/10/2021
+FY82455     10/10/2021
+
+CARNE     NOMBRE                                       TIPO
+87804471  Cerna Durand Martin                          Administrativo 
+CODIGO        FECHA
+QA53897     17/10/2021
+PL70268     17/10/2021
+OC73472     18/10/2021
+
+CARNE     NOMBRE                                       TIPO
+37751890  Shirakawa Miranda Madeleine                  Docente        
+CODIGO        FECHA
+FY82455     14/10/2021
+FW74175     06/10/2021
+OT07742     17/10/2021
+
+CARNE     NOMBRE                                       TIPO
+66152145  Salas Aguero Daniel                          Estudiante     
+CODIGO        FECHA
+ZQ38637     09/10/2021
+XW06135     14/10/2021
+BH96036     09/10/2021
+KC34197     17/10/2021
+QA53897     18/10/2021
+FY25192     09/10/2021
+
+CARNE     NOMBRE                                       TIPO
+33115577  Chumpitaz Iberos Ronal                       Estudiante     
+CODIGO        FECHA
+XW06135     15/10/2021
+FW74175     13/10/2021
+ZR63735     18/10/2021
+
+CARNE     NOMBRE                                       TIPO
+55917355  Valverde Flores Irma Ydali                   Administrativo 
+CODIGO        FECHA
+XN48844     18/10/2021
+BH96036     17/10/2021
+ZQ38637     18/10/2021
+FW74175     16/10/2021
+
+CARNE     NOMBRE                                       TIPO
+77001234  Diaz Correa Irma Virginia                    Docente        
+CODIGO        FECHA
+QV96140     03/10/2021
+PT00038     02/10/2021
+ZK87496     03/10/2021
+FY25192     03/10/2021
+IW10872     10/10/2021
+VA35843     10/10/2021
+ZR63735     18/10/2021
+XW06135     11/10/2021
+
+CARNE     NOMBRE                                       TIPO
+61039260  Mejia De La Haza Francisco Edgar             Docente        
+CODIGO        FECHA
+QV96140     04/10/2021
+ZM20053     09/10/2021
+QE47018     16/10/2021
+SK15788     17/10/2021
+ZR63735     04/10/2021
+SV17719     16/10/2021
+QA53897     18/10/2021
+ZK87496     13/10/2021
+
+CARNE     NOMBRE                                       TIPO
+54393647  Norabuena Preciado Cinthia                   Administrativo 
+CODIGO        FECHA
+XW06135     14/10/2021
+PT00038     18/10/2021
+XQ03477     16/10/2021
+ZM20053     18/10/2021
+FY82455     16/10/2021
+
+CARNE     NOMBRE                                       TIPO
+45834351  Velasquez Huayanay Edgard Henry              Administrativo 
+CODIGO        FECHA
+QE47018     17/10/2021
+SK15788     18/10/2021
+LM05731     17/10/2021
+XQ03477     17/10/2021
+IW10872     18/10/2021
+
+CARNE     NOMBRE                                       TIPO
+11750801  Shirakawa Ortega Angel                       Estudiante     
+CODIGO        FECHA
+IW10872     16/10/2021
+ZK87496     10/10/2021
+BH96036     16/10/2021
+KW25071     17/10/2021
+FY82455     09/10/2021
+XN48844     11/10/2021
+
+CARNE     NOMBRE                                       TIPO
+83265244  Pairazaman Alamo Moises Miguel               Docente        
+CODIGO        FECHA
+KW25071     14/10/2021
+PT00038     13/10/2021
+PL70268     03/10/2021
+FY25192     10/10/2021
+ZQ38637     13/10/2021
+XW06135     01/10/2021
+SA04133     04/10/2021
+QE47018     18/10/2021
+XQ03477     09/10/2021
+KC34197     01/10/2021
+MG75057     07/10/2021
+FY25192     15/10/2021
+
+CARNE     NOMBRE                                       TIPO
+35030611  Inga Flores Cesar Adolfo                     Estudiante     
+CODIGO        FECHA
+MG75057     14/10/2021
+XN48844     15/10/2021
+XQ03477     15/10/2021
+FW74175     09/10/2021
+KC34197     14/10/2021
+FY25192     16/10/2021
+BH96036     10/10/2021
+
+CARNE     NOMBRE                                       TIPO
+50860318  Prado Vergel Carlos Julian                   Estudiante     
+CODIGO        FECHA
+FY25192     16/10/2021
+ZR63735     13/10/2021
+FW74175     15/10/2021
+SA04133     16/10/2021
+PL70268     15/10/2021
+
+CARNE     NOMBRE                                       TIPO
+81082011  Arroyo Gordillo Maria Heli                   Docente        
+CODIGO        FECHA
+XN48844     09/10/2021
+QV96140     14/10/2021
+FY25192     07/10/2021
+BH96036     11/10/2021
+
+CARNE     NOMBRE                                       TIPO
+92240876  Vega Garcia Janet Rebeca                     Estudiante     
+CODIGO        FECHA
+IW10872     12/10/2021
+BB35881     15/10/2021
+PT00038     16/10/2021
+SK15788     14/10/2021
+

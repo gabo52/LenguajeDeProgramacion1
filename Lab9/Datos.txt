@@ -1,0 +1,23 @@
+No olvidarse agregar el virtual en la clase base
+Debe salir la circunferencia verde
+Deben tener los mismos parámetros de entrada y nombres
+Tambien tiene puntero y herencia
+
+
+errores comunes:
+
+no hacer 3 lee, creando 3 punteros
+
+cliente doctor medicamento
+
+
+Guardar 
+Cancelar
+
+
+
+- Crear clases
+- Crear copia en clases derivadas
+- Crear funciones virtuales
+- Implementar funciones virtuales
+Probar

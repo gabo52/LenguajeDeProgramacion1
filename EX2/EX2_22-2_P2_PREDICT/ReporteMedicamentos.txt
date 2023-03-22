@@ -1,0 +1,60 @@
+11370     KETOROLACO 4T 30MG SUBLINGUAL                 1250      2.55   PERU
+11592     TERBINAFINA 1% CRA 20 GR                      3220        68   ABBOT LABORATORIOS S.A.       1637
+12388     PROTEINAS+CREATINA 500 GR 30T                 3980      76.5   BAYER S.A.                    1770
+13364     MULTIVITAMINAS Y MINERALES C60                1040      13.6   PERU
+14075     CLOTRIMAZOL C/6 CPR VAG                        800      9.35   PERU
+14962     HIERRO DEXTRANO AMP4                          1220     46.75   DEUTSCHE PHARMA SAC           1292
+15098     LISINA CLOHRIDRATO 125MG T10                  4540      81.6   LABORATORIO ASTRAZENECA       1868
+16055     AMBROXOL C/20 TAB                             1060      45.9   DEUTSCHE PHARMA SAC           1284
+16299     AZITROMICINA 500MG C/3T                       1500      49.3   JHONSON & JHONSON             1336
+16359     NAPROXENO 250 MG TAB C/30                     3860     75.65   LABORATORIOS FARMINDUSTRIA    1749
+16681     SIBUTRAMINA 10 MG C15                         2480      22.1   CHINA
+16813     VANCOMICINA 500MG SOL INY                      300      5.95   CHILE
+17645     KETOKONAZOL CRA 30GR                          2720     22.95   PERU
+17790     DICLOFENACO 100MG 20T                         1760        17   PERU
+17804     PIROXICAM 30 GM CRA                           1000      10.2   USA
+17845     GINKO YANG CAPS C/30                          2300       5.1   CHINA
+18672     TINIDAZOL 500MG 8T                            1520      15.3   PERU
+19397     ORLISTAT / 21 CAP 120 MG                      6080      37.4   PERU
+22232     LEVETIRACETAM                                 3420      69.7   LABORATORIOS FARMINDUSTRIA    1672
+22306     NIMESULIDA 25MG 20ML                          3940      76.5   BAYER S.A.                    1763
+22553     FLUCINOLONA+NEOMICINA CRA 30G                 6680      39.1   USA
+22842     AMIKACINA 500MG C/1 AMP                       1300      47.6   BAYER S.A.                    1301
+24522     LEVOFLOXACINO 500MG C/7 TAB                    660     43.35   DEUTSCHE PHARMA SAC           9992
+24733     CALCIO+MAGNESIO 30T                           2500      59.5   BAYER S.A.                    1511
+25684     DEXAMETASONA 0.5MG T/30                        224     84.15   LABORATORIO ASTRAZENECA       1917
+26360     VITAMINAS A C Y D 3AMP/3ML ING                 650       8.5   ALEMANIA
+26484     DILTIAZEM 30 TAB/30 MG                        4760     29.75   PERU
+26506     ITRACONAZOL 100 MG C/15                       4040     28.05   CHINA
+26754     SILDENAFIL 50MG C/1-TAB                       3180        68   LABORATORIO ASTRAZENECA       1630
+26920     HIDRALAZINA 20T 10MG                           940     45.05   JHONSON & JHONSON             1278
+27016     ACECLOFENACO 100MG 10T                        1580        51   DEUTSCHE PHARMA SAC           1350
+27447     OXIDO DE ZINC TUBO PASTA 30GR                 2540      59.5   MEDIFARMA S.A                 1518
+28219     NITAZOXANIDA 200 MG T6                         188     82.45   ABBOT LABORATORIOS S.A.       1896
+28409     RIFAMPICINA 300 MG C/16 CAP                   1700      4.25   USA
+28892     GLIMEPIRIDA 2MG C30                           3920     26.35   CHILE
+28992     ALUMUMINIO+MAGNESIO SUSP 240ML                2980      64.6   BAYER S.A.                    1595
+30007     DICLOFENACO SODICO 1MG GTS 5 ML                500      0.85   USA
+30220     AMOXICILINA+BROMEXINA C12                      220     39.95   CHINA
+30228     METOPROLOL 20T/100                             920     12.75   USA
+30428     PROPAFENONA 150 MG/20 TAB                     2000     19.55   USA
+30430     PRUEBA DE EMBARAZO                            2600      22.1   USA
+30690     VITAMINAS EMBARAZO 9 MESES C30                 580     41.65   DEUTSCHE PHARMA SAC           7833
+30796     PROPANOLOL 40 MG C/20 TAB                     2060      54.4   DEUTSCHE PHARMA SAC           1434
+31189     CEFADROXILO 500MG C/16CAP                      300      40.8   PERU
+31311     METILPREDNISOLONA 500MG                       3020     65.45   JHONSON & JHONSON             1602
+31389     BETAMETASONA 4 MG/ML                          1820      52.7   BAYER S.A.                    1392
+31883     ACIDO NALIDIXICO SUSP                         3140     67.15   DEUTSCHE PHARMA SAC           1623
+32486     BENZOCAINA FRAMBUESA C/24                     3560     24.65   USA
+33200     GLUCOSAMINA 30C 500MG                         4020      76.5   LABORATORIO ASTRAZENECA       1777
+33276     INDOMETACINA C30                               200     11.05   USA
+33311     ALBENDAZOL 200MG C/6 TAB                      2240      20.4   CHILE
+33390     CORTILONA CRA 30GR                            4400      28.9   BRASIL
+34027     DANAZOL 100MG 50T                             4300     79.05   ABBOT LABORATORIOS S.A.       1826
+34066     SULINDACO 200MG/20 TAB                        1740     51.85   LABORATORIO ASTRAZENECA       1378
+34070     FEXOFENADINA C/10 180MG                       3580      73.1   BAYER S.A.                    1700
+34080     ELECTROLIT FRESA 500ML                        2700     60.35   DEUTSCHE PHARMA SAC           1546
+36208     ENALAPRIL T/30 10MG                           2940     63.75   BAYER S.A.                    1588
+36622     TEOFILINA 20 TAB/100 MG                       2340      57.8   ABBOT LABORATORIOS S.A.       1483
+36649     CITALOPRAM 20MG 14T                           4340     79.05   BAYER S.A.                    1833
+36711     TIBOLONA 2.5MG 30T                             200     84.15   DEUTSCHE PHARMA SAC           1903

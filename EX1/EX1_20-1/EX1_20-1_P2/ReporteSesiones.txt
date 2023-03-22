@@ -1,0 +1,593 @@
+                                           SESIONES DE CLASE
+ 1)  CODIGO:   MIN269    HORARIO:  H0990     No.Alumnos:  16        PROFESOR  20065927  
+     SESIONES:
+     MIERCOLES 19:44     22:39
+     LUNES     16:04     19:00
+
+ 2)  CODIGO:   CIV307    HORARIO:  H0181     No.Alumnos:  17        PROFESOR  20043619  
+     SESIONES:
+     JUEVES    10:34     12:13
+     LUNES     19:32     20:42
+     MIERCOLES 12:59     13:46
+
+ 3)  CODIGO:   INF248    HORARIO:  H0965     No.Alumnos:  25        PROFESOR  20043619  
+     SESIONES:
+     LUNES     13:01     15:12
+     VIERNES   11:06     12:04
+     MARTES    10:58     12:43
+
+ 4)  CODIGO:   QUI204    HORARIO:  H0783     No.Alumnos:  41        PROFESOR  20043496  
+     SESIONES:
+     JUEVES    13:42     16:36
+     SABADO    08:37     10:51
+
+ 5)  CODIGO:   MAT218    HORARIO:  H0803     No.Alumnos:  15        PROFESOR  20079075  
+     SESIONES:
+     LUNES     17:04     19:20
+     JUEVES    10:39     11:21
+     SABADO    12:19     12:53
+
+ 6)  CODIGO:   MEC346    HORARIO:  H0582     No.Alumnos:  40        PROFESOR  20069086  
+     SESIONES:
+     LUNES     08:04     09:02
+     MIERCOLES 09:02     09:41
+
+ 7)  CODIGO:   INF239    HORARIO:  H0964     No.Alumnos:  34        PROFESOR  20079075  
+     SESIONES:
+     SABADO    18:18     20:59
+     LUNES     15:57     18:48
+     MIERCOLES 14:12     15:24
+     JUEVES    14:58     15:55
+
+ 8)  CODIGO:   MEC299    HORARIO:  H0810     No.Alumnos:  27        PROFESOR  20046083  
+     SESIONES:
+     SABADO    15:39     18:08
+     MARTES    14:48     16:54
+
+ 9)  CODIGO:   INF239    HORARIO:  H0426     No.Alumnos:  40        PROFESOR  20107278  
+     SESIONES:
+     JUEVES    08:14     10:34
+     MARTES    09:51     10:53
+
+10)  CODIGO:   CIV224    HORARIO:  H0559     No.Alumnos:  47        PROFESOR  20142807  
+     SESIONES:
+     MARTES    12:26     15:03
+     MIERCOLES 11:19     13:41
+
+11)  CODIGO:   INF265    HORARIO:  H0296     No.Alumnos:  21        PROFESOR  20079075  
+     SESIONES:
+     LUNES     15:51     16:49
+     JUEVES    09:18     10:47
+
+12)  CODIGO:   MIN266    HORARIO:  H0591     No.Alumnos:  21        PROFESOR  20158245  
+     SESIONES:
+     MARTES    12:13     14:03
+     MARTES    09:10     11:15
+     JUEVES    16:55     18:42
+
+13)  CODIGO:   IND221    HORARIO:  H0737     No.Alumnos:  15        PROFESOR  20155258  
+     SESIONES:
+     SABADO    08:44     09:37
+     MIERCOLES 09:34     11:16
+     MARTES    10:12     11:04
+     LUNES     13:24     14:20
+
+14)  CODIGO:   INF639    HORARIO:  H0665     No.Alumnos:  44        PROFESOR  20143595  
+     SESIONES:
+     SABADO    19:11     20:21
+     MARTES    11:46     12:22
+
+15)  CODIGO:   MAT253    HORARIO:  H0148     No.Alumnos:  29        PROFESOR  20072765  
+     SESIONES:
+     VIERNES   09:26     12:01
+     SABADO    11:25     13:41
+     VIERNES   11:22     12:55
+     SABADO    13:36     15:12
+
+16)  CODIGO:   IEE212    HORARIO:  H0143     No.Alumnos:  16        PROFESOR  20075260  
+     SESIONES:
+     JUEVES    15:43     16:41
+
+17)  CODIGO:   MAT253    HORARIO:  H0278     No.Alumnos:  51        PROFESOR  20155258  
+     SESIONES:
+     LUNES     11:52     14:17
+     SABADO    09:06     12:03
+     MIERCOLES 19:27     20:59
+     MIERCOLES 11:39     13:51
+
+18)  CODIGO:   CIV224    HORARIO:  H0539     No.Alumnos:  58        PROFESOR  20127835  
+     SESIONES:
+     JUEVES    10:27     11:49
+
+19)  CODIGO:   CIV308    HORARIO:  H0660     No.Alumnos:  58        PROFESOR  20054935  
+     SESIONES:
+     JUEVES    13:13     15:35
+
+20)  CODIGO:   IND221    HORARIO:  H0116     No.Alumnos:  21        PROFESOR  20079075  
+     SESIONES:
+     VIERNES   12:28     13:49
+     LUNES     14:50     16:13
+
+21)  CODIGO:   MEC299    HORARIO:  H0188     No.Alumnos:  40        PROFESOR  20065927  
+     SESIONES:
+     VIERNES   18:41     20:05
+
+22)  CODIGO:   CIV283    HORARIO:  H0636     No.Alumnos:  36        PROFESOR  20085379  
+     SESIONES:
+     LUNES     10:17     11:47
+     SABADO    11:05     11:58
+     LUNES     10:45     13:42
+
+23)  CODIGO:   CIV313    HORARIO:  H0612     No.Alumnos:  35        PROFESOR  20054935  
+     SESIONES:
+     SABADO    19:19     21:13
+     LUNES     09:52     11:30
+     LUNES     13:12     15:35
+
+24)  CODIGO:   IEE213    HORARIO:  H0367     No.Alumnos:  53        PROFESOR  20142807  
+     SESIONES:
+     SABADO    15:25     17:33
+     VIERNES   09:54     11:18
+     LUNES     11:23     12:55
+
+25)  CODIGO:   CIV283    HORARIO:  H0405     No.Alumnos:  43        PROFESOR  20043496  
+     SESIONES:
+     MIERCOLES 12:14     13:49
+     MIERCOLES 09:14     11:57
+     VIERNES   11:00     12:23
+
+26)  CODIGO:   MIN266    HORARIO:  H0691     No.Alumnos:  15        PROFESOR  20155258  
+     SESIONES:
+     LUNES     18:02     20:07
+     LUNES     15:31     18:29
+     MARTES    12:57     15:38
+     LUNES     13:53     14:49
+
+27)  CODIGO:   INF248    HORARIO:  H0982     No.Alumnos:  45        PROFESOR  20127835  
+     SESIONES:
+     MIERCOLES 14:07     15:42
+     VIERNES   12:43     14:07
+     LUNES     18:33     19:09
+
+28)  CODIGO:   INF248    HORARIO:  H0228     No.Alumnos:  37        PROFESOR  20120085  
+     SESIONES:
+     LUNES     15:16     17:35
+     LUNES     18:44     20:19
+     MARTES    09:47     10:33
+
+29)  CODIGO:   CIV308    HORARIO:  H0753     No.Alumnos:  53        PROFESOR  20143595  
+     SESIONES:
+     MIERCOLES 08:19     10:54
+     VIERNES   15:14     16:50
+     LUNES     18:54     19:41
+
+30)  CODIGO:   FIS335    HORARIO:  H0469     No.Alumnos:  19        PROFESOR  20043496  
+     SESIONES:
+     VIERNES   12:04     13:45
+     LUNES     19:58     22:42
+
+31)  CODIGO:   FIS366    HORARIO:  H0267     No.Alumnos:  19        PROFESOR  20085379  
+     SESIONES:
+     MIERCOLES 18:19     21:16
+     SABADO    12:00     12:58
+     SABADO    10:48     13:29
+     LUNES     15:16     17:21
+
+32)  CODIGO:   INF639    HORARIO:  H0332     No.Alumnos:  20        PROFESOR  20156713  
+     SESIONES:
+     MIERCOLES 16:22     17:38
+     VIERNES   09:44     12:10
+     VIERNES   15:09     15:48
+
+33)  CODIGO:   IND221    HORARIO:  H0327     No.Alumnos:  20        PROFESOR  20127835  
+     SESIONES:
+     LUNES     19:33     20:56
+
+34)  CODIGO:   IEE313    HORARIO:  H0987     No.Alumnos:  38        PROFESOR  20065927  
+     SESIONES:
+     MARTES    17:28     19:36
+     SABADO    19:32     21:02
+
+35)  CODIGO:   CIV313    HORARIO:  H0315     No.Alumnos:  32        PROFESOR  20043496  
+     SESIONES:
+     VIERNES   16:37     17:56
+     LUNES     10:02     12:44
+     MARTES    15:52     17:53
+
+36)  CODIGO:   MAT218    HORARIO:  H0908     No.Alumnos:  21        PROFESOR  20155258  
+     SESIONES:
+     JUEVES    14:14     15:53
+
+37)  CODIGO:   MEC206    HORARIO:  H0419     No.Alumnos:  40        PROFESOR  20143595  
+     SESIONES:
+     MIERCOLES 08:14     09:35
+     SABADO    10:44     13:14
+     JUEVES    11:28     13:17
+     JUEVES    14:09     15:19
+
+38)  CODIGO:   INF281    HORARIO:  H0275     No.Alumnos:  56        PROFESOR  20075062  
+     SESIONES:
+     MARTES    14:28     15:07
+     LUNES     13:53     14:42
+     MIERCOLES 17:26     18:31
+     MIERCOLES 13:22     15:35
+
+39)  CODIGO:   MEC299    HORARIO:  H0223     No.Alumnos:  36        PROFESOR  20120085  
+     SESIONES:
+     SABADO    17:52     20:24
+     LUNES     16:53     19:41
+     JUEVES    18:34     19:42
+     MARTES    11:12     13:43
+
+40)  CODIGO:   MAT251    HORARIO:  H0291     No.Alumnos:  42        PROFESOR  20043496  
+     SESIONES:
+     MARTES    16:34     17:45
+     MARTES    19:45     20:29
+     SABADO    18:18     19:17
+
+41)  CODIGO:   QUI205    HORARIO:  H0306     No.Alumnos:  41        PROFESOR  20085379  
+     SESIONES:
+     SABADO    14:13     15:47
+     VIERNES   11:40     12:39
+     LUNES     15:57     16:41
+
+42)  CODIGO:   MIN227    HORARIO:  H0543     No.Alumnos:  43        PROFESOR  20143595  
+     SESIONES:
+     VIERNES   16:50     18:58
+
+43)  CODIGO:   IND362    HORARIO:  H0381     No.Alumnos:  52        PROFESOR  20065382  
+     SESIONES:
+     MARTES    13:43     16:04
+
+44)  CODIGO:   MEC346    HORARIO:  H0728     No.Alumnos:  52        PROFESOR  20054935  
+     SESIONES:
+     SABADO    15:05     18:03
+
+45)  CODIGO:   MEC348    HORARIO:  H0467     No.Alumnos:  17        PROFESOR  20125340  
+     SESIONES:
+     MARTES    19:28     21:05
+     SABADO    10:44     12:43
+     MIERCOLES 09:15     12:06
+
+46)  CODIGO:   MIN260    HORARIO:  H0320     No.Alumnos:  37        PROFESOR  20125340  
+     SESIONES:
+     JUEVES    11:56     13:36
+     LUNES     14:38     16:25
+     JUEVES    14:35     15:21
+
+47)  CODIGO:   INF245    HORARIO:  H0494     No.Alumnos:  38        PROFESOR  20085379  
+     SESIONES:
+     JUEVES    09:28     12:12
+
+48)  CODIGO:   MEC206    HORARIO:  H0492     No.Alumnos:  37        PROFESOR  20155258  
+     SESIONES:
+     MIERCOLES 15:50     16:42
+     SABADO    16:58     19:34
+     LUNES     08:35     11:12
+
+49)  CODIGO:   INF239    HORARIO:  H0601     No.Alumnos:  30        PROFESOR  20043496  
+     SESIONES:
+     SABADO    13:09     16:04
+     VIERNES   08:28     10:08
+     MARTES    15:00     15:58
+
+50)  CODIGO:   INF630    HORARIO:  H0255     No.Alumnos:  15        PROFESOR  20054935  
+     SESIONES:
+     MIERCOLES 12:03     13:55
+     MARTES    19:51     22:24
+
+51)  CODIGO:   MAT218    HORARIO:  H0195     No.Alumnos:  51        PROFESOR  20075062  
+     SESIONES:
+     VIERNES   14:37     17:02
+     SABADO    13:55     15:19
+     VIERNES   13:12     14:18
+
+52)  CODIGO:   IEE212    HORARIO:  H0883     No.Alumnos:  38        PROFESOR  20065382  
+     SESIONES:
+     SABADO    13:37     14:25
+
+53)  CODIGO:   IND221    HORARIO:  H0734     No.Alumnos:  47        PROFESOR  20072765  
+     SESIONES:
+     MIERCOLES 16:19     19:15
+
+54)  CODIGO:   IEE203    HORARIO:  H0639     No.Alumnos:  46        PROFESOR  20054935  
+     SESIONES:
+     LUNES     15:51     16:50
+     JUEVES    12:00     14:32
+     SABADO    19:31     22:17
+
+55)  CODIGO:   IEE313    HORARIO:  H0761     No.Alumnos:  43        PROFESOR  20042194  
+     SESIONES:
+     JUEVES    15:45     16:21
+     LUNES     16:56     19:18
+     SABADO    13:04     15:05
+
+56)  CODIGO:   INF265    HORARIO:  H0363     No.Alumnos:  24        PROFESOR  20065927  
+     SESIONES:
+     LUNES     18:48     21:01
+     VIERNES   18:53     20:33
+     MARTES    09:04     10:06
+
+57)  CODIGO:   MAT253    HORARIO:  H0737     No.Alumnos:  27        PROFESOR  20069086  
+     SESIONES:
+     MIERCOLES 14:26     15:04
+     SABADO    12:10     13:42
+     SABADO    17:33     19:31
+
+58)  CODIGO:   MAT251    HORARIO:  H0165     No.Alumnos:  55        PROFESOR  20043496  
+     SESIONES:
+     SABADO    08:01     10:27
+     SABADO    12:16     13:19
+     MIERCOLES 17:50     20:29
+     VIERNES   15:49     16:35
+
+59)  CODIGO:   MIN260    HORARIO:  H0865     No.Alumnos:  56        PROFESOR  20156713  
+     SESIONES:
+     JUEVES    18:22     19:30
+     SABADO    08:28     10:15
+     SABADO    08:27     11:16
+
+60)  CODIGO:   MAT251    HORARIO:  H0916     No.Alumnos:  15        PROFESOR  20155258  
+     SESIONES:
+     JUEVES    17:30     18:26
+     MARTES    17:27     18:35
+
+61)  CODIGO:   CIV308    HORARIO:  H0636     No.Alumnos:  51        PROFESOR  20065927  
+     SESIONES:
+     JUEVES    11:25     12:38
+
+62)  CODIGO:   QUI204    HORARIO:  H0984     No.Alumnos:  35        PROFESOR  20046083  
+     SESIONES:
+     MIERCOLES 19:10     20:18
+     MARTES    12:55     14:58
+
+63)  CODIGO:   FIS308    HORARIO:  H0885     No.Alumnos:  60        PROFESOR  20065382  
+     SESIONES:
+     MARTES    18:05     20:38
+     MIERCOLES 11:53     13:55
+     LUNES     17:53     19:26
+
+64)  CODIGO:   MIN227    HORARIO:  H0565     No.Alumnos:  52        PROFESOR  20046083  
+     SESIONES:
+     VIERNES   19:11     21:30
+
+65)  CODIGO:   MAT253    HORARIO:  H0476     No.Alumnos:  52        PROFESOR  20125340  
+     SESIONES:
+     JUEVES    10:11     10:50
+     VIERNES   16:11     17:09
+
+66)  CODIGO:   CIV307    HORARIO:  H0692     No.Alumnos:  36        PROFESOR  20080607  
+     SESIONES:
+     JUEVES    13:42     15:29
+     LUNES     13:22     14:27
+     JUEVES    10:16     11:29
+
+67)  CODIGO:   IEE203    HORARIO:  H0954     No.Alumnos:  60        PROFESOR  20046083  
+     SESIONES:
+     JUEVES    13:18     16:01
+     JUEVES    19:47     22:02
+     MARTES    10:36     12:55
+
+68)  CODIGO:   MEC348    HORARIO:  H0444     No.Alumnos:  54        PROFESOR  20069086  
+     SESIONES:
+     LUNES     11:38     14:25
+
+69)  CODIGO:   IND350    HORARIO:  H0982     No.Alumnos:  25        PROFESOR  20065927  
+     SESIONES:
+     JUEVES    15:58     17:30
+     MIERCOLES 12:43     14:27
+     LUNES     08:17     10:13
+     LUNES     08:32     10:27
+
+70)  CODIGO:   FIS366    HORARIO:  H0194     No.Alumnos:  40        PROFESOR  20079075  
+     SESIONES:
+     MIERCOLES 19:37     22:06
+     MIERCOLES 18:00     19:26
+     MIERCOLES 14:01     16:09
+     SABADO    18:31     21:23
+
+71)  CODIGO:   INF265    HORARIO:  H0778     No.Alumnos:  16        PROFESOR  20065927  
+     SESIONES:
+     SABADO    15:00     17:52
+     JUEVES    17:53     19:39
+
+72)  CODIGO:   IEE313    HORARIO:  H0499     No.Alumnos:  28        PROFESOR  20127835  
+     SESIONES:
+     LUNES     09:34     10:59
+     VIERNES   16:55     18:58
+     VIERNES   18:32     20:04
+
+73)  CODIGO:   INF265    HORARIO:  H0167     No.Alumnos:  31        PROFESOR  20143595  
+     SESIONES:
+     VIERNES   13:51     15:45
+     VIERNES   19:57     22:27
+     MIERCOLES 13:34     14:06
+     VIERNES   14:16     16:42
+
+74)  CODIGO:   FIS366    HORARIO:  H0796     No.Alumnos:  25        PROFESOR  20156713  
+     SESIONES:
+     VIERNES   14:56     16:23
+
+75)  CODIGO:   INF639    HORARIO:  H0834     No.Alumnos:  39        PROFESOR  20125340  
+     SESIONES:
+     SABADO    15:47     17:25
+
+76)  CODIGO:   CIV364    HORARIO:  H0453     No.Alumnos:  15        PROFESOR  20143595  
+     SESIONES:
+     MIERCOLES 19:13     20:45
+     SABADO    16:47     19:37
+     MIERCOLES 19:42     22:20
+     VIERNES   09:42     11:41
+
+77)  CODIGO:   MEC346    HORARIO:  H0145     No.Alumnos:  21        PROFESOR  20142807  
+     SESIONES:
+     VIERNES   12:01     13:54
+     MARTES    14:40     16:39
+
+78)  CODIGO:   INF630    HORARIO:  H0182     No.Alumnos:  57        PROFESOR  20079075  
+     SESIONES:
+     JUEVES    16:21     17:12
+     LUNES     14:06     16:04
+
+79)  CODIGO:   IND362    HORARIO:  H0409     No.Alumnos:  47        PROFESOR  20042194  
+     SESIONES:
+     SABADO    19:32     21:37
+     MARTES    18:16     20:38
+
+80)  CODIGO:   IND361    HORARIO:  H0561     No.Alumnos:  22        PROFESOR  20042194  
+     SESIONES:
+     MIERCOLES 09:54     10:41
+
+81)  CODIGO:   MEC299    HORARIO:  H0568     No.Alumnos:  41        PROFESOR  20043496  
+     SESIONES:
+     SABADO    15:25     17:40
+
+82)  CODIGO:   INF630    HORARIO:  H0818     No.Alumnos:  29        PROFESOR  20079075  
+     SESIONES:
+     JUEVES    13:56     16:18
+     VIERNES   17:45     20:07
+
+83)  CODIGO:   INF281    HORARIO:  H0996     No.Alumnos:  19        PROFESOR  20054935  
+     SESIONES:
+     MARTES    11:23     12:57
+     MARTES    19:00     19:30
+     JUEVES    10:30     12:05
+
+84)  CODIGO:   MIN227    HORARIO:  H0344     No.Alumnos:  59        PROFESOR  20127835  
+     SESIONES:
+     LUNES     13:50     16:09
+
+85)  CODIGO:   QUI207    HORARIO:  H0995     No.Alumnos:  29        PROFESOR  20079075  
+     SESIONES:
+     SABADO    19:07     21:18
+     MARTES    09:03     09:45
+
+86)  CODIGO:   IEE213    HORARIO:  H0964     No.Alumnos:  56        PROFESOR  20143595  
+     SESIONES:
+     LUNES     13:42     15:43
+     LUNES     16:28     17:55
+
+87)  CODIGO:   MIN269    HORARIO:  H0673     No.Alumnos:  51        PROFESOR  20081057  
+     SESIONES:
+     LUNES     15:28     16:42
+     JUEVES    10:23     11:02
+     MIERCOLES 13:03     15:44
+
+88)  CODIGO:   FIS366    HORARIO:  H0717     No.Alumnos:  16        PROFESOR  20143595  
+     SESIONES:
+     LUNES     09:44     11:49
+     MIERCOLES 11:48     12:27
+
+89)  CODIGO:   CIV313    HORARIO:  H0343     No.Alumnos:  18        PROFESOR  20043496  
+     SESIONES:
+     MIERCOLES 10:04     11:59
+
+90)  CODIGO:   IEE212    HORARIO:  H0422     No.Alumnos:  45        PROFESOR  20042194  
+     SESIONES:
+     SABADO    10:48     12:41
+     VIERNES   13:52     16:38
+
+91)  CODIGO:   IND350    HORARIO:  H0624     No.Alumnos:  32        PROFESOR  20120085  
+     SESIONES:
+     MIERCOLES 19:20     20:53
+
+92)  CODIGO:   QUI204    HORARIO:  H0265     No.Alumnos:  53        PROFESOR  20125340  
+     SESIONES:
+     JUEVES    10:06     10:48
+
+93)  CODIGO:   IEE313    HORARIO:  H0990     No.Alumnos:  30        PROFESOR  20043619  
+     SESIONES:
+     MARTES    08:00     08:47
+     SABADO    16:13     17:10
+
+94)  CODIGO:   MEC206    HORARIO:  H0527     No.Alumnos:  46        PROFESOR  20046083  
+     SESIONES:
+     MIERCOLES 18:42     19:36
+
+95)  CODIGO:   IND350    HORARIO:  H0650     No.Alumnos:  51        PROFESOR  20125340  
+     SESIONES:
+     VIERNES   14:50     17:41
+
+96)  CODIGO:   INF245    HORARIO:  H0523     No.Alumnos:  46        PROFESOR  20079075  
+     SESIONES:
+     MARTES    10:20     12:29
+     LUNES     19:05     20:38
+     SABADO    11:37     13:45
+
+97)  CODIGO:   IND213    HORARIO:  H0243     No.Alumnos:  44        PROFESOR  20125340  
+     SESIONES:
+     VIERNES   09:40     11:53
+     JUEVES    08:32     10:13
+
+98)  CODIGO:   FIS335    HORARIO:  H0951     No.Alumnos:  52        PROFESOR  20065382  
+     SESIONES:
+     SABADO    14:04     16:55
+     MARTES    10:20     11:02
+
+99)  CODIGO:   IEE203    HORARIO:  H0837     No.Alumnos:  41        PROFESOR  20042194  
+     SESIONES:
+     VIERNES   10:39     13:30
+     MARTES    19:16     19:49
+
+100)  CODIGO:   IND350    HORARIO:  H0116     No.Alumnos:  47        PROFESOR  20125340  
+     SESIONES:
+     MARTES    18:57     19:45
+     JUEVES    16:51     18:27
+
+101)  CODIGO:   MAT218    HORARIO:  H0992     No.Alumnos:  55        PROFESOR  20080607  
+     SESIONES:
+     MARTES    13:41     16:01
+     MIERCOLES 18:13     19:19
+     MIERCOLES 14:05     16:29
+     SABADO    10:43     13:41
+
+102)  CODIGO:   FIS335    HORARIO:  H0542     No.Alumnos:  43        PROFESOR  20142807  
+     SESIONES:
+     SABADO    17:46     20:15
+     VIERNES   16:07     18:46
+
+103)  CODIGO:   MIN260    HORARIO:  H0479     No.Alumnos:  53        PROFESOR  20043496  
+     SESIONES:
+     SABADO    11:48     13:17
+     MARTES    10:46     13:28
+     LUNES     14:33     16:12
+
+104)  CODIGO:   QUI204    HORARIO:  H0332     No.Alumnos:  41        PROFESOR  20054935  
+     SESIONES:
+     LUNES     19:45     21:31
+     MIERCOLES 12:46     13:40
+     VIERNES   11:01     12:44
+
+105)  CODIGO:   MIN266    HORARIO:  H0750     No.Alumnos:  41        PROFESOR  20085379  
+     SESIONES:
+     MARTES    12:14     14:49
+     LUNES     13:31     14:50
+     VIERNES   18:54     21:48
+
+106)  CODIGO:   IEE213    HORARIO:  H0567     No.Alumnos:  23        PROFESOR  20135792  
+     SESIONES:
+     MARTES    16:03     16:39
+
+107)  CODIGO:   INF639    HORARIO:  H0236     No.Alumnos:  49        PROFESOR  20043496  
+     SESIONES:
+     SABADO    17:11     17:50
+     MARTES    16:52     18:52
+     LUNES     10:33     11:58
+
+108)  CODIGO:   CIV364    HORARIO:  H0194     No.Alumnos:  50        PROFESOR  20135792  
+     SESIONES:
+     VIERNES   15:04     17:43
+     JUEVES    18:44     20:52
+     MARTES    17:53     19:40
+     MARTES    11:14     11:44
+
+109)  CODIGO:   MIN269    HORARIO:  H0311     No.Alumnos:  34        PROFESOR  20043619  
+     SESIONES:
+     VIERNES   13:48     16:26
+
+110)  CODIGO:   MIN227    HORARIO:  H0786     No.Alumnos:  24        PROFESOR  20080607  
+     SESIONES:
+     MARTES    15:23     16:40
+     LUNES     18:23     20:02
+     MIERCOLES 14:42     16:02
+

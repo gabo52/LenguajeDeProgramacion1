@@ -1,0 +1,60 @@
+Libro:    PL70268
+Carne:    4221228
+Nombre:   Prado_Vergel_Carlos_Julian
+Celular:  922322129
+
+Libro:    PL70268
+Carne:    4221228
+Nombre:   Mejia_Diaz_Blanca_Milagros
+Celular:  994846531
+
+Libro:    FW74175
+Carne:    4221228
+Nombre:   Shirakawa_Miranda_Madeleine
+Anexo:    5667
+
+Libro:    FW74175
+Carne:    4221228
+Nombre:   Prado_Vergel_Carlos_Julian
+Celular:  922322129
+
+Libro:    IW10872
+Carne:    4221228
+Nombre:   Diaz_Correa_Irma_Virginia
+Anexo:    6212
+
+Libro:    IW10872
+Carne:    4221228
+Nombre:   Vega_Garcia_Janet_Rebeca
+Celular:  963772712
+
+Libro:    FW74175
+Carne:    4221228
+Nombre:   Inga_Flores_Cesar_Adolfo
+Celular:  976355125
+
+Libro:    MG75057
+Carne:    4221228
+Nombre:   Diaz_Antezano_Magali_Silvana
+Celular:  918342891
+
+Libro:    PL70268
+Carne:    4221228
+Nombre:   Diaz_Antezano_Magali_Silvana
+Celular:  918342891
+
+Libro:    FW74175
+Carne:    4221228
+Nombre:   Chumpitaz_Iberos_Ronal
+Celular:  985526212
+
+Libro:    MG75057
+Carne:    4221228
+Nombre:   Pairazaman_Alamo_Moises_Miguel
+Anexo:    4312
+
+Libro:    IW10872
+Carne:    4221228
+Nombre:   Norabuena_Preciado_Cinthia
+Area:     Tesoreria
+

@@ -1,0 +1,555 @@
+----------------------------------------------------------------------------------------------------
+Codigo:KC34197
+Titulo:Las_demoliciones_de_Paris
+Autor :Zkenia/Chung/Zuniga
+Cantidad:  15
+----------------------------------------------------------------------------------------------------
+1  PrestamoDias:       54
+2  PrestamoDias:       54
+3  PrestamoDias:       54
+4  PrestamoDias:       54
+5  PrestamoDias:       54
+6  PrestamoDias:       54
+7  Perdida:            Precio      294.26
+8  Perdida:            Precio      294.26
+9  Perdida:            Precio      294.26
+10 Perdida:            Precio      294.26
+11 Perdida:            Precio      294.26
+12 Perdida:            Precio      294.26
+13 Perdida:            Precio      294.26
+14 Perdida:            Precio      294.26
+15 Disponible          Zona         3
+----------------------------------------------------------------------------------------------------
+Codigo:FY25192
+Titulo:La_hermosa_jardinera
+Autor :Humberto/Amezquita/Contreras
+Cantidad:  15
+----------------------------------------------------------------------------------------------------
+1  Perdida:            Precio       113.4
+2  Perdida:            Precio       113.4
+3  Perdida:            Precio       113.4
+4  Perdida:            Precio       113.4
+5  Perdida:            Precio       113.4
+6  Perdida:            Precio       113.4
+7  Perdida:            Precio       113.4
+8  Perdida:            Precio       113.4
+9  Perdida:            Precio       113.4
+10 Perdida:            Precio       113.4
+11 Perdida:            Precio       113.4
+12 PrestamoDias:       54
+13 PrestamoDias:       54
+14 PrestamoDias:       54
+15 Disponible          Zona         4
+----------------------------------------------------------------------------------------------------
+Codigo:PT00038
+Titulo:El_nino_perdido
+Autor :Giovana/Mejia/Zegarra
+Cantidad:  15
+----------------------------------------------------------------------------------------------------
+1  PrestamoDias:       53
+2  PrestamoDias:       53
+3  PrestamoDias:       53
+4  PrestamoDias:       53
+5  PrestamoDias:       53
+6  PrestamoDias:       53
+7  PrestamoDias:       53
+8  PrestamoDias:       53
+9  PrestamoDias:       53
+10 PrestamoDias:       53
+11 PrestamoDias:       54
+12 PrestamoDias:       54
+13 PrestamoDias:       54
+14 PrestamoDias:       54
+15 Disponible          Zona         2
+----------------------------------------------------------------------------------------------------
+Codigo:FY82455
+Titulo:La_guerra_del_fin_del_mundo
+Autor :Milena/Zarate/Acuna
+Cantidad:  15
+----------------------------------------------------------------------------------------------------
+1  PrestamoDias:       58
+2  PrestamoDias:       58
+3  PrestamoDias:       58
+4  PrestamoDias:       58
+5  PrestamoDias:       58
+6  PrestamoDias:       58
+7  PrestamoDias:       58
+8  PrestamoDias:       58
+9  PrestamoDias:       58
+10 PrestamoDias:       58
+11 PrestamoDias:       58
+12 PrestamoDias:       58
+13 PrestamoDias:       58
+14 Disponible          Zona         6
+15 Disponible          Zona         6
+----------------------------------------------------------------------------------------------------
+Codigo:ZM20053
+Titulo:The_Fencing_Master
+Autor :Felicita/Castillo/Chung
+Cantidad:  15
+----------------------------------------------------------------------------------------------------
+1  Perdida:            Precio       26.41
+2  Perdida:            Precio       26.41
+3  Perdida:            Precio       26.41
+4  Perdida:            Precio       26.41
+5  Perdida:            Precio       26.41
+6  PrestamoDias:       53
+7  PrestamoDias:       53
+8  PrestamoDias:       53
+9  PrestamoDias:       53
+10 PrestamoDias:       53
+11 PrestamoDias:       53
+12 PrestamoDias:       53
+13 PrestamoDias:       53
+14 Disponible          Zona        10
+15 Disponible          Zona        10
+----------------------------------------------------------------------------------------------------
+Codigo:SK15788
+Titulo:Le_Chef-d_oeuvre_inconnu
+Autor :Blanca/Acuna/Ayllon
+Cantidad:  14
+----------------------------------------------------------------------------------------------------
+1  PrestamoDias:       59
+2  PrestamoDias:       59
+3  PrestamoDias:       59
+4  PrestamoDias:       59
+5  PrestamoDias:       59
+6  PrestamoDias:       59
+7  PrestamoDias:       59
+8  PrestamoDias:       59
+9  PrestamoDias:       59
+10 PrestamoDias:       59
+11 PrestamoDias:       54
+12 PrestamoDias:       54
+13 PrestamoDias:       54
+14 PrestamoDias:       54
+----------------------------------------------------------------------------------------------------
+Codigo:QA53897
+Titulo:The_Corsican_Brothers
+Autor :Ofelia/Mercado/Caro
+Cantidad:  14
+----------------------------------------------------------------------------------------------------
+1  PrestamoDias:       54
+2  PrestamoDias:       54
+3  PrestamoDias:       54
+4  PrestamoDias:       54
+5  PrestamoDias:       54
+6  PrestamoDias:       53
+7  PrestamoDias:       53
+8  PrestamoDias:       53
+9  PrestamoDias:       53
+10 PrestamoDias:       53
+11 PrestamoDias:       53
+12 PrestamoDias:       53
+13 PrestamoDias:       53
+14 PrestamoDias:       53
+----------------------------------------------------------------------------------------------------
+Codigo:ZQ38637
+Titulo:La_casa_verde
+Autor :Delicia/Arca/Aquino
+Cantidad:  14
+----------------------------------------------------------------------------------------------------
+1  PrestamoDias:       58
+2  PrestamoDias:       58
+3  PrestamoDias:       58
+4  Perdida:            Precio      214.72
+5  Perdida:            Precio      214.72
+6  Perdida:            Precio      214.72
+7  Perdida:            Precio      214.72
+8  Perdida:            Precio      214.72
+9  PrestamoDias:       53
+10 PrestamoDias:       53
+11 PrestamoDias:       53
+12 PrestamoDias:       53
+13 PrestamoDias:       53
+14 PrestamoDias:       53
+----------------------------------------------------------------------------------------------------
+Codigo:BH96036
+Titulo:Los_tesoros_del_Rajah
+Autor :Delicia/Arca/Leiva
+Cantidad:  13
+----------------------------------------------------------------------------------------------------
+1  PrestamoDias:       60
+2  PrestamoDias:       60
+3  PrestamoDias:       60
+4  PrestamoDias:       60
+5  PrestamoDias:       55
+6  PrestamoDias:       55
+7  PrestamoDias:       55
+8  PrestamoDias:       55
+9  PrestamoDias:       55
+10 PrestamoDias:       55
+11 PrestamoDias:       54
+12 PrestamoDias:       54
+13 PrestamoDias:       54
+----------------------------------------------------------------------------------------------------
+Codigo:LM05731
+Titulo:Le_Chevalier_de_Maison_-_Rouge
+Autor :Yliana/Ortiz/Guevara
+Cantidad:  13
+----------------------------------------------------------------------------------------------------
+1  PrestamoDias:       54
+2  Disponible          Zona         5
+3  Disponible          Zona         5
+4  Disponible          Zona         5
+5  Disponible          Zona         5
+6  Disponible          Zona         5
+7  Disponible          Zona         5
+8  Disponible          Zona         5
+9  Disponible          Zona         5
+10 Disponible          Zona         5
+11 Disponible          Zona         5
+12 Disponible          Zona         5
+13 Disponible          Zona         5
+----------------------------------------------------------------------------------------------------
+Codigo:XN48844
+Titulo:The_Countess_de_Charny
+Autor :Rosario/Tabori/Arias
+Cantidad:  12
+----------------------------------------------------------------------------------------------------
+1  PrestamoDias:       60
+2  PrestamoDias:       60
+3  PrestamoDias:       60
+4  PrestamoDias:       60
+5  PrestamoDias:       60
+6  PrestamoDias:       60
+7  PrestamoDias:       60
+8  PrestamoDias:       60
+9  PrestamoDias:       60
+10 PrestamoDias:       60
+11 Disponible          Zona        11
+12 Disponible          Zona        11
+----------------------------------------------------------------------------------------------------
+Codigo:IW10872
+Titulo:El_Club_de_los_explotadores
+Autor :Cesar/Rodriguez/Serrano
+Cantidad:  12
+----------------------------------------------------------------------------------------------------
+1  Perdida:            Precio      263.45
+2  Perdida:            Precio      263.45
+3  Perdida:            Precio      263.45
+4  Perdida:            Precio      263.45
+5  Perdida:            Precio      263.45
+6  Perdida:            Precio      263.45
+7  Perdida:            Precio      263.45
+8  Perdida:            Precio      263.45
+9  Perdida:            Precio      263.45
+10 PrestamoDias:       58
+11 Perdida:            Precio      263.45
+12 Disponible          Zona        19
+----------------------------------------------------------------------------------------------------
+Codigo:QE47018
+Titulo:El_Manuscrito_del_Domino
+Autor :Raul/Collado/Villa
+Cantidad:  12
+----------------------------------------------------------------------------------------------------
+1  PrestamoDias:       53
+2  PrestamoDias:       53
+3  PrestamoDias:       53
+4  PrestamoDias:       53
+5  PrestamoDias:       55
+6  PrestamoDias:       55
+7  PrestamoDias:       55
+8  PrestamoDias:       55
+9  PrestamoDias:       53
+10 PrestamoDias:       53
+11 PrestamoDias:       53
+12 Disponible          Zona        18
+----------------------------------------------------------------------------------------------------
+Codigo:JO84937
+Titulo:Historia_de_Mayta
+Autor :Valentina/Urbina/Antezano
+Cantidad:  12
+----------------------------------------------------------------------------------------------------
+1  Perdida:            Precio       53.48
+2  Perdida:            Precio       53.48
+3  Perdida:            Precio       53.48
+4  Perdida:            Precio       53.48
+5  Perdida:            Precio       53.48
+6  Perdida:            Precio       53.48
+7  Perdida:            Precio       53.48
+8  Perdida:            Precio       53.48
+9  Perdida:            Precio       53.48
+10 Perdida:            Precio       53.48
+11 Perdida:            Precio       53.48
+12 Disponible          Zona         4
+----------------------------------------------------------------------------------------------------
+Codigo:NF53199
+Titulo:Suspense
+Autor :Emilio/Gonzales/Aguirre
+Cantidad:  12
+----------------------------------------------------------------------------------------------------
+1  Disponible          Zona         7
+2  Disponible          Zona         7
+3  Disponible          Zona         7
+4  Disponible          Zona         7
+5  Disponible          Zona         7
+6  Disponible          Zona         7
+7  Disponible          Zona         7
+8  Disponible          Zona         7
+9  Disponible          Zona         7
+10 Disponible          Zona         7
+11 Disponible          Zona         7
+12 Disponible          Zona         7
+----------------------------------------------------------------------------------------------------
+Codigo:QO90975
+Titulo:La_Peau_de_chagrin
+Autor :Janet/Aranda/Minaya
+Cantidad:  12
+----------------------------------------------------------------------------------------------------
+1  Disponible          Zona        12
+2  Disponible          Zona        12
+3  Disponible          Zona        12
+4  Disponible          Zona        12
+5  Disponible          Zona        12
+6  Disponible          Zona        12
+7  Disponible          Zona        12
+8  Disponible          Zona        12
+9  Disponible          Zona        12
+10 Disponible          Zona        12
+11 Disponible          Zona        12
+12 Disponible          Zona        12
+----------------------------------------------------------------------------------------------------
+Codigo:OT07742
+Titulo:La_Fille_aux_yeux_d-or
+Autor :Alfonso/Cabello/Lam
+Cantidad:  12
+----------------------------------------------------------------------------------------------------
+1  PrestamoDias:       60
+2  PrestamoDias:       54
+3  PrestamoDias:       54
+4  PrestamoDias:       54
+5  PrestamoDias:       54
+6  PrestamoDias:       54
+7  PrestamoDias:       54
+8  PrestamoDias:       54
+9  Disponible          Zona        19
+10 Disponible          Zona        19
+11 Disponible          Zona        19
+12 Disponible          Zona        19
+----------------------------------------------------------------------------------------------------
+Codigo:ZR63735
+Titulo:Elogio_de_la_madrastra
+Autor :Julio/Vilcara/Jugo
+Cantidad:  11
+----------------------------------------------------------------------------------------------------
+1  PrestamoDias:       58
+2  PrestamoDias:       58
+3  PrestamoDias:       58
+4  PrestamoDias:       58
+5  PrestamoDias:       58
+6  PrestamoDias:       53
+7  Disponible          Zona        15
+8  Disponible          Zona        15
+9  Disponible          Zona        15
+10 Disponible          Zona        15
+11 Disponible          Zona        15
+----------------------------------------------------------------------------------------------------
+Codigo:BB35881
+Titulo:Una_Navidad
+Autor :Edilberto/Mori/Suarez
+Cantidad:  11
+----------------------------------------------------------------------------------------------------
+1  PrestamoDias:       57
+2  PrestamoDias:       57
+3  PrestamoDias:       57
+4  PrestamoDias:       57
+5  PrestamoDias:       57
+6  PrestamoDias:       56
+7  PrestamoDias:       56
+8  Disponible          Zona        14
+9  Disponible          Zona        14
+10 Disponible          Zona        14
+11 Disponible          Zona        14
+----------------------------------------------------------------------------------------------------
+Codigo:QV96140
+Titulo:El_Duque_en_su_territorio
+Autor :Fiorella/Florencio/Polo
+Cantidad:  10
+----------------------------------------------------------------------------------------------------
+1  PrestamoDias:       57
+2  PrestamoDias:       57
+3  PrestamoDias:       57
+4  PrestamoDias:       57
+5  PrestamoDias:       57
+6  PrestamoDias:       57
+7  PrestamoDias:       57
+8  PrestamoDias:       57
+9  PrestamoDias:       57
+10 PrestamoDias:       57
+----------------------------------------------------------------------------------------------------
+Codigo:FW74175
+Titulo:La_Cousine_Bette
+Autor :Surami/Preciado/Pinto
+Cantidad:  10
+----------------------------------------------------------------------------------------------------
+1  PrestamoDias:       58
+2  PrestamoDias:       58
+3  PrestamoDias:       58
+4  PrestamoDias:       58
+5  PrestamoDias:       55
+6  PrestamoDias:       55
+7  PrestamoDias:       55
+8  PrestamoDias:       55
+9  Perdida:            Precio      279.44
+10 Perdida:            Precio      279.44
+----------------------------------------------------------------------------------------------------
+Codigo:XQ03477
+Titulo:Les_Ressources_de_Quinola
+Autor :Johan/Ayala/Zevallos
+Cantidad:   9
+----------------------------------------------------------------------------------------------------
+1  PrestamoDias:       55
+2  PrestamoDias:       56
+3  PrestamoDias:       56
+4  PrestamoDias:       56
+5  PrestamoDias:       56
+6  Perdida:            Precio      369.37
+7  Disponible          Zona         3
+8  Disponible          Zona         3
+9  Disponible          Zona         3
+----------------------------------------------------------------------------------------------------
+Codigo:VA35843
+Titulo:L-ecole_des_menages
+Autor :Walter/Jolay/Chumpitaz
+Cantidad:   8
+----------------------------------------------------------------------------------------------------
+1  Perdida:            Precio      294.01
+2  Perdida:            Precio      294.01
+3  PrestamoDias:       56
+4  PrestamoDias:       56
+5  PrestamoDias:       56
+6  Disponible          Zona         7
+7  Disponible          Zona         7
+8  Disponible          Zona         7
+----------------------------------------------------------------------------------------------------
+Codigo:UW23132
+Titulo:House_of_Pomegranates
+Autor :David/Perez/Antezano
+Cantidad:   8
+----------------------------------------------------------------------------------------------------
+1  Disponible          Zona         8
+2  Disponible          Zona         8
+3  Disponible          Zona         8
+4  Disponible          Zona         8
+5  Disponible          Zona         8
+6  Disponible          Zona         8
+7  Disponible          Zona         8
+8  Disponible          Zona         8
+----------------------------------------------------------------------------------------------------
+Codigo:TA81777
+Titulo:Musica_para_camaleones
+Autor :Luz/Jauregui/Bravo
+Cantidad:   8
+----------------------------------------------------------------------------------------------------
+1  Disponible          Zona         6
+2  Disponible          Zona         6
+3  Disponible          Zona         6
+4  Disponible          Zona         6
+5  Disponible          Zona         6
+6  Disponible          Zona         6
+7  Disponible          Zona         6
+8  Disponible          Zona         6
+----------------------------------------------------------------------------------------------------
+Codigo:KW25071
+Titulo:La_Resurrección_de_Rocambole
+Autor :Francisco/Zimic/Salas
+Cantidad:   8
+----------------------------------------------------------------------------------------------------
+1  PrestamoDias:       57
+2  PrestamoDias:       57
+3  PrestamoDias:       57
+4  PrestamoDias:       57
+5  PrestamoDias:       57
+6  PrestamoDias:       57
+7  PrestamoDias:       57
+8  PrestamoDias:       57
+----------------------------------------------------------------------------------------------------
+Codigo:ZK87496
+Titulo:Beat_the_Devil
+Autor :Miguel/Landeo/Estrada
+Cantidad:   8
+----------------------------------------------------------------------------------------------------
+1  Perdida:            Precio      178.81
+2  Perdida:            Precio      178.81
+3  Perdida:            Precio      178.81
+4  Perdida:            Precio      178.81
+5  Perdida:            Precio      178.81
+6  Perdida:            Precio      178.81
+7  Disponible          Zona         1
+8  Disponible          Zona         1
+----------------------------------------------------------------------------------------------------
+Codigo:SA04133
+Titulo:An_Ideal_Husband
+Autor :Delicia/Norabuena/Zegarra
+Cantidad:   7
+----------------------------------------------------------------------------------------------------
+1  PrestamoDias:       57
+2  PrestamoDias:       57
+3  PrestamoDias:       57
+4  PrestamoDias:       57
+5  PrestamoDias:       57
+6  PrestamoDias:       57
+7  PrestamoDias:       57
+----------------------------------------------------------------------------------------------------
+Codigo:XW06135
+Titulo:The_Nutcracker
+Autor :Humberto/Vargas/Guevara
+Cantidad:   7
+----------------------------------------------------------------------------------------------------
+1  PrestamoDias:       57
+2  PrestamoDias:       56
+3  PrestamoDias:       56
+4  PrestamoDias:       56
+5  PrestamoDias:       56
+6  PrestamoDias:       60
+7  Disponible          Zona        12
+----------------------------------------------------------------------------------------------------
+Codigo:PL70268
+Titulo:Lady_--_Windermeres_Fan
+Autor :Victor/Garcia/Astete
+Cantidad:   7
+----------------------------------------------------------------------------------------------------
+1  Perdida:            Precio      329.24
+2  PrestamoDias:       53
+3  PrestamoDias:       53
+4  PrestamoDias:       53
+5  PrestamoDias:       53
+6  PrestamoDias:       53
+7  PrestamoDias:       53
+----------------------------------------------------------------------------------------------------
+Codigo:OC73472
+Titulo:Le_Cousin_Pons
+Autor :Jaime/Shirakawa/Florian
+Cantidad:   6
+----------------------------------------------------------------------------------------------------
+1  PrestamoDias:       53
+2  PrestamoDias:       53
+3  Disponible          Zona        15
+4  Disponible          Zona        15
+5  Disponible          Zona        15
+6  Disponible          Zona        15
+----------------------------------------------------------------------------------------------------
+Codigo:SV17719
+Titulo:Le_Colonel_Chabert
+Autor :Cinthia/Zegarra/Cabello
+Cantidad:   6
+----------------------------------------------------------------------------------------------------
+1  PrestamoDias:       55
+2  PrestamoDias:       53
+3  PrestamoDias:       53
+4  PrestamoDias:       58
+5  Disponible          Zona        18
+6  Disponible          Zona        18
+----------------------------------------------------------------------------------------------------
+Codigo:MG75057
+Titulo:La_vuelta_al_mundo_en_75_dias
+Autor :Victoria/Shirakawa/Saona
+Cantidad:   6
+----------------------------------------------------------------------------------------------------
+1  PrestamoDias:       57
+2  PrestamoDias:       57
+3  PrestamoDias:       57
+4  PrestamoDias:       57
+5  PrestamoDias:       57
+6  PrestamoDias:       55

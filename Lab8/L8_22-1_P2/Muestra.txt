@@ -1,0 +1,140 @@
+Fecha       Codigo    Descripcion del Prod.                              Cant.   Precio     Total    Observaciones         
+===================================================================================================================
+16/12/2019  118050    PAPAYA                                                8     20.99    167.92   
+30/04/2020  118050    PAPAYA                                                5     20.99    104.95   
+09/03/2020  118050    PAPAYA                                               11     20.99    230.89   
+26/01/2020  126218    TANJERINA                                            11      5.58     61.38   
+28/11/2021  126218    TANJERINA                                             6      5.58     33.48   
+17/07/2021  126218    TANJERINA                                             3      5.58     16.74   
+10/02/2020  151641    YOGHURT P BEBER LACTIGURT COCO 250G                   4      9.87     39.48   
+20/07/2020  151641    YOGHURT P BEBER LACTIGURT COCO 250G                   6      9.87     59.22   
+06/07/2020  170844    EMPANIZADOR CONTADINA TRADICIONAL 283GR               9     16.50    148.50   
+26/12/2021  178943    YOGHURT P BEBER DURAZNO LIGHT YOP 250GR               9      7.18     64.62   
+27/05/2019  178943    YOGHURT P BEBER DURAZNO LIGHT YOP 250GR               1      7.18      7.18   
+16/03/2021  178943    YOGHURT P BEBER DURAZNO LIGHT YOP 250GR               2      7.18     14.36   
+15/01/2021  179485    MOLE SURTIDO CON ESPECIAS 250GR                      11     25.11    276.21   
+12/10/2019  182942    ZAPOTE                                                2     28.39     56.78   
+06/10/2020  182942    ZAPOTE                                                3     28.39     85.17   
+02/02/2022  204890    LECHE YAQUI DESLACTOSADA 1LT                          1     19.31     19.31   
+13/03/2019  204890    LECHE YAQUI DESLACTOSADA 1LT                          6     19.31    115.86   
+05/03/2021  283781    FRIJOLES REFRITOS ISADORA 430GR                       7     13.28     92.96   
+01/01/2019  285807    YOGHURT BIOBALANCE NUEZ Y FRU.SECOS 250G              4      8.83     35.32   
+04/03/2020  308982    YOGHURT P BEBER FRUGGIS FRESA 150GR                  11      5.29     58.19   
+23/08/2021  308982    YOGHURT P BEBER FRUGGIS FRESA 150GR                   6      5.29     31.74   
+24/04/2019  308982    YOGHURT P BEBER FRUGGIS FRESA 150GR                   3      5.29     15.87   
+15/04/2021  308982    YOGHURT P BEBER FRUGGIS FRESA 150GR                  10      5.29     52.90   
+21/09/2020  308982    YOGHURT P BEBER FRUGGIS FRESA 150GR                   7      5.29     37.03   
+30/07/2020  311343    YOGHURT FRESA NESTLE 1KG                             11     23.27    255.97   
+06/08/2020  311343    YOGHURT FRESA NESTLE 1KG                              4     23.27     93.08   
+22/03/2021  317404    LICUADO LALA CIRUELA PASA Y NUEZ 240GR                2     10.89     21.78   
+06/06/2021  317404    LICUADO LALA CIRUELA PASA Y NUEZ 240GR               11     10.89    119.79   
+29/09/2021  317404    LICUADO LALA CIRUELA PASA Y NUEZ 240GR                5     10.89     54.45   
+20/05/2021  317404    LICUADO LALA CIRUELA PASA Y NUEZ 240GR                3     10.89     32.67   
+03/10/2021  330512    YOGHURT LALA LIGHT 240GR                              1      7.04      7.04   
+19/12/2021  330512    YOGHURT LALA LIGHT 240GR                              1      7.04      7.04   
+26/11/2020  330512    YOGHURT LALA LIGHT 240GR                              6      7.04     42.24   
+13/07/2019  365379    YOGHURT FRESA CON GRANOLA CHELSY 240GR                4      6.72     26.88   
+17/08/2019  365906    AGUACATE REGIONAL KG.1.000 GR                        11     26.65    293.15   
+17/12/2021  365906    AGUACATE REGIONAL KG.1.000 GR                         9     26.65    239.85   
+07/10/2020  374253    TE DE MANZANILLA NEBO 24 1GR                          9     13.81    124.29   
+24/03/2021  374253    TE DE MANZANILLA NEBO 24 1GR                          4     13.81     55.24   
+05/01/2019  374253    TE DE MANZANILLA NEBO 24 1GR                          5     13.81     69.05   
+22/04/2021  390920    AGUA NIAGARA 500ML                                    8      5.64     45.12   
+12/03/2020  390920    AGUA NIAGARA 500ML                                    5      5.64     28.20   
+14/05/2020  390920    AGUA NIAGARA 500ML                                    4      5.64     22.56   
+18/10/2019  397718    LECHE LALA SEMI DESLACTOSADA 1LT                      0     16.98      0.00   
+19/10/2021  406688    CHURROMAIS CON LIMON 38GR                             9      5.62     35.41   Descuento especial del 30%
+19/04/2020  406688    CHURROMAIS CON LIMON 38GR                             1      5.62      3.93   Descuento especial del 30%
+03/08/2019  406688    CHURROMAIS CON LIMON 38GR                             9      5.62     35.41   Descuento especial del 30%
+28/06/2019  412041    TORTILLAS DE MAIZ 1KG                                 9     14.93    134.37   
+01/07/2019  412041    TORTILLAS DE MAIZ 1KG                                 3     14.93     44.79   
+26/10/2020  412041    TORTILLAS DE MAIZ 1KG                                 2     14.93     29.86   
+13/08/2020  415932    SOPA MARUCHAN CAMARON 71GR                            1      7.68      5.38   Descuento especial del 30%
+04/07/2021  415932    SOPA MARUCHAN CAMARON 71GR                            1      7.68      5.38   Descuento especial del 30%
+05/06/2019  415932    SOPA MARUCHAN CAMARON 71GR                            7      7.68     48.38   Descuento especial del 10%
+06/05/2019  415932    SOPA MARUCHAN CAMARON 71GR                           11      7.68     59.14   Descuento especial del 30%
+23/09/2019  422763    GALLETAS SUAVICREMAS FRESA 158GR                      2     13.85     27.70   
+05/02/2021  422763    GALLETAS SUAVICREMAS FRESA 158GR                      3     13.85     41.55   
+02/08/2021  422763    GALLETAS SUAVICREMAS FRESA 158GR                      4     13.85     55.40   
+28/04/2020  422763    GALLETAS SUAVICREMAS FRESA 158GR                      4     13.85     55.40   
+09/11/2021  423073    POLVO PARA HORNEAR REXAL 15KILOS                     12    350.22   4202.64   
+18/05/2019  430669    AJO GRANULADO DE CALIFORNIA KIRKLAND 51.             10     65.12    651.20   
+29/11/2020  434681    ELOTE DORADO DEL MONTE 225GR                          9      5.92     53.28   
+14/07/2020  434681    ELOTE DORADO DEL MONTE 225GR                          4      5.92     23.68   
+28/05/2021  455703    PALOMITAS POFETS FLAMIN HOT 28GR                      2      6.88     13.76   
+24/01/2022  455703    PALOMITAS POFETS FLAMIN HOT 28GR                     12      6.88     82.56   
+13/12/2020  459032    GELATINA DANY LIMON 125GR                             5      5.38     24.21   Descuento especial del 10%
+29/05/2020  459032    GELATINA DANY LIMON 125GR                            10      5.38     26.90   Descuento especial del 50%
+29/05/2019  459032    GELATINA DANY LIMON 125GR                             8      5.38     21.52   Descuento especial del 50%
+25/07/2019  485302    YOGHURT LALA FRESA 240GR                              1      6.68      4.68   Descuento especial del 30%
+04/01/2021  485302    YOGHURT LALA FRESA 240GR                              5      6.68     16.70   Descuento especial del 50%
+17/01/2021  485302    YOGHURT LALA FRESA 240GR                              8      6.68     26.72   Descuento especial del 50%
+05/07/2021  485302    YOGHURT LALA FRESA 240GR                              9      6.68     54.11   Descuento especial del 10%
+19/03/2019  511824    FLAN LALA SABOR VAINILLA 100GR                        7      5.88     41.16   
+31/05/2020  511824    FLAN LALA SABOR VAINILLA 100GR                        4      5.88     23.52   
+03/12/2019  536472    SABRITAS CASERAS JALAPENO 42GR                        6      9.66     57.96   
+31/12/2020  536472    SABRITAS CASERAS JALAPENO 42GR                       12      9.66    115.92   
+29/11/2020  536472    SABRITAS CASERAS JALAPENO 42GR                        3      9.66     28.98   
+29/03/2022  565169    PASTILLA PEPTO BISMOL                                 6      3.15     18.90   
+10/10/2021  565169    PASTILLA PEPTO BISMOL                                11      3.15     34.65   
+18/07/2020  565169    PASTILLA PEPTO BISMOL                                 5      3.15     15.75   
+05/06/2020  565169    PASTILLA PEPTO BISMOL                                 5      3.15     15.75   
+01/01/2021  580927    TORTILLAS DE HARINA DEL HOGAR 22P. 840GR              4     19.07     76.28   
+29/11/2021  582920    PINGUINOS MARINELA 40GR                               6      4.40     26.40   
+16/08/2020  582920    PINGUINOS MARINELA 40GR                              10      4.40     44.00   
+23/04/2021  620036    SABRITAS ORIGINAL SAL 490GR                           8     63.30    506.40   
+19/05/2020  620036    SABRITAS ORIGINAL SAL 490GR                           4     63.30    253.20   
+11/11/2021  651034    MANGO EN REBANADAS LA MORENA 800GR                    3     24.11     72.33   
+11/02/2022  651034    MANGO EN REBANADAS LA MORENA 800GR                    8     24.11    192.88   
+01/01/2022  662083    TAKIS SALSA BRAVA 62GR                                5      7.65     38.25   
+10/07/2019  662083    TAKIS SALSA BRAVA 62GR                                2      7.65     15.30   
+20/10/2019  675770    JARABE DE MAMEY 1.25KG                                5     45.49    227.45   
+11/09/2020  675770    JARABE DE MAMEY 1.25KG                                2     45.49     90.98   
+05/01/2019  690039    CORAZONES DE OREJONA PZA                              8     10.79     86.32   
+28/12/2019  696000    MEDIA CREMA NESTLE 1LT                                1     40.80     40.80   
+02/12/2019  696000    MEDIA CREMA NESTLE 1LT                                8     40.80    326.40   
+02/10/2020  696000    MEDIA CREMA NESTLE 1LT                                8     40.80    326.40   
+23/11/2020  714788    PAPA EN CUBOS DEL FUERTE 12 380GR.                    7      9.53     66.71   
+18/04/2019  748008    SANDWICH COMBINADA 3 FLORES 150GR                     3      8.23     24.69   
+21/02/2022  748008    SANDWICH COMBINADA 3 FLORES 150GR                     8      8.23     65.84   
+26/07/2019  748899    NARANJA SIN SEMILLA                                  11     10.24    112.64   
+24/01/2021  748899    NARANJA SIN SEMILLA                                   9     10.24     92.16   
+22/11/2021  778066    CHILES CHIPOTLES LA COSTENA 380GR                     9     18.53    166.77   
+05/08/2020  785062    CORAZON DE ALCACHOFA SAN MIGUEL                       4     17.36     69.44   
+01/07/2021  793026    YOGHURT NATURAL LIGHT LALA 1KG                       10     25.86    258.60   
+06/01/2022  793026    YOGHURT NATURAL LIGHT LALA 1KG                        5     25.86    129.30   
+07/09/2020  793026    YOGHURT NATURAL LIGHT LALA 1KG                        7     25.86    181.02   
+13/07/2021  793026    YOGHURT NATURAL LIGHT LALA 1KG                        7     25.86    181.02   
+29/05/2021  826317    CHAMYTO BIG 114ML                                     4      7.58     30.32   
+15/10/2020  856894    HARINA MAZATL 5KG                                     7     56.07    392.49   
+02/06/2019  856894    HARINA MAZATL 5KG                                     5     56.07    280.35   
+17/04/2020  856894    HARINA MAZATL 5KG                                    12     56.07    672.84   
+25/09/2020  856894    HARINA MAZATL 5KG                                     1     56.07     56.07   
+19/04/2020  872819    GELATINA DE LECHE VAINILLA DANETTE 100GR              6      5.13     30.78   
+20/10/2021  872819    GELATINA DE LECHE VAINILLA DANETTE 100GR              1      5.13      5.13   
+07/08/2019  874503    GALLETAS LORS SNACKS MARINELA 75GR                    1      9.54      9.54   
+01/01/2021  882099    NESQUIK CHOCOLATE 200GR                               1     13.51     13.51   
+27/02/2021  882099    NESQUIK CHOCOLATE 200GR                               2     13.51     27.02   
+23/01/2022  882099    NESQUIK CHOCOLATE 200GR                              12     13.51    162.12   
+09/10/2019  900698    VAINILLA MOLINA 500ML                                 5     19.26     96.30   
+19/05/2019  900698    VAINILLA MOLINA 500ML                                 5     19.26     96.30   
+02/09/2021  901816    JUGO VALLE FRUT CITRUS 12 250ML                       5     50.49    252.45   
+27/12/2021  901816    JUGO VALLE FRUT CITRUS 12 250ML                       2     50.49    100.98   
+19/03/2020  923804    SAL BAJA PACIFIC BOLSA 1KGR                           7      5.26     36.82   
+15/08/2019  923804    SAL BAJA PACIFIC BOLSA 1KGR                          11      5.26     57.86   
+30/12/2019  935218    FRIJOL AMARILLO KG                                    1     39.82     39.82   
+21/04/2019  935218    FRIJOL AMARILLO KG                                    2     39.82     79.64   
+29/07/2019  941699    MAIZ POZOLERO EXTRA 1KGR                              3     23.28     69.84   
+27/07/2020  941699    MAIZ POZOLERO EXTRA 1KGR                              9     23.28    209.52   
+05/02/2022  941699    MAIZ POZOLERO EXTRA 1KGR                              6     23.28    139.68   
+01/02/2019  947176    SALSA DE CHILE HABANERO ROJO 260GR                    6     14.93     89.58   
+03/02/2019  947176    SALSA DE CHILE HABANERO ROJO 260GR                    6     14.93     89.58   
+09/03/2021  947176    SALSA DE CHILE HABANERO ROJO 260GR                    2     14.93     29.86   
+26/06/2020  961802    ACHIOTE LA EXTRA 1KG                                  1     45.54     45.54   
+04/10/2021  961802    ACHIOTE LA EXTRA 1KG                                 12     45.54    546.48   
+02/11/2021  979865    GALLETAS MARIAS CUETARA 160GR                         9      6.10     54.90   
+27/09/2019  979865    GALLETAS MARIAS CUETARA 160GR                        10      6.10     61.00   
+10/10/2020  992564    LECHUGA ROMANA                                        2     20.79     41.58   
+05/11/2020  992564    LECHUGA ROMANA                                        3     20.79     62.37   
+06/10/2019  997564    MANGO ECUATORIANO                                     1     16.50     16.50   
+09/05/2020  997564    MANGO ECUATORIANO                                    12     16.50    198.00   

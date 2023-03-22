@@ -1,0 +1,135 @@
+                                                 INSTITUTO DE SALUD SA
+===================================================================================================================
+                                         PACIENTES ATENDIDOS POR EMERGENCIA
+-------------------------------------------------------------------------------------------------------------------
+No.     DNI         Paciente                                         Medico               Referencia
+ 1)     13731806    Rony Gonzalo Valverde Berrocal                    5152      Yvonne Rivero            6734305
+ 2)     14956687    Alex Martin Vasquez Paz                           9384      Adria Chavez             9690681
+ 3)     24965193    Milena Cinthia Zarate Acuna                       2315      Luz Jugo                 7626882
+ 4)     25121500    Edgar Munoz Vergel                                3886      Karina Astete            5493369
+ 5)     26015699    Julio Vilcara Jugo                                8009      Maribel Sinche           2702951
+ 6)     31176113    Walter Jolay Chumpitaz                            2315      Delicia Bolanos          2276146
+ 7)     31284904    Elia Yolanda Sedano Retamoso                      5152      Elia Coronel             3778749
+ 8)     35347567    Annie Montero Montero                             2315      Alexander Perez          3900408
+ 9)     36934113    Milagros Natalia Baca Camacho                     6720      Waldemar Vargas          4819840
+10)     37282858    Lourdes Diana Sueldo Martinez                     2315      Johan Berrocal           9403384
+11)     40127069    Cesar Jaime Rodriguez Serrano                     6720      Adria Sedano             4474124
+12)     43704548    Ericka Victoria Justino Forzani                   5602      Carmela Vilcara          3747284
+13)     48308899    Zkenia Irma Chung Zuniga                          5152      Rolando Coronado         3565091
+14)     50019279    Victor Edgar Garcia Astete                        5602      Luis Mercado             4221056
+15)     51873364    Johan Chavez Berrocal                             5602      Beatriz Maeireizo        7577509
+16)     52313890    Jesus Rafael Narvaez Castillo                     9384      Ericka Castillo          4101653
+17)     55140606    Victoria Milagros Shirakawa Saona                 5152      Rosario Serrano          6850741
+18)     58643376    Antonio Sueldo Ruiz                               9384      Delia Salamanca          1141458
+19)     59561864    Gonzalo Vega Munoz                                8009      Enrique Martinez         5594148
+20)     63640178    Richard Sandro Perez Farfan                       5602      Juvenal Rojas            4759823
+21)     65540456    Delicia Arca Aquino                               3886      Fiorella Del_Castillo    9931189
+22)     66091742    Carlos Julian Prado Vergel                        5152      Hugo Gamarra             1163072
+23)     72973662    Maria Madeleine Solis Narvaez                     5602      Nestor Cabrera           2169294
+24)     77324146    Lourdes Sonia Soma Pinto                          8009      Nicolas Perez            4447951
+25)     77440060    Martin Juvenal Villa Sedano                       8009      Rony Malca               4156266
+26)     81647285    Maritza Carbajal Salamanca                        5152      Walter Reyes             3216926
+27)     85395219    Irma Lourdes Corrales Tsukazan                    6720      Rafael Hijar             5706788
+28)     86836066    Alexander Zarate Perez                            3886      Heli Castillo            5080563
+29)     87522271    Ofelia Beatriz Montero Bolanos                    5291      Lucero Jugo              9330887
+30)     90367684    Heli Coronel Chumpitaz                            5291      Magda Urbina             6510932
+31)     90972561    Humberto Alberto Vargas Guevara                   9384      Felicita Leiva           4804706
+32)     91733306    Gustavo Alonso Del Castillo Mejia                 8654      Alexander Miranda        5602193
+33)     93231760    Carmela Teresa Vega Vilcara                       8654      Annie Montero            3850648
+34)     93282118    Evert Figueroa Collado                            9384      Alberto Cabrera          3346207
+35)     93939698    Enrique Jorge Durand Valverde                     8009      Angel Alcocer            6975371
+36)     99774549    Rolando Solis Chung                               5152      Lourdes Pinto            6079286
+37)     99891737    Christian Paredes Patino                          8654      Arturo Ramirez           4541205
+===================================================================================================================
+                                           PACIENTES ATENDIDOS POR URGENCIA
+-------------------------------------------------------------------------------------------------------------------
+No.     DNI         Paciente                                         Medico          % por Seg.  % Urgencia  
+ 1)     20688048    Humberto Alfonso Amezquita Contreras              5291              36.48        6.33
+ 2)     22679759    Francisco Arana Rondon                            5602              95.14       25.23
+ 3)     33647417    Wilmer Saenz Aranda                               8654                 26        17.4
+ 4)     34417318    Delia Estefania Cabrera Moreno                    5291              15.18       17.49
+ 5)     34697743    Madeleine Wong Martel                             2315              13.16       19.35
+ 6)     35852072    Beatriz Henriquez Espino                          6720              65.32       13.57
+ 7)     36471787    Annie Lourdes Merel Salazar                       5291              82.11        6.32
+ 8)     36803222    Ofelia Carmen Mercado Caro                        2315              96.97        7.98
+ 9)     39335774    Victoria Fiorella Cuba Pomajambo                  6720              33.53       26.02
+10)     40730725    Janet Cinthia Aranda Minaya                       5291              27.54       22.93
+11)     41964357    Virginia Martha Salamanca Vega                    5602              32.17       24.29
+12)     45914393    Maria Heli Arroyo Gordillo                        3886              56.96       17.12
+13)     46489838    Yliana Flor Ortiz Guevara                         8654              31.01       22.05
+14)     49357767    Juan Prado Vera                                   6720               8.47       12.51
+15)     51465986    Carola Tatiana Loyola Casanova                    3886              81.13       27.45
+16)     51642949    Magali Silvana Diaz Antezano                      5291              53.19       20.64
+17)     53420926    Milagros Vilcara Gavidia                          5291              79.74        7.12
+18)     54149342    Teresa Delia Antezano Segura                      9384              76.94       16.05
+19)     54815159    Annie Ofelia Asmad Acuna                          2315              82.42       20.74
+20)     56052414    Edilberto Jesus Mori Suarez                       9384              28.54       18.94
+21)     57112777    Emilio Emigdio Gonzales Aguirre                   5152               74.7       26.99
+22)     57182371    Edgard Henry Velasquez Huayanay                   3886              98.92        7.04
+23)     60300808    Jaime Julian Shirakawa Florian                    5291              30.09       13.85
+24)     61061535    Guillermo Edric Cabrera Canales                   5152              42.67        18.6
+25)     62287143    Cesar Adolfo Inga Flores                          5291              54.24       14.45
+26)     68114999    Williams Justino Cruz                             3886              57.71       28.92
+27)     68269451    Jorge Alfaro Ayala                                9384              65.13        20.7
+28)     70528214    Raul Collado Villa                                5291              14.93       20.79
+29)     73642310    Alfonso Waldemar Cabello Lam                      9384              23.53       21.93
+30)     74635922    Delia Zarate Urbina                               6720              29.21       15.67
+31)     80694546    Madeleine Yliana Miyake Merel                     5291               7.87        8.55
+32)     81539774    Alonso Florencio Coronado                         9384              60.41       25.74
+33)     86988155    Delia Lozada Forzani                              8654              82.98       28.97
+34)     89086443    Carmen Zamora Cabrera                             2315              92.62       28.44
+35)     93961840    Emigdio Francisco Escalante Espino                3886              50.44        8.53
+36)     95019198    Felicita Erika Del Castillo Chung                 8654              40.83        6.71
+37)     95436102    Javier Edgard Landa Cabrera                       3886              39.41        6.71
+38)     95656771    Felicita Valentina Lozada Arguedas                5152              90.94       10.47
+===================================================================================================================
+                                       PACIENTES ATENDIDOS DE MANERA AMBULATORIA
+-------------------------------------------------------------------------------------------------------------------
+No.     DNI         Paciente                                         Medico          % por Seg.
+ 1)     12484697    Angel Shirakawa Ortega                            6720              37.94
+ 2)     13633991    Alexander Portugal Raffo                          5152              73.85
+ 3)     15290194    David Edric Cerna Iparraguirre                    6720              14.56
+ 4)     17299012    Sandro Arturo Piscoya Lee                         8654              90.92
+ 5)     19528702    Luz Sofia Jauregui Bravo                          5602              81.73
+ 6)     20371464    Felicita Villegas Leiva                           5152              83.34
+ 7)     20941063    Miguel Calixto Torres                             8009              27.32
+ 8)     22598563    Alonso Forzani Caro                               2315              85.11
+ 9)     25062013    Jair Arturo Mendoza Florencio                     9384              50.29
+10)     27709566    Jose Rolando Cerna Hijar                          5602              64.57
+11)     28048124    Delicia Norabuena Zegarra                         8654              85.05
+12)     28992638    Eloy Jaime Ortega Landeo                          3886              38.41
+13)     30246960    Madeleine Shirakawa Miranda                       8654              18.42
+14)     32538825    Maribel Vizcardo Sinche                           3886              83.18
+15)     34571095    Ines Sam Yallico                                  6720              53.13
+16)     35606314    Rolando Castro Suarez                             5152              88.32
+17)     37653308    Cinthia Milena Zegarra Cabello                    2315              22.24
+18)     38639370    Johan Enrique Ayala Zevallos                      6720              74.15
+19)     40729422    Miguel Alex Landeo Estrada                        8654              26.52
+20)     43810566    Francisco Zimic Salas                             5602              27.34
+21)     45201670    Rocio Yolanda Acuna Yino                          8654              95.95
+22)     55007531    Surami Heli Preciado Pinto                        8009              37.09
+23)     59596317    Edward Reyes Tang                                 5152              51.81
+24)     60543714    Valentina Rocio Aquino Toro                       6720              81.04
+25)     61741647    Valentina Paula Urbina Antezano                   5602              17.42
+26)     62126128    Javier Daniel Auris Zimic                         2315              97.85
+27)     64217731    Delicia Rosa Arca Leiva                           8009               97.2
+28)     65900901    Rosario Maribel Yep Zavaleta                      2315              55.24
+29)     65912822    Ronal Cortez Mercado                              8654              34.38
+30)     66039166    Ines Adria Escalante Rojas                        5291              30.47
+31)     68509985    Fiorella Erika Florencio Polo                     6720              39.23
+32)     69813995    Glenda Cabrera Mori                               2315              21.79
+33)     71422479    Alberto De La Haza Cabrera                        8009               40.7
+34)     72330000    Waldemar Edgard Durand Meza                       8009              95.88
+35)     74713744    Blanca Luz Acuna Ayllon                           2315              70.63
+36)     75100362    Alex Henriquez Portugal                           2315               37.7
+37)     77478682    Marina Natalia Garcia Inga                        5602              62.33
+38)     79100967    Wilver Alfonso Rivero Cortez                      8009              42.41
+39)     81005191    Estefania Zegarra Casanova                        2315              91.87
+40)     83933477    Rosario Tabori Arias                              9384              91.75
+41)     91187814    Virginia Irma Benavente Ayala                     5291              39.38
+42)     92275859    Roberto Infantes Hernandez                        3886               40.1
+43)     93882509    David Carlos Perez Antezano                       6720              51.53
+44)     94683380    Adria Sueldo Sedano                               3886              49.33
+45)     95062219    Lourdes Carmela Yallico Paredes                   6720              35.45
+46)     97601811    Giovana Mejia Zegarra                             5602              61.86
+47)     98205039    Teresa Teresa Martel Mercado                      5152              42.24

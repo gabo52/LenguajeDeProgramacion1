@@ -1,0 +1,131 @@
+                                                 INSTITUTO DE SALUD SA
+==========================================================================================================================================================================
+                                         Orden de atencion de los pacientes
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+No.      DNI            Edad                                            Edad         Observacion                                                       Referencia  
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  1)     51873364       Johan Chavez Berrocal                             98      Persona de Riesgo                                 Beatriz Maeireizo        7577509
+  2)     48308899       Zkenia Irma Chung Zuniga                          94      Persona de Riesgo                                 Rolando Coronado         3565091
+  3)     66091742       Carlos Julian Prado Vergel                        93      Persona de Riesgo                                 Hugo Gamarra             1163072
+  4)     13731806       Rony Gonzalo Valverde Berrocal                    92      Persona de Riesgo                                 Yvonne Rivero            6734305
+  5)     25121500       Edgar Munoz Vergel                                87      Persona de Riesgo                                 Karina Astete            5493369
+  6)     93231760       Carmela Teresa Vega Vilcara                       83      Persona de Riesgo                                 Annie Montero            3850648
+  7)     93939698       Enrique Jorge Durand Valverde                     80      Persona de Riesgo                                 Angel Alcocer            6975371
+  8)     40127069       Cesar Jaime Rodriguez Serrano                     77      Persona de Riesgo                                 Adria Sedano             4474124
+  9)     91733306       Gustavo Alonso Del Castillo Mejia                 77      Persona de Riesgo                                 Alexander Miranda        5602193
+ 10)     93282118       Evert Figueroa Collado                            75      Persona de Riesgo                                 Alberto Cabrera          3346207
+ 11)     77324146       Lourdes Sonia Soma Pinto                          74      Persona de Riesgo                                 Nicolas Perez            4447951
+ 12)     14956687       Alex Martin Vasquez Paz                           73      Persona de Riesgo                                 Adria Chavez             9690681
+ 13)     63640178       Richard Sandro Perez Farfan                       69      Persona de Riesgo                                 Juvenal Rojas            4759823
+ 14)     77440060       Martin Juvenal Villa Sedano                       69      Persona de Riesgo                                 Rony Malca               4156266
+ 15)     55140606       Victoria Milagros Shirakawa Saona                 68      Persona de Riesgo                                 Rosario Serrano          6850741
+ 16)     86836066       Alexander Zarate Perez                            68      Persona de Riesgo                                 Heli Castillo            5080563
+ 17)     52313890       Jesus Rafael Narvaez Castillo                     62                                                        Ericka Castillo          4101653
+ 18)     81647285       Maritza Carbajal Salamanca                        62                                                        Walter Reyes             3216926
+ 19)     87522271       Ofelia Beatriz Montero Bolanos                    62                                                        Lucero Jugo              9330887
+ 20)     65540456       Delicia Arca Aquino                               61                                                        Fiorella Del_Castillo    9931189
+ 21)     72973662       Maria Madeleine Solis Narvaez                     56                                                        Nestor Cabrera           2169294
+ 22)     85395219       Irma Lourdes Corrales Tsukazan                    55                                                        Rafael Hijar             5706788
+ 23)     99774549       Rolando Solis Chung                               53                                                        Lourdes Pinto            6079286
+ 24)     24965193       Milena Cinthia Zarate Acuna                       50                                                        Luz Jugo                 7626882
+ 25)     43704548       Ericka Victoria Justino Forzani                   48                                                        Carmela Vilcara          3747284
+ 26)     26015699       Julio Vilcara Jugo                                44                                                        Maribel Sinche           2702951
+ 27)     90367684       Heli Coronel Chumpitaz                            42                                                        Magda Urbina             6510932
+ 28)     58643376       Antonio Sueldo Ruiz                               40                                                        Delia Salamanca          1141458
+ 29)     31176113       Walter Jolay Chumpitaz                            39                                                        Delicia Bolanos          2276146
+ 30)     50019279       Victor Edgar Garcia Astete                        35                                                        Luis Mercado             4221056
+ 31)     59561864       Gonzalo Vega Munoz                                33                                                        Enrique Martinez         5594148
+ 32)     99891737       Christian Paredes Patino                          30                                                        Arturo Ramirez           4541205
+ 33)     31284904       Elia Yolanda Sedano Retamoso                      26                                                        Elia Coronel             3778749
+ 34)     37282858       Lourdes Diana Sueldo Martinez                     21                                                        Johan Berrocal           9403384
+ 35)     36934113       Milagros Natalia Baca Camacho                     15                                                        Waldemar Vargas          4819840
+ 36)     90972561       Humberto Alberto Vargas Guevara                   15                                                        Felicita Leiva           4804706
+ 37)     35347567       Annie Montero Montero                             11                                                        Alexander Perez          3900408
+ 38)     57112777       Emilio Emigdio Gonzales Aguirre                   90      Persona de Riesgo                                 
+ 39)     86988155       Delia Lozada Forzani                              90      Persona de Riesgo                                 
+ 40)     33647417       Wilmer Saenz Aranda                               89      Persona de Riesgo                                 
+ 41)     53420926       Milagros Vilcara Gavidia                          86      Persona de Riesgo                                 
+ 42)     95019198       Felicita Erika Del Castillo Chung                 85      Persona de Riesgo                                 
+ 43)     20688048       Humberto Alfonso Amezquita Contreras              81      Persona de Riesgo                                 
+ 44)     56052414       Edilberto Jesus Mori Suarez                       80      Persona de Riesgo                                 
+ 45)     40730725       Janet Cinthia Aranda Minaya                       73      Persona de Riesgo                                 
+ 46)     95436102       Javier Edgard Landa Cabrera                       70      Persona de Riesgo                                 
+ 47)     95656771       Felicita Valentina Lozada Arguedas                70      Persona de Riesgo                                 
+ 48)     68114999       Williams Justino Cruz                             63                                                        
+ 49)     22679759       Francisco Arana Rondon                            57                                                        
+ 50)     36471787       Annie Lourdes Merel Salazar                       57                                                        
+ 51)     89086443       Carmen Zamora Cabrera                             57                                                        
+ 52)     54149342       Teresa Delia Antezano Segura                      54                                                        
+ 53)     51642949       Magali Silvana Diaz Antezano                      51                                                        
+ 54)     61061535       Guillermo Edric Cabrera Canales                   50                                                        
+ 55)     49357767       Juan Prado Vera                                   45                                                        
+ 56)     62287143       Cesar Adolfo Inga Flores                          45                                                        
+ 57)     73642310       Alfonso Waldemar Cabello Lam                      45                                                        
+ 58)     46489838       Yliana Flor Ortiz Guevara                         44                                                        
+ 59)     60300808       Jaime Julian Shirakawa Florian                    42                                                        
+ 60)     80694546       Madeleine Yliana Miyake Merel                     40                                                        
+ 61)     93961840       Emigdio Francisco Escalante Espino                39                                                        
+ 62)     34697743       Madeleine Wong Martel                             37                                                        
+ 63)     51465986       Carola Tatiana Loyola Casanova                    37                                                        
+ 64)     68269451       Jorge Alfaro Ayala                                32                                                        
+ 65)     81539774       Alonso Florencio Coronado                         30                                                        
+ 66)     36803222       Ofelia Carmen Mercado Caro                        29                                                        
+ 67)     34417318       Delia Estefania Cabrera Moreno                    28                                                        
+ 68)     45914393       Maria Heli Arroyo Gordillo                        27                                                        
+ 69)     57182371       Edgard Henry Velasquez Huayanay                   26                                                        
+ 70)     41964357       Virginia Martha Salamanca Vega                    21                                                        
+ 71)     54815159       Annie Ofelia Asmad Acuna                          20                                                        
+ 72)     39335774       Victoria Fiorella Cuba Pomajambo                  15      Debe venir con su apoderado                       
+ 73)     70528214       Raul Collado Villa                                14      Debe venir con su apoderado                       
+ 74)     35852072       Beatriz Henriquez Espino                          13      Debe venir con su apoderado                       
+ 75)     74635922       Delia Zarate Urbina                               12      Debe venir con su apoderado                       
+ 76)     28992638       Eloy Jaime Ortega Landeo                          94      Persona de Riesgo                                 
+ 77)     22598563       Alonso Forzani Caro                               93      Persona de Riesgo                                 
+ 78)     20941063       Miguel Calixto Torres                             87      Persona de Riesgo                                 
+ 79)     61741647       Valentina Paula Urbina Antezano                   86      Persona de Riesgo                                 
+ 80)     83933477       Rosario Tabori Arias                              85      Persona de Riesgo                                 
+ 81)     34571095       Ines Sam Yallico                                  84      Persona de Riesgo                                 
+ 82)     93882509       David Carlos Perez Antezano                       83      Persona de Riesgo                                 
+ 83)     55007531       Surami Heli Preciado Pinto                        80      Persona de Riesgo                                 
+ 84)     95062219       Lourdes Carmela Yallico Paredes                   80      Persona de Riesgo                                 
+ 85)     37653308       Cinthia Milena Zegarra Cabello                    73      Persona de Riesgo                                 
+ 86)     98205039       Teresa Teresa Martel Mercado                      73      Persona de Riesgo                                 
+ 87)     12484697       Angel Shirakawa Ortega                            70      Persona de Riesgo                                 
+ 88)     32538825       Maribel Vizcardo Sinche                           70      Persona de Riesgo                                 
+ 89)     38639370       Johan Enrique Ayala Zevallos                      67      Persona de Riesgo                                 
+ 90)     30246960       Madeleine Shirakawa Miranda                       64                                                        
+ 91)     65912822       Ronal Cortez Mercado                              60                                                        
+ 92)     59596317       Edward Reyes Tang                                 59                                                        
+ 93)     62126128       Javier Daniel Auris Zimic                         59                                                        
+ 94)     65900901       Rosario Maribel Yep Zavaleta                      59                                                        
+ 95)     15290194       David Edric Cerna Iparraguirre                    56                                                        
+ 96)     75100362       Alex Henriquez Portugal                           52                                                        
+ 97)     77478682       Marina Natalia Garcia Inga                        52                                                        
+ 98)     91187814       Virginia Irma Benavente Ayala                     51                                                        
+ 99)     17299012       Sandro Arturo Piscoya Lee                         50                                                        
+100)     19528702       Luz Sofia Jauregui Bravo                          49                                                        
+101)     72330000       Waldemar Edgard Durand Meza                       44                                                        
+102)     69813995       Glenda Cabrera Mori                               43                                                        
+103)     74713744       Blanca Luz Acuna Ayllon                           42                                                        
+104)     28048124       Delicia Norabuena Zegarra                         41                                                        
+105)     25062013       Jair Arturo Mendoza Florencio                     39                                                        
+106)     45201670       Rocio Yolanda Acuna Yino                          36                                                        
+107)     13633991       Alexander Portugal Raffo                          35                                                        
+108)     43810566       Francisco Zimic Salas                             34                                                        
+109)     64217731       Delicia Rosa Arca Leiva                           30                                                        
+110)     92275859       Roberto Infantes Hernandez                        30                                                        
+111)     68509985       Fiorella Erika Florencio Polo                     28                                                        
+112)     27709566       Jose Rolando Cerna Hijar                          22                                                        
+113)     20371464       Felicita Villegas Leiva                           19                                                        
+114)     40729422       Miguel Alex Landeo Estrada                        15      Debe venir con su apoderado                       
+115)     79100967       Wilver Alfonso Rivero Cortez                      15      Debe venir con su apoderado                       
+116)     94683380       Adria Sueldo Sedano                               15      Debe venir con su apoderado                       
+117)     60543714       Valentina Rocio Aquino Toro                       14      Debe venir con su apoderado                       
+118)     66039166       Ines Adria Escalante Rojas                        14      Debe venir con su apoderado                       
+119)     71422479       Alberto De La Haza Cabrera                        14      Debe venir con su apoderado                       
+120)     81005191       Estefania Zegarra Casanova                        14      Debe venir con su apoderado                       
+121)     97601811       Giovana Mejia Zegarra                             14      Debe venir con su apoderado                       
+122)     35606314       Rolando Castro Suarez                             12      Debe venir con su apoderado                       
+==========================================================================================================================================================================
+Pacientes:  121 Personas de riesgo:      40  
+Menores de Edad sin apoderado: 13  

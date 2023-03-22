@@ -1,0 +1,86 @@
+311343    YOGHURT FRESA NESTLE 1KG                          12.73     23.27
+696000    MEDIA CREMA NESTLE 1LT                             1.35     40.80
+455703    PALOMITAS POFETS FLAMIN HOT 28GR                   0.00      6.88
+172692    BARRA DE HOGUELAS DE ARROZ Y TRIGO 24 GR           3.33      4.83
+744237    ALUBIAS ANTIQUA 540GR                              8.19     17.85
+248223    LECHE EN POLVO NIDO KINDER 400GR                   2.09     39.84
+499460    TAMPICO CITRUS PUNCH 3.78LTS                       4.30     29.35
+200984    DONAS BIMBO 157.5GR 6 PZA PROMOCION                8.10     10.77
+788630    SAZONADOR SPECIAL VALUE 453G                       0.00     28.24
+826317    CHAMYTO BIG 114ML                                  0.00      7.58
+126218    TANJERINA                                          0.00      5.58
+588754    LIMONADA H2O 250ML                                 4.82      8.58
+415932    SOPA MARUCHAN CAMARON 71GR                        10.53      7.68
+620036    SABRITAS ORIGINAL SAL 490GR                        0.00     63.30
+406688    CHURROMAIS CON LIMON 38GR                          1.17      5.62
+434681    ELOTE DORADO DEL MONTE 225GR                       0.00      5.92
+874884    BEBIDA NARANJA BEBERE 470ML                       13.59      6.72
+925916    PAPATINAS CHILIX 25GR                              0.00      4.71
+613623    CHILE PASILLA MULATO LARGO 100GR                  12.13     18.19
+168505    GALLETAS CREMAX DE NIEVE VAINILLA 416GR            7.99     26.76
+900698    VAINILLA MOLINA 500ML                             13.42     19.26
+428331    CHILE PUYA DE LOS ALTOS 100GR                      0.00     10.85
+204890    LECHE YAQUI DESLACTOSADA 1LT                       0.00     19.31
+459032    GELATINA DANY LIMON 125GR                          0.00      5.38
+308982    YOGHURT P BEBER FRUGGIS FRESA 150GR                0.00      5.29
+731238    SOPA MARUCHAN POLLO 12 64GR                        0.00     66.70
+219619    SALSA TERIYAKI KIKKOMAN B.EN GRASA 296ML           0.00     14.41
+997564    MANGO ECUATORIANO                                 11.83     16.50
+170844    EMPANIZADOR CONTADINA TRADICIONAL 283GR            0.00     16.50
+411461    VUALA CAJETA 84GR                                 11.43      5.25
+151641    YOGHURT P BEBER LACTIGURT COCO 250G                0.00      9.87
+390920    AGUA NIAGARA 500ML                                 0.94      5.64
+631403    PAN DE MUERTO GRANDE                               2.63     25.42
+501182    HARINA DE ARROZ DULCE 454GR                        0.00     21.13
+162581    ZENZO BAR FRESA 66GR                               9.41      4.05
+412041    TORTILLAS DE MAIZ 1KG                              7.91     14.93
+725312    SALSA DE CHILE PERON PURHEPECHA 260GR             11.51     14.47
+317404    LICUADO LALA CIRUELA PASA Y NUEZ 240GR             5.13     10.89
+882099    NESQUIK CHOCOLATE 200GR                            0.00     13.51
+948168    CONCHAS BIMBO 120GR                                0.00     15.55
+992564    LECHUGA ROMANA                                     0.00     20.79
+734979    TOSTILOCOS PREPARADOS                              4.83     25.53
+942003    ACHIOTE MARIN 130GR                                0.00      8.71
+387889    CONDIMENTO PARA BIRRIA CUCU.                      10.56     80.95
+927404    GELATINA SABOR PIÑA LIGHT LA GLORIA 25GR          12.04      8.51
+793026    YOGHURT NATURAL LIGHT LALA 1KG                     4.70     25.86
+632129    VINAGRE BLANCO CLEMENTE JACQUES 3.8LT              0.00     24.29
+714788    PAPA EN CUBOS DEL FUERTE 12 380GR.                 0.00      9.53
+520755    TE LIPTON NATURAL 100 226GR                       14.57     71.68
+342342    SEMILLA DE ACELGA MINA                             0.00     15.07
+118050    PAPAYA                                             0.00     20.99
+961802    ACHIOTE LA EXTRA 1KG                               6.77     45.54
+444809    MAIZENA NATURAL 750GR                              0.00     43.62
+748008    SANDWICH COMBINADA 3 FLORES 150GR                  3.18      8.23
+690039    CORAZONES DE OREJONA PZA                          14.32     10.79
+565169    PASTILLA PEPTO BISMOL                              2.41      3.15
+423073    POLVO PARA HORNEAR REXAL 15KILOS                   5.67    350.22
+891590    MIEL DE ABEJA VIRGEN 1KG                           0.21     30.92
+178097    CROQUETAS PEDIGREE BENEFUL 10.1KG                 12.84    270.88
+923804    SAL BAJA PACIFIC BOLSA 1KGR                        5.11      5.26
+397718    LECHE LALA SEMI DESLACTOSADA 1LT                   0.00     16.98
+753496    OREO C TROZOS DE CHOCOLATE 473ML                   0.00     25.95
+582920    PINGUINOS MARINELA 40GR                            7.02      4.40
+469016    SEMILLAS DE CHILE HABANEROMANZANO.3GR              7.75     15.31
+961627    FRIJOLES PUERCOS LILIS 500GR                       8.22     16.26
+874503    GALLETAS LORS SNACKS MARINELA 75GR                 8.69      9.54
+422763    GALLETAS SUAVICREMAS FRESA 158GR                   0.00     13.85
+691890    NESCAFE DOLCA 200GR                                6.26     42.01
+778066    CHILES CHIPOTLES LA COSTENA 380GR                  0.00     18.53
+132999    YOGHURT CON DURAZNO LALA 1KG                       0.00     25.15
+462755    JUGO DE UVA MINUTE MAID 200ML                      8.24      4.39
+630286    REBANADAS BIMBO 110GR                              7.42      8.73
+825712    TORTILLAS DE HARINA DEL HOGAR 15PZAS               0.00     17.44
+374588    BEBIDA DE SOYA ADES GUANABANA 946ML                8.37     18.07
+734432    MAIZ POZOLERO TEASDALE 3.06KG                      0.00     50.55
+511824    FLAN LALA SABOR VAINILLA 100GR                     0.00      5.88
+748899    NARANJA SIN SEMILLA                                0.00     10.24
+336973    CORNETO CLASSIC LOVE                              10.33     19.45
+244316    CHAMPINIONES TROCITOS MONTEBLANCO 380GR            0.82     18.99
+994185    ANIS VERDE                                         0.00     95.95
+880988    TOSTADAS HORNEADAS DEL HOGAR 210GR                 0.00     11.34
+485302    YOGHURT LALA FRESA 240GR                           7.62      6.68
+179485    MOLE SURTIDO CON ESPECIAS 250GR                    0.00     25.11
+182942    ZAPOTE                                             3.71     28.39
+283781    FRIJOLES REFRITOS ISADORA 430GR                    1.92     13.28
+374253    TE DE MANZANILLA NEBO 24 1GR                       0.00     13.81

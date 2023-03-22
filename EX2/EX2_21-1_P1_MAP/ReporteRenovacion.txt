@@ -1,0 +1,115 @@
+                                                         Renovacion de Licencias
+======================================================================================================================================================
+Licencia    Nombre                                         Observacion       Multas  Tramites    Ex.Med       Manejo/Reglas          Total
+12270502    CUEVA FUENTES CINTHIA DELIA                  No puede renovar
+12443643    LEE SERRANO ROSARIO                                 -              6557       300       300                1500        8657.00
+12858682    ZARATE PEREZ ALEXANDER                              -              6241       200       200                1000        7641.00
+13219606    RODRIGUEZ MORENO BLANCA OFELIA                      -             14062       900       900                4500       20362.00
+13628871    QUIROGA HERNANDEZ SILVANA ZKENIA                    -              6557       300       300                1500        8657.00
+15029228    VALVERDE MAEIREIZO MELVIN JAIR                      -             18881       800       800                4000       24481.00
+15115705    HERNANDEZ CORRALES GUILLERMO                        -              7189       500       500                2500       10689.00
+15559308    BRAVO CORTES JANET FLOR                      No puede renovar
+16136330    YEP PRECIADO RICHARD                                -              6241       200       200                1000        7641.00
+16477908    BACA CAMACHO MILAGROS NATALIA                       -             25280       900       900                4500       31580.00
+16925690    CABRERA TORO FANNY                                  -             25912      1100      1100                5500       33612.00
+19568447    VEGA SORIA HENRRY                                   -               632       200       200                1000        2032.00
+19963454    SALAMANCA CABRERA NESTOR EVERT                      -             19829      1000      1000                5000       26829.00
+21621497    AYALA CASTILLO ERICKA OFELIA                        -             26702      1400      1400                7000       36502.00
+24859596    FLORIAN CUBA CHRISTIAN                       No puede renovar
+25518120    RONDON CABRERA ALEXANDER ADOLFO                     -              7979       800       800                4000       13579.00
+26522329    SANCHEZ DEL CASTILLO FIORELLA ROSARIO        No puede renovar
+27185429    SOLIS CHUNG ROLANDO                                 -             19039       700       700                3500       23939.00
+27268323    LOZADA IBEROS HELI BLANCA                           -               790       300       300                1500        2890.00
+27864822    FIGUEROA MEDINA MADELEINE                           -             25122       900       900                4500       31422.00
+28820944    RIOS ZAMORA INES                                    -               316       100       100                 500        1016.00
+29833157    HIJAR LAM MARTIN                                    -              1422       500       500                2500        4922.00
+29989682    CAMACHO PAIRAZAMAN YDALI LUCERO                     -             19197       800       800                4000       24797.00
+30046639    SALAMANCA VEGA VIRGINIA MARTHA                      -             20777      1300      1300                6500       29877.00
+30441350    RETAMOSO SALAMANCA DELIA MARITZA             No puede renovar
+31107104    MOSCOSO ARIAS FIORELLA                              -              7821       700       700                3500       12721.00
+31205866    VIZCARRA MONTERO JAIR                               -              6241       200       200                1000        7641.00
+32090869    SUELDO ANTEZANO LUIS JESUS                          -              7505       600       600                3000       11705.00
+32244565    HENRIQUEZ PAREDES PAUL RAFAEL                No puede renovar
+34248357    LEYVA LANDEO NANCY SONIA                     No puede renovar
+34976629    LOZADA ARGUEDAS FELICITA VALENTINA                  -             19829      1000      1000                5000       26829.00
+35297848    ASTETE CHANG GUIDA                                  -              6399       300       300                1500        8499.00
+35671623    EPIQUEN YEP GUIDA VICTORIA                   No puede renovar
+35683701    DIAZ MOYA ELIA ANNIE                                -             18723       600       600                3000       22923.00
+35912665    MARTINEZ CRUZ EVERT RONY                            -             27492      1600      1600                8000       38692.00
+36079131    ZAVALETA VILCA ERICKA ELEONOR                       -             24964       900       900                4500       31264.00
+37080813    FLORIAN VALDERRAMA JOSE                             -             12956       600       600                3000       17156.00
+38862473    WONG MAEIREIZO BEATRIZ                       No puede renovar
+39244942    PENA SUAREZ GLENDA MARGOT                           -             12166       300       300                1500       14266.00
+39544560    LUNA VARGAS WALDEMAR                                -             12482       400       400                2000       15282.00
+42956681    POMAJAMBO EGUSQUIZA PAUL                            -             15010      1200      1200                6000       23410.00
+43454884    ESPINOZA CHANG SHIRLEY                              -             18565       600       600                3000       22765.00
+44188994    VILCARA YALLICO MAGALI                              -              6715       400       400                2000        9515.00
+44346371    ALFARO ALFARO ERICK BRUNO                           -              6083       200       200                1000        7483.00
+45043076    VEGA VILCARA CARMELA TERESA                  No puede renovar
+47528229    SAAVEDRA GONZALES WILMER                     No puede renovar
+47844324    VILCA LEE NESTOR HUGO                               -             12956       600       600                3000       17156.00
+48450395    RAMIREZ ASTETE KARINA ESTEFANIA                     -             24964       800       800                4000       30564.00
+48528209    ZAVALETA CORONADO FELICITA ELOISA                   -              5925       100       100                 500        6625.00
+48878256    RAFFO CORONADO ROLANDO                       No puede renovar
+49428502    RIVERO CORTEZ WILVER ALFONSO                        -             18407       500       500                2500       21907.00
+49927087    INGA PALOMARES ERIKA                                -             14852      1200      1200                6000       23252.00
+50200823    LEYVA SAM DIANA DELIA                               -             11850      2800      1400                2100       18150.00
+50201756    ZEGARRA PENA CARMELA                                -              5925      2000      1000                1500       10425.00
+51395324    TRIGUEROS PORTUGAL ARTURO FAUSTO                    -                 0       200       100                 150         450.00
+51929951    CHAVEZ BERROCAL JOHAN                               -             11850      1000       500                 750       14100.00
+52002275    CASANOVA ZEGARRA MARITZA                            -             17775      1800       900                1350       21825.00
+52003695    CARBAJAL SALAS MAGDA ZKENIA                         -                 0       400       200                 300         900.00
+53374153    SERRANO IBEROS FRANCISCO                            -             23700      2400      1200                1800       29100.00
+53853385    SOLIS NARVAEZ MARIA MADELEINE                       -             17775      1800       900                1350       21825.00
+54141214    DURAND MIRANDA MIGUEL JUAN                          -             17775      1600       800                1200       21375.00
+54447051    AVILA DEL CASTILLO ANNIE                            -             35550      3000      1500                2250       42300.00
+54665716    GONZALES GAMARRA GIOVANA KARINA                     -                 0       400       200                 300         900.00
+58992942    NARVAEZ CASTILLO JESUS RAFAEL                       -             11850      1000       500                 750       14100.00
+60335381    DIAZ TANG ENRIQUE                                   -             23700      1400       700                1050       26850.00
+60784914    RUIZ ZEVALLOS WALTER RONY                           -             17775      2600      1300                1950       23625.00
+63291514    LAU ZAVALETA YDALI ELIA                             -                 0      1000       500                 750        2250.00
+63736112    ZAMORA ZAVALETA RONAL MANUEL                        -             11850      1600       800                1200       15450.00
+64178096    VIZCARRA CARBAJAL IVAN FAUSTO                       -             17775      2200      1100                1650       22725.00
+64532449    INFANTES MERCADO LUIS WALDEMAR                      -                 0      2600      1300                1950        5850.00
+66849703    MERCADO CORONEL ELIA                                -             11850      1400       700                1050       15000.00
+67185679    FLORENCIO CORONADO ALONSO                           -             17775      2400      1200                1800       23175.00
+68303148    PATINO BOLANOS DELICIA VIRGINIA                     -                 0       800       400                 600        1800.00
+68310808    CANO POLO MILAGROS ISABEL                           -             11850      2600      1300                1950       17700.00
+69252518    GORDILLO SANCHEZ RONALD JUVENAL                     -             23700      1800       900                1350       27750.00
+69494747    MENDOZA ROMERO VIRGINIA YDALI                       -                 0       400       200                 300         900.00
+70414420    AVILA REYES TATIANA                                 -             17775      2000      1000                1500       22275.00
+71578206    ARROYO TOMASICHE NATALIA                            -             29625      2600      1300                1950       35475.00
+71832810    SUELDO SEDANO ADRIA                                 -              5925      1400       700                1050        9075.00
+73357516    TRIGUEROS JUGO LUZ                                  -             23700      2400      1200                1800       29100.00
+73567806    ARCA SANCHEZ MAGALI BEATRIZ                         -             41475      2400      1200                1800       46875.00
+73818744    FUENTES GAMARRA HUGO                                -             11850       600       300                 450       13200.00
+73972114    AVILA MARTEL JAIME MANUEL                           -             23700      2000      1000                1500       28200.00
+74325123    TANG MOSCOSO JOHANA                                 -             17775      1800       900                1350       21825.00
+75348522    LOZADA FORZANI DELIA                                -             11850      1200       600                 900       14550.00
+75945248    MEJIA RODRIGUEZ INES VALENTINA                      -             17775      1000       500                 750       20025.00
+77367073    JAUREGUI DEL CASTILLO VICTOR RICARDO                -             17775      2600      1300                1950       23625.00
+77763722    FARFAN SALAZAR MARGOT                               -             35550      2400      1200                1800       40950.00
+79641328    TOKESHI GUEVARA JAIME                               -             11850      1400       700                1050       15000.00
+79672079    CONTRERAS CHANG JOHANA CINTHIA                      -             29625      2200      1100                1650       34575.00
+79766395    FUENTES ESCALANTE PATRICIA ELIZABETH                -             29625      2400      1200                1800       35025.00
+80310768    MINAYA BERROCAL HELI                                -             17775      1000       500                 750       20025.00
+80457845    NORABUENA MOYA HECTOR                               -             11850      2200      1100                1650       16800.00
+81485316    JUSTINO MARTINEZ ENRIQUE                            -             29625      1800       900                1350       33675.00
+81528434    EPIQUEN AVILA ENRIQUE                               -              5925       800       400                 600        7725.00
+81799482    CERNA CERNA CINTHIA                                 -             17775      1600       800                1200       21375.00
+82031355    EGUSQUIZA BERROCAL DORIS NANCY                      -             17775      2200      1100                1650       22725.00
+82870470    SEDANO RETAMOSO ELIA YOLANDA                        -                 0      1400       700                1050        3150.00
+84186239    RIVERO CORONADO HECTOR ALONSO                       -             23700      2200      1100                1650       28650.00
+85501710    VIZCARDO SINCHE MARIBEL                             -             17775      2800      1400                2100       24075.00
+86429854    MOSCOSO LAURA JANET VALENTINA                       -                 0       600       300                 450        1350.00
+86718074    ESCALANTE ROJAS INES ADRIA                          -             17775      1600       800                1200       21375.00
+87282766    SUAREZ CHANG GLORIA                                 -             17775      2000      1000                1500       22275.00
+87495937    MORALES PASQUEL KARIN MARIBEL                       -             47400      3600      1800                2700       55500.00
+88167677    PRADO VERA JUAN                                     -             35550      4000      2000                3000       44550.00
+88854166    PINTO ROJAS JUVENAL FRANCISCO                       -             11850      1800       900                1350       15900.00
+89314225    RIOS DURAND CARLOS EDILBERTO                        -             11850      1000       500                 750       14100.00
+89941095    ARCA LARRIEGA LUCERO YLIANA                         -             11850      1600       800                1200       15450.00
+90467829    IPARRAGUIRRE PEREZ NICOLAS                          -             17775      2600      1300                1950       23625.00
+96693273    VALDERRAMA BERROCAL EVERT                           -             35550      3000      1500                2250       42300.00
+97849227    PRADO ESPINOZA MILAGROS                             -                 0       400       200                 300         900.00
+99950484    CORTES CORTEZ RAUL ALEX                             -             11850      1600       800                1200       15450.00

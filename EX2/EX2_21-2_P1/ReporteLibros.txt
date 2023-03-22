@@ -1,0 +1,198 @@
+
+Codigo:KC34197
+Titulo:Las_demoliciones_de_Paris
+Autor: Zkenia/Chung/Zuniga
+Cantidad:  15
+Stock:     8
+
+Codigo:FY25192
+Titulo:La_hermosa_jardinera
+Autor: Humberto/Amezquita/Contreras
+Cantidad:  15
+Stock:     5
+
+Codigo:PT00038
+Titulo:El_nino_perdido
+Autor: Giovana/Mejia/Zegarra
+Cantidad:  15
+Stock:     10
+
+Codigo:FY82455
+Titulo:La_guerra_del_fin_del_mundo
+Autor: Milena/Zarate/Acuna
+Cantidad:  15
+Stock:     8
+
+Codigo:ZM20053
+Titulo:The_Fencing_Master
+Autor: Felicita/Castillo/Chung
+Cantidad:  15
+Stock:     12
+
+Codigo:SK15788
+Titulo:Le_Chef-d_oeuvre_inconnu
+Autor: Blanca/Acuna/Ayllon
+Cantidad:  12
+Stock:     5
+
+Codigo:QA53897
+Titulo:The_Corsican_Brothers
+Autor: Ofelia/Mercado/Caro
+Cantidad:  12
+Stock:     8
+
+Codigo:ZQ38637
+Titulo:La_casa_verde
+Autor: Delicia/Arca/Aquino
+Cantidad:  14
+Stock:     8
+
+Codigo:BH96036
+Titulo:Los_tesoros_del_Rajah
+Autor: Delicia/Arca/Leiva
+Cantidad:  13
+Stock:     7
+
+Codigo:LM05731
+Titulo:Le_Chevalier_de_Maison_-_Rouge
+Autor: Yliana/Ortiz/Guevara
+Cantidad:  13
+Stock:     12
+
+Codigo:XN48844
+Titulo:The_Countess_de_Charny
+Autor: Rosario/Tabori/Arias
+Cantidad:  12
+Stock:     7
+
+Codigo:IW10872
+Titulo:El_Club_de_los_explotadores
+Autor: Cesar/Rodriguez/Serrano
+Cantidad:  6
+Stock:     0
+
+Codigo:QE47018
+Titulo:El_Manuscrito_del_Domino
+Autor: Raul/Collado/Villa
+Cantidad:  12
+Stock:     7
+
+Codigo:JO84937
+Titulo:Historia_de_Mayta
+Autor: Valentina/Urbina/Antezano
+Cantidad:  12
+Stock:     9
+
+Codigo:NF53199
+Titulo:Suspense
+Autor: Emilio/Gonzales/Aguirre
+Cantidad:  12
+Stock:     12
+
+Codigo:QO90975
+Titulo:La_Peau_de_chagrin
+Autor: Janet/Aranda/Minaya
+Cantidad:  12
+Stock:     12
+
+Codigo:OT07742
+Titulo:La_Fille_aux_yeux_d-or
+Autor: Alfonso/Cabello/Lam
+Cantidad:  12
+Stock:     8
+
+Codigo:ZR63735
+Titulo:Elogio_de_la_madrastra
+Autor: Julio/Vilcara/Jugo
+Cantidad:  10
+Stock:     4
+
+Codigo:BB35881
+Titulo:Una_Navidad
+Autor: Edilberto/Mori/Suarez
+Cantidad:  10
+Stock:     8
+
+Codigo:QV96140
+Titulo:El_Duque_en_su_territorio
+Autor: Fiorella/Florencio/Polo
+Cantidad:  10
+Stock:     5
+
+Codigo:FW74175
+Titulo:La_Cousine_Bette
+Autor: Surami/Preciado/Pinto
+Cantidad:  5
+Stock:     0
+
+Codigo:XQ03477
+Titulo:Les_Ressources_de_Quinola
+Autor: Johan/Ayala/Zevallos
+Cantidad:  8
+Stock:     3
+
+Codigo:VA35843
+Titulo:L-ecole_des_menages
+Autor: Walter/Jolay/Chumpitaz
+Cantidad:  8
+Stock:     6
+
+Codigo:UW23132
+Titulo:House_of_Pomegranates
+Autor: David/Perez/Antezano
+Cantidad:  8
+Stock:     8
+
+Codigo:TA81777
+Titulo:Musica_para_camaleones
+Autor: Luz/Jauregui/Bravo
+Cantidad:  8
+Stock:     8
+
+Codigo:KW25071
+Titulo:La_Resurrección_de_Rocambole
+Autor: Francisco/Zimic/Salas
+Cantidad:  8
+Stock:     5
+
+Codigo:ZK87496
+Titulo:Beat_the_Devil
+Autor: Miguel/Landeo/Estrada
+Cantidad:  8
+Stock:     3
+
+Codigo:SA04133
+Titulo:An_Ideal_Husband
+Autor: Delicia/Norabuena/Zegarra
+Cantidad:  7
+Stock:     4
+
+Codigo:XW06135
+Titulo:The_Nutcracker
+Autor: Humberto/Vargas/Guevara
+Cantidad:  7
+Stock:     2
+
+Codigo:PL70268
+Titulo:Lady_--_Windermeres_Fan
+Autor: Victor/Garcia/Astete
+Cantidad:  4
+Stock:     0
+
+Codigo:OC73472
+Titulo:Le_Cousin_Pons
+Autor: Jaime/Shirakawa/Florian
+Cantidad:  6
+Stock:     5
+
+Codigo:SV17719
+Titulo:Le_Colonel_Chabert
+Autor: Cinthia/Zegarra/Cabello
+Cantidad:  3
+Stock:     0
+
+Codigo:MG75057
+Titulo:La_vuelta_al_mundo_en_75_dias
+Autor: Victoria/Shirakawa/Saona
+Cantidad:  3
+Stock:     0

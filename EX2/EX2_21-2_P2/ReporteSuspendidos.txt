@@ -1,0 +1,16 @@
+CARNE     NOMBRE                                       TIPO
+17750908  Hernandez Barrios Emilio                     Estudiante     
+26916299  Diaz Antezano Magali Silvana                 Estudiante     
+14268463  Raffo Chung Adria Gloria                     Estudiante     
+37500242  Vasquez Paz Alex Martin                      Estudiante     
+99215341  Raffo Arias Surami Annie                     Estudiante     
+49516360  Delgado Gonzales Guillermo Alfonso           Docente        
+15129661  Wong Martel Madeleine                        Estudiante     
+37751890  Shirakawa Miranda Madeleine                  Docente        
+66152145  Salas Aguero Daniel                          Estudiante     
+77001234  Diaz Correa Irma Virginia                    Docente        
+61039260  Mejia De La Haza Francisco Edgar             Docente        
+11750801  Shirakawa Ortega Angel                       Estudiante     
+83265244  Pairazaman Alamo Moises Miguel               Docente        
+35030611  Inga Flores Cesar Adolfo                     Estudiante     
+81082011  Arroyo Gordillo Maria Heli                   Docente        
