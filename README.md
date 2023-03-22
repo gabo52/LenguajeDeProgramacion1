@@ -4,11 +4,13 @@ Repositorio de evaluaciones desarrolladas sobre el curso de LP1, en caso existan
 UPDATES:
 
 21/03/2003
-Uso de git ignore para archivos/carpetas build, dist ,nbproject, inc
+Uso de git ignore para archivos/carpetas build, dist ,nbproject, inc.
 
+22/03/2003
+Organización de la mayoría de carpetas e inclusión de PDFs.
 
 
 ERRORES/MEJORAS:
 
-El gitignore no ignora el Makefile 
-Faltan agregar PDFS
+- El gitignore no ignora el Makefile 
+- Faltan ordenar carpetas de los 3 primeros labs
