@@ -8,13 +8,6 @@ errores comunes:
 
 no hacer 3 lee, creando 3 punteros
 
-cliente doctor medicamento
-
-
-Guardar 
-Cancelar
-
-
 
 - Crear clases
 - Crear copia en clases derivadas
