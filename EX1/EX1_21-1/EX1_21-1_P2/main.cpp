@@ -6,8 +6,8 @@
 
 /* 
  * File:   main.cpp
- * Author: Gabo
- *
+ * Autor: Gabriel Omar Durán Ruiz 
+ * Código: 20203371
  * Created on 9 de octubre de 2022, 08:11 PM
  */
 

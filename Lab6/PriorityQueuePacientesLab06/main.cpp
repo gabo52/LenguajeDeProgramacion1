@@ -1,13 +1,7 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
-
 /* 
  * File:   main.cpp
- * Author: Gabo
- * Codigo: 20203371
+ * Autor: Gabriel Omar Durán Ruiz 
+ * Código: 20203371
  * Created on 24 de octubre de 2022, 08:06 AM
  */
 

@@ -1,13 +1,7 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
-
 /* 
  * File:   PedidoEspecial.cpp
- * Author: Gabo
- * 
+ * Autor: Gabriel Omar Durán Ruiz 
+ * Código: 20203371
  * Created on 22 de noviembre de 2022, 04:54 PM
  */
 
@@ -61,7 +55,7 @@ void PedidoEspecial::imprime(ofstream &arch){
     arch<<endl<<setw(12)<<left<<GetCodigo()<<left<<cad<<endl;
     arch<<setw(15)<<left<<"DNI:"<<setw(12)<<right<<GetDni()<<endl;
     arch<<setw(15)<<left<<"MontoTotal:"<<setw(12)<<right<<GetTotal()<<endl;
-    arch<<setw(15)<<left<<"Descuento:"<<setw(12)<<right<<GetDescuento()<<endl;
+    arch<<setw(15)<<left<<"Descuento:"<<setw(12)<<right<<GetDescuento()<<"%"<<endl;
 }
 
 void PedidoEspecial::actualizaFlete(){

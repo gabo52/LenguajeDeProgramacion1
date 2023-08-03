@@ -1,7 +1,7 @@
 /* 
  * File:   BibliotecaColaGenerica.h
- * Author: Gabo
- * Codigo: 20203371
+ * Autor: Gabriel Omar Durán Ruiz 
+ * Código: 20203371
  * Created on 20 de octubre de 2022, 04:35 PM
  */
 

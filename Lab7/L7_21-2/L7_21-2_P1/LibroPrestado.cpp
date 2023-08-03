@@ -1,27 +1,31 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
+
 
 /* 
  * File:   LibroPrestado.cpp
- * Author: Gabo
+ * Author: USER
  * 
- * Created on 2 de noviembre de 2022, 11:41 PM
+ * Created on 7 de junio de 2023, 10:20 AM
  */
-
-#include "LibroPrestado.h"
+#include <iomanip>
+#include <iostream>
 #include <cstring>
+#include <fstream>
+#include "Libro.h"
+#include "LibroPrestado.h"
+using namespace std; 
+
 LibroPrestado::LibroPrestado() {
-    carne=0;
-    codigoLib = nullptr;
-    deuda =0;
-    
+    carne = 0;
+    tipo = 'X'; 
+    codigoLib = nullptr; 
+    fechaDeRetiro = 0;
+    deuda = 0; 
+}
+
+LibroPrestado::LibroPrestado(const LibroPrestado& orig) {
 }
 
 LibroPrestado::~LibroPrestado() {
-    delete codigoLib;
 }
 
 void LibroPrestado::SetDeuda(int deuda) {
@@ -40,21 +44,18 @@ int LibroPrestado::GetFechaDeRetiro() const {
     return fechaDeRetiro;
 }
 
-void LibroPrestado::SetCodigoLib(const char* cad) {
-    if(codigoLib)delete codigoLib;
-    if(cad==nullptr){
-        codigoLib = nullptr;
-    }else{
-        codigoLib = new char [strlen(cad)+1];
-        strcpy(codigoLib,cad);
-    }
+void LibroPrestado::SetCodigoLib(char* cad) {
+    if(codigoLib != nullptr) delete codigoLib;
+    codigoLib = new char[strlen(cad)+1];
+    strcpy(this->codigoLib,cad);
 }
 
-void LibroPrestado::GetCodigoLib(char* cad) const {
-    if(codigoLib==nullptr)strcpy(cad,"0");
-    else{
-        strcpy(cad,codigoLib);
-    }
+char* LibroPrestado::GetCodigoLib() const {
+    char *aux;
+    int longitud = strlen(codigoLib);
+    aux = new char[longitud+1];
+    strcpy(aux,codigoLib);
+    return aux;
 }
 
 void LibroPrestado::SetTipo(char tipo) {
@@ -74,12 +75,12 @@ int LibroPrestado::GetCarne() const {
 }
 
 void LibroPrestado::copia(const LibroPrestado &c){
-    SetCarne(c.GetCarne());
-    char cadena[200];
-    c.GetCodigoLib(cadena);
-    SetCodigoLib(cadena);
-    SetDeuda(c.GetDeuda());
-    SetFechaDeRetiro(c.GetFechaDeRetiro());
-    SetTipo(c.GetTipo());
+    carne = c.GetCarne();
+    tipo = c.GetTipo();
+    codigoLib = c.GetCodigoLib();
+    fechaDeRetiro = c.GetFechaDeRetiro();
+    deuda = c.GetDeuda(); 
 }
+
+
 

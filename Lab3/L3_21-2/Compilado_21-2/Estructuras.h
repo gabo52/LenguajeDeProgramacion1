@@ -6,8 +6,8 @@
 
 /* 
  * File:   Estructuras.h
- * Author: Gabo
- *
+ * Autor: Gabriel Omar Durán Ruiz 
+ * Código: 20203371
  * Created on 15 de septiembre de 2022, 12:01 AM
  */
 

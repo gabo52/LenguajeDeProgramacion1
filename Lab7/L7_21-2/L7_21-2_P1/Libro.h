@@ -1,22 +1,20 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
+
 
 /* 
  * File:   Libro.h
- * Author: Gabo
+ * Author: USER
  *
- * Created on 2 de noviembre de 2022, 11:42 PM
+ * Created on 7 de junio de 2023, 10:21 AM
  */
 
 #ifndef LIBRO_H
 #define LIBRO_H
 #include "LibroPrestado.h"
+
 class Libro {
 public:
     Libro();
+    Libro(const Libro& orig);
     virtual ~Libro();
     void SetCantAdm(int cantAdm);
     int GetCantAdm() const;
@@ -30,24 +28,24 @@ public:
     double GetPrecio() const;
     void SetStock(int stock);
     int GetStock() const;
-    void SetAutor(const char* autor);
-    void GetAutor(char *) const;
-    void SetTitulo(const char* titulo);
-    void GetTitulo(char *) const;
-    void SetCodigo(const char* codigo);
-    void GetCodigo(char *) const;
+    void SetAutor(char* cad);
+    char* GetAutor() const;
+    void SetTitulo(char* cad);
+    char* GetTitulo() const;
+    void SetCodigo(char* cad);
+    char* GetCodigo() const;
     void copia(const Libro &c);
-    void operator += (const LibroPrestado &prest);
+    void operator += (const LibroPrestado &c);
 private:
-    char *codigo;
-    char *titulo;
+    char *codigo; 
+    char *titulo; 
     char *autor;
     int stock;
-    double precio;
+    double precio; 
     int prestados;
     int cantEst;
     int cantDoc;
-    int cantAdm;
+    int cantAdm; 
 };
 
 #endif /* LIBRO_H */

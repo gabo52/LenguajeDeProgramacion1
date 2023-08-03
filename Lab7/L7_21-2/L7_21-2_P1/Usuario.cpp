@@ -1,29 +1,31 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
 
 /* 
  * File:   Usuario.cpp
- * Author: Gabo
+ * Author: USER
  * 
- * Created on 2 de noviembre de 2022, 11:39 PM
+ * Created on 7 de junio de 2023, 10:17 AM
  */
 
-#include "Usuario.h"
+#include <iomanip>
+#include <iostream>
 #include <cstring>
-#include "FuncionesFecha.h"
-#include "FuncionesLecturaEscritura.h"
+#include <fstream>
+#include <math.h>
+#include "Libro.h"
+#include "Usuario.h"
+#include "LibroPrestado.h"
+using namespace std; 
+
 Usuario::Usuario() {
-    carne=0;
-    nombre = nullptr;
-    numLibPrest=0;
-    condicion=0;
+    carne = 0;
+    nombre = nullptr; 
+    condicion = 1; 
+}
+
+Usuario::Usuario(const Usuario& orig) {
 }
 
 Usuario::~Usuario() {
-    delete nombre;
 }
 
 void Usuario::SetCondicion(int condicion) {
@@ -34,26 +36,29 @@ int Usuario::GetCondicion() const {
     return condicion;
 }
 
-void Usuario::SetNumLibPrest(int numLibPrest) {
-    this->numLibPrest = numLibPrest;
+void Usuario::SetLibPrest(LibroPrestado *arr) {
+    for(int i=0;libPrest[i].GetCarne();i++) libPrest[i].copia(arr[i]);
 }
 
-int Usuario::GetNumLibPrest() const {
-    return numLibPrest;
+LibroPrestado* Usuario::GetLibPrest() const{
+    LibroPrestado *lib;
+    lib = new LibroPrestado[100]{};
+    for(int i=0;libPrest[i].GetCarne();i++) lib[i].copia(libPrest[i]);
+    return lib;
 }
-
 
 void Usuario::SetNombre(char* cad) {
-    if(nombre)delete nombre;
-    if(cad!=nullptr){
-        nombre = new char [strlen(cad)+1];
-    }else nombre = nullptr;
+    if(nombre != nullptr) delete nombre;
+    nombre = new char[strlen(cad)+1];
+    strcpy(this->nombre,cad);
 }
 
-void Usuario::GetNombre(char *cad) const {
-    if(cad!=nullptr) strcpy(nombre,cad);
-    else strcpy(cad,"0");
-   
+char* Usuario::GetNombre() const {
+    char *aux;
+    int longitud = strlen(nombre);
+    aux = new char[longitud+1];
+    strcpy(aux,nombre);
+    return aux;
 }
 
 void Usuario::SetTipo(char tipo) {
@@ -73,49 +78,31 @@ int Usuario::GetCarne() const {
 }
 
 void Usuario::copia(const Usuario &c){
-    char cadena[200];
+    int i; 
     carne = c.GetCarne();
-    condicion = c.GetCondicion();
-    c.GetNombre(cadena);
-    SetNombre(cadena);
-    carne = c.GetCarne();
-    numLibPrest = c.GetNumLibPrest();
     tipo = c.GetTipo();
+    condicion = c.GetCondicion();
+    for(i=0;libPrest[i].GetCarne();i++) libPrest[i].copia(c.libPrest[i]); 
+    
 }
 
-void Usuario::operator += (const LibroPrestado &prest){
-    libPrest[GetNumLibPrest()].copia(prest);
-    SetNumLibPrest(GetNumLibPrest()+1);
+void Usuario::operator += (const LibroPrestado &c){
+    int i, num = 0; 
+    for(i=0;libPrest[i].GetCarne();i++) num++;    
+    libPrest[num].copia(c); 
 }
 
 void Usuario::operator * (int fecha){
-    int aux,n;
-    char tip=GetTipo();
-    for(int i=0;i<GetNumLibPrest();i++){
-        aux=libPrest[i].GetFechaDeRetiro();
-        n=numeroDeDias(fecha,aux);
-        if(tip=='A'){
-            if(n>7){
-                SetCondicion(1);
-                return;
-            }
-        }else if(tip=='E'){
-            if(n>10){
-                SetCondicion(1);
-                return;
-            }
-        }else{
-            if(n>15){
-                SetCondicion(1);
-                return;
-            }
+    int i, librosDeudas = 0, max = 0; 
+    
+    if(tipo == 'A') max = 7; 
+    if(tipo == 'D') max = 15; 
+    if(tipo == 'E') max = 10; 
+    
+    for(i=0;libPrest[i].GetCarne();i++){
+        if(fabs((fecha - libPrest[i].GetFechaDeRetiro())) > max){
+            libPrest[i].SetDeuda(1); 
+            condicion = 0; 
         }
     }
 }
-
-void Usuario::imprimeLibros (ofstream &arch){
-    for(int i=0;i<GetNumLibPrest();i++){
-        arch<<libPrest[i];
-    }
-}
-

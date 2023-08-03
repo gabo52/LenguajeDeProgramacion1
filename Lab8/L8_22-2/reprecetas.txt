@@ -1,0 +1,1657 @@
+30796     Miranda/Alfonso                         5         51642949       Miranda/Alfonso               54.4      
+53846     Miranda/Alfonso                         17        51642949       Miranda/Alfonso               47.6      
+31883     Miranda/Alfonso                         19        51642949       Miranda/Alfonso               67.15     
+72969     Solis/Maria                             30        61061535       Solis/Maria                   58.65     
+57269     Solis/Maria                             12        61061535       Solis/Maria                   34        
+57269     Solis/Maria                             15        61061535       Solis/Maria                   34        
+37007     Solis/Maria                             19        61061535       Solis/Maria                   47.6      
+57036     Solis/Maria                             5         61061535       Solis/Maria                   38.25     
+17804     Patino/Delicia                          5         54815159       Patino/Delicia                10.2      
+75565     Patino/Delicia                          26        54815159       Patino/Delicia                46.75     
+36711     Patino/Delicia                          16        54815159       Patino/Delicia                84.15     
+12388     Patino/Delicia                          17        54815159       Patino/Delicia                76.5      
+72061     Hernandez/Guillermo                     28        15290194       Hernandez/Guillermo           51        
+72061     Hernandez/Guillermo                     18        15290194       Hernandez/Guillermo           51        
+17790     Hernandez/Guillermo                     23        15290194       Hernandez/Guillermo           17        
+39088     Hernandez/Guillermo                     35        15290194       Hernandez/Guillermo           11.9      
+17790     Hernandez/Guillermo                     21        15290194       Hernandez/Guillermo           17        
+17790     Hernandez/Guillermo                     25        15290194       Hernandez/Guillermo           17        
+79996     Sedano/Elia                             10        35347567       Sedano/Elia                   31.45     
+38648     Sedano/Elia                             28        35347567       Sedano/Elia                   69.7      
+37007     Sedano/Elia                             33        35347567       Sedano/Elia                   47.6      
+18672     Sedano/Elia                             12        35347567       Sedano/Elia                   15.3      
+95540     Sedano/Elia                             23        35347567       Sedano/Elia                   28.05     
+97465     Sedano/Elia                             33        35347567       Sedano/Elia                   4.25      
+34066     Rivero/Wilver                           6         52313890       Rivero/Wilver                 51.85     
+14962     Rivero/Wilver                           19        52313890       Rivero/Wilver                 46.75     
+15098     Zambrano/Ofelia                         17        93282118       Zambrano/Ofelia               81.6      
+30007     Zambrano/Ofelia                         14        93282118       Zambrano/Ofelia               0.85      
+14962     Zambrano/Ofelia                         6         93282118       Zambrano/Ofelia               46.75     
+91282     Vizcardo/Maribel                        5         43704548       Vizcardo/Maribel              6.8       
+55021     Vizcardo/Maribel                        5         43704548       Vizcardo/Maribel              82.45     
+70116     Vizcardo/Maribel                        21        43704548       Vizcardo/Maribel              23.8      
+75565     Vizcardo/Maribel                        1         43704548       Vizcardo/Maribel              46.75     
+11592     Vizcardo/Maribel                        23        43704548       Vizcardo/Maribel              68        
+96881     Lozada/Heli                             8         20371464       Lozada/Heli                   7.65      
+96881     Lozada/Heli                             23        20371464       Lozada/Heli                   7.65      
+77466     Henriquez/Silvana                       6         93939698       Henriquez/Silvana             5.95      
+96554     Henriquez/Silvana                       17        93939698       Henriquez/Silvana             4.25      
+77466     Henriquez/Silvana                       14        93939698       Henriquez/Silvana             5.95      
+97465     Cerna/Cinthia                           27        86988155       Cerna/Cinthia                 4.25      
+58259     Cerna/Cinthia                           15        86988155       Cerna/Cinthia                 85        
+16055     Cerna/Cinthia                           18        86988155       Cerna/Cinthia                 45.9      
+58259     Cerna/Cinthia                           25        86988155       Cerna/Cinthia                 85        
+34070     Ayala/Ericka                            10        34697743       Ayala/Ericka                  73.1      
+34070     Ayala/Ericka                            7         34697743       Ayala/Ericka                  73.1      
+74680     Ayala/Ericka                            3         34697743       Ayala/Ericka                  56.1      
+16055     Ayala/Ericka                            23        34697743       Ayala/Ericka                  45.9      
+72495     Ayala/Ericka                            9         34697743       Ayala/Ericka                  43.35     
+37549     Hijar/Martin                            7         32538825       Hijar/Martin                  44.2      
+37549     Hijar/Martin                            14        32538825       Hijar/Martin                  44.2      
+16055     Hijar/Martin                            30        32538825       Hijar/Martin                  45.9      
+18672     Sueldo/Adria                            29        22598563       Sueldo/Adria                  15.3      
+31883     Sueldo/Adria                            34        22598563       Sueldo/Adria                  67.15     
+53846     Soma/Lourdes                            16        37282858       Soma/Lourdes                  47.6      
+13364     Soma/Lourdes                            32        37282858       Soma/Lourdes                  13.6      
+18672     Henriquez/Silvana                       5         93939698       Henriquez/Silvana             15.3      
+55701     Henriquez/Silvana                       20        93939698       Henriquez/Silvana             46.75     
+98261     Henriquez/Silvana                       33        93939698       Henriquez/Silvana             70.55     
+39779     Henriquez/Silvana                       14        93939698       Henriquez/Silvana             85        
+57269     Raffo/Rolando                           34        95656771       Raffo/Rolando                 34        
+14962     Raffo/Rolando                           19        95656771       Raffo/Rolando                 46.75     
+79996     Raffo/Rolando                           16        95656771       Raffo/Rolando                 31.45     
+58036     Raffo/Rolando                           5         95656771       Raffo/Rolando                 33.15     
+58036     Raffo/Rolando                           22        95656771       Raffo/Rolando                 33.15     
+76238     Raffo/Rolando                           13        95656771       Raffo/Rolando                 56.95     
+92517     Moscoso/Fiorella                        5         57182371       Moscoso/Fiorella              11.9      
+36711     Moscoso/Fiorella                        11        57182371       Moscoso/Fiorella              84.15     
+30796     Moscoso/Fiorella                        22        57182371       Moscoso/Fiorella              54.4      
+92517     Moscoso/Fiorella                        31        57182371       Moscoso/Fiorella              11.9      
+12388     Moscoso/Fiorella                        6         57182371       Moscoso/Fiorella              76.5      
+50450     Zarate/Alexander                        12        93231760       Zarate/Alexander              74.8      
+50450     Zarate/Alexander                        32        93231760       Zarate/Alexander              74.8      
+53166     Zarate/Alexander                        3         93231760       Zarate/Alexander              5.95      
+53166     Zarate/Alexander                        27        93231760       Zarate/Alexander              5.95      
+33200     Zarate/Alexander                        33        93231760       Zarate/Alexander              76.5      
+33390     Asmad/Adria                             12        68269451       Asmad/Adria                   28.9      
+76238     Raffo/Rolando                           33        95656771       Raffo/Rolando                 56.95     
+59121     Pena/Glenda                             8         36471787       Pena/Glenda                   81.6      
+77203     Pena/Glenda                             31        36471787       Pena/Glenda                   80.75     
+55021     Pena/Glenda                             6         36471787       Pena/Glenda                   82.45     
+70116     Lozada/Antonio                          35        45914393       Lozada/Antonio                23.8      
+11592     Lozada/Antonio                          30        45914393       Lozada/Antonio                68        
+53846     Lozada/Antonio                          1         45914393       Lozada/Antonio                47.6      
+30430     Lozada/Antonio                          15        45914393       Lozada/Antonio                22.1      
+11592     Lozada/Antonio                          17        45914393       Lozada/Antonio                68        
+14962     Prado/Juan                              27        53420926       Prado/Juan                    46.75     
+54692     Luna/Waldemar                           13        14956687       Luna/Waldemar                 28.9      
+54692     Vega/Henrry                             33        81647285       Vega/Henrry                   28.9      
+76238     Vega/Henrry                             26        81647285       Vega/Henrry                   56.95     
+70303     Vega/Henrry                             14        81647285       Vega/Henrry                   72.25     
+70303     Vega/Henrry                             19        81647285       Vega/Henrry                   72.25     
+76238     Vega/Henrry                             22        81647285       Vega/Henrry                   56.95     
+55021     Pena/Glenda                             32        36471787       Pena/Glenda                   82.45     
+70226     Pena/Glenda                             19        36471787       Pena/Glenda                   39.95     
+59121     Pena/Glenda                             26        36471787       Pena/Glenda                   81.6      
+30796     Patino/Delicia                          5         54815159       Patino/Delicia                54.4      
+59121     Patino/Delicia                          27        54815159       Patino/Delicia                81.6      
+94415     Salamanca/Virginia                      21        13731806       Salamanca/Virginia            68.85     
+74924     Salamanca/Virginia                      35        13731806       Salamanca/Virginia            37.4      
+16813     Salamanca/Virginia                      19        13731806       Salamanca/Virginia            5.95      
+58200     Salamanca/Virginia                      5         13731806       Salamanca/Virginia            56.1      
+94415     Durand/Enrique                          35        62126128       Durand/Enrique                68.85     
+94415     Durand/Enrique                          9         62126128       Durand/Enrique                68.85     
+75565     Durand/Enrique                          26        62126128       Durand/Enrique                46.75     
+73972     Sueldo/Adria                            8         22598563       Sueldo/Adria                  54.4      
+79996     Sueldo/Adria                            19        22598563       Sueldo/Adria                  31.45     
+18672     Sueldo/Adria                            15        22598563       Sueldo/Adria                  15.3      
+53166     Pairazaman/Tatiana                      20        93961840       Pairazaman/Tatiana            5.95      
+73174     Pairazaman/Tatiana                      9         93961840       Pairazaman/Tatiana            41.65     
+39088     Pairazaman/Tatiana                      21        93961840       Pairazaman/Tatiana            11.9      
+30796     Pairazaman/Tatiana                      31        93961840       Pairazaman/Tatiana            54.4      
+39088     Pairazaman/Tatiana                      30        93961840       Pairazaman/Tatiana            11.9      
+58200     Lozada/Heli                             31        20371464       Lozada/Heli                   56.1      
+72061     Lozada/Heli                             35        20371464       Lozada/Heli                   51        
+92628     Lozada/Heli                             19        20371464       Lozada/Heli                   45.9      
+57269     Lozada/Heli                             33        20371464       Lozada/Heli                   34        
+70226     Hijar/Martin                            25        32538825       Hijar/Martin                  39.95     
+77203     Hijar/Martin                            15        32538825       Hijar/Martin                  80.75     
+90198     Jauregui/Victor                         20        35852072       Jauregui/Victor               44.2      
+79996     Jauregui/Victor                         12        35852072       Jauregui/Victor               31.45     
+76360     Jauregui/Victor                         27        35852072       Jauregui/Victor               32.3      
+74924     Jauregui/Victor                         12        35852072       Jauregui/Victor               37.4      
+70116     Jauregui/Victor                         8         35852072       Jauregui/Victor               23.8      
+34080     Rodriguez/Blanca                        17        63640178       Rodriguez/Blanca              60.35     
+77466     Rodriguez/Blanca                        7         63640178       Rodriguez/Blanca              5.95      
+70807     Zambrano/Ofelia                         14        93282118       Zambrano/Ofelia               22.95     
+91282     Zambrano/Ofelia                         12        93282118       Zambrano/Ofelia               6.8       
+11370     Mercado/Elia                            5         35606314       Mercado/Elia                  2.55      
+12388     Moscoso/Fiorella                        11        57182371       Moscoso/Fiorella              76.5      
+92517     Moscoso/Fiorella                        13        57182371       Moscoso/Fiorella              11.9      
+57036     Durand/Enrique                          14        62126128       Durand/Enrique                38.25     
+75565     Durand/Enrique                          28        62126128       Durand/Enrique                46.75     
+55813     Leyva/Diana                             31        54149342       Leyva/Diana                   22.95     
+90300     Leyva/Diana                             1         54149342       Leyva/Diana                   40.8      
+31189     Leyva/Diana                             16        54149342       Leyva/Diana                   40.8      
+93578     Camacho/Ydali                           13        65912822       Camacho/Ydali                 55.25     
+70225     Camacho/Ydali                           31        65912822       Camacho/Ydali                 47.6      
+93578     Camacho/Ydali                           1         65912822       Camacho/Ydali                 55.25     
+34080     Camacho/Ydali                           6         65912822       Camacho/Ydali                 60.35     
+55021     Camacho/Ydali                           10        65912822       Camacho/Ydali                 82.45     
+72939     Camacho/Ydali                           1         65912822       Camacho/Ydali                 76.5      
+14075     Vega/Henrry                             32        81647285       Vega/Henrry                   9.35      
+70024     Vega/Henrry                             35        81647285       Vega/Henrry                   68.85     
+39172     Vega/Henrry                             14        81647285       Vega/Henrry                   41.65     
+79996     Contreras/Johana                        23        99891737       Contreras/Johana              31.45     
+91282     Contreras/Johana                        33        99891737       Contreras/Johana              6.8       
+13364     Contreras/Johana                        18        99891737       Contreras/Johana              13.6      
+70116     Contreras/Johana                        30        99891737       Contreras/Johana              23.8      
+53846     Contreras/Johana                        17        99891737       Contreras/Johana              47.6      
+30430     Contreras/Johana                        22        99891737       Contreras/Johana              22.1      
+75565     Wong/Beatriz                            23        62287143       Wong/Beatriz                  46.75     
+37007     Wong/Beatriz                            4         62287143       Wong/Beatriz                  47.6      
+12388     Wong/Beatriz                            25        62287143       Wong/Beatriz                  76.5      
+76238     Rios/Ines                               23        68114999       Rios/Ines                     56.95     
+31311     Rios/Ines                               19        68114999       Rios/Ines                     65.45     
+17804     Rios/Ines                               32        68114999       Rios/Ines                     10.2      
+53200     Rios/Ines                               9         68114999       Rios/Ines                     68.85     
+13364     Rios/Ines                               18        68114999       Rios/Ines                     13.6      
+16681     Diaz/Enrique                            34        12484697       Diaz/Enrique                  22.1      
+36711     Diaz/Enrique                            10        12484697       Diaz/Enrique                  84.15     
+58259     Diaz/Enrique                            12        12484697       Diaz/Enrique                  85        
+96031     Sam/Ines                                27        51465986       Sam/Ines                      45.9      
+70024     Arroyo/Natalia                          29        58643376       Arroyo/Natalia                68.85     
+91282     Arroyo/Natalia                          2         58643376       Arroyo/Natalia                6.8       
+14962     Suarez/Amaru                            8         17299012       Suarez/Amaru                  46.75     
+13364     Sedano/Elia                             7         35347567       Sedano/Elia                   13.6      
+16359     Sedano/Elia                             9         35347567       Sedano/Elia                   75.65     
+92628     Lozada/Heli                             25        20371464       Lozada/Heli                   45.9      
+92628     Lozada/Heli                             31        20371464       Lozada/Heli                   45.9      
+58252     Lozada/Heli                             15        20371464       Lozada/Heli                   34.85     
+72969     Durand/Enrique                          12        62126128       Durand/Enrique                58.65     
+75565     Durand/Enrique                          6         62126128       Durand/Enrique                46.75     
+57269     Durand/Enrique                          14        62126128       Durand/Enrique                34        
+30796     Sam/Ines                                26        51465986       Sam/Ines                      54.4      
+34080     Sam/Ines                                14        51465986       Sam/Ines                      60.35     
+96031     Sam/Ines                                28        51465986       Sam/Ines                      45.9      
+50450     Sam/Ines                                11        51465986       Sam/Ines                      74.8      
+91653     Lozada/Felicita                         21        71422479       Lozada/Felicita               40.8      
+36822     Lozada/Felicita                         8         71422479       Lozada/Felicita               9.35      
+12388     Lozada/Felicita                         18        71422479       Lozada/Felicita               76.5      
+72969     Wong/Beatriz                            8         62287143       Wong/Beatriz                  58.65     
+39779     Rosemberg/Julio                         33        59561864       Rosemberg/Julio               85        
+70024     Rosemberg/Julio                         12        59561864       Rosemberg/Julio               68.85     
+36822     Moscoso/Janet                           15        77324146       Moscoso/Janet                 9.35      
+33276     Moscoso/Janet                           16        77324146       Moscoso/Janet                 11.05     
+76247     Moscoso/Janet                           28        77324146       Moscoso/Janet                 59.5      
+37549     Moscoso/Janet                           5         77324146       Moscoso/Janet                 44.2      
+59121     Moscoso/Janet                           19        77324146       Moscoso/Janet                 81.6      
+30220     Moscoso/Janet                           13        77324146       Moscoso/Janet                 39.95     
+76238     Moscoso/Janet                           13        77324146       Moscoso/Janet                 56.95     
+33390     Ramirez/Karina                          8         80694546       Ramirez/Karina                28.9      
+33390     Ramirez/Karina                          16        80694546       Ramirez/Karina                28.9      
+51148     Ramirez/Karina                          20        80694546       Ramirez/Karina                56.1      
+92560     Ramirez/Karina                          13        80694546       Ramirez/Karina                28.9      
+70303     Ramirez/Karina                          10        80694546       Ramirez/Karina                72.25     
+53200     Ramirez/Karina                          24        80694546       Ramirez/Karina                68.85     
+77534     Ramirez/Karina                          23        80694546       Ramirez/Karina                38.25     
+30796     Sam/Ines                                7         51465986       Sam/Ines                      54.4      
+59121     Pena/Glenda                             9         36471787       Pena/Glenda                   81.6      
+74924     Mercado/Elia                            10        35606314       Mercado/Elia                  37.4      
+59395     Vargas/Daniel                           12        72973662       Vargas/Daniel                 16.15     
+17804     Vargas/Daniel                           33        72973662       Vargas/Daniel                 10.2      
+76238     Asmad/Adria                             26        68269451       Asmad/Adria                   56.95     
+31311     Asmad/Adria                             31        68269451       Asmad/Adria                   65.45     
+17804     Asmad/Adria                             14        68269451       Asmad/Adria                   10.2      
+13364     Asmad/Adria                             29        68269451       Asmad/Adria                   13.6      
+14075     Asmad/Adria                             35        68269451       Asmad/Adria                   9.35      
+30796     Ortiz/Raul                              31        27709566       Ortiz/Raul                    54.4      
+70225     Ortiz/Raul                              23        27709566       Ortiz/Raul                    47.6      
+70225     Ortiz/Raul                              19        27709566       Ortiz/Raul                    47.6      
+17790     Ortiz/Raul                              21        27709566       Ortiz/Raul                    17        
+70226     Lozada/Antonio                          24        45914393       Lozada/Antonio                39.95     
+13364     Lozada/Antonio                          20        45914393       Lozada/Antonio                13.6      
+13364     Lozada/Antonio                          17        45914393       Lozada/Antonio                13.6      
+30430     Lozada/Antonio                          24        45914393       Lozada/Antonio                22.1      
+11592     Lozada/Antonio                          1         45914393       Lozada/Antonio                68        
+31189     Pairazaman/Tatiana                      12        93961840       Pairazaman/Tatiana            40.8      
+31189     Pairazaman/Tatiana                      18        93961840       Pairazaman/Tatiana            40.8      
+30796     Pairazaman/Tatiana                      1         93961840       Pairazaman/Tatiana            54.4      
+73174     Pairazaman/Tatiana                      11        93961840       Pairazaman/Tatiana            41.65     
+39172     Escalante/Ines                          27        30246960       Escalante/Ines                41.65     
+33200     Escalante/Ines                          14        30246960       Escalante/Ines                76.5      
+90300     Escalante/Ines                          19        30246960       Escalante/Ines                40.8      
+97465     Escalante/Ines                          8         30246960       Escalante/Ines                4.25      
+37007     Solis/Maria                             31        61061535       Solis/Maria                   47.6      
+72969     Solis/Maria                             8         61061535       Solis/Maria                   58.65     
+36822     Moscoso/Janet                           11        77324146       Moscoso/Janet                 9.35      
+76247     Moscoso/Janet                           25        77324146       Moscoso/Janet                 59.5      
+37549     Moscoso/Janet                           35        77324146       Moscoso/Janet                 44.2      
+58200     Fuentes/Patricia                        35        85395219       Fuentes/Patricia              56.1      
+55813     Fuentes/Patricia                        23        85395219       Fuentes/Patricia              22.95     
+70116     Lozada/Antonio                          9         45914393       Lozada/Antonio                23.8      
+91282     Lozada/Antonio                          17        45914393       Lozada/Antonio                6.8       
+53846     Lozada/Antonio                          34        45914393       Lozada/Antonio                47.6      
+53166     Vega/Carmela                            32        72330000       Vega/Carmela                  5.95      
+36622     Vega/Carmela                            35        72330000       Vega/Carmela                  57.8      
+77203     Vega/Carmela                            33        72330000       Vega/Carmela                  80.75     
+53166     Vega/Carmela                            14        72330000       Vega/Carmela                  5.95      
+33311     Vega/Carmela                            4         72330000       Vega/Carmela                  20.4      
+57505     Vega/Carmela                            31        72330000       Vega/Carmela                  43.35     
+16299     Vega/Carmela                            18        72330000       Vega/Carmela                  49.3      
+77203     Vega/Carmela                            16        72330000       Vega/Carmela                  80.75     
+55021     Serrano/Arturo                          11        36934113       Serrano/Arturo                82.45     
+59121     Serrano/Arturo                          26        36934113       Serrano/Arturo                81.6      
+30428     Serrano/Arturo                          26        36934113       Serrano/Arturo                19.55     
+70226     Serrano/Arturo                          9         36934113       Serrano/Arturo                39.95     
+57036     Wong/Beatriz                            34        62287143       Wong/Beatriz                  38.25     
+34027     Wong/Beatriz                            22        62287143       Wong/Beatriz                  79.05     
+75565     Wong/Beatriz                            1         62287143       Wong/Beatriz                  46.75     
+76360     Jauregui/Victor                         13        35852072       Jauregui/Victor               32.3      
+58252     Jauregui/Victor                         23        35852072       Jauregui/Victor               34.85     
+70116     Jauregui/Victor                         19        35852072       Jauregui/Victor               23.8      
+76360     Jauregui/Victor                         5         35852072       Jauregui/Victor               32.3      
+16813     Guevara/Milena                          33        45201670       Guevara/Milena                5.95      
+90300     Guevara/Milena                          31        45201670       Guevara/Milena                40.8      
+70225     Guevara/Milena                          26        45201670       Guevara/Milena                47.6      
+36208     Guevara/Milena                          32        45201670       Guevara/Milena                63.75     
+72061     Guevara/Milena                          31        45201670       Guevara/Milena                51        
+30007     Guevara/Milena                          8         45201670       Guevara/Milena                0.85      
+77203     Hijar/Martin                            33        32538825       Hijar/Martin                  80.75     
+93578     Baca/Milagros                           13        66091742       Baca/Milagros                 55.25     
+70807     Baca/Milagros                           8         66091742       Baca/Milagros                 22.95     
+70225     Baca/Milagros                           11        66091742       Baca/Milagros                 47.6      
+55021     Baca/Milagros                           2         66091742       Baca/Milagros                 82.45     
+70226     Serrano/Arturo                          29        36934113       Serrano/Arturo                39.95     
+76360     Rios/Ines                               23        68114999       Rios/Ines                     32.3      
+91282     Rosemberg/Julio                         21        59561864       Rosemberg/Julio               6.8       
+76247     Rosemberg/Julio                         33        59561864       Rosemberg/Julio               59.5      
+70807     Pairazaman/Tatiana                      18        93961840       Pairazaman/Tatiana            22.95     
+79189     Pairazaman/Tatiana                      18        93961840       Pairazaman/Tatiana            73.1      
+72969     Durand/Enrique                          16        62126128       Durand/Enrique                58.65     
+57269     Durand/Enrique                          9         62126128       Durand/Enrique                34        
+37007     Durand/Enrique                          10        62126128       Durand/Enrique                47.6      
+13364     Contreras/Johana                        10        99891737       Contreras/Johana              13.6      
+79996     Contreras/Johana                        13        99891737       Contreras/Johana              31.45     
+37549     Escalante/Emigdio                       18        77440060       Escalante/Emigdio             44.2      
+72939     Escalante/Emigdio                       17        77440060       Escalante/Emigdio             76.5      
+98261     Alfaro/Erick                            35        81539774       Alfaro/Erick                  70.55     
+34027     Fuentes/Patricia                        33        85395219       Fuentes/Patricia              79.05     
+55813     Fuentes/Patricia                        16        85395219       Fuentes/Patricia              22.95     
+55813     Fuentes/Patricia                        22        85395219       Fuentes/Patricia              22.95     
+79851     Fuentes/Patricia                        23        85395219       Fuentes/Patricia              84.15     
+79851     Fuentes/Patricia                        2         85395219       Fuentes/Patricia              84.15     
+77203     Serrano/Arturo                          9         36934113       Serrano/Arturo                80.75     
+30428     Serrano/Arturo                          22        36934113       Serrano/Arturo                19.55     
+55021     Serrano/Arturo                          30        36934113       Serrano/Arturo                82.45     
+70226     Serrano/Arturo                          29        36934113       Serrano/Arturo                39.95     
+17804     Patino/Delicia                          17        54815159       Patino/Delicia                10.2      
+30796     Patino/Delicia                          15        54815159       Patino/Delicia                54.4      
+36711     Patino/Delicia                          34        54815159       Patino/Delicia                84.15     
+37549     Patino/Delicia                          6         54815159       Patino/Delicia                44.2      
+17804     Patino/Delicia                          23        54815159       Patino/Delicia                10.2      
+59121     Patino/Delicia                          15        54815159       Patino/Delicia                81.6      
+79851     Ramirez/Karina                          32        80694546       Ramirez/Karina                84.15     
+92560     Ramirez/Karina                          34        80694546       Ramirez/Karina                28.9      
+33390     Ramirez/Karina                          15        80694546       Ramirez/Karina                28.9      
+77466     Ramirez/Karina                          31        80694546       Ramirez/Karina                5.95      
+53200     Ramirez/Karina                          25        80694546       Ramirez/Karina                68.85     
+52072     Ramirez/Karina                          23        80694546       Ramirez/Karina                63.75     
+33390     Ramirez/Karina                          31        80694546       Ramirez/Karina                28.9      
+59121     Patino/Delicia                          5         54815159       Patino/Delicia                81.6      
+59121     Patino/Delicia                          30        54815159       Patino/Delicia                81.6      
+79189     Patino/Delicia                          25        54815159       Patino/Delicia                73.1      
+76360     Rios/Ines                               20        68114999       Rios/Ines                     32.3      
+76360     Asmad/Adria                             3         68269451       Asmad/Adria                   32.3      
+92560     Asmad/Adria                             24        68269451       Asmad/Adria                   28.9      
+53846     Sam/Ines                                27        51465986       Sam/Ines                      47.6      
+34080     Sam/Ines                                22        51465986       Sam/Ines                      60.35     
+34080     Sam/Ines                                17        51465986       Sam/Ines                      60.35     
+58252     Sam/Ines                                16        51465986       Sam/Ines                      34.85     
+58252     Sam/Ines                                16        51465986       Sam/Ines                      34.85     
+53846     Contreras/Johana                        7         99891737       Contreras/Johana              47.6      
+31189     Pairazaman/Tatiana                      8         93961840       Pairazaman/Tatiana            40.8      
+31189     Pairazaman/Tatiana                      5         93961840       Pairazaman/Tatiana            40.8      
+39088     Pairazaman/Tatiana                      10        93961840       Pairazaman/Tatiana            11.9      
+39088     Pairazaman/Tatiana                      33        93961840       Pairazaman/Tatiana            11.9      
+58036     Zarate/Alexander                        5         93231760       Zarate/Alexander              33.15     
+95540     Escalante/Emigdio                       25        77440060       Escalante/Emigdio             28.05     
+33276     Escalante/Emigdio                       24        77440060       Escalante/Emigdio             11.05     
+75565     Farfan/Margot                           2         94683380       Farfan/Margot                 46.75     
+70303     Ramirez/Karina                          22        80694546       Ramirez/Karina                72.25     
+90300     Ramirez/Karina                          6         80694546       Ramirez/Karina                40.8      
+70303     Ramirez/Karina                          3         80694546       Ramirez/Karina                72.25     
+12388     Lozada/Heli                             27        20371464       Lozada/Heli                   76.5      
+96881     Lozada/Heli                             28        20371464       Lozada/Heli                   7.65      
+57269     Lozada/Heli                             27        20371464       Lozada/Heli                   34        
+77466     Vargas/Daniel                           32        72973662       Vargas/Daniel                 5.95      
+16055     Camacho/Ydali                           12        65912822       Camacho/Ydali                 45.9      
+34080     Camacho/Ydali                           26        65912822       Camacho/Ydali                 60.35     
+73972     Sueldo/Adria                            29        22598563       Sueldo/Adria                  54.4      
+79996     Sueldo/Adria                            23        22598563       Sueldo/Adria                  31.45     
+58200     Sueldo/Adria                            9         22598563       Sueldo/Adria                  56.1      
+57036     Durand/Enrique                          10        62126128       Durand/Enrique                38.25     
+72969     Durand/Enrique                          7         62126128       Durand/Enrique                58.65     
+75565     Durand/Enrique                          25        62126128       Durand/Enrique                46.75     
+34070     Calixto/Erick                           18        51873364       Calixto/Erick                 73.1      
+16359     Calixto/Erick                           22        51873364       Calixto/Erick                 75.65     
+70113     Calixto/Erick                           21        51873364       Calixto/Erick                 30.6      
+72495     Calixto/Erick                           26        51873364       Calixto/Erick                 43.35     
+55021     Calixto/Erick                           29        51873364       Calixto/Erick                 82.45     
+74924     Salamanca/Virginia                      33        13731806       Salamanca/Virginia            37.4      
+94415     Salamanca/Virginia                      5         13731806       Salamanca/Virginia            68.85     
+34080     Salamanca/Virginia                      24        13731806       Salamanca/Virginia            60.35     
+95540     Escalante/Emigdio                       8         77440060       Escalante/Emigdio             28.05     
+95540     Escalante/Emigdio                       30        77440060       Escalante/Emigdio             28.05     
+37549     Escalante/Emigdio                       29        77440060       Escalante/Emigdio             44.2      
+76238     Escalante/Emigdio                       11        77440060       Escalante/Emigdio             56.95     
+95540     Escalante/Emigdio                       16        77440060       Escalante/Emigdio             28.05     
+77466     Prado/Juan                              4         53420926       Prado/Juan                    5.95      
+36208     Prado/Juan                              21        53420926       Prado/Juan                    63.75     
+31189     Prado/Juan                              26        53420926       Prado/Juan                    40.8      
+58252     Miranda/Alfonso                         30        51642949       Miranda/Alfonso               34.85     
+31883     Miranda/Alfonso                         17        51642949       Miranda/Alfonso               67.15     
+72969     Solis/Maria                             21        61061535       Solis/Maria                   58.65     
+12388     Solis/Maria                             23        61061535       Solis/Maria                   76.5      
+36208     Serrano/Arturo                          26        36934113       Serrano/Arturo                63.75     
+96554     Serrano/Arturo                          24        36934113       Serrano/Arturo                4.25      
+55021     Serrano/Arturo                          3         36934113       Serrano/Arturo                82.45     
+75565     Contreras/Johana                        31        99891737       Contreras/Johana              46.75     
+11592     Contreras/Johana                        6         99891737       Contreras/Johana              68        
+79996     Contreras/Johana                        35        99891737       Contreras/Johana              31.45     
+11592     Sinche/Yvonne                           24        90367684       Sinche/Yvonne                 68        
+79996     Sinche/Yvonne                           12        90367684       Sinche/Yvonne                 31.45     
+31189     Pairazaman/Tatiana                      15        93961840       Pairazaman/Tatiana            40.8      
+30796     Pairazaman/Tatiana                      18        93961840       Pairazaman/Tatiana            54.4      
+30796     Pairazaman/Tatiana                      30        93961840       Pairazaman/Tatiana            54.4      
+30796     Pairazaman/Tatiana                      27        93961840       Pairazaman/Tatiana            54.4      
+31189     Pairazaman/Tatiana                      4         93961840       Pairazaman/Tatiana            40.8      
+31189     Pairazaman/Tatiana                      22        93961840       Pairazaman/Tatiana            40.8      
+31311     Rios/Ines                               17        68114999       Rios/Ines                     65.45     
+17804     Rios/Ines                               13        68114999       Rios/Ines                     10.2      
+96031     Hijar/Martin                            10        32538825       Hijar/Martin                  45.9      
+74924     Hijar/Martin                            14        32538825       Hijar/Martin                  37.4      
+92628     Hijar/Martin                            24        32538825       Hijar/Martin                  45.9      
+36711     Patino/Delicia                          5         54815159       Patino/Delicia                84.15     
+75565     Patino/Delicia                          21        54815159       Patino/Delicia                46.75     
+75565     Patino/Delicia                          25        54815159       Patino/Delicia                46.75     
+31311     Narvaez/Jesus                           1         91187814       Narvaez/Jesus                 65.45     
+30796     Ortiz/Raul                              29        27709566       Ortiz/Raul                    54.4      
+70225     Ortiz/Raul                              23        27709566       Ortiz/Raul                    47.6      
+91653     Ortiz/Raul                              4         27709566       Ortiz/Raul                    40.8      
+75565     Lozada/Antonio                          27        45914393       Lozada/Antonio                46.75     
+53846     Lozada/Antonio                          19        45914393       Lozada/Antonio                47.6      
+70226     Lozada/Antonio                          17        45914393       Lozada/Antonio                39.95     
+70116     Lozada/Antonio                          28        45914393       Lozada/Antonio                23.8      
+39088     Henriquez/Silvana                       9         93939698       Henriquez/Silvana             11.9      
+70950     Henriquez/Silvana                       16        93939698       Henriquez/Silvana             45.05     
+77466     Henriquez/Silvana                       19        93939698       Henriquez/Silvana             5.95      
+37007     Henriquez/Silvana                       5         93939698       Henriquez/Silvana             47.6      
+94459     Henriquez/Silvana                       4         93939698       Henriquez/Silvana             53.55     
+55021     Serrano/Arturo                          21        36934113       Serrano/Arturo                82.45     
+59121     Serrano/Arturo                          35        36934113       Serrano/Arturo                81.6      
+55021     Serrano/Arturo                          22        36934113       Serrano/Arturo                82.45     
+53084     Vega/Carmela                            13        72330000       Vega/Carmela                  0.85      
+36649     Vega/Carmela                            7         72330000       Vega/Carmela                  79.05     
+36208     Sinche/Yvonne                           19        90367684       Sinche/Yvonne                 63.75     
+53166     Sinche/Yvonne                           15        90367684       Sinche/Yvonne                 5.95      
+55813     Sinche/Yvonne                           1         90367684       Sinche/Yvonne                 22.95     
+53166     Sinche/Yvonne                           29        90367684       Sinche/Yvonne                 5.95      
+53166     Sinche/Yvonne                           7         90367684       Sinche/Yvonne                 5.95      
+39088     Hernandez/Guillermo                     9         15290194       Hernandez/Guillermo           11.9      
+72061     Hernandez/Guillermo                     33        15290194       Hernandez/Guillermo           51        
+70225     Zambrano/Ofelia                         16        93282118       Zambrano/Ofelia               47.6      
+91282     Zambrano/Ofelia                         29        93282118       Zambrano/Ofelia               6.8       
+70807     Zambrano/Ofelia                         23        93282118       Zambrano/Ofelia               22.95     
+30007     Zambrano/Ofelia                         15        93282118       Zambrano/Ofelia               0.85      
+77203     Cerna/Cinthia                           34        86988155       Cerna/Cinthia                 80.75     
+76247     Cerna/Cinthia                           15        86988155       Cerna/Cinthia                 59.5      
+58259     Cerna/Cinthia                           30        86988155       Cerna/Cinthia                 85        
+58259     Cerna/Cinthia                           13        86988155       Cerna/Cinthia                 85        
+58259     Hernandez/Guillermo                     31        15290194       Hernandez/Guillermo           85        
+72969     Solis/Maria                             6         61061535       Solis/Maria                   58.65     
+74924     Salamanca/Virginia                      31        13731806       Salamanca/Virginia            37.4      
+95540     Salamanca/Virginia                      15        13731806       Salamanca/Virginia            28.05     
+58200     Salamanca/Virginia                      11        13731806       Salamanca/Virginia            56.1      
+31883     Miranda/Alfonso                         13        51642949       Miranda/Alfonso               67.15     
+92517     Miranda/Alfonso                         9         51642949       Miranda/Alfonso               11.9      
+11592     Miranda/Alfonso                         34        51642949       Miranda/Alfonso               68        
+34080     Miranda/Alfonso                         32        51642949       Miranda/Alfonso               60.35     
+16055     Rivero/Wilver                           25        52313890       Rivero/Wilver                 45.9      
+57269     Lozada/Heli                             2         20371464       Lozada/Heli                   34        
+57269     Lozada/Heli                             27        20371464       Lozada/Heli                   34        
+96881     Lozada/Heli                             25        20371464       Lozada/Heli                   7.65      
+70950     Lozada/Heli                             1         20371464       Lozada/Heli                   45.05     
+14962     Rivero/Wilver                           35        52313890       Rivero/Wilver                 46.75     
+90300     Rivero/Wilver                           32        52313890       Rivero/Wilver                 40.8      
+36208     Rivero/Wilver                           34        52313890       Rivero/Wilver                 63.75     
+31883     Justino/Virginia                        7         59596317       Justino/Virginia              67.15     
+76247     Justino/Virginia                        33        59596317       Justino/Virginia              59.5      
+30220     Justino/Virginia                        9         59596317       Justino/Virginia              39.95     
+30220     Justino/Virginia                        21        59596317       Justino/Virginia              39.95     
+31189     Pairazaman/Tatiana                      6         93961840       Pairazaman/Tatiana            40.8      
+79189     Pairazaman/Tatiana                      32        93961840       Pairazaman/Tatiana            73.1      
+94429     Escalante/Ines                          34        30246960       Escalante/Ines                52.7      
+37549     Escalante/Ines                          34        30246960       Escalante/Ines                44.2      
+39172     Escalante/Ines                          8         30246960       Escalante/Ines                41.65     
+50450     Miranda/Alfonso                         29        51642949       Miranda/Alfonso               74.8      
+11592     Miranda/Alfonso                         26        51642949       Miranda/Alfonso               68        
+96031     Miranda/Alfonso                         29        51642949       Miranda/Alfonso               45.9      
+12388     Solis/Maria                             11        61061535       Solis/Maria                   76.5      
+31311     Narvaez/Jesus                           23        91187814       Narvaez/Jesus                 65.45     
+58252     Narvaez/Jesus                           20        91187814       Narvaez/Jesus                 34.85     
+31311     Narvaez/Jesus                           33        91187814       Narvaez/Jesus                 65.45     
+77358     Narvaez/Jesus                           30        91187814       Narvaez/Jesus                 61.2      
+94415     Narvaez/Jesus                           13        91187814       Narvaez/Jesus                 68.85     
+37007     Durand/Enrique                          8         62126128       Durand/Enrique                47.6      
+57036     Durand/Enrique                          6         62126128       Durand/Enrique                38.25     
+37007     Durand/Enrique                          4         62126128       Durand/Enrique                47.6      
+73972     Lozada/Felicita                         11        71422479       Lozada/Felicita               54.4      
+30430     Lozada/Felicita                         5         71422479       Lozada/Felicita               22.1      
+30220     Lozada/Felicita                         5         71422479       Lozada/Felicita               39.95     
+72969     Durand/Enrique                          26        62126128       Durand/Enrique                58.65     
+12388     Durand/Enrique                          30        62126128       Durand/Enrique                76.5      
+72969     Durand/Enrique                          22        62126128       Durand/Enrique                58.65     
+37549     Moscoso/Janet                           35        77324146       Moscoso/Janet                 44.2      
+37549     Moscoso/Janet                           35        77324146       Moscoso/Janet                 44.2      
+37549     Moscoso/Janet                           15        77324146       Moscoso/Janet                 44.2      
+90300     Leyva/Diana                             26        54149342       Leyva/Diana                   40.8      
+90300     Leyva/Diana                             6         54149342       Leyva/Diana                   40.8      
+14962     Leyva/Diana                             11        54149342       Leyva/Diana                   46.75     
+90300     Leyva/Diana                             24        54149342       Leyva/Diana                   40.8      
+95540     Salamanca/Virginia                      7         13731806       Salamanca/Virginia            28.05     
+96554     Henriquez/Silvana                       34        93939698       Henriquez/Silvana             4.25      
+39779     Henriquez/Silvana                       28        93939698       Henriquez/Silvana             85        
+39779     Henriquez/Silvana                       23        93939698       Henriquez/Silvana             85        
+70807     Rodriguez/Blanca                        34        63640178       Rodriguez/Blanca              22.95     
+70225     Rodriguez/Blanca                        31        63640178       Rodriguez/Blanca              47.6      
+55021     Rodriguez/Blanca                        6         63640178       Rodriguez/Blanca              82.45     
+93578     Rodriguez/Blanca                        30        63640178       Rodriguez/Blanca              55.25     
+93578     Rodriguez/Blanca                        21        63640178       Rodriguez/Blanca              55.25     
+36822     Rodriguez/Blanca                        7         63640178       Rodriguez/Blanca              9.35      
+34070     Rodriguez/Blanca                        22        63640178       Rodriguez/Blanca              73.1      
+79996     Jauregui/Victor                         23        35852072       Jauregui/Victor               31.45     
+50450     Zarate/Alexander                        16        93231760       Zarate/Alexander              74.8      
+57269     Zarate/Alexander                        18        93231760       Zarate/Alexander              34        
+90300     Leyva/Diana                             30        54149342       Leyva/Diana                   40.8      
+90300     Leyva/Diana                             28        54149342       Leyva/Diana                   40.8      
+31189     Leyva/Diana                             19        54149342       Leyva/Diana                   40.8      
+58252     Jauregui/Victor                         12        35852072       Jauregui/Victor               34.85     
+74924     Jauregui/Victor                         23        35852072       Jauregui/Victor               37.4      
+31189     Jauregui/Victor                         19        35852072       Jauregui/Victor               40.8      
+96031     Sam/Ines                                13        51465986       Sam/Ines                      45.9      
+34080     Sam/Ines                                25        51465986       Sam/Ines                      60.35     
+30228     Narvaez/Jesus                           15        91187814       Narvaez/Jesus                 12.75     
+53846     Narvaez/Jesus                           8         91187814       Narvaez/Jesus                 47.6      
+57036     Hernandez/Guillermo                     33        15290194       Hernandez/Guillermo           38.25     
+57036     Hernandez/Guillermo                     22        15290194       Hernandez/Guillermo           38.25     
+57036     Hernandez/Guillermo                     31        15290194       Hernandez/Guillermo           38.25     
+77358     Hernandez/Guillermo                     1         15290194       Hernandez/Guillermo           61.2      
+39088     Hernandez/Guillermo                     23        15290194       Hernandez/Guillermo           11.9      
+37549     Moscoso/Janet                           25        77324146       Moscoso/Janet                 44.2      
+30220     Moscoso/Janet                           29        77324146       Moscoso/Janet                 39.95     
+13364     Soma/Lourdes                            11        37282858       Soma/Lourdes                  13.6      
+11592     Soma/Lourdes                            7         37282858       Soma/Lourdes                  68        
+11592     Soma/Lourdes                            33        37282858       Soma/Lourdes                  68        
+30428     Ortiz/Raul                              8         27709566       Ortiz/Raul                    19.55     
+30796     Ortiz/Raul                              27        27709566       Ortiz/Raul                    54.4      
+37007     Ortiz/Raul                              9         27709566       Ortiz/Raul                    47.6      
+18672     Hernandez/Guillermo                     12        15290194       Hernandez/Guillermo           15.3      
+17790     Hernandez/Guillermo                     33        15290194       Hernandez/Guillermo           17        
+58259     Hernandez/Guillermo                     25        15290194       Hernandez/Guillermo           85        
+79996     Sinche/Yvonne                           4         90367684       Sinche/Yvonne                 31.45     
+55021     Solis/Rolando                           31        49357767       Solis/Rolando                 82.45     
+36208     Arca/Magali                             5         41964357       Arca/Magali                   63.75     
+90300     Arca/Magali                             5         41964357       Arca/Magali                   40.8      
+75565     Arca/Magali                             6         41964357       Arca/Magali                   46.75     
+90300     Arca/Magali                             30        41964357       Arca/Magali                   40.8      
+96554     Henriquez/Silvana                       19        93939698       Henriquez/Silvana             4.25      
+96554     Henriquez/Silvana                       23        93939698       Henriquez/Silvana             4.25      
+18672     Henriquez/Silvana                       29        93939698       Henriquez/Silvana             15.3      
+57036     Hernandez/Guillermo                     25        15290194       Hernandez/Guillermo           38.25     
+72969     Hernandez/Guillermo                     13        15290194       Hernandez/Guillermo           58.65     
+57036     Hernandez/Guillermo                     24        15290194       Hernandez/Guillermo           38.25     
+70226     Serrano/Arturo                          12        36934113       Serrano/Arturo                39.95     
+77203     Serrano/Arturo                          8         36934113       Serrano/Arturo                80.75     
+30428     Serrano/Arturo                          31        36934113       Serrano/Arturo                19.55     
+96554     Serrano/Arturo                          35        36934113       Serrano/Arturo                4.25      
+55021     Serrano/Arturo                          33        36934113       Serrano/Arturo                82.45     
+55021     Serrano/Arturo                          30        36934113       Serrano/Arturo                82.45     
+70226     Serrano/Arturo                          22        36934113       Serrano/Arturo                39.95     
+70226     Serrano/Arturo                          16        36934113       Serrano/Arturo                39.95     
+55813     Leyva/Diana                             9         54149342       Leyva/Diana                   22.95     
+76596     Zarate/Alexander                        32        93231760       Zarate/Alexander              9.35      
+57269     Zarate/Alexander                        6         93231760       Zarate/Alexander              34        
+76596     Zarate/Alexander                        3         93231760       Zarate/Alexander              9.35      
+70225     Calixto/Erick                           16        51873364       Calixto/Erick                 47.6      
+70807     Calixto/Erick                           26        51873364       Calixto/Erick                 22.95     
+76596     Calixto/Erick                           31        51873364       Calixto/Erick                 9.35      
+34070     Calixto/Erick                           23        51873364       Calixto/Erick                 73.1      
+34066     Justino/Virginia                        11        59596317       Justino/Virginia              51.85     
+54692     Justino/Virginia                        30        59596317       Justino/Virginia              28.9      
+91282     Justino/Virginia                        12        59596317       Justino/Virginia              6.8       
+96554     Salamanca/Virginia                      15        13731806       Salamanca/Virginia            4.25      
+94415     Salamanca/Virginia                      12        13731806       Salamanca/Virginia            68.85     
+74924     Salamanca/Virginia                      16        13731806       Salamanca/Virginia            37.4      
+16813     Salamanca/Virginia                      7         13731806       Salamanca/Virginia            5.95      
+30430     Farfan/Margot                           24        94683380       Farfan/Margot                 22.1      
+70226     Farfan/Margot                           28        94683380       Farfan/Margot                 39.95     
+11592     Farfan/Margot                           3         94683380       Farfan/Margot                 68        
+70226     Farfan/Margot                           5         94683380       Farfan/Margot                 39.95     
+12388     Soma/Lourdes                            23        37282858       Soma/Lourdes                  76.5      
+75565     Soma/Lourdes                            8         37282858       Soma/Lourdes                  46.75     
+91282     Soma/Lourdes                            17        37282858       Soma/Lourdes                  6.8       
+12388     Soma/Lourdes                            35        37282858       Soma/Lourdes                  76.5      
+91282     Soma/Lourdes                            9         37282858       Soma/Lourdes                  6.8       
+70303     Vega/Henrry                             6         81647285       Vega/Henrry                   72.25     
+70024     Vega/Henrry                             34        81647285       Vega/Henrry                   68.85     
+54692     Vega/Henrry                             18        81647285       Vega/Henrry                   28.9      
+16813     Guevara/Milena                          31        45201670       Guevara/Milena                5.95      
+16813     Guevara/Milena                          35        45201670       Guevara/Milena                5.95      
+94415     Salamanca/Virginia                      19        13731806       Salamanca/Virginia            68.85     
+74924     Salamanca/Virginia                      20        13731806       Salamanca/Virginia            37.4      
+94415     Salamanca/Virginia                      9         13731806       Salamanca/Virginia            68.85     
+79189     Moscoso/Fiorella                        24        57182371       Moscoso/Fiorella              73.1      
+12388     Moscoso/Fiorella                        28        57182371       Moscoso/Fiorella              76.5      
+95540     Moscoso/Fiorella                        12        57182371       Moscoso/Fiorella              28.05     
+79189     Moscoso/Fiorella                        21        57182371       Moscoso/Fiorella              73.1      
+16813     Moscoso/Fiorella                        22        57182371       Moscoso/Fiorella              5.95      
+94429     Escalante/Ines                          8         30246960       Escalante/Ines                52.7      
+39172     Escalante/Ines                          26        30246960       Escalante/Ines                41.65     
+33200     Escalante/Ines                          19        30246960       Escalante/Ines                76.5      
+77466     Arca/Lucero                             7         75100362       Arca/Lucero                   5.95      
+90300     Arca/Lucero                             6         75100362       Arca/Lucero                   40.8      
+58252     Lozada/Heli                             11        20371464       Lozada/Heli                   34.85     
+12388     Lozada/Heli                             30        20371464       Lozada/Heli                   76.5      
+58200     Lozada/Heli                             10        20371464       Lozada/Heli                   56.1      
+92628     Lozada/Heli                             18        20371464       Lozada/Heli                   45.9      
+12388     Lozada/Heli                             3         20371464       Lozada/Heli                   76.5      
+96881     Lozada/Heli                             24        20371464       Lozada/Heli                   7.65      
+58200     Lozada/Heli                             19        20371464       Lozada/Heli                   56.1      
+59121     Vega/Carmela                            34        72330000       Vega/Carmela                  81.6      
+59121     Patino/Delicia                          26        54815159       Patino/Delicia                81.6      
+17804     Patino/Delicia                          29        54815159       Patino/Delicia                10.2      
+75565     Patino/Delicia                          8         54815159       Patino/Delicia                46.75     
+95540     Patino/Delicia                          5         54815159       Patino/Delicia                28.05     
+34080     Chavez/Johan                            27        66039166       Chavez/Johan                  60.35     
+55021     Chavez/Johan                            22        66039166       Chavez/Johan                  82.45     
+16055     Chavez/Johan                            8         66039166       Chavez/Johan                  45.9      
+54692     Arroyo/Natalia                          20        58643376       Arroyo/Natalia                28.9      
+76247     Arroyo/Natalia                          20        58643376       Arroyo/Natalia                59.5      
+73174     Baca/Milagros                           24        66091742       Baca/Milagros                 41.65     
+73174     Baca/Milagros                           11        66091742       Baca/Milagros                 41.65     
+72939     Baca/Milagros                           27        66091742       Baca/Milagros                 76.5      
+34080     Baca/Milagros                           14        66091742       Baca/Milagros                 60.35     
+36822     Baca/Milagros                           31        66091742       Baca/Milagros                 9.35      
+16055     Baca/Milagros                           19        66091742       Baca/Milagros                 45.9      
+16055     Baca/Milagros                           11        66091742       Baca/Milagros                 45.9      
+34070     Baca/Milagros                           26        66091742       Baca/Milagros                 73.1      
+90198     Jauregui/Victor                         28        35852072       Jauregui/Victor               44.2      
+90198     Jauregui/Victor                         26        35852072       Jauregui/Victor               44.2      
+70116     Farfan/Margot                           15        94683380       Farfan/Margot                 23.8      
+70226     Farfan/Margot                           3         94683380       Farfan/Margot                 39.95     
+53846     Farfan/Margot                           28        94683380       Farfan/Margot                 47.6      
+13364     Farfan/Margot                           14        94683380       Farfan/Margot                 13.6      
+53846     Farfan/Margot                           27        94683380       Farfan/Margot                 47.6      
+34080     Rodriguez/Blanca                        22        63640178       Rodriguez/Blanca              60.35     
+34070     Rodriguez/Blanca                        23        63640178       Rodriguez/Blanca              73.1      
+70807     Rodriguez/Blanca                        18        63640178       Rodriguez/Blanca              22.95     
+34070     Rodriguez/Blanca                        29        63640178       Rodriguez/Blanca              73.1      
+70225     Arca/Magali                             32        41964357       Arca/Magali                   47.6      
+75565     Arca/Magali                             17        41964357       Arca/Magali                   46.75     
+72061     Arca/Magali                             9         41964357       Arca/Magali                   51        
+90198     Mercado/Elia                            7         35606314       Mercado/Elia                  44.2      
+74924     Mercado/Elia                            4         35606314       Mercado/Elia                  37.4      
+76238     Mercado/Elia                            25        35606314       Mercado/Elia                  56.95     
+58259     Cerna/Cinthia                           31        86988155       Cerna/Cinthia                 85        
+76247     Cerna/Cinthia                           11        86988155       Cerna/Cinthia                 59.5      
+97465     Cerna/Cinthia                           6         86988155       Cerna/Cinthia                 4.25      
+30796     Cerna/Cinthia                           34        86988155       Cerna/Cinthia                 54.4      
+14962     Leyva/Diana                             6         54149342       Leyva/Diana                   46.75     
+55813     Leyva/Diana                             8         54149342       Leyva/Diana                   22.95     
+31189     Leyva/Diana                             7         54149342       Leyva/Diana                   40.8      
+34027     Wong/Beatriz                            25        62287143       Wong/Beatriz                  79.05     
+94415     Wong/Beatriz                            7         62287143       Wong/Beatriz                  68.85     
+57269     Wong/Beatriz                            19        62287143       Wong/Beatriz                  34        
+12388     Durand/Enrique                          5         62126128       Durand/Enrique                76.5      
+12388     Durand/Enrique                          25        62126128       Durand/Enrique                76.5      
+75565     Durand/Enrique                          20        62126128       Durand/Enrique                46.75     
+72969     Durand/Enrique                          32        62126128       Durand/Enrique                58.65     
+90300     Escalante/Ines                          33        30246960       Escalante/Ines                40.8      
+39172     Escalante/Ines                          31        30246960       Escalante/Ines                41.65     
+92628     Escalante/Ines                          30        30246960       Escalante/Ines                45.9      
+34027     Wong/Beatriz                            6         62287143       Wong/Beatriz                  79.05     
+79996     Jauregui/Victor                         7         35852072       Jauregui/Victor               31.45     
+70116     Jauregui/Victor                         16        35852072       Jauregui/Victor               23.8      
+76360     Jauregui/Victor                         27        35852072       Jauregui/Victor               32.3      
+90198     Jauregui/Victor                         33        35852072       Jauregui/Victor               44.2      
+16359     Jauregui/Victor                         21        35852072       Jauregui/Victor               75.65     
+70116     Jauregui/Victor                         17        35852072       Jauregui/Victor               23.8      
+94415     Salamanca/Virginia                      7         13731806       Salamanca/Virginia            68.85     
+96554     Salamanca/Virginia                      18        13731806       Salamanca/Virginia            4.25      
+16813     Salamanca/Virginia                      9         13731806       Salamanca/Virginia            5.95      
+94415     Salamanca/Virginia                      32        13731806       Salamanca/Virginia            68.85     
+16813     Salamanca/Virginia                      35        13731806       Salamanca/Virginia            5.95      
+94415     Wong/Beatriz                            10        62287143       Wong/Beatriz                  68.85     
+12388     Wong/Beatriz                            33        62287143       Wong/Beatriz                  76.5      
+72969     Wong/Beatriz                            24        62287143       Wong/Beatriz                  58.65     
+76247     Sinche/Yvonne                           17        90367684       Sinche/Yvonne                 59.5      
+72939     Escalante/Emigdio                       9         77440060       Escalante/Emigdio             76.5      
+76238     Escalante/Emigdio                       29        77440060       Escalante/Emigdio             56.95     
+33276     Escalante/Emigdio                       26        77440060       Escalante/Emigdio             11.05     
+53846     Sam/Ines                                28        51465986       Sam/Ines                      47.6      
+58252     Sam/Ines                                21        51465986       Sam/Ines                      34.85     
+96031     Sam/Ines                                9         51465986       Sam/Ines                      45.9      
+76360     Sakaguchi/Carlos                        25        31284904       Sakaguchi/Carlos              32.3      
+58252     Sakaguchi/Carlos                        2         31284904       Sakaguchi/Carlos              34.85     
+76247     Lozada/Felicita                         28        71422479       Lozada/Felicita               59.5      
+30220     Lozada/Felicita                         34        71422479       Lozada/Felicita               39.95     
+91653     Lozada/Felicita                         30        71422479       Lozada/Felicita               40.8      
+34070     Lozada/Felicita                         23        71422479       Lozada/Felicita               73.1      
+36822     Lozada/Felicita                         22        71422479       Lozada/Felicita               9.35      
+39779     Lozada/Felicita                         32        71422479       Lozada/Felicita               85        
+91653     Lozada/Felicita                         5         71422479       Lozada/Felicita               40.8      
+53846     Vizcardo/Maribel                        29        43704548       Vizcardo/Maribel              47.6      
+77358     Vizcardo/Maribel                        17        43704548       Vizcardo/Maribel              61.2      
+53846     Vizcardo/Maribel                        11        43704548       Vizcardo/Maribel              47.6      
+91282     Vizcardo/Maribel                        31        43704548       Vizcardo/Maribel              6.8       
+70116     Vizcardo/Maribel                        4         43704548       Vizcardo/Maribel              23.8      
+30220     Justino/Virginia                        13        59596317       Justino/Virginia              39.95     
+54692     Justino/Virginia                        5         59596317       Justino/Virginia              28.9      
+90300     Leyva/Diana                             8         54149342       Leyva/Diana                   40.8      
+31189     Leyva/Diana                             8         54149342       Leyva/Diana                   40.8      
+57036     Hernandez/Guillermo                     27        15290194       Hernandez/Guillermo           38.25     
+72969     Hernandez/Guillermo                     24        15290194       Hernandez/Guillermo           58.65     
+77358     Hernandez/Guillermo                     12        15290194       Hernandez/Guillermo           61.2      
+31883     Arroyo/Natalia                          28        58643376       Arroyo/Natalia                67.15     
+54692     Arroyo/Natalia                          14        58643376       Arroyo/Natalia                28.9      
+38648     Arroyo/Natalia                          7         58643376       Arroyo/Natalia                69.7      
+70024     Arroyo/Natalia                          24        58643376       Arroyo/Natalia                68.85     
+55813     Arroyo/Natalia                          11        58643376       Arroyo/Natalia                22.95     
+15098     Zambrano/Ofelia                         22        93282118       Zambrano/Ofelia               81.6      
+95540     Zambrano/Ofelia                         15        93282118       Zambrano/Ofelia               28.05     
+16359     Zambrano/Ofelia                         31        93282118       Zambrano/Ofelia               75.65     
+54692     Calixto/Erick                           11        51873364       Calixto/Erick                 28.9      
+76596     Calixto/Erick                           16        51873364       Calixto/Erick                 9.35      
+70950     Calixto/Erick                           22        51873364       Calixto/Erick                 45.05     
+72495     Calixto/Erick                           12        51873364       Calixto/Erick                 43.35     
+70113     Calixto/Erick                           12        51873364       Calixto/Erick                 30.6      
+55021     Calixto/Erick                           17        51873364       Calixto/Erick                 82.45     
+36208     Prado/Juan                              24        53420926       Prado/Juan                    63.75     
+16055     Prado/Juan                              1         53420926       Prado/Juan                    45.9      
+55813     Prado/Juan                              23        53420926       Prado/Juan                    22.95     
+53846     Soma/Lourdes                            31        37282858       Soma/Lourdes                  47.6      
+13364     Soma/Lourdes                            16        37282858       Soma/Lourdes                  13.6      
+11592     Soma/Lourdes                            9         37282858       Soma/Lourdes                  68        
+12388     Soma/Lourdes                            29        37282858       Soma/Lourdes                  76.5      
+53846     Sinche/Yvonne                           6         90367684       Sinche/Yvonne                 47.6      
+55813     Sinche/Yvonne                           34        90367684       Sinche/Yvonne                 22.95     
+79996     Sinche/Yvonne                           14        90367684       Sinche/Yvonne                 31.45     
+11592     Sinche/Yvonne                           12        90367684       Sinche/Yvonne                 68        
+53846     Sinche/Yvonne                           29        90367684       Sinche/Yvonne                 47.6      
+73972     Sueldo/Adria                            27        22598563       Sueldo/Adria                  54.4      
+53166     Sueldo/Adria                            9         22598563       Sueldo/Adria                  5.95      
+70225     Camacho/Ydali                           21        65912822       Camacho/Ydali                 47.6      
+36822     Camacho/Ydali                           33        65912822       Camacho/Ydali                 9.35      
+70225     Camacho/Ydali                           24        65912822       Camacho/Ydali                 47.6      
+19397     Miranda/Alfonso                         20        51642949       Miranda/Alfonso               37.4      
+16359     Solis/Rolando                           26        49357767       Solis/Rolando                 75.65     
+91653     Sakaguchi/Carlos                        35        31284904       Sakaguchi/Carlos              40.8      
+76360     Fuentes/Patricia                        15        85395219       Fuentes/Patricia              32.3      
+16055     Fuentes/Patricia                        23        85395219       Fuentes/Patricia              45.9      
+34080     Fuentes/Patricia                        15        85395219       Fuentes/Patricia              60.35     
+79851     Fuentes/Patricia                        10        85395219       Fuentes/Patricia              84.15     
+16813     Guevara/Milena                          5         45201670       Guevara/Milena                5.95      
+70807     Guevara/Milena                          30        45201670       Guevara/Milena                22.95     
+70225     Guevara/Milena                          1         45201670       Guevara/Milena                47.6      
+55439     Guevara/Milena                          26        45201670       Guevara/Milena                72.25     
+16813     Guevara/Milena                          33        45201670       Guevara/Milena                5.95      
+53846     Contreras/Johana                        11        99891737       Contreras/Johana              47.6      
+70226     Contreras/Johana                        28        99891737       Contreras/Johana              39.95     
+30430     Contreras/Johana                        35        99891737       Contreras/Johana              22.1      
+52072     Diaz/Enrique                            25        12484697       Diaz/Enrique                  63.75     
+16681     Diaz/Enrique                            7         12484697       Diaz/Enrique                  22.1      
+36711     Diaz/Enrique                            14        12484697       Diaz/Enrique                  84.15     
+92560     Diaz/Enrique                            8         12484697       Diaz/Enrique                  28.9      
+53084     Vega/Carmela                            12        72330000       Vega/Carmela                  0.85      
+77203     Vega/Carmela                            7         72330000       Vega/Carmela                  80.75     
+33311     Vega/Carmela                            29        72330000       Vega/Carmela                  20.4      
+36622     Vega/Carmela                            6         72330000       Vega/Carmela                  57.8      
+38648     Vega/Carmela                            11        72330000       Vega/Carmela                  69.7      
+72969     Hernandez/Guillermo                     33        15290194       Hernandez/Guillermo           58.65     
+17790     Hernandez/Guillermo                     18        15290194       Hernandez/Guillermo           17        
+18672     Hernandez/Guillermo                     11        15290194       Hernandez/Guillermo           15.3      
+17790     Hernandez/Guillermo                     8         15290194       Hernandez/Guillermo           17        
+39088     Hernandez/Guillermo                     14        15290194       Hernandez/Guillermo           11.9      
+58259     Hernandez/Guillermo                     12        15290194       Hernandez/Guillermo           85        
+36649     Ayala/Ericka                            11        34697743       Ayala/Ericka                  79.05     
+72495     Ayala/Ericka                            31        34697743       Ayala/Ericka                  43.35     
+34027     Ayala/Ericka                            2         34697743       Ayala/Ericka                  79.05     
+58252     Ayala/Ericka                            9         34697743       Ayala/Ericka                  34.85     
+36649     Ayala/Ericka                            19        34697743       Ayala/Ericka                  79.05     
+70303     Mercado/Elia                            10        35606314       Mercado/Elia                  72.25     
+37007     Lozada/Felicita                         22        71422479       Lozada/Felicita               47.6      
+12388     Lozada/Felicita                         29        71422479       Lozada/Felicita               76.5      
+76247     Lozada/Felicita                         5         71422479       Lozada/Felicita               59.5      
+94415     Wong/Beatriz                            22        62287143       Wong/Beatriz                  68.85     
+36711     Patino/Delicia                          22        54815159       Patino/Delicia                84.15     
+92517     Patino/Delicia                          9         54815159       Patino/Delicia                11.9      
+79189     Patino/Delicia                          3         54815159       Patino/Delicia                73.1      
+95540     Patino/Delicia                          20        54815159       Patino/Delicia                28.05     
+92628     Lozada/Heli                             16        20371464       Lozada/Heli                   45.9      
+12388     Lozada/Heli                             18        20371464       Lozada/Heli                   76.5      
+58200     Lozada/Heli                             20        20371464       Lozada/Heli                   56.1      
+70950     Lozada/Heli                             22        20371464       Lozada/Heli                   45.05     
+16681     Diaz/Enrique                            32        12484697       Diaz/Enrique                  22.1      
+58259     Diaz/Enrique                            29        12484697       Diaz/Enrique                  85        
+75565     Patino/Delicia                          19        54815159       Patino/Delicia                46.75     
+36711     Patino/Delicia                          4         54815159       Patino/Delicia                84.15     
+30796     Patino/Delicia                          33        54815159       Patino/Delicia                54.4      
+30796     Patino/Delicia                          26        54815159       Patino/Delicia                54.4      
+16299     Vega/Carmela                            18        72330000       Vega/Carmela                  49.3      
+57505     Vega/Carmela                            19        72330000       Vega/Carmela                  43.35     
+91282     Vizcardo/Maribel                        21        43704548       Vizcardo/Maribel              6.8       
+12388     Vizcardo/Maribel                        22        43704548       Vizcardo/Maribel              76.5      
+53846     Vizcardo/Maribel                        16        43704548       Vizcardo/Maribel              47.6      
+30796     Cerna/Cinthia                           17        86988155       Cerna/Cinthia                 54.4      
+30796     Cerna/Cinthia                           28        86988155       Cerna/Cinthia                 54.4      
+58259     Fuentes/Patricia                        24        85395219       Fuentes/Patricia              85        
+58200     Fuentes/Patricia                        30        85395219       Fuentes/Patricia              56.1      
+55813     Fuentes/Patricia                        31        85395219       Fuentes/Patricia              22.95     
+79851     Fuentes/Patricia                        35        85395219       Fuentes/Patricia              84.15     
+93578     Fuentes/Patricia                        29        85395219       Fuentes/Patricia              55.25     
+76247     Justino/Virginia                        9         59596317       Justino/Virginia              59.5      
+57269     Justino/Virginia                        30        59596317       Justino/Virginia              34        
+70024     Justino/Virginia                        7         59596317       Justino/Virginia              68.85     
+70024     Justino/Virginia                        20        59596317       Justino/Virginia              68.85     
+91282     Justino/Virginia                        17        59596317       Justino/Virginia              6.8       
+58200     Fuentes/Patricia                        8         85395219       Fuentes/Patricia              56.1      
+36208     Fuentes/Patricia                        19        85395219       Fuentes/Patricia              63.75     
+58200     Fuentes/Patricia                        18        85395219       Fuentes/Patricia              56.1      
+58200     Fuentes/Patricia                        29        85395219       Fuentes/Patricia              56.1      
+36822     Diaz/Enrique                            5         12484697       Diaz/Enrique                  9.35      
+39172     Diaz/Enrique                            21        12484697       Diaz/Enrique                  41.65     
+70807     Zambrano/Ofelia                         24        93282118       Zambrano/Ofelia               22.95     
+91282     Zambrano/Ofelia                         26        93282118       Zambrano/Ofelia               6.8       
+14962     Zambrano/Ofelia                         7         93282118       Zambrano/Ofelia               46.75     
+70116     Farfan/Margot                           33        94683380       Farfan/Margot                 23.8      
+11592     Farfan/Margot                           33        94683380       Farfan/Margot                 68        
+75565     Farfan/Margot                           5         94683380       Farfan/Margot                 46.75     
+30796     Sam/Ines                                27        51465986       Sam/Ines                      54.4      
+53846     Sam/Ines                                31        51465986       Sam/Ines                      47.6      
+34080     Sam/Ines                                24        51465986       Sam/Ines                      60.35     
+33390     Ramirez/Karina                          10        80694546       Ramirez/Karina                28.9      
+70303     Ramirez/Karina                          2         80694546       Ramirez/Karina                72.25     
+70116     Contreras/Johana                        18        99891737       Contreras/Johana              23.8      
+12388     Contreras/Johana                        12        99891737       Contreras/Johana              76.5      
+53846     Contreras/Johana                        31        99891737       Contreras/Johana              47.6      
+98679     Egusquiza/Doris                         7         92275859       Egusquiza/Doris               41.65     
+17645     Egusquiza/Doris                         14        92275859       Egusquiza/Doris               22.95     
+94415     Egusquiza/Doris                         15        92275859       Egusquiza/Doris               68.85     
+30007     Arca/Magali                             16        41964357       Arca/Magali                   0.85      
+90300     Arca/Magali                             9         41964357       Arca/Magali                   40.8      
+75565     Arca/Magali                             29        41964357       Arca/Magali                   46.75     
+55439     Arca/Magali                             4         41964357       Arca/Magali                   72.25     
+72061     Arca/Magali                             15        41964357       Arca/Magali                   51        
+19397     Raffo/Rolando                           30        95656771       Raffo/Rolando                 37.4      
+77466     Raffo/Rolando                           34        95656771       Raffo/Rolando                 5.95      
+76238     Raffo/Rolando                           15        95656771       Raffo/Rolando                 56.95     
+19397     Raffo/Rolando                           11        95656771       Raffo/Rolando                 37.4      
+79996     Raffo/Rolando                           34        95656771       Raffo/Rolando                 31.45     
+58252     Lozada/Heli                             15        20371464       Lozada/Heli                   34.85     
+70950     Lozada/Heli                             7         20371464       Lozada/Heli                   45.05     
+72061     Lozada/Heli                             10        20371464       Lozada/Heli                   51        
+12388     Lozada/Heli                             35        20371464       Lozada/Heli                   76.5      
+73972     Bravo/Janet                             13        22679759       Bravo/Janet                   54.4      
+36208     Bravo/Janet                             34        22679759       Bravo/Janet                   63.75     
+79996     Bravo/Janet                             26        22679759       Bravo/Janet                   31.45     
+36208     Pena/Glenda                             26        36471787       Pena/Glenda                   63.75     
+55021     Pena/Glenda                             28        36471787       Pena/Glenda                   82.45     
+53084     Vega/Carmela                            34        72330000       Vega/Carmela                  0.85      
+77203     Vega/Carmela                            1         72330000       Vega/Carmela                  80.75     
+39172     Solis/Rolando                           10        49357767       Solis/Rolando                 41.65     
+70225     Solis/Rolando                           28        49357767       Solis/Rolando                 47.6      
+70225     Solis/Rolando                           24        49357767       Solis/Rolando                 47.6      
+16359     Solis/Rolando                           16        49357767       Solis/Rolando                 75.65     
+72495     Ayala/Ericka                            16        34697743       Ayala/Ericka                  43.35     
+52072     Diaz/Enrique                            27        12484697       Diaz/Enrique                  63.75     
+90300     Diaz/Enrique                            17        12484697       Diaz/Enrique                  40.8      
+36711     Diaz/Enrique                            2         12484697       Diaz/Enrique                  84.15     
+58259     Diaz/Enrique                            19        12484697       Diaz/Enrique                  85        
+91282     Cerna/Cinthia                           33        86988155       Cerna/Cinthia                 6.8       
+76247     Cerna/Cinthia                           31        86988155       Cerna/Cinthia                 59.5      
+77466     Vargas/Daniel                           27        72973662       Vargas/Daniel                 5.95      
+90300     Vargas/Daniel                           10        72973662       Vargas/Daniel                 40.8      
+90300     Vargas/Daniel                           22        72973662       Vargas/Daniel                 40.8      
+51148     Infantes/Luis                           11        34571095       Infantes/Luis                 56.1      
+76596     Infantes/Luis                           14        34571095       Infantes/Luis                 9.35      
+77466     Infantes/Luis                           18        34571095       Infantes/Luis                 5.95      
+16055     Hijar/Martin                            26        32538825       Hijar/Martin                  45.9      
+31189     Leyva/Diana                             30        54149342       Leyva/Diana                   40.8      
+16055     Leyva/Diana                             26        54149342       Leyva/Diana                   45.9      
+54692     Vega/Henrry                             24        81647285       Vega/Henrry                   28.9      
+76238     Vega/Henrry                             26        81647285       Vega/Henrry                   56.95     
+75565     Vega/Henrry                             27        81647285       Vega/Henrry                   46.75     
+54692     Vega/Henrry                             34        81647285       Vega/Henrry                   28.9      
+75565     Vega/Henrry                             35        81647285       Vega/Henrry                   46.75     
+16299     Vega/Henrry                             30        81647285       Vega/Henrry                   49.3      
+30228     Vega/Henrry                             29        81647285       Vega/Henrry                   12.75     
+18672     Trigueros/Luz                           30        28992638       Trigueros/Luz                 15.3      
+15098     Trigueros/Luz                           24        28992638       Trigueros/Luz                 81.6      
+18672     Trigueros/Luz                           27        28992638       Trigueros/Luz                 15.3      
+15098     Trigueros/Luz                           20        28992638       Trigueros/Luz                 81.6      
+16359     Trigueros/Luz                           8         28992638       Trigueros/Luz                 75.65     
+76238     Moscoso/Janet                           31        77324146       Moscoso/Janet                 56.95     
+59121     Moscoso/Janet                           10        77324146       Moscoso/Janet                 81.6      
+36822     Moscoso/Janet                           2         77324146       Moscoso/Janet                 9.35      
+37549     Moscoso/Janet                           2         77324146       Moscoso/Janet                 44.2      
+91282     Zambrano/Ofelia                         22        93282118       Zambrano/Ofelia               6.8       
+14962     Zambrano/Ofelia                         21        93282118       Zambrano/Ofelia               46.75     
+15098     Zambrano/Ofelia                         19        93282118       Zambrano/Ofelia               81.6      
+14962     Zambrano/Ofelia                         8         93282118       Zambrano/Ofelia               46.75     
+15098     Zambrano/Ofelia                         34        93282118       Zambrano/Ofelia               81.6      
+41379     FLUNARICINA 10 MG T20                   5         50611          Urologia                      1.7       
+86158     SENOSIDOS A y B C20                     23        50611          Urologia                      47.6      
+47697     CLINDAMICINA 300 MG C/16                22        50611          Urologia                      14.45     
+47697     CLINDAMICINA 300 MG C/16                30        50611          Urologia                      14.45     
+61039     NISTATINA GI C/12 TAB                   28        15092          Dermatologia                  78.2      
+22232     LEVETIRACETAM                           21        15092          Dermatologia                  69.7      
+81695     LECHE DE MAGNESIA 180ML                 11        15092          Dermatologia                  15.3      
+46000     HIDROX--MAGNESIO+ALUMINIO 240ML         33        60184          Traumatologia                 50.15     
+65667     SUBSALICILATO/BISMUTO SUSP 120ML        22        90798          Traumatologia                 61.2      
+49157     RANITIDINA 300 MG C/10                  25        90798          Traumatologia                 66.3      
+25684     DEXAMETASONA 0.5MG T/30                 30        90798          Traumatologia                 84.15     
+40997     ELECTROLIT PED FRESA 625ML              10        80786          Ginecologia                   41.65     
+42053     TRETINOINA 30G CREMA 0.05%              33        80786          Ginecologia                   10.2      
+85641     TAMOXIFENO 10MG 30T                     30        70233          Ginecologia                   28.9      
+85641     TAMOXIFENO 10MG 30T                     5         70233          Ginecologia                   28.9      
+24522     LEVOFLOXACINO 500MG C/7 TAB             17        70233          Ginecologia                   43.35     
+48244     CLORANFENICOL SOL OFT 10ML              4         70233          Ginecologia                   25.5      
+67784     LOSARTAN 50MG C/10T                     33        70233          Ginecologia                   73.95     
+85641     TAMOXIFENO 10MG 30T                     23        70233          Ginecologia                   28.9      
+60685     NITROFURANTOINA C40 100MG               19        89213          Gastroenterologia             79.9      
+81695     LECHE DE MAGNESIA 180ML                 8         89213          Gastroenterologia             15.3      
+43633     ERITROMICINA T 250 MG C/20              6         89213          Gastroenterologia             39.1      
+81695     LECHE DE MAGNESIA 180ML                 6         89213          Gastroenterologia             15.3      
+67784     LOSARTAN 50MG C/10T                     20        90907          Dermatologia                  73.95     
+65536     NEOM/POLIMIX/GRAMIC 15 ML GTS           7         90907          Dermatologia                  1.7       
+82528     LORATADINA T/10 10MG                    35        60934          Neumologia                    19.55     
+88681     NIFEDIPINO 30 MG 30 CPS                 27        60934          Neumologia                    53.55     
+88681     NIFEDIPINO 30 MG 30 CPS                 19        60934          Neumologia                    53.55     
+84766     CIPROFLOXACINO SOL.OFT 5MG              31        14787          Traumatologia                 79.9      
+84766     CIPROFLOXACINO SOL.OFT 5MG              25        14787          Traumatologia                 79.9      
+84766     CIPROFLOXACINO SOL.OFT 5MG              21        14787          Traumatologia                 79.9      
+61295     QUINFAMIDA 100 MG 3TAB                  22        60049          Gastroenterologia             84.15     
+86828     FENAZOPIRIDINA 100 MG C/20 TAB          1         60049          Gastroenterologia             32.3      
+85641     TAMOXIFENO 10MG 30T                     17        70269          Dermatologia                  28.9      
+60685     NITROFURANTOINA C40 100MG               18        70269          Dermatologia                  79.9      
+67784     LOSARTAN 50MG C/10T                     30        70269          Dermatologia                  73.95     
+60685     NITROFURANTOINA C40 100MG               35        70269          Dermatologia                  79.9      
+84766     CIPROFLOXACINO SOL.OFT 5MG              34        70269          Dermatologia                  79.9      
+24733     CALCIO+MAGNESIO 30T                     11        53556          Pediatria                     59.5      
+22232     LEVETIRACETAM                           35        53556          Pediatria                     69.7      
+24733     CALCIO+MAGNESIO 30T                     26        53556          Pediatria                     59.5      
+61039     NISTATINA GI C/12 TAB                   13        70612          Traumatologia                 78.2      
+63555     FAMOTIDINA 20MG 30C                     15        70612          Traumatologia                 43.35     
+81333     CARNITINA C/30                          19        70612          Traumatologia                 40.8      
+81333     CARNITINA C/30                          26        70612          Traumatologia                 40.8      
+67784     LOSARTAN 50MG C/10T                     26        64405          Oftalmologia                  73.95     
+84771     BETAMETASONA CREMA 30GR                 7         64405          Oftalmologia                  39.1      
+47697     CLINDAMICINA 300 MG C/16                33        64405          Oftalmologia                  14.45     
+84766     CIPROFLOXACINO SOL.OFT 5MG              18        90929          Oftalmologia                  79.9      
+28992     ALUMUMINIO+MAGNESIO SUSP 240ML          25        90929          Oftalmologia                  64.6      
+40862     YODOPOVIDONA 120ML                      3         90929          Oftalmologia                  76.5      
+22553     FLUCINOLONA+NEOMICINA CRA 30G           7         70367          Urologia                      39.1      
+25684     DEXAMETASONA 0.5MG T/30                 14        70367          Urologia                      84.15     
+81062     PAROXETINA T/10 20MG                    17        18708          Ginecologia                   9.35      
+84766     CIPROFLOXACINO SOL.OFT 5MG              32        80138          Geriatria                     79.9      
+42856     FELODIPINO 5 MG 20T                     8         80138          Geriatria                     10.2      
+85325     AMOXICILINA 250MG C12                   5         35451          Pediatria                     56.1      
+68860     METFORMINA 850MG T30                    25        35451          Pediatria                     59.5      
+28992     ALUMUMINIO+MAGNESIO SUSP 240ML          19        70992          Gastroenterologia             64.6      
+48557     NAPROXENO SODICO 100/2.5 SUSP           7         70992          Gastroenterologia             59.5      
+27016     ACECLOFENACO 100MG 10T                  14        49768          Cardiologia                   51        
+86828     FENAZOPIRIDINA 100 MG C/20 TAB          33        49768          Cardiologia                   32.3      
+46000     HIDROX--MAGNESIO+ALUMINIO 240ML         34        49768          Cardiologia                   50.15     
+28892     GLIMEPIRIDA 2MG C30                     19        49768          Cardiologia                   26.35     
+65536     NEOM/POLIMIX/GRAMIC 15 ML GTS           21        33687          Oftalmologia                  1.7       
+60509     AMPICILINA 125MG SUSP 90ML              23        33687          Oftalmologia                  58.65     
+61039     NISTATINA GI C/12 TAB                   5         70789          Pediatria                     78.2      
+60685     NITROFURANTOINA C40 100MG               26        18262          Urologia                      79.9      
+89839     ACIDO MEFENAMICO 500MG C10 TAB          20        14655          Oncologia                     73.95     
+85641     TAMOXIFENO 10MG 30T                     31        14655          Oncologia                     28.9      
+89839     ACIDO MEFENAMICO 500MG C10 TAB          15        14655          Oncologia                     73.95     
+65667     SUBSALICILATO/BISMUTO SUSP 120ML        24        14655          Oncologia                     61.2      
+65536     NEOM/POLIMIX/GRAMIC 15 ML GTS           18        80227          Pediatria                     1.7       
+80830     COMPLEJO B T30                          13        80227          Pediatria                     78.2      
+83510     FUROSEMIDA 40 MG C/20                   5         80227          Pediatria                     22.95     
+28409     RIFAMPICINA 300 MG C/16 CAP             30        80227          Pediatria                     4.25      
+27447     OXIDO DE ZINC TUBO PASTA 30GR           12        80227          Pediatria                     59.5      
+80830     COMPLEJO B T30                          29        80227          Pediatria                     78.2      
+28892     GLIMEPIRIDA 2MG C30                     32        34115          Cardiologia                   26.35     
+46000     HIDROX--MAGNESIO+ALUMINIO 240ML         31        34115          Cardiologia                   50.15     
+81960     CEFALEXINA 500MG C/20 CAP               18        34115          Cardiologia                   81.6      
+28892     GLIMEPIRIDA 2MG C30                     11        34115          Cardiologia                   26.35     
+28892     GLIMEPIRIDA 2MG C30                     14        34115          Cardiologia                   26.35     
+86828     FENAZOPIRIDINA 100 MG C/20 TAB          1         34115          Cardiologia                   32.3      
+44215     DICICLOVERINA 10MG 30T                  22        34115          Cardiologia                   33.15     
+85865     PLANTAGO PSYLLIUM 400GR. GI             15        80040          Endocrinologia                8.5       
+46000     HIDROX--MAGNESIO+ALUMINIO 240ML         14        80040          Endocrinologia                50.15     
+46919     VITAMINA C C20 TAB 100MG                26        80040          Endocrinologia                5.95      
+48557     NAPROXENO SODICO 100/2.5 SUSP           27        25448          Endocrinologia                59.5      
+22232     LEVETIRACETAM                           18        40414          Ginecologia                   69.7      
+89528     CLORMADINONA 2MG 20T                    6         40414          Ginecologia                   13.6      
+63555     FAMOTIDINA 20MG 30C                     28        90562          Dermatologia                  43.35     
+22553     FLUCINOLONA+NEOMICINA CRA 30G           22        90562          Dermatologia                  39.1      
+68539     METENAMINA 30T 500MG                    16        91509          Cardiologia                   5.1       
+28992     ALUMUMINIO+MAGNESIO SUSP 240ML          6         91509          Cardiologia                   64.6      
+89839     ACIDO MEFENAMICO 500MG C10 TAB          15        30557          Neumologia                    73.95     
+63555     FAMOTIDINA 20MG 30C                     6         30557          Neumologia                    43.35     
+60685     NITROFURANTOINA C40 100MG               21        30557          Neumologia                    79.9      
+61508     DEXTROMETORFANO 300MG JBE 120 ML        24        30557          Neumologia                    4.25      
+80839     CARBAMAZEPINA 120ML SUSP                5         50718          Pediatria                     51        
+82469     GUAYACOL AMPOLLETA 1ML                  6         50718          Pediatria                     60.35     
+60888     CAPTOPRIL 25MG 30T                      19        50718          Pediatria                     7.65      
+42053     TRETINOINA 30G CREMA 0.05%              26        50718          Pediatria                     10.2      
+68346     TOLBUTAMIDA 50T 500MG                   18        52063          Traumatologia                 10.2      
+62008     LISINOPRIL T/30 10 MG                   7         80063          Gastroenterologia             17.85     
+60685     NITROFURANTOINA C40 100MG               5         80063          Gastroenterologia             79.9      
+42856     FELODIPINO 5 MG 20T                     11        80063          Gastroenterologia             10.2      
+62008     LISINOPRIL T/30 10 MG                   11        80063          Gastroenterologia             17.85     
+43222     AMBROXOL GOTAS 30ML                     21        19777          Oftalmologia                  11.05     
+61039     NISTATINA GI C/12 TAB                   30        15092          Dermatologia                  78.2      
+42861     BENCIDAMIDA CRA 5% 60GR                 25        60184          Traumatologia                 23.8      
+40645     VERAPAMILO 80 MG/20 TAB                 14        60184          Traumatologia                 4.25      
+40645     VERAPAMILO 80 MG/20 TAB                 25        60184          Traumatologia                 4.25      
+88681     NIFEDIPINO 30 MG 30 CPS                 25        60184          Traumatologia                 53.55     
+81695     LECHE DE MAGNESIA 180ML                 10        90798          Traumatologia                 15.3      
+65667     SUBSALICILATO/BISMUTO SUSP 120ML        28        80786          Ginecologia                   61.2      
+65667     SUBSALICILATO/BISMUTO SUSP 120ML        16        80786          Ginecologia                   61.2      
+89528     CLORMADINONA 2MG 20T                    22        80786          Ginecologia                   13.6      
+85641     TAMOXIFENO 10MG 30T                     18        80786          Ginecologia                   28.9      
+28892     GLIMEPIRIDA 2MG C30                     14        70233          Ginecologia                   26.35     
+65536     NEOM/POLIMIX/GRAMIC 15 ML GTS           17        70233          Ginecologia                   1.7       
+67784     LOSARTAN 50MG C/10T                     34        70233          Ginecologia                   73.95     
+84771     BETAMETASONA CREMA 30GR                 20        70233          Ginecologia                   39.1      
+61039     NISTATINA GI C/12 TAB                   7         89213          Gastroenterologia             78.2      
+22232     LEVETIRACETAM                           27        89213          Gastroenterologia             69.7      
+82528     LORATADINA T/10 10MG                    16        90907          Dermatologia                  19.55     
+68860     METFORMINA 850MG T30                    35        90907          Dermatologia                  59.5      
+80839     CARBAMAZEPINA 120ML SUSP                20        90907          Dermatologia                  51        
+62302     BEZAFIBRATO 200MG C/30TAB               30        60934          Neumologia                    41.65     
+82528     LORATADINA T/10 10MG                    27        60934          Neumologia                    19.55     
+64347     DIFENHIDRAMINA 25MG C30                 6         14787          Traumatologia                 65.45     
+26920     HIDRALAZINA 20T 10MG                    21        14787          Traumatologia                 45.05     
+88266     PREDNISONA 20MG C30 TAB GI              16        60049          Gastroenterologia             73.95     
+68539     METENAMINA 30T 500MG                    33        60049          Gastroenterologia             5.1       
+63555     FAMOTIDINA 20MG 30C                     31        60049          Gastroenterologia             43.35     
+60086     METAMISOL 500 MG T10                    15        60049          Gastroenterologia             23.8      
+86158     SENOSIDOS A y B C20                     31        60049          Gastroenterologia             47.6      
+22842     AMIKACINA 500MG C/1 AMP                 24        70269          Dermatologia                  47.6      
+61295     QUINFAMIDA 100 MG 3TAB                  10        70269          Dermatologia                  84.15     
+46919     VITAMINA C C20 TAB 100MG                25        70269          Dermatologia                  5.95      
+25684     DEXAMETASONA 0.5MG T/30                 14        53556          Pediatria                     84.15     
+26506     ITRACONAZOL 100 MG C/15                 15        53556          Pediatria                     28.05     
+68610     CALCITRIOL 0.25MCG 50 CAP               7         53556          Pediatria                     51.85     
+65667     SUBSALICILATO/BISMUTO SUSP 120ML        11        53556          Pediatria                     61.2      
+89528     CLORMADINONA 2MG 20T                    17        53556          Pediatria                     13.6      
+81695     LECHE DE MAGNESIA 180ML                 16        70612          Traumatologia                 15.3      
+48244     CLORANFENICOL SOL OFT 10ML              27        70612          Traumatologia                 25.5      
+89528     CLORMADINONA 2MG 20T                    16        70612          Traumatologia                 13.6      
+84766     CIPROFLOXACINO SOL.OFT 5MG              1         70612          Traumatologia                 79.9      
+22306     NIMESULIDA 25MG 20ML                    26        64405          Oftalmologia                  76.5      
+28992     ALUMUMINIO+MAGNESIO SUSP 240ML          14        64405          Oftalmologia                  64.6      
+86158     SENOSIDOS A y B C20                     32        64405          Oftalmologia                  47.6      
+82528     LORATADINA T/10 10MG                    17        64405          Oftalmologia                  19.55     
+61508     DEXTROMETORFANO 300MG JBE 120 ML        6         90929          Oftalmologia                  4.25      
+61508     DEXTROMETORFANO 300MG JBE 120 ML        30        90929          Oftalmologia                  4.25      
+22232     LEVETIRACETAM                           29        90929          Oftalmologia                  69.7      
+84771     BETAMETASONA CREMA 30GR                 2         90929          Oftalmologia                  39.1      
+60086     METAMISOL 500 MG T10                    22        70367          Urologia                      23.8      
+63555     FAMOTIDINA 20MG 30C                     12        70367          Urologia                      43.35     
+26360     VITAMINAS A C Y D 3AMP/3ML ING          21        70367          Urologia                      8.5       
+47697     CLINDAMICINA 300 MG C/16                2         70367          Urologia                      14.45     
+22842     AMIKACINA 500MG C/1 AMP                 12        80138          Geriatria                     47.6      
+61508     DEXTROMETORFANO 300MG JBE 120 ML        16        80138          Geriatria                     4.25      
+61508     DEXTROMETORFANO 300MG JBE 120 ML        8         80138          Geriatria                     4.25      
+84771     BETAMETASONA CREMA 30GR                 34        80138          Geriatria                     39.1      
+22842     AMIKACINA 500MG C/1 AMP                 14        80138          Geriatria                     47.6      
+84771     BETAMETASONA CREMA 30GR                 8         35451          Pediatria                     39.1      
+89325     DIMENHIDRINATO 24 T 50MG                28        35451          Pediatria                     79.05     
+67415     FINASTERIDA 5MG 30T                     19        35451          Pediatria                     52.7      
+61039     NISTATINA GI C/12 TAB                   15        35451          Pediatria                     78.2      
+81333     CARNITINA C/30                          22        35451          Pediatria                     40.8      
+42856     FELODIPINO 5 MG 20T                     28        49768          Cardiologia                   10.2      
+86158     SENOSIDOS A y B C20                     31        49768          Cardiologia                   47.6      
+62302     BEZAFIBRATO 200MG C/30TAB               26        33687          Oftalmologia                  41.65     
+60086     METAMISOL 500 MG T10                    35        70789          Pediatria                     23.8      
+44215     DICICLOVERINA 10MG 30T                  15        18262          Urologia                      33.15     
+81960     CEFALEXINA 500MG C/20 CAP               17        14655          Oncologia                     81.6      
+81960     CEFALEXINA 500MG C/20 CAP               5         14655          Oncologia                     81.6      
+41403     VITAMINAS Y MINERALES 30-30T            30        80227          Pediatria                     43.35     
+80830     COMPLEJO B T30                          18        80227          Pediatria                     78.2      
+22306     NIMESULIDA 25MG 20ML                    21        80227          Pediatria                     76.5      
+41403     VITAMINAS Y MINERALES 30-30T            18        80227          Pediatria                     43.35     
+62302     BEZAFIBRATO 200MG C/30TAB               6         34115          Cardiologia                   41.65     
+80839     CARBAMAZEPINA 120ML SUSP                32        34115          Cardiologia                   51        
+26920     HIDRALAZINA 20T 10MG                    34        80040          Endocrinologia                45.05     
+84766     CIPROFLOXACINO SOL.OFT 5MG              11        80040          Endocrinologia                79.9      
+48557     NAPROXENO SODICO 100/2.5 SUSP           6         80040          Endocrinologia                59.5      
+67784     LOSARTAN 50MG C/10T                     19        25448          Endocrinologia                73.95     
+47697     CLINDAMICINA 300 MG C/16                33        25448          Endocrinologia                14.45     
+28892     GLIMEPIRIDA 2MG C30                     15        25448          Endocrinologia                26.35     
+60685     NITROFURANTOINA C40 100MG               33        40414          Ginecologia                   79.9      
+63555     FAMOTIDINA 20MG 30C                     33        40414          Ginecologia                   43.35     
+86158     SENOSIDOS A y B C20                     27        40414          Ginecologia                   47.6      
+89325     DIMENHIDRINATO 24 T 50MG                30        90562          Dermatologia                  79.05     
+61039     NISTATINA GI C/12 TAB                   22        91509          Cardiologia                   78.2      
+22306     NIMESULIDA 25MG 20ML                    17        30557          Neumologia                    76.5      
+42053     TRETINOINA 30G CREMA 0.05%              10        30557          Neumologia                    10.2      
+68730     MELOXICAM 7.5 MG C/14                   21        20189          Endocrinologia                0.85      
+82528     LORATADINA T/10 10MG                    7         20189          Endocrinologia                19.55     
+60509     AMPICILINA 125MG SUSP 90ML              33        30082          Cardiologia                   58.65     
+84771     BETAMETASONA CREMA 30GR                 16        30082          Cardiologia                   39.1      
+82469     GUAYACOL AMPOLLETA 1ML                  6         50718          Pediatria                     60.35     
+44215     DICICLOVERINA 10MG 30T                  12        52063          Traumatologia                 33.15     
+27016     ACECLOFENACO 100MG 10T                  34        52063          Traumatologia                 51        
+89325     DIMENHIDRINATO 24 T 50MG                24        52063          Traumatologia                 79.05     
+44215     DICICLOVERINA 10MG 30T                  31        52063          Traumatologia                 33.15     
+27016     ACECLOFENACO 100MG 10T                  5         52063          Traumatologia                 51        
+22232     LEVETIRACETAM                           32        80063          Gastroenterologia             69.7      
+89528     CLORMADINONA 2MG 20T                    15        80063          Gastroenterologia             13.6      
+61039     NISTATINA GI C/12 TAB                   25        80063          Gastroenterologia             78.2      
+28409     RIFAMPICINA 300 MG C/16 CAP             10        19777          Oftalmologia                  4.25      
+80839     CARBAMAZEPINA 120ML SUSP                8         19777          Oftalmologia                  51        
+42053     TRETINOINA 30G CREMA 0.05%              17        19777          Oftalmologia                  10.2      
+28409     RIFAMPICINA 300 MG C/16 CAP             11        19777          Oftalmologia                  4.25      
+65985     LAMOTRIGINA 100MG TAB 28                15        50611          Urologia                      79.9      
+48039     TRAMADOL 100MG 5AMP                     29        50611          Urologia                      11.9      
+65985     LAMOTRIGINA 100MG TAB 28                28        50611          Urologia                      79.9      
+22306     NIMESULIDA 25MG 20ML                    11        50611          Urologia                      76.5      
+60888     CAPTOPRIL 25MG 30T                      16        15092          Dermatologia                  7.65      
+47697     CLINDAMICINA 300 MG C/16                15        60184          Traumatologia                 14.45     
+42861     BENCIDAMIDA CRA 5% 60GR                 22        60184          Traumatologia                 23.8      
+68346     TOLBUTAMIDA 50T 500MG                   28        60184          Traumatologia                 10.2      
+46000     HIDROX--MAGNESIO+ALUMINIO 240ML         15        90798          Traumatologia                 50.15     
+86828     FENAZOPIRIDINA 100 MG C/20 TAB          14        90798          Traumatologia                 32.3      
+89325     DIMENHIDRINATO 24 T 50MG                6         90798          Traumatologia                 79.05     
+47697     CLINDAMICINA 300 MG C/16                18        90798          Traumatologia                 14.45     
+80839     CARBAMAZEPINA 120ML SUSP                18        80786          Ginecologia                   51        
+68860     METFORMINA 850MG T30                    14        80786          Ginecologia                   59.5      
+86828     FENAZOPIRIDINA 100 MG C/20 TAB          23        80786          Ginecologia                   32.3      
+86158     SENOSIDOS A y B C20                     11        80786          Ginecologia                   47.6      
+82528     LORATADINA T/10 10MG                    3         80786          Ginecologia                   19.55     
+22842     AMIKACINA 500MG C/1 AMP                 24        70233          Ginecologia                   47.6      
+84555     PARACETAMOL 300MG C/5 SUP               26        89213          Gastroenterologia             4.25      
+85325     AMOXICILINA 250MG C12                   16        89213          Gastroenterologia             56.1      
+63555     FAMOTIDINA 20MG 30C                     31        90907          Dermatologia                  43.35     
+63555     FAMOTIDINA 20MG 30C                     9         90907          Dermatologia                  43.35     
+61508     DEXTROMETORFANO 300MG JBE 120 ML        7         90907          Dermatologia                  4.25      
+63555     FAMOTIDINA 20MG 30C                     33        90907          Dermatologia                  43.35     
+26754     SILDENAFIL 50MG C/1-TAB                 16        60934          Neumologia                    68        
+89528     CLORMADINONA 2MG 20T                    8         60934          Neumologia                    13.6      
+89528     CLORMADINONA 2MG 20T                    6         60934          Neumologia                    13.6      
+84771     BETAMETASONA CREMA 30GR                 6         60934          Neumologia                    39.1      
+27016     ACECLOFENACO 100MG 10T                  31        60934          Neumologia                    51        
+81695     LECHE DE MAGNESIA 180ML                 17        60934          Neumologia                    15.3      
+28219     NITAZOXANIDA 200 MG T6                  18        14787          Traumatologia                 82.45     
+60509     AMPICILINA 125MG SUSP 90ML              11        14787          Traumatologia                 58.65     
+60509     AMPICILINA 125MG SUSP 90ML              33        14787          Traumatologia                 58.65     
+28219     NITAZOXANIDA 200 MG T6                  9         14787          Traumatologia                 82.45     
+42053     TRETINOINA 30G CREMA 0.05%              35        60049          Gastroenterologia             10.2      
+86158     SENOSIDOS A y B C20                     25        60049          Gastroenterologia             47.6      
+49685     PINAVERIO BROMURO DE 100 MG 14T         20        60049          Gastroenterologia             45.05     
+42053     TRETINOINA 30G CREMA 0.05%              20        60049          Gastroenterologia             10.2      
+60888     CAPTOPRIL 25MG 30T                      20        70269          Dermatologia                  7.65      
+24522     LEVOFLOXACINO 500MG C/7 TAB             11        70269          Dermatologia                  43.35     
+22842     AMIKACINA 500MG C/1 AMP                 1         70269          Dermatologia                  47.6      
+83510     FUROSEMIDA 40 MG C/20                   17        70269          Dermatologia                  22.95     
+68730     MELOXICAM 7.5 MG C/14                   35        53556          Pediatria                     0.85      
+89528     CLORMADINONA 2MG 20T                    34        70612          Traumatologia                 13.6      
+44215     DICICLOVERINA 10MG 30T                  26        70612          Traumatologia                 33.15     
+27016     ACECLOFENACO 100MG 10T                  31        70612          Traumatologia                 51        
+46000     HIDROX--MAGNESIO+ALUMINIO 240ML         25        64405          Oftalmologia                  50.15     
+61295     QUINFAMIDA 100 MG 3TAB                  30        64405          Oftalmologia                  84.15     
+49685     PINAVERIO BROMURO DE 100 MG 14T         2         64405          Oftalmologia                  45.05     
+83510     FUROSEMIDA 40 MG C/20                   2         90929          Oftalmologia                  22.95     
+46000     HIDROX--MAGNESIO+ALUMINIO 240ML         27        70367          Urologia                      50.15     
+61295     QUINFAMIDA 100 MG 3TAB                  28        70367          Urologia                      84.15     
+68860     METFORMINA 850MG T30                    29        18708          Ginecologia                   59.5      
+82528     LORATADINA T/10 10MG                    24        18708          Ginecologia                   19.55     
+82528     LORATADINA T/10 10MG                    30        18708          Ginecologia                   19.55     
+86828     FENAZOPIRIDINA 100 MG C/20 TAB          15        80138          Geriatria                     32.3      
+86828     FENAZOPIRIDINA 100 MG C/20 TAB          26        80138          Geriatria                     32.3      
+45814     ERITROMICINA 250MG SUSP                 26        80138          Geriatria                     35.7      
+46000     HIDROX--MAGNESIO+ALUMINIO 240ML         12        80138          Geriatria                     50.15     
+68860     METFORMINA 850MG T30                    18        80138          Geriatria                     59.5      
+45814     ERITROMICINA 250MG SUSP                 33        80138          Geriatria                     35.7      
+63555     FAMOTIDINA 20MG 30C                     16        35451          Pediatria                     43.35     
+67784     LOSARTAN 50MG C/10T                     34        70992          Gastroenterologia             73.95     
+86451     TRIMEBUTINA 100MG/5ML SUSP              34        49768          Cardiologia                   21.25     
+68860     METFORMINA 850MG T30                    29        49768          Cardiologia                   59.5      
+86451     TRIMEBUTINA 100MG/5ML SUSP              18        49768          Cardiologia                   21.25     
+68610     CALCITRIOL 0.25MCG 50 CAP               19        33687          Oftalmologia                  51.85     
+68860     METFORMINA 850MG T30                    7         33687          Oftalmologia                  59.5      
+63555     FAMOTIDINA 20MG 30C                     12        33687          Oftalmologia                  43.35     
+86451     TRIMEBUTINA 100MG/5ML SUSP              18        33687          Oftalmologia                  21.25     
+68610     CALCITRIOL 0.25MCG 50 CAP               17        33687          Oftalmologia                  51.85     
+68610     CALCITRIOL 0.25MCG 50 CAP               16        33687          Oftalmologia                  51.85     
+67784     LOSARTAN 50MG C/10T                     5         70789          Pediatria                     73.95     
+85641     TAMOXIFENO 10MG 30T                     19        70789          Pediatria                     28.9      
+22306     NIMESULIDA 25MG 20ML                    22        18262          Urologia                      76.5      
+42053     TRETINOINA 30G CREMA 0.05%              9         18262          Urologia                      10.2      
+42053     TRETINOINA 30G CREMA 0.05%              33        18262          Urologia                      10.2      
+49685     PINAVERIO BROMURO DE 100 MG 14T         8         18262          Urologia                      45.05     
+86158     SENOSIDOS A y B C20                     2         18262          Urologia                      47.6      
+65536     NEOM/POLIMIX/GRAMIC 15 ML GTS           25        14655          Oncologia                     1.7       
+47697     CLINDAMICINA 300 MG C/16                27        14655          Oncologia                     14.45     
+62302     BEZAFIBRATO 200MG C/30TAB               24        80227          Pediatria                     41.65     
+60888     CAPTOPRIL 25MG 30T                      19        80227          Pediatria                     7.65      
+62302     BEZAFIBRATO 200MG C/30TAB               6         80227          Pediatria                     41.65     
+83510     FUROSEMIDA 40 MG C/20                   28        80227          Pediatria                     22.95     
+60888     CAPTOPRIL 25MG 30T                      33        80227          Pediatria                     7.65      
+82528     LORATADINA T/10 10MG                    17        34115          Cardiologia                   19.55     
+41403     VITAMINAS Y MINERALES 30-30T            34        80040          Endocrinologia                43.35     
+46000     HIDROX--MAGNESIO+ALUMINIO 240ML         33        80040          Endocrinologia                50.15     
+86158     SENOSIDOS A y B C20                     11        80040          Endocrinologia                47.6      
+88681     NIFEDIPINO 30 MG 30 CPS                 22        80040          Endocrinologia                53.55     
+81695     LECHE DE MAGNESIA 180ML                 3         25448          Endocrinologia                15.3      
+47697     CLINDAMICINA 300 MG C/16                27        25448          Endocrinologia                14.45     
+84771     BETAMETASONA CREMA 30GR                 4         40414          Ginecologia                   39.1      
+26754     SILDENAFIL 50MG C/1-TAB                 29        90562          Dermatologia                  68        
+89528     CLORMADINONA 2MG 20T                    6         90562          Dermatologia                  13.6      
+83510     FUROSEMIDA 40 MG C/20                   11        91509          Cardiologia                   22.95     
+67415     FINASTERIDA 5MG 30T                     31        91509          Cardiologia                   52.7      
+85325     AMOXICILINA 250MG C12                   17        30557          Neumologia                    56.1      
+41995     DIMETICONA SUSP 100MG 30ML              17        20189          Endocrinologia                25.5      
+42053     TRETINOINA 30G CREMA 0.05%              9         20189          Endocrinologia                10.2      
+49685     PINAVERIO BROMURO DE 100 MG 14T         16        20189          Endocrinologia                45.05     
+44253     PROGESTERONA+ESTRADIOL 50/5 AMP         26        30082          Cardiologia                   36.55     
+24522     LEVOFLOXACINO 500MG C/7 TAB             13        30082          Cardiologia                   43.35     
+88266     PREDNISONA 20MG C30 TAB GI              10        50718          Pediatria                     73.95     
+26360     VITAMINAS A C Y D 3AMP/3ML ING          31        50718          Pediatria                     8.5       
+41379     FLUNARICINA 10 MG T20                   15        50718          Pediatria                     1.7       
+86451     TRIMEBUTINA 100MG/5ML SUSP              19        50718          Pediatria                     21.25     
+89528     CLORMADINONA 2MG 20T                    30        52063          Traumatologia                 13.6      
+27016     ACECLOFENACO 100MG 10T                  34        52063          Traumatologia                 51        
+27016     ACECLOFENACO 100MG 10T                  24        80063          Gastroenterologia             51        
+89528     CLORMADINONA 2MG 20T                    20        80063          Gastroenterologia             13.6      
+60086     METAMISOL 500 MG T10                    26        50611          Urologia                      23.8      
+49644     HIDROCORTISONA CRA 30GR                 27        50611          Urologia                      73.95     
+89839     ACIDO MEFENAMICO 500MG C10 TAB          27        15092          Dermatologia                  73.95     
+68860     METFORMINA 850MG T30                    18        15092          Dermatologia                  59.5      
+63555     FAMOTIDINA 20MG 30C                     5         15092          Dermatologia                  43.35     
+27447     OXIDO DE ZINC TUBO PASTA 30GR           10        60184          Traumatologia                 59.5      
+85325     AMOXICILINA 250MG C12                   14        60184          Traumatologia                 56.1      
+82528     LORATADINA T/10 10MG                    8         60184          Traumatologia                 19.55     
+80839     CARBAMAZEPINA 120ML SUSP                10        60184          Traumatologia                 51        
+22232     LEVETIRACETAM                           28        90798          Traumatologia                 69.7      
+60509     AMPICILINA 125MG SUSP 90ML              20        90798          Traumatologia                 58.65     
+42053     TRETINOINA 30G CREMA 0.05%              9         80786          Ginecologia                   10.2      
+85865     PLANTAGO PSYLLIUM 400GR. GI             30        80786          Ginecologia                   8.5       
+49644     HIDROCORTISONA CRA 30GR                 26        70233          Ginecologia                   73.95     
+60509     AMPICILINA 125MG SUSP 90ML              35        70233          Ginecologia                   58.65     
+80839     CARBAMAZEPINA 120ML SUSP                32        70233          Ginecologia                   51        
+61508     DEXTROMETORFANO 300MG JBE 120 ML        9         89213          Gastroenterologia             4.25      
+67784     LOSARTAN 50MG C/10T                     9         90907          Dermatologia                  73.95     
+67784     LOSARTAN 50MG C/10T                     11        90907          Dermatologia                  73.95     
+47697     CLINDAMICINA 300 MG C/16                24        90907          Dermatologia                  14.45     
+47697     CLINDAMICINA 300 MG C/16                13        90907          Dermatologia                  14.45     
+40862     YODOPOVIDONA 120ML                      14        60934          Neumologia                    76.5      
+65985     LAMOTRIGINA 100MG TAB 28                15        60934          Neumologia                    79.9      
+81960     CEFALEXINA 500MG C/20 CAP               5         14787          Traumatologia                 81.6      
+44215     DICICLOVERINA 10MG 30T                  28        14787          Traumatologia                 33.15     
+86828     FENAZOPIRIDINA 100 MG C/20 TAB          33        14787          Traumatologia                 32.3      
+89528     CLORMADINONA 2MG 20T                    17        14787          Traumatologia                 13.6      
+26920     HIDRALAZINA 20T 10MG                    20        60049          Gastroenterologia             45.05     
+82469     GUAYACOL AMPOLLETA 1ML                  17        60049          Gastroenterologia             60.35     
+47697     CLINDAMICINA 300 MG C/16                21        60049          Gastroenterologia             14.45     
+26754     SILDENAFIL 50MG C/1-TAB                 18        70269          Dermatologia                  68        
+40862     YODOPOVIDONA 120ML                      27        70269          Dermatologia                  76.5      
+26754     SILDENAFIL 50MG C/1-TAB                 13        70269          Dermatologia                  68        
+26754     SILDENAFIL 50MG C/1-TAB                 22        70269          Dermatologia                  68        
+28219     NITAZOXANIDA 200 MG T6                  8         70269          Dermatologia                  82.45     
+25684     DEXAMETASONA 0.5MG T/30                 12        53556          Pediatria                     84.15     
+65667     SUBSALICILATO/BISMUTO SUSP 120ML        27        53556          Pediatria                     61.2      
+62008     LISINOPRIL T/30 10 MG                   13        70612          Traumatologia                 17.85     
+81695     LECHE DE MAGNESIA 180ML                 32        70612          Traumatologia                 15.3      
+42856     FELODIPINO 5 MG 20T                     17        70612          Traumatologia                 10.2      
+89528     CLORMADINONA 2MG 20T                    29        70612          Traumatologia                 13.6      
+80839     CARBAMAZEPINA 120ML SUSP                27        64405          Oftalmologia                  51        
+68860     METFORMINA 850MG T30                    11        90929          Oftalmologia                  59.5      
+89528     CLORMADINONA 2MG 20T                    18        70367          Urologia                      13.6      
+89528     CLORMADINONA 2MG 20T                    8         70367          Urologia                      13.6      
+26754     SILDENAFIL 50MG C/1-TAB                 14        70367          Urologia                      68        
+61039     NISTATINA GI C/12 TAB                   26        70367          Urologia                      78.2      
+84771     BETAMETASONA CREMA 30GR                 4         70367          Urologia                      39.1      
+61508     DEXTROMETORFANO 300MG JBE 120 ML        14        70367          Urologia                      4.25      
+27016     ACECLOFENACO 100MG 10T                  13        70367          Urologia                      51        
+22553     FLUCINOLONA+NEOMICINA CRA 30G           13        18708          Ginecologia                   39.1      
+85325     AMOXICILINA 250MG C12                   24        18708          Ginecologia                   56.1      
+60086     METAMISOL 500 MG T10                    20        80138          Geriatria                     23.8      
+86451     TRIMEBUTINA 100MG/5ML SUSP              26        80138          Geriatria                     21.25     
+88266     PREDNISONA 20MG C30 TAB GI              7         80138          Geriatria                     73.95     
+60086     METAMISOL 500 MG T10                    25        80138          Geriatria                     23.8      
+60086     METAMISOL 500 MG T10                    5         80138          Geriatria                     23.8      
+86451     TRIMEBUTINA 100MG/5ML SUSP              18        80138          Geriatria                     21.25     
+44253     PROGESTERONA+ESTRADIOL 50/5 AMP         8         35451          Pediatria                     36.55     
+86158     SENOSIDOS A y B C20                     9         70992          Gastroenterologia             47.6      
+88681     NIFEDIPINO 30 MG 30 CPS                 30        70992          Gastroenterologia             53.55     
+67784     LOSARTAN 50MG C/10T                     26        49768          Cardiologia                   73.95     
+46919     VITAMINA C C20 TAB 100MG                14        33687          Oftalmologia                  5.95      
+44253     PROGESTERONA+ESTRADIOL 50/5 AMP         33        33687          Oftalmologia                  36.55     
+26920     HIDRALAZINA 20T 10MG                    17        33687          Oftalmologia                  45.05     
+61508     DEXTROMETORFANO 300MG JBE 120 ML        9         70789          Pediatria                     4.25      
+80830     COMPLEJO B T30                          34        18262          Urologia                      78.2      
+24733     CALCIO+MAGNESIO 30T                     29        18262          Urologia                      59.5      
+26360     VITAMINAS A C Y D 3AMP/3ML ING          20        14655          Oncologia                     8.5       
+41379     FLUNARICINA 10 MG T20                   8         14655          Oncologia                     1.7       
+27016     ACECLOFENACO 100MG 10T                  29        80227          Pediatria                     51        
+89528     CLORMADINONA 2MG 20T                    23        80227          Pediatria                     13.6      
+81062     PAROXETINA T/10 20MG                    33        34115          Cardiologia                   9.35      
+81695     LECHE DE MAGNESIA 180ML                 31        34115          Cardiologia                   15.3      
+60509     AMPICILINA 125MG SUSP 90ML              3         34115          Cardiologia                   58.65     
+26754     SILDENAFIL 50MG C/1-TAB                 8         80040          Endocrinologia                68        
+84771     BETAMETASONA CREMA 30GR                 24        80040          Endocrinologia                39.1      
+82469     GUAYACOL AMPOLLETA 1ML                  28        25448          Endocrinologia                60.35     
+47697     CLINDAMICINA 300 MG C/16                23        25448          Endocrinologia                14.45     
+40645     VERAPAMILO 80 MG/20 TAB                 21        25448          Endocrinologia                4.25      
+84766     CIPROFLOXACINO SOL.OFT 5MG              3         25448          Endocrinologia                79.9      
+82469     GUAYACOL AMPOLLETA 1ML                  27        25448          Endocrinologia                60.35     
+81695     LECHE DE MAGNESIA 180ML                 14        40414          Ginecologia                   15.3      
+61039     NISTATINA GI C/12 TAB                   26        40414          Ginecologia                   78.2      
+41995     DIMETICONA SUSP 100MG 30ML              29        90562          Dermatologia                  25.5      
+42856     FELODIPINO 5 MG 20T                     26        90562          Dermatologia                  10.2      
+22306     NIMESULIDA 25MG 20ML                    11        90562          Dermatologia                  76.5      
+61039     NISTATINA GI C/12 TAB                   23        91509          Cardiologia                   78.2      
+88681     NIFEDIPINO 30 MG 30 CPS                 23        91509          Cardiologia                   53.55     
+26484     DILTIAZEM 30 TAB/30 MG                  17        30557          Neumologia                    29.75     
+85325     AMOXICILINA 250MG C12                   5         30557          Neumologia                    56.1      
+85325     AMOXICILINA 250MG C12                   32        30557          Neumologia                    56.1      
+26484     DILTIAZEM 30 TAB/30 MG                  30        30557          Neumologia                    29.75     
+40862     YODOPOVIDONA 120ML                      21        20189          Endocrinologia                76.5      
+40862     YODOPOVIDONA 120ML                      26        20189          Endocrinologia                76.5      
+80839     CARBAMAZEPINA 120ML SUSP                14        50718          Pediatria                     51        
+82469     GUAYACOL AMPOLLETA 1ML                  31        50718          Pediatria                     60.35     
+60888     CAPTOPRIL 25MG 30T                      7         50718          Pediatria                     7.65      
+88681     NIFEDIPINO 30 MG 30 CPS                 30        80063          Gastroenterologia             53.55     
+40645     VERAPAMILO 80 MG/20 TAB                 12        80063          Gastroenterologia             4.25      
+67784     LOSARTAN 50MG C/10T                     10        80063          Gastroenterologia             73.95     
+84771     BETAMETASONA CREMA 30GR                 6         19777          Oftalmologia                  39.1      
+60888     CAPTOPRIL 25MG 30T                      24        19777          Oftalmologia                  7.65      
+84771     BETAMETASONA CREMA 30GR                 19        19777          Oftalmologia                  39.1      
+88266     PREDNISONA 20MG C30 TAB GI              11        50611          Urologia                      73.95     
+26360     VITAMINAS A C Y D 3AMP/3ML ING          18        50611          Urologia                      8.5       
+26360     VITAMINAS A C Y D 3AMP/3ML ING          6         50611          Urologia                      8.5       
+47697     CLINDAMICINA 300 MG C/16                31        50611          Urologia                      14.45     
+68539     METENAMINA 30T 500MG                    25        50611          Urologia                      5.1       
+68860     METFORMINA 850MG T30                    34        15092          Dermatologia                  59.5      
+81062     PAROXETINA T/10 20MG                    16        15092          Dermatologia                  9.35      
+60509     AMPICILINA 125MG SUSP 90ML              3         15092          Dermatologia                  58.65     
+28219     NITAZOXANIDA 200 MG T6                  5         60184          Traumatologia                 82.45     
+68860     METFORMINA 850MG T30                    29        60184          Traumatologia                 59.5      
+61508     DEXTROMETORFANO 300MG JBE 120 ML        27        60184          Traumatologia                 4.25      
+68860     METFORMINA 850MG T30                    21        60184          Traumatologia                 59.5      
+60888     CAPTOPRIL 25MG 30T                      32        60184          Traumatologia                 7.65      
+41995     DIMETICONA SUSP 100MG 30ML              25        90798          Traumatologia                 25.5      
+83510     FUROSEMIDA 40 MG C/20                   19        90798          Traumatologia                 22.95     
+83510     FUROSEMIDA 40 MG C/20                   12        90798          Traumatologia                 22.95     
+84771     BETAMETASONA CREMA 30GR                 29        80786          Ginecologia                   39.1      
+28219     NITAZOXANIDA 200 MG T6                  12        80786          Ginecologia                   82.45     
+84771     BETAMETASONA CREMA 30GR                 1         80786          Ginecologia                   39.1      
+67784     LOSARTAN 50MG C/10T                     4         80786          Ginecologia                   73.95     
+60509     AMPICILINA 125MG SUSP 90ML              19        80786          Ginecologia                   58.65     
+84555     PARACETAMOL 300MG C/5 SUP               29        70233          Ginecologia                   4.25      
+25684     DEXAMETASONA 0.5MG T/30                 29        89213          Gastroenterologia             84.15     
+82469     GUAYACOL AMPOLLETA 1ML                  20        89213          Gastroenterologia             60.35     
+25684     DEXAMETASONA 0.5MG T/30                 10        89213          Gastroenterologia             84.15     
+65667     SUBSALICILATO/BISMUTO SUSP 120ML        30        89213          Gastroenterologia             61.2      
+82469     GUAYACOL AMPOLLETA 1ML                  11        89213          Gastroenterologia             60.35     
+86451     TRIMEBUTINA 100MG/5ML SUSP              29        90907          Dermatologia                  21.25     
+68539     METENAMINA 30T 500MG                    4         90907          Dermatologia                  5.1       
+24522     LEVOFLOXACINO 500MG C/7 TAB             23        90907          Dermatologia                  43.35     
+48039     TRAMADOL 100MG 5AMP                     23        90907          Dermatologia                  11.9      
+28219     NITAZOXANIDA 200 MG T6                  25        60934          Neumologia                    82.45     
+81960     CEFALEXINA 500MG C/20 CAP               21        60934          Neumologia                    81.6      
+83801     CEFACLOR 125 MG SUSP                    8         14787          Traumatologia                 37.4      
+68539     METENAMINA 30T 500MG                    3         14787          Traumatologia                 5.1       
+60509     AMPICILINA 125MG SUSP 90ML              27        60049          Gastroenterologia             58.65     
+88681     NIFEDIPINO 30 MG 30 CPS                 15        60049          Gastroenterologia             53.55     
+48039     TRAMADOL 100MG 5AMP                     24        60049          Gastroenterologia             11.9      
+88681     NIFEDIPINO 30 MG 30 CPS                 18        60049          Gastroenterologia             53.55     
+48039     TRAMADOL 100MG 5AMP                     32        60049          Gastroenterologia             11.9      
+27447     OXIDO DE ZINC TUBO PASTA 30GR           6         70269          Dermatologia                  59.5      
+25684     DEXAMETASONA 0.5MG T/30                 16        53556          Pediatria                     84.15     
+89325     DIMENHIDRINATO 24 T 50MG                18        70612          Traumatologia                 79.05     
+44215     DICICLOVERINA 10MG 30T                  31        70612          Traumatologia                 33.15     
+61039     NISTATINA GI C/12 TAB                   10        64405          Oftalmologia                  78.2      
+40645     VERAPAMILO 80 MG/20 TAB                 14        64405          Oftalmologia                  4.25      
+48244     CLORANFENICOL SOL OFT 10ML              13        64405          Oftalmologia                  25.5      
+47734     MICRODACYN 60 SOL 240ML                 28        90929          Oftalmologia                  39.1      
+42856     FELODIPINO 5 MG 20T                     22        90929          Oftalmologia                  10.2      
+83510     FUROSEMIDA 40 MG C/20                   32        70367          Urologia                      22.95     
+83510     FUROSEMIDA 40 MG C/20                   33        70367          Urologia                      22.95     
+60685     NITROFURANTOINA C40 100MG               29        70367          Urologia                      79.9      
+46919     VITAMINA C C20 TAB 100MG                15        18708          Ginecologia                   5.95      
+26484     DILTIAZEM 30 TAB/30 MG                  18        80138          Geriatria                     29.75     
+68539     METENAMINA 30T 500MG                    25        80138          Geriatria                     5.1       
+22553     FLUCINOLONA+NEOMICINA CRA 30G           16        80138          Geriatria                     39.1      
+67784     LOSARTAN 50MG C/10T                     8         35451          Pediatria                     73.95     
+67784     LOSARTAN 50MG C/10T                     12        70992          Gastroenterologia             73.95     
+89528     CLORMADINONA 2MG 20T                    21        49768          Cardiologia                   13.6      
+89528     CLORMADINONA 2MG 20T                    21        49768          Cardiologia                   13.6      
+85641     TAMOXIFENO 10MG 30T                     10        49768          Cardiologia                   28.9      
+89325     DIMENHIDRINATO 24 T 50MG                27        33687          Oftalmologia                  79.05     
+22553     FLUCINOLONA+NEOMICINA CRA 30G           19        70789          Pediatria                     39.1      
+48557     NAPROXENO SODICO 100/2.5 SUSP           29        70789          Pediatria                     59.5      
+26484     DILTIAZEM 30 TAB/30 MG                  7         70789          Pediatria                     29.75     
+68539     METENAMINA 30T 500MG                    21        70789          Pediatria                     5.1       
+26484     DILTIAZEM 30 TAB/30 MG                  19        70789          Pediatria                     29.75     
+61295     QUINFAMIDA 100 MG 3TAB                  7         18262          Urologia                      84.15     
+42053     TRETINOINA 30G CREMA 0.05%              26        18262          Urologia                      10.2      
+83510     FUROSEMIDA 40 MG C/20                   31        18262          Urologia                      22.95     
+68610     CALCITRIOL 0.25MCG 50 CAP               12        14655          Oncologia                     51.85     
+60086     METAMISOL 500 MG T10                    5         14655          Oncologia                     23.8      
+68610     CALCITRIOL 0.25MCG 50 CAP               29        14655          Oncologia                     51.85     
+41403     VITAMINAS Y MINERALES 30-30T            28        80227          Pediatria                     43.35     
+43633     ERITROMICINA T 250 MG C/20              25        80227          Pediatria                     39.1      
+43633     ERITROMICINA T 250 MG C/20              24        80227          Pediatria                     39.1      
+60509     AMPICILINA 125MG SUSP 90ML              23        80227          Pediatria                     58.65     
+22306     NIMESULIDA 25MG 20ML                    12        80227          Pediatria                     76.5      
+82528     LORATADINA T/10 10MG                    31        34115          Cardiologia                   19.55     
+86158     SENOSIDOS A y B C20                     20        34115          Cardiologia                   47.6      
+82469     GUAYACOL AMPOLLETA 1ML                  7         80040          Endocrinologia                60.35     
+44253     PROGESTERONA+ESTRADIOL 50/5 AMP         20        80040          Endocrinologia                36.55     
+68539     METENAMINA 30T 500MG                    34        80040          Endocrinologia                5.1       
+26920     HIDRALAZINA 20T 10MG                    6         80040          Endocrinologia                45.05     
+46919     VITAMINA C C20 TAB 100MG                14        25448          Endocrinologia                5.95      
+61295     QUINFAMIDA 100 MG 3TAB                  35        25448          Endocrinologia                84.15     
+24522     LEVOFLOXACINO 500MG C/7 TAB             7         25448          Endocrinologia                43.35     
+49685     PINAVERIO BROMURO DE 100 MG 14T         25        25448          Endocrinologia                45.05     
+61295     QUINFAMIDA 100 MG 3TAB                  24        25448          Endocrinologia                84.15     
+49685     PINAVERIO BROMURO DE 100 MG 14T         31        25448          Endocrinologia                45.05     
+47697     CLINDAMICINA 300 MG C/16                30        40414          Ginecologia                   14.45     
+42861     BENCIDAMIDA CRA 5% 60GR                 18        40414          Ginecologia                   23.8      
+47697     CLINDAMICINA 300 MG C/16                1         40414          Ginecologia                   14.45     
+26920     HIDRALAZINA 20T 10MG                    33        90562          Dermatologia                  45.05     
+47697     CLINDAMICINA 300 MG C/16                15        91509          Cardiologia                   14.45     
+47697     CLINDAMICINA 300 MG C/16                11        91509          Cardiologia                   14.45     
+60086     METAMISOL 500 MG T10                    33        30557          Neumologia                    23.8      
+63555     FAMOTIDINA 20MG 30C                     7         30557          Neumologia                    43.35     
+85325     AMOXICILINA 250MG C12                   26        20189          Endocrinologia                56.1      
+68860     METFORMINA 850MG T30                    9         20189          Endocrinologia                59.5      
+46000     HIDROX--MAGNESIO+ALUMINIO 240ML         34        20189          Endocrinologia                50.15     
+82528     LORATADINA T/10 10MG                    24        20189          Endocrinologia                19.55     
+67415     FINASTERIDA 5MG 30T                     24        30082          Cardiologia                   52.7      
+28409     RIFAMPICINA 300 MG C/16 CAP             25        30082          Cardiologia                   4.25      
+67415     FINASTERIDA 5MG 30T                     20        30082          Cardiologia                   52.7      
+84771     BETAMETASONA CREMA 30GR                 23        30082          Cardiologia                   39.1      
+84771     BETAMETASONA CREMA 30GR                 27        30082          Cardiologia                   39.1      
+60509     AMPICILINA 125MG SUSP 90ML              12        50718          Pediatria                     58.65     
+65536     NEOM/POLIMIX/GRAMIC 15 ML GTS           25        50718          Pediatria                     1.7       
+47697     CLINDAMICINA 300 MG C/16                24        50718          Pediatria                     14.45     
+84771     BETAMETASONA CREMA 30GR                 17        50718          Pediatria                     39.1      
+47697     CLINDAMICINA 300 MG C/16                31        52063          Traumatologia                 14.45     
+22306     NIMESULIDA 25MG 20ML                    29        80063          Gastroenterologia             76.5      
+42856     FELODIPINO 5 MG 20T                     13        80063          Gastroenterologia             10.2      
+47734     MICRODACYN 60 SOL 240ML                 20        80063          Gastroenterologia             39.1      
+28892     GLIMEPIRIDA 2MG C30                     5         80063          Gastroenterologia             26.35     
+81960     CEFALEXINA 500MG C/20 CAP               18        19777          Oftalmologia                  81.6      
+81960     CEFALEXINA 500MG C/20 CAP               20        19777          Oftalmologia                  81.6      
+60685     NITROFURANTOINA C40 100MG               2         19777          Oftalmologia                  79.9      
+41379     FLUNARICINA 10 MG T20                   26        19777          Oftalmologia                  1.7       
+86828     FENAZOPIRIDINA 100 MG C/20 TAB          23        50611          Urologia                      32.3      
+41995     DIMETICONA SUSP 100MG 30ML              30        50611          Urologia                      25.5      
+61295     QUINFAMIDA 100 MG 3TAB                  1         50611          Urologia                      84.15     
+88681     NIFEDIPINO 30 MG 30 CPS                 29        15092          Dermatologia                  53.55     
+67784     LOSARTAN 50MG C/10T                     27        15092          Dermatologia                  73.95     
+61039     NISTATINA GI C/12 TAB                   9         15092          Dermatologia                  78.2      
+48244     CLORANFENICOL SOL OFT 10ML              2         15092          Dermatologia                  25.5      
+46919     VITAMINA C C20 TAB 100MG                34        60184          Traumatologia                 5.95      
+22842     AMIKACINA 500MG C/1 AMP                 17        60184          Traumatologia                 47.6      
+26754     SILDENAFIL 50MG C/1-TAB                 12        60184          Traumatologia                 68        
+27016     ACECLOFENACO 100MG 10T                  7         60184          Traumatologia                 51        
+89528     CLORMADINONA 2MG 20T                    32        60184          Traumatologia                 13.6      
+22232     LEVETIRACETAM                           11        60184          Traumatologia                 69.7      
+81695     LECHE DE MAGNESIA 180ML                 33        90798          Traumatologia                 15.3      
+60086     METAMISOL 500 MG T10                    35        80786          Ginecologia                   23.8      
+88681     NIFEDIPINO 30 MG 30 CPS                 31        80786          Ginecologia                   53.55     
+88681     NIFEDIPINO 30 MG 30 CPS                 26        80786          Ginecologia                   53.55     
+22232     LEVETIRACETAM                           9         70233          Ginecologia                   69.7      
+47734     MICRODACYN 60 SOL 240ML                 28        70233          Ginecologia                   39.1      
+84771     BETAMETASONA CREMA 30GR                 30        70233          Ginecologia                   39.1      
+84771     BETAMETASONA CREMA 30GR                 8         70233          Ginecologia                   39.1      
+46919     VITAMINA C C20 TAB 100MG                30        70233          Ginecologia                   5.95      
+89528     CLORMADINONA 2MG 20T                    30        70233          Ginecologia                   13.6      
+60888     CAPTOPRIL 25MG 30T                      18        89213          Gastroenterologia             7.65      
+67415     FINASTERIDA 5MG 30T                     26        89213          Gastroenterologia             52.7      
+60888     CAPTOPRIL 25MG 30T                      11        89213          Gastroenterologia             7.65      
+26484     DILTIAZEM 30 TAB/30 MG                  24        90907          Dermatologia                  29.75     
+67784     LOSARTAN 50MG C/10T                     33        90907          Dermatologia                  73.95     
+48557     NAPROXENO SODICO 100/2.5 SUSP           15        90907          Dermatologia                  59.5      
+61039     NISTATINA GI C/12 TAB                   22        60934          Neumologia                    78.2      
+47734     MICRODACYN 60 SOL 240ML                 12        60934          Neumologia                    39.1      
+46919     VITAMINA C C20 TAB 100MG                13        60934          Neumologia                    5.95      
+84771     BETAMETASONA CREMA 30GR                 17        60934          Neumologia                    39.1      
+60086     METAMISOL 500 MG T10                    28        14787          Traumatologia                 23.8      
+49644     HIDROCORTISONA CRA 30GR                 21        14787          Traumatologia                 73.95     
+41379     FLUNARICINA 10 MG T20                   10        14787          Traumatologia                 1.7       
+60086     METAMISOL 500 MG T10                    16        14787          Traumatologia                 23.8      
+49644     HIDROCORTISONA CRA 30GR                 10        14787          Traumatologia                 73.95     
+28219     NITAZOXANIDA 200 MG T6                  24        14787          Traumatologia                 82.45     
+22306     NIMESULIDA 25MG 20ML                    27        60049          Gastroenterologia             76.5      
+42053     TRETINOINA 30G CREMA 0.05%              2         60049          Gastroenterologia             10.2      
+81062     PAROXETINA T/10 20MG                    30        60049          Gastroenterologia             9.35      
+81062     PAROXETINA T/10 20MG                    10        60049          Gastroenterologia             9.35      
+65536     NEOM/POLIMIX/GRAMIC 15 ML GTS           17        53556          Pediatria                     1.7       
+49644     HIDROCORTISONA CRA 30GR                 25        53556          Pediatria                     73.95     
+80830     COMPLEJO B T30                          32        53556          Pediatria                     78.2      
+28409     RIFAMPICINA 300 MG C/16 CAP             25        53556          Pediatria                     4.25      
+86451     TRIMEBUTINA 100MG/5ML SUSP              13        70612          Traumatologia                 21.25     
+22553     FLUCINOLONA+NEOMICINA CRA 30G           28        70612          Traumatologia                 39.1      
+83801     CEFACLOR 125 MG SUSP                    10        70612          Traumatologia                 37.4      
+67784     LOSARTAN 50MG C/10T                     11        64405          Oftalmologia                  73.95     
+28219     NITAZOXANIDA 200 MG T6                  18        64405          Oftalmologia                  82.45     
+67784     LOSARTAN 50MG C/10T                     30        64405          Oftalmologia                  73.95     
+28892     GLIMEPIRIDA 2MG C30                     6         64405          Oftalmologia                  26.35     
+44253     PROGESTERONA+ESTRADIOL 50/5 AMP         29        90929          Oftalmologia                  36.55     
+40997     ELECTROLIT PED FRESA 625ML              19        90929          Oftalmologia                  41.65     
+61295     QUINFAMIDA 100 MG 3TAB                  15        90929          Oftalmologia                  84.15     
+40997     ELECTROLIT PED FRESA 625ML              25        90929          Oftalmologia                  41.65     
+61295     QUINFAMIDA 100 MG 3TAB                  31        90929          Oftalmologia                  84.15     
+85641     TAMOXIFENO 10MG 30T                     33        70367          Urologia                      28.9      
+88681     NIFEDIPINO 30 MG 30 CPS                 27        70367          Urologia                      53.55     
+83801     CEFACLOR 125 MG SUSP                    10        18708          Ginecologia                   37.4      
+82469     GUAYACOL AMPOLLETA 1ML                  25        18708          Ginecologia                   60.35     
+47697     CLINDAMICINA 300 MG C/16                25        18708          Ginecologia                   14.45     
+82469     GUAYACOL AMPOLLETA 1ML                  9         18708          Ginecologia                   60.35     
+47697     CLINDAMICINA 300 MG C/16                7         18708          Ginecologia                   14.45     
+28219     NITAZOXANIDA 200 MG T6                  13        80138          Geriatria                     82.45     
+49157     RANITIDINA 300 MG C/10                  34        80138          Geriatria                     66.3      
+61508     DEXTROMETORFANO 300MG JBE 120 ML        20        80138          Geriatria                     4.25      
+68860     METFORMINA 850MG T30                    16        80138          Geriatria                     59.5      
+44253     PROGESTERONA+ESTRADIOL 50/5 AMP         19        35451          Pediatria                     36.55     
+65536     NEOM/POLIMIX/GRAMIC 15 ML GTS           7         70992          Gastroenterologia             1.7       
+60685     NITROFURANTOINA C40 100MG               16        70992          Gastroenterologia             79.9      
+67784     LOSARTAN 50MG C/10T                     14        70992          Gastroenterologia             73.95     
+89528     CLORMADINONA 2MG 20T                    34        70992          Gastroenterologia             13.6      
+85865     PLANTAGO PSYLLIUM 400GR. GI             10        49768          Cardiologia                   8.5       
+68610     CALCITRIOL 0.25MCG 50 CAP               17        49768          Cardiologia                   51.85     
+85641     TAMOXIFENO 10MG 30T                     15        33687          Oftalmologia                  28.9      
+28892     GLIMEPIRIDA 2MG C30                     18        70789          Pediatria                     26.35     
+84771     BETAMETASONA CREMA 30GR                 29        70789          Pediatria                     39.1      
+47697     CLINDAMICINA 300 MG C/16                14        70789          Pediatria                     14.45     
+28219     NITAZOXANIDA 200 MG T6                  24        70789          Pediatria                     82.45     
+67784     LOSARTAN 50MG C/10T                     34        70789          Pediatria                     73.95     
+28219     NITAZOXANIDA 200 MG T6                  25        70789          Pediatria                     82.45     
+60086     METAMISOL 500 MG T10                    13        18262          Urologia                      23.8      
+41379     FLUNARICINA 10 MG T20                   26        18262          Urologia                      1.7       
+65985     LAMOTRIGINA 100MG TAB 28                25        18262          Urologia                      79.9      
+81960     CEFALEXINA 500MG C/20 CAP               31        18262          Urologia                      81.6      
+67415     FINASTERIDA 5MG 30T                     8         80227          Pediatria                     52.7      
+89325     DIMENHIDRINATO 24 T 50MG                29        80227          Pediatria                     79.05     
+60086     METAMISOL 500 MG T10                    8         80040          Endocrinologia                23.8      
+41379     FLUNARICINA 10 MG T20                   15        80040          Endocrinologia                1.7       
+68610     CALCITRIOL 0.25MCG 50 CAP               33        25448          Endocrinologia                51.85     
+86158     SENOSIDOS A y B C20                     26        25448          Endocrinologia                47.6      
+68610     CALCITRIOL 0.25MCG 50 CAP               2         25448          Endocrinologia                51.85     
+68539     METENAMINA 30T 500MG                    33        40414          Ginecologia                   5.1       
+82528     LORATADINA T/10 10MG                    24        40414          Ginecologia                   19.55     
+49157     RANITIDINA 300 MG C/10                  23        40414          Ginecologia                   66.3      
+68539     METENAMINA 30T 500MG                    23        40414          Ginecologia                   5.1       
+86828     FENAZOPIRIDINA 100 MG C/20 TAB          25        40414          Ginecologia                   32.3      
+85865     PLANTAGO PSYLLIUM 400GR. GI             11        90562          Dermatologia                  8.5       
+85865     PLANTAGO PSYLLIUM 400GR. GI             15        90562          Dermatologia                  8.5       
+68730     MELOXICAM 7.5 MG C/14                   31        91509          Cardiologia                   0.85      
+82528     LORATADINA T/10 10MG                    30        91509          Cardiologia                   19.55     
+22306     NIMESULIDA 25MG 20ML                    24        91509          Cardiologia                   76.5      
+61211     OFLOXACINO 400 MG C/8                   3         91509          Cardiologia                   78.2      
+84771     BETAMETASONA CREMA 30GR                 14        30557          Neumologia                    39.1      
+22232     LEVETIRACETAM                           18        30557          Neumologia                    69.7      
+42856     FELODIPINO 5 MG 20T                     5         20189          Endocrinologia                10.2      
+88681     NIFEDIPINO 30 MG 30 CPS                 29        20189          Endocrinologia                53.55     
+42856     FELODIPINO 5 MG 20T                     8         20189          Endocrinologia                10.2      
+88681     NIFEDIPINO 30 MG 30 CPS                 33        20189          Endocrinologia                53.55     
+60509     AMPICILINA 125MG SUSP 90ML              23        30082          Cardiologia                   58.65     
+28892     GLIMEPIRIDA 2MG C30                     9         30082          Cardiologia                   26.35     
+60509     AMPICILINA 125MG SUSP 90ML              15        30082          Cardiologia                   58.65     
+80830     COMPLEJO B T30                          28        50718          Pediatria                     78.2      
+85865     PLANTAGO PSYLLIUM 400GR. GI             5         50718          Pediatria                     8.5       
+86158     SENOSIDOS A y B C20                     5         52063          Traumatologia                 47.6      
+68860     METFORMINA 850MG T30                    32        52063          Traumatologia                 59.5      
+61508     DEXTROMETORFANO 300MG JBE 120 ML        23        52063          Traumatologia                 4.25      
+86451     TRIMEBUTINA 100MG/5ML SUSP              23        52063          Traumatologia                 21.25     
+60685     NITROFURANTOINA C40 100MG               18        52063          Traumatologia                 79.9      
+28892     GLIMEPIRIDA 2MG C30                     30        80063          Gastroenterologia             26.35     
+26920     HIDRALAZINA 20T 10MG                    23        80063          Gastroenterologia             45.05     
+82469     GUAYACOL AMPOLLETA 1ML                  20        19777          Oftalmologia                  60.35     
+82469     GUAYACOL AMPOLLETA 1ML                  16        19777          Oftalmologia                  60.35     
+61508     DEXTROMETORFANO 300MG JBE 120 ML        33        19777          Oftalmologia                  4.25      
+60888     CAPTOPRIL 25MG 30T                      9         19777          Oftalmologia                  7.65      
+26506     ITRACONAZOL 100 MG C/15                 6         50611          Urologia                      28.05     
+22232     LEVETIRACETAM                           2         50611          Urologia                      69.7      
+68730     MELOXICAM 7.5 MG C/14                   16        15092          Dermatologia                  0.85      
+81960     CEFALEXINA 500MG C/20 CAP               6         15092          Dermatologia                  81.6      
+40645     VERAPAMILO 80 MG/20 TAB                 19        60184          Traumatologia                 4.25      
+83801     CEFACLOR 125 MG SUSP                    14        60184          Traumatologia                 37.4      
+84771     BETAMETASONA CREMA 30GR                 26        90798          Traumatologia                 39.1      
+62302     BEZAFIBRATO 200MG C/30TAB               16        90798          Traumatologia                 41.65     
+84771     BETAMETASONA CREMA 30GR                 33        80786          Ginecologia                   39.1      
+61295     QUINFAMIDA 100 MG 3TAB                  13        70233          Ginecologia                   84.15     
+46919     VITAMINA C C20 TAB 100MG                12        70233          Ginecologia                   5.95      
+42053     TRETINOINA 30G CREMA 0.05%              10        70233          Ginecologia                   10.2      
+46919     VITAMINA C C20 TAB 100MG                6         70233          Ginecologia                   5.95      
+61295     QUINFAMIDA 100 MG 3TAB                  26        70233          Ginecologia                   84.15     
+86158     SENOSIDOS A y B C20                     35        89213          Gastroenterologia             47.6      
+86158     SENOSIDOS A y B C20                     7         89213          Gastroenterologia             47.6      
+28992     ALUMUMINIO+MAGNESIO SUSP 240ML          32        89213          Gastroenterologia             64.6      
+26920     HIDRALAZINA 20T 10MG                    7         90907          Dermatologia                  45.05     
+61211     OFLOXACINO 400 MG C/8                   18        90907          Dermatologia                  78.2      
+46000     HIDROX--MAGNESIO+ALUMINIO 240ML         13        60934          Neumologia                    50.15     
+85865     PLANTAGO PSYLLIUM 400GR. GI             34        60934          Neumologia                    8.5       
+61295     QUINFAMIDA 100 MG 3TAB                  4         60934          Neumologia                    84.15     
+28892     GLIMEPIRIDA 2MG C30                     13        60049          Gastroenterologia             26.35     
+22232     LEVETIRACETAM                           31        60049          Gastroenterologia             69.7      
+84771     BETAMETASONA CREMA 30GR                 32        60049          Gastroenterologia             39.1      
+22553     FLUCINOLONA+NEOMICINA CRA 30G           28        70269          Dermatologia                  39.1      
+61295     QUINFAMIDA 100 MG 3TAB                  7         70269          Dermatologia                  84.15     
+65667     SUBSALICILATO/BISMUTO SUSP 120ML        4         70269          Dermatologia                  61.2      
+44215     DICICLOVERINA 10MG 30T                  27        53556          Pediatria                     33.15     
+82528     LORATADINA T/10 10MG                    8         53556          Pediatria                     19.55     
+27447     OXIDO DE ZINC TUBO PASTA 30GR           18        53556          Pediatria                     59.5      
+68730     MELOXICAM 7.5 MG C/14                   22        53556          Pediatria                     0.85      
+22842     AMIKACINA 500MG C/1 AMP                 18        70612          Traumatologia                 47.6      
+61211     OFLOXACINO 400 MG C/8                   17        64405          Oftalmologia                  78.2      
+82528     LORATADINA T/10 10MG                    31        64405          Oftalmologia                  19.55     
+85865     PLANTAGO PSYLLIUM 400GR. GI             24        90929          Oftalmologia                  8.5       
+64347     DIFENHIDRAMINA 25MG C30                 30        90929          Oftalmologia                  65.45     
+85865     PLANTAGO PSYLLIUM 400GR. GI             21        90929          Oftalmologia                  8.5       
+85865     PLANTAGO PSYLLIUM 400GR. GI             2         90929          Oftalmologia                  8.5       
+61211     OFLOXACINO 400 MG C/8                   10        90929          Oftalmologia                  78.2      
+65536     NEOM/POLIMIX/GRAMIC 15 ML GTS           33        70367          Urologia                      1.7       
+89528     CLORMADINONA 2MG 20T                    32        70367          Urologia                      13.6      
+84771     BETAMETASONA CREMA 30GR                 15        18708          Ginecologia                   39.1      
+88266     PREDNISONA 20MG C30 TAB GI              21        80138          Geriatria                     73.95     
+26360     VITAMINAS A C Y D 3AMP/3ML ING          14        80138          Geriatria                     8.5       
+63555     FAMOTIDINA 20MG 30C                     13        80138          Geriatria                     43.35     
+63555     FAMOTIDINA 20MG 30C                     2         80138          Geriatria                     43.35     
+22842     AMIKACINA 500MG C/1 AMP                 26        35451          Pediatria                     47.6      
+85325     AMOXICILINA 250MG C12                   1         35451          Pediatria                     56.1      
+65536     NEOM/POLIMIX/GRAMIC 15 ML GTS           16        70992          Gastroenterologia             1.7       
+28219     NITAZOXANIDA 200 MG T6                  31        70992          Gastroenterologia             82.45     
+67784     LOSARTAN 50MG C/10T                     26        70992          Gastroenterologia             73.95     
+67784     LOSARTAN 50MG C/10T                     9         70992          Gastroenterologia             73.95     
+81695     LECHE DE MAGNESIA 180ML                 5         49768          Cardiologia                   15.3      
+41995     DIMETICONA SUSP 100MG 30ML              34        49768          Cardiologia                   25.5      
+80839     CARBAMAZEPINA 120ML SUSP                14        49768          Cardiologia                   51        
+60509     AMPICILINA 125MG SUSP 90ML              9         49768          Cardiologia                   58.65     
+22306     NIMESULIDA 25MG 20ML                    27        33687          Oftalmologia                  76.5      
+48557     NAPROXENO SODICO 100/2.5 SUSP           30        70789          Pediatria                     59.5      
+22553     FLUCINOLONA+NEOMICINA CRA 30G           8         70789          Pediatria                     39.1      
+61295     QUINFAMIDA 100 MG 3TAB                  9         70789          Pediatria                     84.15     
+82528     LORATADINA T/10 10MG                    11        18262          Urologia                      19.55     
+88681     NIFEDIPINO 30 MG 30 CPS                 10        18262          Urologia                      53.55     
+86158     SENOSIDOS A y B C20                     2         18262          Urologia                      47.6      
+67415     FINASTERIDA 5MG 30T                     29        14655          Oncologia                     52.7      
+89325     DIMENHIDRINATO 24 T 50MG                15        14655          Oncologia                     79.05     
+41379     FLUNARICINA 10 MG T20                   19        14655          Oncologia                     1.7       
+46000     HIDROX--MAGNESIO+ALUMINIO 240ML         16        80227          Pediatria                     50.15     
+46000     HIDROX--MAGNESIO+ALUMINIO 240ML         10        80227          Pediatria                     50.15     
+46000     HIDROX--MAGNESIO+ALUMINIO 240ML         15        80227          Pediatria                     50.15     
+47697     CLINDAMICINA 300 MG C/16                21        80227          Pediatria                     14.45     
+28892     GLIMEPIRIDA 2MG C30                     33        80227          Pediatria                     26.35     
+46000     HIDROX--MAGNESIO+ALUMINIO 240ML         4         80227          Pediatria                     50.15     
+44215     DICICLOVERINA 10MG 30T                  13        80227          Pediatria                     33.15     
+86681     HIDROCLOROTIAZIDA 25 MG 20TAB           20        34115          Cardiologia                   8.5       
+27447     OXIDO DE ZINC TUBO PASTA 30GR           19        34115          Cardiologia                   59.5      
+80839     CARBAMAZEPINA 120ML SUSP                31        34115          Cardiologia                   51        
+80830     COMPLEJO B T30                          33        34115          Cardiologia                   78.2      
+65536     NEOM/POLIMIX/GRAMIC 15 ML GTS           20        34115          Cardiologia                   1.7       
+26360     VITAMINAS A C Y D 3AMP/3ML ING          20        80040          Endocrinologia                8.5       
+44253     PROGESTERONA+ESTRADIOL 50/5 AMP         1         80040          Endocrinologia                36.55     
+61211     OFLOXACINO 400 MG C/8                   34        25448          Endocrinologia                78.2      
+27447     OXIDO DE ZINC TUBO PASTA 30GR           25        25448          Endocrinologia                59.5      
+61211     OFLOXACINO 400 MG C/8                   29        25448          Endocrinologia                78.2      
+22232     LEVETIRACETAM                           26        40414          Ginecologia                   69.7      
+48039     TRAMADOL 100MG 5AMP                     27        40414          Ginecologia                   11.9      
+60685     NITROFURANTOINA C40 100MG               12        40414          Ginecologia                   79.9      
+84766     CIPROFLOXACINO SOL.OFT 5MG              14        40414          Ginecologia                   79.9      
+22232     LEVETIRACETAM                           11        40414          Ginecologia                   69.7      
+22232     LEVETIRACETAM                           27        40414          Ginecologia                   69.7      
+86476     KETOTIFENO C/30                         27        40414          Ginecologia                   11.05     
+89528     CLORMADINONA 2MG 20T                    22        90562          Dermatologia                  13.6      
+80830     COMPLEJO B T30                          9         90562          Dermatologia                  78.2      
+61295     QUINFAMIDA 100 MG 3TAB                  6         91509          Cardiologia                   84.15     
+46000     HIDROX--MAGNESIO+ALUMINIO 240ML         33        30557          Neumologia                    50.15     
+41403     VITAMINAS Y MINERALES 30-30T            7         30557          Neumologia                    43.35     
+40997     ELECTROLIT PED FRESA 625ML              34        20189          Endocrinologia                41.65     
+49644     HIDROCORTISONA CRA 30GR                 5         20189          Endocrinologia                73.95     
+40997     ELECTROLIT PED FRESA 625ML              27        20189          Endocrinologia                41.65     
+84771     BETAMETASONA CREMA 30GR                 4         20189          Endocrinologia                39.1      
+40997     ELECTROLIT PED FRESA 625ML              1         20189          Endocrinologia                41.65     
+60509     AMPICILINA 125MG SUSP 90ML              22        30082          Cardiologia                   58.65     
+60888     CAPTOPRIL 25MG 30T                      23        30082          Cardiologia                   7.65      
+60509     AMPICILINA 125MG SUSP 90ML              7         30082          Cardiologia                   58.65     
+41379     FLUNARICINA 10 MG T20                   23        50718          Pediatria                     1.7       
+86158     SENOSIDOS A y B C20                     20        50718          Pediatria                     47.6      
+86451     TRIMEBUTINA 100MG/5ML SUSP              35        50718          Pediatria                     21.25     
+47697     CLINDAMICINA 300 MG C/16                9         52063          Traumatologia                 14.45     
+47697     CLINDAMICINA 300 MG C/16                32        52063          Traumatologia                 14.45     
+85641     TAMOXIFENO 10MG 30T                     33        52063          Traumatologia                 28.9      
+61039     NISTATINA GI C/12 TAB                   10        52063          Traumatologia                 78.2      
+85641     TAMOXIFENO 10MG 30T                     24        52063          Traumatologia                 28.9      
+85641     TAMOXIFENO 10MG 30T                     22        52063          Traumatologia                 28.9      
+89839     ACIDO MEFENAMICO 500MG C10 TAB          23        80063          Gastroenterologia             73.95     
+85641     TAMOXIFENO 10MG 30T                     4         80063          Gastroenterologia             28.9      
+86158     SENOSIDOS A y B C20                     35        19777          Oftalmologia                  47.6      
+82528     LORATADINA T/10 10MG                    17        19777          Oftalmologia                  19.55     
+64347     DIFENHIDRAMINA 25MG C30                 26        19777          Oftalmologia                  65.45     
+68539     METENAMINA 30T 500MG                    7         19777          Oftalmologia                  5.1       
+42856     FELODIPINO 5 MG 20T                     11        40414          Ginecologia                   10.2      
+41995     DIMETICONA SUSP 100MG 30ML              25        40414          Ginecologia                   25.5      
+81062     PAROXETINA T/10 20MG                    15        40414          Ginecologia                   9.35      
+44215     DICICLOVERINA 10MG 30T                  14        40414          Ginecologia                   33.15     
+49685     PINAVERIO BROMURO DE 100 MG 14T         18        40414          Ginecologia                   45.05     
+81695     LECHE DE MAGNESIA 180ML                 17        90562          Dermatologia                  15.3      
+60685     NITROFURANTOINA C40 100MG               7         90562          Dermatologia                  79.9      
+60685     NITROFURANTOINA C40 100MG               32        90562          Dermatologia                  79.9      

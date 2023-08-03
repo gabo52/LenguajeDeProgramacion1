@@ -5,13 +5,13 @@
 204890      LECHE YAQUI DESLACTOSADA 1LT
 DNI:               91897732
 MontoTotal:           12.00
-Descuento:            10.00
+Descuento:            10.00%
 
 20/07/2020
 151641      YOGHURT P BEBER LACTIGURT COCO 250G
 DNI:               91897732
 MontoTotal:           12.00
-Descuento:            10.00
+Descuento:            10.00%
 
 09/03/2021
 947176      SALSA DE CHILE HABANERO ROJO 260GR
@@ -43,13 +43,13 @@ Flete:                10.00%
 365906      AGUACATE REGIONAL KG.1.000 GR
 DNI:               91897732
 MontoTotal:            9.00
-Descuento:            10.00
+Descuento:            10.00%
 
 13/07/2019
 365379      YOGHURT FRESA CON GRANOLA CHELSY 240GR
 DNI:               83236386
 MontoTotal:           16.00
-Descuento:            10.00
+Descuento:            10.00%
 
 03/08/2019
 406688      CHURROMAIS CON LIMON 38GR
@@ -68,7 +68,7 @@ Flete:                10.00%
 311343      YOGHURT FRESA NESTLE 1KG
 DNI:               83236386
 MontoTotal:           20.00
-Descuento:            10.00
+Descuento:            10.00%
 
 11/09/2020
 675770      JARABE DE MAMEY 1.25KG
@@ -98,7 +98,7 @@ Flete:                 5.00%
 118050      PAPAYA
 DNI:               81114108
 MontoTotal:           11.00
-Descuento:            10.00
+Descuento:            10.00%
 
 05/06/2020
 565169      PASTILLA PEPTO BISMOL
@@ -111,13 +111,13 @@ Flete:                10.00%
 308982      YOGHURT P BEBER FRUGGIS FRESA 150GR
 DNI:               81114108
 MontoTotal:           14.00
-Descuento:            10.00
+Descuento:            10.00%
 
 06/10/2020
 182942      ZAPOTE
 DNI:               81114108
 MontoTotal:            3.00
-Descuento:            10.00
+Descuento:            10.00%
 
 05/11/2020
 992564      LECHUGA ROMANA
@@ -148,19 +148,19 @@ Flete:                10.00%
 118050      PAPAYA
 DNI:               79475585
 MontoTotal:            8.00
-Descuento:            10.00
+Descuento:            10.00%
 
 30/04/2020
 118050      PAPAYA
 DNI:               79475585
 MontoTotal:            5.00
-Descuento:            10.00
+Descuento:            10.00%
 
 14/05/2020
 390920      AGUA NIAGARA 500ML
 DNI:               79475585
 MontoTotal:            8.00
-Descuento:            10.00
+Descuento:            10.00%
 
 18/07/2020
 565169      PASTILLA PEPTO BISMOL
@@ -199,13 +199,13 @@ Flete:                10.00%
 308982      YOGHURT P BEBER FRUGGIS FRESA 150GR
 DNI:               79140840
 MontoTotal:           20.00
-Descuento:            10.00
+Descuento:            10.00%
 
 20/05/2021
 317404      LICUADO LALA CIRUELA PASA Y NUEZ 240GR
 DNI:               79140840
 MontoTotal:            6.00
-Descuento:            10.00
+Descuento:            10.00%
 
 28/05/2021
 455703      PALOMITAS POFETS FLAMIN HOT 28GR
@@ -218,7 +218,7 @@ Flete:                10.00%
 126218      TANJERINA
 DNI:               79140840
 MontoTotal:            1.50
-Descuento:            10.00
+Descuento:            10.00%
 
 21/02/2022
 748008      SANDWICH COMBINADA 3 FLORES 150GR
@@ -230,7 +230,7 @@ Flete:                 5.00%
 374253      TE DE MANZANILLA NEBO 24 1GR
 DNI:               76388967
 MontoTotal:            5.00
-Descuento:            10.00
+Descuento:            10.00%
 
 03/02/2019
 947176      SALSA DE CHILE HABANERO ROJO 260GR
@@ -273,19 +273,19 @@ Flete:                10.00%
 330512      YOGHURT LALA LIGHT 240GR
 DNI:               71984468
 MontoTotal:           18.00
-Descuento:            10.00
+Descuento:            10.00%
 
 05/03/2021
 283781      FRIJOLES REFRITOS ISADORA 430GR
 DNI:               71984468
 MontoTotal:           35.00
-Descuento:            10.00
+Descuento:            10.00%
 
 28/11/2021
 126218      TANJERINA
 DNI:               71984468
 MontoTotal:            3.00
-Descuento:            10.00
+Descuento:            10.00%
 
 11/02/2022
 651034      MANGO EN REBANADAS LA MORENA 800GR
@@ -297,7 +297,7 @@ Flete:                 5.00%
 308982      YOGHURT P BEBER FRUGGIS FRESA 150GR
 DNI:               71378466
 MontoTotal:            6.00
-Descuento:            10.00
+Descuento:            10.00%
 
 19/03/2020
 923804      SAL BAJA PACIFIC BOLSA 1KGR
@@ -337,13 +337,13 @@ Flete:                10.00%
 330512      YOGHURT LALA LIGHT 240GR
 DNI:               71378466
 MontoTotal:            3.00
-Descuento:            10.00
+Descuento:            10.00%
 
 30/07/2020
 311343      YOGHURT FRESA NESTLE 1KG
 DNI:               62566305
 MontoTotal:           55.00
-Descuento:            10.00
+Descuento:            10.00%
 
 23/11/2020
 714788      PAPA EN CUBOS DEL FUERTE 12 380GR.
@@ -449,13 +449,13 @@ Flete:                10.00%
 317404      LICUADO LALA CIRUELA PASA Y NUEZ 240GR
 DNI:               48184351
 MontoTotal:           10.00
-Descuento:            10.00
+Descuento:            10.00%
 
 02/02/2022
 204890      LECHE YAQUI DESLACTOSADA 1LT
 DNI:               48184351
 MontoTotal:            2.00
-Descuento:            10.00
+Descuento:            10.00%
 
 29/03/2022
 565169      PASTILLA PEPTO BISMOL
@@ -468,7 +468,7 @@ Flete:                10.00%
 178943      YOGHURT P BEBER DURAZNO LIGHT YOP 250GR
 DNI:               46462527
 MontoTotal:            3.00
-Descuento:            10.00
+Descuento:            10.00%
 
 26/07/2019
 748899      NARANJA SIN SEMILLA
@@ -486,19 +486,19 @@ Flete:                10.00%
 182942      ZAPOTE
 DNI:               46462527
 MontoTotal:            2.00
-Descuento:            10.00
+Descuento:            10.00%
 
 18/10/2019
 397718      LECHE LALA SEMI DESLACTOSADA 1LT
 DNI:               46462527
 MontoTotal:            0.00
-Descuento:            10.00
+Descuento:            10.00%
 
 12/03/2020
 390920      AGUA NIAGARA 500ML
 DNI:               46462527
 MontoTotal:           10.00
-Descuento:            10.00
+Descuento:            10.00%
 
 14/07/2020
 434681      ELOTE DORADO DEL MONTE 225GR
@@ -518,7 +518,7 @@ Flete:                10.00%
 178943      YOGHURT P BEBER DURAZNO LIGHT YOP 250GR
 DNI:               46462527
 MontoTotal:            6.00
-Descuento:            10.00
+Descuento:            10.00%
 
 29/05/2021
 826317      CHAMYTO BIG 114ML
@@ -530,19 +530,19 @@ Flete:                 5.00%
 317404      LICUADO LALA CIRUELA PASA Y NUEZ 240GR
 DNI:               46462527
 MontoTotal:           22.00
-Descuento:            10.00
+Descuento:            10.00%
 
 23/08/2021
 308982      YOGHURT P BEBER FRUGGIS FRESA 150GR
 DNI:               46462527
 MontoTotal:           12.00
-Descuento:            10.00
+Descuento:            10.00%
 
 03/10/2021
 330512      YOGHURT LALA LIGHT 240GR
 DNI:               46462527
 MontoTotal:            3.00
-Descuento:            10.00
+Descuento:            10.00%
 
 27/12/2021
 901816      JUGO VALLE FRUT CITRUS 12 250ML
@@ -573,7 +573,7 @@ Flete:                10.00%
 170844      EMPANIZADOR CONTADINA TRADICIONAL 283GR
 DNI:               45783712
 MontoTotal:           27.00
-Descuento:            10.00
+Descuento:            10.00%
 
 02/10/2020
 696000      MEDIA CREMA NESTLE 1LT
@@ -612,7 +612,7 @@ Flete:                10.00%
 126218      TANJERINA
 DNI:               33713901
 MontoTotal:            5.50
-Descuento:            10.00
+Descuento:            10.00%
 
 19/04/2020
 406688      CHURROMAIS CON LIMON 38GR
@@ -637,7 +637,7 @@ Flete:                10.00%
 285807      YOGHURT BIOBALANCE NUEZ Y FRU.SECOS 250G
 DNI:               33397650
 MontoTotal:           20.00
-Descuento:            10.00
+Descuento:            10.00%
 
 01/02/2019
 947176      SALSA DE CHILE HABANERO ROJO 260GR
@@ -669,13 +669,13 @@ Flete:                10.00%
 365906      AGUACATE REGIONAL KG.1.000 GR
 DNI:               33397650
 MontoTotal:           11.00
-Descuento:            10.00
+Descuento:            10.00%
 
 07/10/2020
 374253      TE DE MANZANILLA NEBO 24 1GR
 DNI:               33397650
 MontoTotal:            9.00
-Descuento:            10.00
+Descuento:            10.00%
 
 13/12/2020
 459032      GELATINA DANY LIMON 125GR
@@ -688,13 +688,13 @@ Flete:                10.00%
 179485      MOLE SURTIDO CON ESPECIAS 250GR
 DNI:               33397650
 MontoTotal:           55.00
-Descuento:            10.00
+Descuento:            10.00%
 
 24/03/2021
 374253      TE DE MANZANILLA NEBO 24 1GR
 DNI:               33397650
 MontoTotal:            4.00
-Descuento:            10.00
+Descuento:            10.00%
 
 11/11/2021
 651034      MANGO EN REBANADAS LA MORENA 800GR
@@ -706,13 +706,13 @@ Flete:                 5.00%
 178943      YOGHURT P BEBER DURAZNO LIGHT YOP 250GR
 DNI:               33397650
 MontoTotal:           27.00
-Descuento:            10.00
+Descuento:            10.00%
 
 10/02/2020
 151641      YOGHURT P BEBER LACTIGURT COCO 250G
 DNI:               32821689
 MontoTotal:            8.00
-Descuento:            10.00
+Descuento:            10.00%
 
 19/04/2020
 872819      GELATINA DE LECHE VAINILLA DANETTE 100GR
@@ -762,7 +762,7 @@ Flete:                10.00%
 308982      YOGHURT P BEBER FRUGGIS FRESA 150GR
 DNI:               29847168
 MontoTotal:           22.00
-Descuento:            10.00
+Descuento:            10.00%
 
 26/06/2020
 961802      ACHIOTE LA EXTRA 1KG
@@ -846,13 +846,13 @@ Flete:                10.00%
 317404      LICUADO LALA CIRUELA PASA Y NUEZ 240GR
 DNI:               17913944
 MontoTotal:            4.00
-Descuento:            10.00
+Descuento:            10.00%
 
 22/04/2021
 390920      AGUA NIAGARA 500ML
 DNI:               17913944
 MontoTotal:           16.00
-Descuento:            10.00
+Descuento:            10.00%
 
 04/07/2021
 415932      SOPA MARUCHAN CAMARON 71GR

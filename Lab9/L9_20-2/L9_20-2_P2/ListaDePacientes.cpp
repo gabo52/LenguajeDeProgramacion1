@@ -1,13 +1,7 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
-
 /* 
  * File:   ListaDePacientes.cpp
- * Author: Gabo
- * 
+ * Autor: Gabriel Omar Durán Ruiz 
+ * Código: 20203371
  * Created on 15 de noviembre de 2022, 12:52 PM
  */
 

@@ -1,39 +1,32 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
-
 /* 
  * File:   main.cpp
- * Author: Gabo
- *
- * Created on 2 de noviembre de 2022, 11:36 PM
+ * Autora: Acosta Muñoz, Andrea Celeste
+ * Codigo: 20202085
+ * Created on 7 de junio de 2023, 10:16 AM
  */
 
 #include <iostream>
 #include <iomanip>
-#include "FuncionesLecturaEscritura.h"
+#include "Funciones.h"
 #include "Libro.h"
 #include "LibroPrestado.h"
+#include "Sobrecargas.h"
 #include "Usuario.h"
-#include <fstream>
-#include "FuncionesAuxiliares.h"
+
 using namespace std;
 
-/*
- * 
- */
 int main(int argc, char** argv) {
-    Usuario usuarios[300];
-    Libro libros[300];
-    int n=0;
-    leerUsuarios(usuarios);
-    leerLibros(libros);
-    cargarLibrosPrestados(usuarios,libros);
-//    //funcionFecha
-    imprimirLibros(libros);
-    imprimirUsuarios(usuarios);
+    int fecha = 20210910; 
+    Libro lib[50]; 
+    Usuario lUsu[50];
+    LibroPrestado lPrest[200]; 
+    
+    cargarUsuarios(lUsu);
+    cargarLibros(lib);
+    cargarActualizarPrestamos(lPrest, lib, lUsu); 
+    determinarDeudas(fecha, lUsu); 
+    imprimirUsuarios(lUsu); 
+    imprimirLibros(lib); 
     return 0;
 }
 

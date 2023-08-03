@@ -1,0 +1,282 @@
+Carne: 17750908
+Nombre: Hernandez_Barrios_Emilio
+Tipo: E
+INHABILITADO
+XN48844             16/9/2021
+SA04133             19/9/2021
+MG75057             21/9/2021     Deuda
+BH96036             21/9/2021     Deuda
+KC34197             21/9/2021     Deuda
+SK15788             18/9/2021
+==================================================
+Carne: 26916299
+Nombre: Diaz_Antezano_Magali_Silvana
+Tipo: E
+INHABILITADO
+IW10872             18/9/2021
+FY25192             17/9/2021
+SK15788             17/9/2021
+ZQ38637             20/9/2021
+FY82455             14/9/2021
+MG75057             17/9/2021
+PL70268             23/9/2021     Deuda
+==================================================
+Carne: 14268463
+Nombre: Raffo_Chung_Adria_Gloria
+Tipo: E
+INHABILITADO
+PL70268             23/9/2021     Deuda
+OT07742             16/9/2021
+FW74175             18/9/2021
+SV17719             18/9/2021
+==================================================
+Carne: 37500242
+Nombre: Vasquez_Paz_Alex_Martin
+Tipo: E
+INHABILITADO
+PL70268             18/9/2021
+OT07742             22/9/2021     Deuda
+SK15788             18/9/2021
+FY82455             18/9/2021
+KC34197             18/9/2021
+FW74175             18/9/2021
+JO84937             16/9/2021
+==================================================
+Carne: 61212473
+Nombre: Castro_Suarez_Rolando
+Tipo: A
+INHABILITADO
+ZR63735             21/9/2021     Deuda
+ZQ38637             19/9/2021     Deuda
+FW74175             21/9/2021     Deuda
+==================================================
+Carne: 65071478
+Nombre: Mejia_Diaz_Blanca_Milagros
+Tipo: E
+INHABILITADO
+KC34197             18/9/2021
+XW06135             20/9/2021
+QV96140             19/9/2021
+PL70268             23/9/2021     Deuda
+MG75057             18/9/2021
+BB35881             19/9/2021
+==================================================
+Carne: 96056368
+Nombre: Pasquel_Quio_Surami_Janet
+Tipo: A
+INHABILITADO
+PT00038             22/9/2021     Deuda
+FW74175             22/9/2021     Deuda
+ZQ38637             23/9/2021     Deuda
+FY82455             21/9/2021     Deuda
+QA53897             22/9/2021     Deuda
+==================================================
+Carne: 99215341
+Nombre: Raffo_Arias_Surami_Annie
+Tipo: E
+INHABILITADO
+ZR63735             14/9/2021
+ZM20053             15/9/2021
+ZK87496             22/9/2021     Deuda
+QV96140             15/9/2021
+XQ03477             14/9/2021
+KW25071             19/9/2021
+FY25192             15/9/2021
+PT00038             18/9/2021
+==================================================
+Carne: 33958767
+Nombre: Aquino_Toro_Valentina_Rocio
+Tipo: A
+INHABILITADO
+SV17719             23/9/2021     Deuda
+KW25071             23/9/2021     Deuda
+ZK87496             19/9/2021     Deuda
+FY25192             19/9/2021     Deuda
+JO84937             21/9/2021     Deuda
+OT07742             22/9/2021     Deuda
+SK15788             22/9/2021     Deuda
+==================================================
+Carne: 72832218
+Nombre: Corrales_Tsukazan_Irma_Lourdes
+Tipo: A
+INHABILITADO
+IW10872             22/9/2021     Deuda
+QE47018             21/9/2021     Deuda
+VA35843             20/9/2021     Deuda
+==================================================
+Carne: 63602514
+Nombre: Auris_Zimic_Javier_Daniel
+Tipo: A
+INHABILITADO
+IW10872             22/9/2021     Deuda
+QE47018             23/9/2021     Deuda
+==================================================
+Carne: 49516360
+Nombre: Delgado_Gonzales_Guillermo_Alfonso
+Tipo: D
+HABILITADO
+IW10872             6/9/2021
+XQ03477             13/9/2021
+KC34197             10/9/2021
+JO84937             7/9/2021
+==================================================
+Carne: 15129661
+Nombre: Wong_Martel_Madeleine
+Tipo: E
+INHABILITADO
+FY82455             15/9/2021
+FY25192             22/9/2021     Deuda
+SK15788             17/9/2021
+OT07742             20/9/2021
+==================================================
+Carne: 87804471
+Nombre: Cerna_Durand_Martin
+Tipo: A
+INHABILITADO
+QA53897             22/9/2021     Deuda
+PL70268             22/9/2021     Deuda
+OC73472             23/9/2021     Deuda
+==================================================
+Carne: 37751890
+Nombre: Shirakawa_Miranda_Madeleine
+Tipo: D
+HABILITADO
+FY82455             19/9/2021
+FW74175             11/9/2021
+==================================================
+Carne: 66152145
+Nombre: Salas_Aguero_Daniel
+Tipo: E
+INHABILITADO
+ZQ38637             14/9/2021
+FY25192             14/9/2021
+BH96036             14/9/2021
+QA53897             23/9/2021     Deuda
+KC34197             22/9/2021     Deuda
+XW06135             19/9/2021
+==================================================
+Carne: 33115577
+Nombre: Chumpitaz_Iberos_Ronal
+Tipo: E
+INHABILITADO
+ZR63735             23/9/2021     Deuda
+FW74175             18/9/2021
+==================================================
+Carne: 55917355
+Nombre: Valverde_Flores_Irma_Ydali
+Tipo: A
+INHABILITADO
+ZQ38637             23/9/2021     Deuda
+FW74175             21/9/2021     Deuda
+XN48844             23/9/2021     Deuda
+BH96036             22/9/2021     Deuda
+==================================================
+Carne: 77001234
+Nombre: Diaz_Correa_Irma_Virginia
+Tipo: D
+HABILITADO
+FY25192             8/9/2021
+ZK87496             8/9/2021
+VA35843             15/9/2021
+XW06135             16/9/2021
+ZR63735             23/9/2021
+QV96140             8/9/2021
+IW10872             15/9/2021
+PT00038             7/9/2021
+==================================================
+Carne: 61039260
+Nombre: Mejia_De_La_Haza_Francisco_Edgar
+Tipo: D
+HABILITADO
+ZM20053             14/9/2021
+ZR63735             9/9/2021
+QV96140             9/9/2021
+ZK87496             18/9/2021
+==================================================
+Carne: 54393647
+Nombre: Norabuena_Preciado_Cinthia
+Tipo: A
+INHABILITADO
+XQ03477             21/9/2021     Deuda
+FY82455             21/9/2021     Deuda
+XW06135             19/9/2021     Deuda
+PT00038             23/9/2021     Deuda
+ZM20053             23/9/2021     Deuda
+QE47018             21/9/2021     Deuda
+QA53897             23/9/2021     Deuda
+==================================================
+Carne: 45834351
+Nombre: Velasquez_Huayanay_Edgard_Henry
+Tipo: A
+INHABILITADO
+LM05731             22/9/2021     Deuda
+XQ03477             22/9/2021     Deuda
+SK15788             23/9/2021     Deuda
+QE47018             22/9/2021     Deuda
+IW10872             23/9/2021     Deuda
+SV17719             21/9/2021     Deuda
+==================================================
+Carne: 11750801
+Nombre: Shirakawa_Ortega_Angel
+Tipo: E
+INHABILITADO
+BH96036             21/9/2021     Deuda
+ZK87496             15/9/2021
+FY82455             14/9/2021
+IW10872             21/9/2021     Deuda
+XN48844             16/9/2021
+KW25071             22/9/2021     Deuda
+==================================================
+Carne: 83265244
+Nombre: Pairazaman_Alamo_Moises_Miguel
+Tipo: D
+HABILITADO
+PL70268             8/9/2021
+KC34197             6/9/2021
+ZQ38637             18/9/2021
+XW06135             6/9/2021
+QE47018             23/9/2021
+SA04133             9/9/2021
+FY25192             20/9/2021
+MG75057             12/9/2021
+==================================================
+Carne: 35030611
+Nombre: Inga_Flores_Cesar_Adolfo
+Tipo: E
+INHABILITADO
+BH96036             15/9/2021
+FY25192             21/9/2021     Deuda
+KC34197             19/9/2021
+XN48844             20/9/2021
+MG75057             19/9/2021
+XQ03477             20/9/2021
+FW74175             14/9/2021
+==================================================
+Carne: 50860318
+Nombre: Prado_Vergel_Carlos_Julian
+Tipo: E
+INHABILITADO
+SA04133             21/9/2021     Deuda
+FY25192             21/9/2021     Deuda
+PL70268             20/9/2021
+ZR63735             18/9/2021
+FW74175             20/9/2021
+==================================================
+Carne: 81082011
+Nombre: Arroyo_Gordillo_Maria_Heli
+Tipo: D
+HABILITADO
+FY25192             12/9/2021
+XN48844             14/9/2021
+BH96036             16/9/2021
+QV96140             19/9/2021
+==================================================
+Carne: 92240876
+Nombre: Vega_Garcia_Janet_Rebeca
+Tipo: E
+INHABILITADO
+BB35881             20/9/2021
+IW10872             17/9/2021
+SK15788             19/9/2021
+PT00038             21/9/2021     Deuda
+==================================================

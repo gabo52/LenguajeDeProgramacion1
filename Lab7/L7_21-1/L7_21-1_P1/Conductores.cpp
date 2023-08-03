@@ -1,13 +1,7 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
-
 /* 
  * File:   Conductores.cpp
- * Author: Gabo
- * 
+ * Author: Gabriel Omar Duran Ruiz
+ * Codigo: 20203371
  * Created on 1 de noviembre de 2022, 10:22 PM
  */
 

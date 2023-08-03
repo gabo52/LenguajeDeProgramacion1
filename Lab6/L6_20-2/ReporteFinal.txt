@@ -1,0 +1,123 @@
+======================================================================================================================================================
+13731806   Rony Gonzalo Valverde Berrocal                 5152      967.48   Emergencia
+14956687   Alex Martin Vasquez Paz                        9384      967.48   Emergencia
+24965193   Milena Cinthia Zarate Acuna                    2315      967.48   Emergencia
+25121500   Edgar Munoz Vergel                             3886      967.48   Emergencia
+6015699    Julio Vilcara Jugo                             8009      967.48   Emergencia
+31176113   Walter Jolay Chumpitaz                         2315      967.48   Emergencia
+31284904   Elia Yolanda Sedano Retamoso                   5152      967.48   Emergencia
+35347567   Annie Montero Montero                          2315      967.48   Emergencia
+6934113    Milagros Natalia Baca Camacho                  6720      967.48   Emergencia
+7282858    Lourdes Diana Sueldo Martinez                  2315      967.48   Emergencia
+40127069   Cesar Jaime Rodriguez Serrano                  6720      967.48   Emergencia
+43704548   Ericka Victoria Justino Forzani                5602      967.48   Emergencia
+8308899    Zkenia Irma Chung Zuniga                       5152      967.48   Emergencia
+50019279   Victor Edgar Garcia Astete                     5602      967.48   Emergencia
+51873364   Johan Chavez Berrocal                          5602      967.48   Emergencia
+2313890    Jesus Rafael Narvaez Castillo                  9384      967.48   Emergencia
+55140606   Victoria Milagros Shirakawa Saona              5152      967.48   Emergencia
+8643376    Antonio Sueldo Ruiz                            9384      967.48   Emergencia
+59561864   Gonzalo Vega Munoz                             8009      967.48   Emergencia
+3640178    Richard Sandro Perez Farfan                    5602      967.48   Emergencia
+65540456   Delicia Arca Aquino                            3886      967.48   Emergencia
+6091742    Carlos Julian Prado Vergel                     5152      967.48   Emergencia
+72973662   Maria Madeleine Solis Narvaez                  5602      967.48   Emergencia
+77324146   Lourdes Sonia Soma Pinto                       8009      967.48   Emergencia
+77440060   Martin Juvenal Villa Sedano                    8009      967.48   Emergencia
+1647285    Maritza Carbajal Salamanca                     5152      967.48   Emergencia
+85395219   Irma Lourdes Corrales Tsukazan                 6720      967.48   Emergencia
+86836066   Alexander Zarate Perez                         3886      967.48   Emergencia
+7522271    Ofelia Beatriz Montero Bolanos                 5291      967.48   Emergencia
+90367684   Heli Coronel Chumpitaz                         5291      967.48   Emergencia
+90972561   Humberto Alberto Vargas Guevara                9384      967.48   Emergencia
+1733306    Gustavo Alonso Del Castillo Mejia              8654      967.48   Emergencia
+3231760    Carmela Teresa Vega Vilcara                    8654      967.48   Emergencia
+93282118   Evert Figueroa Collado                         9384      967.48   Emergencia
+93939698   Enrique Jorge Durand Valverde                  8009      967.48   Emergencia
+99774549   Rolando Solis Chung                            5152      967.48   Emergencia
+20688048   Humberto Alfonso Amezquita Contreras           5291       22.33   Urgencia
+22679759   Francisco Arana Rondon                         5602      232.23   Urgencia
+33647417   Wilmer Saenz Aranda                            8654       43.78   Urgencia
+4417318    Delia Estefania Cabrera Moreno                 5291       25.68   Urgencia
+34697743   Madeleine Wong Martel                          2315       24.64   Urgencia
+35852072   Beatriz Henriquez Espino                       6720       85.74   Urgencia
+36471787   Annie Lourdes Merel Salazar                    5291       50.22   Urgencia
+36803222   Ofelia Carmen Mercado Caro                     2315       74.84   Urgencia
+9335774    Victoria Fiorella Cuba Pomajambo               6720       84.39   Urgencia
+40730725   Janet Cinthia Aranda Minaya                    5291       61.09   Urgencia
+41964357   Virginia Martha Salamanca Vega                 5602       75.61   Urgencia
+45914393   Maria Heli Arroyo Gordillo                     3886       94.36   Urgencia
+46489838   Yliana Flor Ortiz Guevara                      8654       66.15   Urgencia
+49357767   Juan Prado Vera                                6720       10.25   Urgencia
+1465986    Carola Tatiana Loyola Casanova                 3886      215.46   Urgencia
+51642949   Magali Silvana Diaz Antezano                   5291      106.22   Urgencia
+3420926    Milagros Vilcara Gavidia                       5291       54.95   Urgencia
+54149342   Teresa Delia Antezano Segura                   9384      119.47   Urgencia
+54815159   Annie Ofelia Asmad Acuna                       2315      165.40   Urgencia
+56052414   Edilberto Jesus Mori Suarez                    9384       52.29   Urgencia
+57112777   Emilio Emigdio Gonzales Aguirre                5152      195.06   Urgencia
+57182371   Edgard Henry Velasquez Huayanay                3886       67.38   Urgencia
+60300808   Jaime Julian Shirakawa Florian                 5291       40.33   Urgencia
+1061535    Guillermo Edric Cabrera Canales                5152       76.77   Urgencia
+62287143   Cesar Adolfo Inga Flores                       5291       75.85   Urgencia
+68114999   Williams Justino Cruz                          3886      161.48   Urgencia
+68269451   Jorge Alfaro Ayala                             9384      130.45   Urgencia
+528214     Raul Collado Villa                             5291       30.03   Urgencia
+3642310    Alfonso Waldemar Cabello Lam                   9384       49.91   Urgencia
+74635922   Delia Zarate Urbina                            6720       44.27   Urgencia
+694546     Madeleine Yliana Miyake Merel                  5291        6.51   Urgencia
+81539774   Alonso Florencio Coronado                      9384      150.44   Urgencia
+86988155   Delia Lozada Forzani                           8654      232.59   Urgencia
+89086443   Carmen Zamora Cabrera                          2315      254.83   Urgencia
+93961840   Emigdio Francisco Escalante Espino             3886       41.63   Urgencia
+5019198    Felicita Erika Del Castillo Chung              8654       26.52   Urgencia
+95436102   Javier Edgard Landa Cabrera                    3886       25.57   Urgencia
+95656771   Felicita Valentina Lozada Arguedas             5152       92.12   Urgencia
+12484697   Angel Shirakawa Ortega                         6720      367.06   Ambulatorio
+13633991   Alexander Portugal Raffo                       5152      714.48   Ambulatorio
+15290194   David Edric Cerna Iparraguirre                 6720      140.87   Ambulatorio
+17299012   Sandro Arturo Piscoya Lee                      8654      879.63   Ambulatorio
+19528702   Luz Sofia Jauregui Bravo                       5602      790.72   Ambulatorio
+371464     Felicita Villegas Leiva                        5152      806.30   Ambulatorio
+20941063   Miguel Calixto Torres                          8009      264.32   Ambulatorio
+22598563   Alonso Forzani Caro                            2315      823.42   Ambulatorio
+25062013   Jair Arturo Mendoza Florencio                  9384      486.55   Ambulatorio
+7709566    Jose Rolando Cerna Hijar                       5602      624.70   Ambulatorio
+28048124   Delicia Norabuena Zegarra                      8654      822.84   Ambulatorio
+28992638   Eloy Jaime Ortega Landeo                       3886      371.61   Ambulatorio
+30246960   Madeleine Shirakawa Miranda                    8654      178.21   Ambulatorio
+32538825   Maribel Vizcardo Sinche                        3886      804.75   Ambulatorio
+34571095   Ines Sam Yallico                               6720      514.02   Ambulatorio
+35606314   Rolando Castro Suarez                          5152      854.48   Ambulatorio
+7653308    Cinthia Milena Zegarra Cabello                 2315      215.17   Ambulatorio
+38639370   Johan Enrique Ayala Zevallos                   6720      717.39   Ambulatorio
+40729422   Miguel Alex Landeo Estrada                     8654      256.58   Ambulatorio
+3810566    Francisco Zimic Salas                          5602      264.51   Ambulatorio
+5201670    Rocio Yolanda Acuna Yino                       8654      928.30   Ambulatorio
+5007531    Surami Heli Preciado Pinto                     8009      358.84   Ambulatorio
+59596317   Edward Reyes Tang                              5152      501.25   Ambulatorio
+60543714   Valentina Rocio Aquino Toro                    6720      784.05   Ambulatorio
+1741647    Valentina Paula Urbina Antezano                5602      168.54   Ambulatorio
+62126128   Javier Daniel Auris Zimic                      2315      946.68   Ambulatorio
+64217731   Delicia Rosa Arca Leiva                        8009      940.39   Ambulatorio
+65900901   Rosario Maribel Yep Zavaleta                   2315      534.44   Ambulatorio
+65912822   Ronal Cortez Mercado                           8654      332.62   Ambulatorio
+66039166   Ines Adria Escalante Rojas                     5291      294.79   Ambulatorio
+68509985   Fiorella Erika Florencio Polo                  6720      379.54   Ambulatorio
+69813995   Glenda Cabrera Mori                            2315      210.81   Ambulatorio
+71422479   Alberto De La Haza Cabrera                     8009      393.76   Ambulatorio
+72330000   Waldemar Edgard Durand Meza                    8009      927.62   Ambulatorio
+74713744   Blanca Luz Acuna Ayllon                        2315      683.33   Ambulatorio
+75100362   Alex Henriquez Portugal                        2315      364.74   Ambulatorio
+7478682    Marina Natalia Garcia Inga                     5602      603.03   Ambulatorio
+79100967   Wilver Alfonso Rivero Cortez                   8009      410.31   Ambulatorio
+81005191   Estefania Zegarra Casanova                     2315      888.82   Ambulatorio
+83933477   Rosario Tabori Arias                           9384      887.66   Ambulatorio
+91187814   Virginia Irma Benavente Ayala                  5291      380.99   Ambulatorio
+2275859    Roberto Infantes Hernandez                     3886      387.96   Ambulatorio
+93882509   David Carlos Perez Antezano                    6720      498.54   Ambulatorio
+94683380   Adria Sueldo Sedano                            3886      477.26   Ambulatorio
+95062219   Lourdes Carmela Yallico Paredes                6720      342.97   Ambulatorio
+97601811   Giovana Mejia Zegarra                          5602      598.48   Ambulatorio
+8205039    Teresa Teresa Martel Mercado                   5152      408.66   Ambulatorio
+======================================================================================================================================================

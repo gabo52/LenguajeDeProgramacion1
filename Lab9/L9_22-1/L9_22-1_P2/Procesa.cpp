@@ -1,13 +1,7 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
-
 /* 
  * File:   Procesa.cpp
- * Author: Gabo
- * 
+ * Autor: Gabriel Omar Durán Ruiz 
+ * Código: 20203371
  * Created on 16 de noviembre de 2022, 09:52 AM
  */
 

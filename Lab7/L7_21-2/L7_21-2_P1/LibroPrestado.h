@@ -1,14 +1,9 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
 
 /* 
  * File:   LibroPrestado.h
- * Author: Gabo
+ * Author: USER
  *
- * Created on 2 de noviembre de 2022, 11:41 PM
+ * Created on 7 de junio de 2023, 10:20 AM
  */
 
 #ifndef LIBROPRESTADO_H
@@ -17,13 +12,14 @@
 class LibroPrestado {
 public:
     LibroPrestado();
+    LibroPrestado(const LibroPrestado& orig);
     virtual ~LibroPrestado();
     void SetDeuda(int deuda);
     int GetDeuda() const;
     void SetFechaDeRetiro(int fechaDeRetiro);
     int GetFechaDeRetiro() const;
-    void SetCodigoLib(const char* codigoLib);
-    void GetCodigoLib(char *) const;
+    void SetCodigoLib(char* cad);
+    char* GetCodigoLib() const;
     void SetTipo(char tipo);
     char GetTipo() const;
     void SetCarne(int carne);
@@ -31,10 +27,10 @@ public:
     void copia(const LibroPrestado &c);
 private:
     int carne;
-    char tipo;
-    char *codigoLib;
+    char tipo; 
+    char *codigoLib; 
     int fechaDeRetiro;
-    int deuda;
+    int deuda; 
 };
 
 #endif /* LIBROPRESTADO_H */

@@ -1,0 +1,357 @@
+Perdida:            Precio      294.26
+Disponible          Zona         3
+Disponible          Zona         3
+Disponible          Zona         3
+Disponible          Zona         3
+PrestamoDias:       54
+PrestamoDias:       58
+Disponible          Zona         3
+PrestamoDias:       55
+Disponible          Zona         3
+PrestamoDias:       57
+PrestamoDias:       58
+Disponible          Zona         3
+Perdida:            Precio      294.26
+Disponible          Zona         3
+Disponible          Zona         4
+Disponible          Zona         4
+PrestamoDias:       55
+PrestamoDias:       55
+Perdida:            Precio       113.4
+Perdida:            Precio       113.4
+Disponible          Zona         4
+Disponible          Zona         4
+PrestamoDias:       59
+Perdida:            Precio       113.4
+Perdida:            Precio       113.4
+Perdida:            Precio       113.4
+PrestamoDias:       57
+PrestamoDias:       54
+Disponible          Zona         4
+PrestamoDias:       55
+Perdida:            Precio       80.23
+Disponible          Zona         2
+Disponible          Zona         2
+PrestamoDias:       58
+Disponible          Zona         2
+Disponible          Zona         2
+Disponible          Zona         2
+Disponible          Zona         2
+PrestamoDias:       53
+Disponible          Zona         2
+Disponible          Zona         2
+Disponible          Zona         2
+PrestamoDias:       54
+Disponible          Zona         2
+Perdida:            Precio      352.36
+Disponible          Zona         6
+PrestamoDias:       55
+Disponible          Zona         6
+PrestamoDias:       57
+Perdida:            Precio      352.36
+Perdida:            Precio      352.36
+PrestamoDias:       55
+Disponible          Zona         6
+Disponible          Zona         6
+Disponible          Zona         6
+Disponible          Zona         6
+PrestamoDias:       58
+Disponible          Zona         6
+Disponible          Zona         6
+Disponible          Zona        10
+Disponible          Zona        10
+Perdida:            Precio       26.41
+Disponible          Zona        10
+Perdida:            Precio       26.41
+Disponible          Zona        10
+Disponible          Zona        10
+Disponible          Zona        10
+Disponible          Zona        10
+Disponible          Zona        10
+Disponible          Zona        10
+Disponible          Zona        10
+PrestamoDias:       53
+Disponible          Zona        10
+Disponible          Zona        10
+Disponible          Zona        20
+PrestamoDias:       59
+Disponible          Zona        20
+PrestamoDias:       57
+Disponible          Zona        20
+PrestamoDias:       58
+PrestamoDias:       58
+Perdida:            Precio      112.52
+Disponible          Zona        20
+PrestamoDias:       59
+Disponible          Zona        20
+Disponible          Zona        20
+Disponible          Zona        20
+PrestamoDias:       54
+Disponible          Zona        11
+Disponible          Zona        11
+Disponible          Zona        11
+Disponible          Zona        11
+PrestamoDias:       54
+PrestamoDias:       53
+Disponible          Zona        11
+Perdida:            Precio       62.87
+Disponible          Zona        11
+Disponible          Zona        11
+Disponible          Zona        11
+Disponible          Zona        11
+Disponible          Zona        11
+PrestamoDias:       53
+Disponible          Zona         5
+Disponible          Zona         5
+PrestamoDias:       58
+Disponible          Zona         5
+Disponible          Zona         5
+Disponible          Zona         5
+PrestamoDias:       53
+Perdida:            Precio      214.72
+Disponible          Zona         5
+PrestamoDias:       57
+PrestamoDias:       56
+Disponible          Zona         5
+Disponible          Zona         5
+PrestamoDias:       53
+Disponible          Zona         3
+Perdida:            Precio      360.73
+Disponible          Zona         3
+Perdida:            Precio      360.73
+Disponible          Zona         3
+Disponible          Zona         3
+Disponible          Zona         3
+Perdida:            Precio      360.73
+PrestamoDias:       55
+PrestamoDias:       55
+Disponible          Zona         3
+Disponible          Zona         3
+PrestamoDias:       54
+PrestamoDias:       54
+Disponible          Zona         5
+Disponible          Zona         5
+Disponible          Zona         5
+Disponible          Zona         5
+Disponible          Zona         5
+Disponible          Zona         5
+Disponible          Zona         5
+Disponible          Zona         5
+Disponible          Zona         5
+Disponible          Zona         5
+Disponible          Zona         5
+Disponible          Zona         5
+PrestamoDias:       53
+Disponible          Zona        11
+Disponible          Zona        11
+Disponible          Zona        11
+Perdida:            Precio       265.7
+Disponible          Zona        11
+PrestamoDias:       56
+Disponible          Zona        11
+Perdida:            Precio       265.7
+Perdida:            Precio       265.7
+Disponible          Zona        11
+Disponible          Zona        11
+PrestamoDias:       59
+Perdida:            Precio      263.45
+Disponible          Zona        19
+PrestamoDias:       54
+Disponible          Zona        19
+Disponible          Zona        19
+PrestamoDias:       53
+PrestamoDias:       55
+Perdida:            Precio      263.45
+PrestamoDias:       58
+Perdida:            Precio      263.45
+Disponible          Zona        19
+Disponible          Zona        18
+Disponible          Zona        18
+PrestamoDias:       55
+PrestamoDias:       53
+Disponible          Zona        18
+Disponible          Zona        18
+Disponible          Zona        18
+PrestamoDias:       55
+PrestamoDias:       54
+Disponible          Zona        18
+PrestamoDias:       53
+Disponible          Zona        18
+Disponible          Zona         4
+Disponible          Zona         4
+Disponible          Zona         4
+Disponible          Zona         4
+Disponible          Zona         4
+Perdida:            Precio       53.48
+Disponible          Zona         4
+Disponible          Zona         4
+Disponible          Zona         4
+Perdida:            Precio       53.48
+Perdida:            Precio       53.48
+Disponible          Zona         4
+Disponible          Zona         7
+Disponible          Zona         7
+Disponible          Zona         7
+Disponible          Zona         7
+Disponible          Zona         7
+Disponible          Zona         7
+Disponible          Zona         7
+Disponible          Zona         7
+Disponible          Zona         7
+Disponible          Zona         7
+Disponible          Zona         7
+Disponible          Zona         7
+Disponible          Zona        12
+Disponible          Zona        12
+Disponible          Zona        12
+Disponible          Zona        12
+Disponible          Zona        12
+Disponible          Zona        12
+Disponible          Zona        12
+Disponible          Zona        12
+Disponible          Zona        12
+Disponible          Zona        12
+Disponible          Zona        12
+Disponible          Zona        12
+Perdida:            Precio      195.87
+PrestamoDias:       54
+PrestamoDias:       56
+Disponible          Zona        19
+Disponible          Zona        19
+Disponible          Zona        19
+Disponible          Zona        19
+PrestamoDias:       54
+Disponible          Zona        19
+Disponible          Zona        19
+Disponible          Zona        19
+Disponible          Zona        19
+Perdida:            Precio      385.88
+Perdida:            Precio      385.88
+Perdida:            Precio      385.88
+PrestamoDias:       55
+PrestamoDias:       58
+PrestamoDias:       53
+Disponible          Zona        15
+Disponible          Zona        15
+Disponible          Zona        15
+Disponible          Zona        15
+Disponible          Zona        15
+Disponible          Zona        14
+Disponible          Zona        14
+Disponible          Zona        14
+Disponible          Zona        14
+PrestamoDias:       57
+Disponible          Zona        14
+PrestamoDias:       56
+Disponible          Zona        14
+Disponible          Zona        14
+Disponible          Zona        14
+Disponible          Zona        14
+Perdida:            Precio       37.47
+Disponible          Zona        10
+Perdida:            Precio       37.47
+PrestamoDias:       57
+Perdida:            Precio       37.47
+Disponible          Zona        10
+Disponible          Zona        10
+Disponible          Zona        10
+Disponible          Zona        10
+PrestamoDias:       57
+Disponible          Zona        13
+Perdida:            Precio      279.44
+PrestamoDias:       58
+PrestamoDias:       58
+PrestamoDias:       55
+PrestamoDias:       54
+PrestamoDias:       58
+PrestamoDias:       55
+PrestamoDias:       56
+Perdida:            Precio      279.44
+PrestamoDias:       55
+Perdida:            Precio      369.37
+Disponible          Zona         3
+PrestamoDias:       54
+PrestamoDias:       56
+Perdida:            Precio      369.37
+Disponible          Zona         3
+Disponible          Zona         3
+Disponible          Zona         3
+Disponible          Zona         7
+Perdida:            Precio      294.01
+Disponible          Zona         7
+Disponible          Zona         7
+PrestamoDias:       56
+Disponible          Zona         7
+Disponible          Zona         7
+Disponible          Zona         7
+Disponible          Zona         8
+Disponible          Zona         8
+Disponible          Zona         8
+Disponible          Zona         8
+Disponible          Zona         8
+Disponible          Zona         8
+Disponible          Zona         8
+Disponible          Zona         8
+Disponible          Zona         6
+Disponible          Zona         6
+Disponible          Zona         6
+Disponible          Zona         6
+Disponible          Zona         6
+Disponible          Zona         6
+Disponible          Zona         6
+Disponible          Zona         6
+Disponible          Zona         9
+PrestamoDias:       53
+PrestamoDias:       54
+Disponible          Zona         9
+Disponible          Zona         9
+Disponible          Zona         9
+Disponible          Zona         9
+PrestamoDias:       57
+Disponible          Zona         1
+PrestamoDias:       58
+Perdida:            Precio      178.81
+PrestamoDias:       54
+PrestamoDias:       57
+Perdida:            Precio      178.81
+Disponible          Zona         1
+Disponible          Zona         1
+Disponible          Zona        17
+Perdida:            Precio      339.17
+Disponible          Zona        17
+Disponible          Zona        17
+Disponible          Zona        17
+Perdida:            Precio      339.17
+PrestamoDias:       57
+PrestamoDias:       57
+Disponible          Zona        12
+Perdida:            Precio       77.27
+PrestamoDias:       57
+PrestamoDias:       56
+Perdida:            Precio       77.27
+Disponible          Zona        12
+Perdida:            Precio      329.24
+PrestamoDias:       58
+PrestamoDias:       53
+PrestamoDias:       54
+PrestamoDias:       56
+PrestamoDias:       53
+PrestamoDias:       53
+Disponible          Zona        15
+PrestamoDias:       53
+Disponible          Zona        15
+Disponible          Zona        15
+Disponible          Zona        15
+Disponible          Zona        15
+PrestamoDias:       55
+Disponible          Zona        18
+PrestamoDias:       53
+PrestamoDias:       58
+Disponible          Zona        18
+Disponible          Zona        18
+Perdida:            Precio      350.67
+PrestamoDias:       58
+PrestamoDias:       59
+Disponible          Zona         8
+PrestamoDias:       57
+PrestamoDias:       55

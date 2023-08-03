@@ -1,0 +1,32 @@
+CONSOLIDADO DE NOTAS DE LOS ALUMNOS
+========================================================================================================================
+CODIGO   NOMBRE CARNE    CRED. CURSADOS  CRED. APROBADOS  PROMEDIO  ESTADO
+========================================================================================================================
+20160658 Arca/Amezquita/Edric-Ronald        21.50          21.50          18.00  NO EGRESADO
+20119778 Morales/Valverde/Ines-Martha       48.00          48.00          13.54  EGRESADO
+5258     Gavidia/Mendoza/Ronald-Johnny      30.50          30.50          13.00  NO EGRESADO
+20150564 Auris/Zimic/Javier-Daniel          22.50          22.50          13.00  NO EGRESADO
+20080667 Lozada/Yino/Martha                 26.50          26.50          12.71  NO EGRESADO
+20127352 Justino/Cruz/Williams              48.00          48.00          14.33  EGRESADO
+5395     Alamo/Pairazaman/Miguel-Roberto    37.00          37.00          13.90  NO EGRESADO
+20120476 Henriquez/Espino/Beatriz           35.50          35.50          14.20  NO EGRESADO
+20160119 Paredes/Patino/Christian           55.50          55.50          14.07  EGRESADO
+20109738 Caro/Polo/Sandro                   39.50          39.50          10.80  NO EGRESADO
+20003541 Cabrera/Canales/Guillermo-Edric    28.00          28.00          11.62  NO EGRESADO
+4450     Vega/Munoz/Gonzalo                 26.50          26.50          12.00  NO EGRESADO
+7613     Cortez/Segura/Carmela-Ines         34.00          34.00          12.00  NO EGRESADO
+20170596 Portugal/Benavente/Johana-Gloria   45.50          45.50          13.00  EGRESADO
+9442     Florian/Morales/Ydali              41.50          41.50          13.30  NO EGRESADO
+2075     Moya/Aranda/Johnny                 61.50          61.50          11.76  EGRESADO
+20083333 Laura/Wong/Melvin-Henrry            4.50           4.50          11.00  NO EGRESADO
+6702     Calixto/Tomasiche/Monica-Doris     67.50          67.50          12.33  EGRESADO
+1994     Ruiz/Gordillo/Carola-Erika         52.00          52.00          12.07  EGRESADO
+20097877 Coronel/Chumpitaz/Heli             28.50          28.50          14.50  NO EGRESADO
+8528     Zarate/Del_Pozo/Humberto-Antonio   29.00          29.00          13.75  NO EGRESADO
+20164217 Palomares/Vera/Henrry-Humberto      3.50           3.50          10.00  NO EGRESADO
+6553     Coronado/Figueroa/Johan            37.00          37.00          10.60  NO EGRESADO
+1346     Hijar/Pairazaman/Jenny-Delicia     46.00          46.00          12.31  EGRESADO
+20110165 Landeo/Sueldo/Adolfo               51.50          51.50          13.43  EGRESADO
+6965     Antezano/Segura/Teresa-Delia       32.00          32.00          13.75  NO EGRESADO
+20167828 Pasquel/Quio/Surami-Janet          58.00          58.00          12.19  EGRESADO
+========================================================================================================================

@@ -1,34 +1,35 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
 
 /* 
  * File:   Libro.cpp
- * Author: Gabo
+ * Author: USER
  * 
- * Created on 2 de noviembre de 2022, 11:42 PM
+ * Created on 7 de junio de 2023, 10:21 AM
  */
 
+#include <iomanip>
+#include <iostream>
+#include <cstring>
+#include <fstream>
 #include "Libro.h"
 #include "LibroPrestado.h"
-#include <cstring>
+using namespace std; 
 
-Libro::Libro() {
-    autor=nullptr;
-    codigo=nullptr;
-    titulo=nullptr;
-    cantAdm=0;
-    cantDoc=0;
-    cantEst=0;
-    prestados=0;
+Libro::Libro(){
+    codigo = nullptr; 
+    titulo = nullptr; 
+    autor = nullptr;
+    stock = 0;
+    precio = 0; 
+    prestados = 0;
+    cantEst = 0;
+    cantDoc = 0;
+    cantAdm = 0; 
+}
+
+Libro::Libro(const Libro& orig) {
 }
 
 Libro::~Libro() {
-    delete autor;
-    delete codigo;
-    delete titulo;
 }
 
 void Libro::SetCantAdm(int cantAdm) {
@@ -79,79 +80,63 @@ int Libro::GetStock() const {
     return stock;
 }
 
-void Libro::SetAutor(const char* cad) {
-    if(autor)delete autor;
-    if(cad==nullptr){
-        autor = nullptr;
-    }else{
-        autor = new char [strlen(cad)+1];
-        strcpy(autor,cad);
-    }
+void Libro::SetAutor(char* cad) {
+    if(autor != nullptr) delete autor;
+    autor = new char[strlen(cad)+1];
+    strcpy(this->autor,cad);
 }
 
-void Libro::GetAutor(char *cad) const {
-    if(autor==nullptr)strcpy(cad,"0");
-    else{
-        strcpy(cad,autor);
-    }
+char* Libro::GetAutor() const {
+    char *aux;
+    int longitud = strlen(autor);
+    aux = new char[longitud+1];
+    strcpy(aux,autor);
+    return aux;
 }
 
-void Libro::SetTitulo(const char* cad) {
-    if(titulo)delete titulo;
-    if(cad==nullptr){
-        titulo = nullptr;
-    }else{
-        titulo = new char [strlen(cad)+1];
-        strcpy(titulo,cad);
-    }
+void Libro::SetTitulo(char* cad) {
+    if(titulo != nullptr) delete titulo;
+    titulo = new char[strlen(cad)+1];
+    strcpy(this->titulo,cad);
 }
 
-void Libro::GetTitulo(char *cad) const {
-    if(titulo==nullptr)strcpy(cad,"0");
-    else{
-        strcpy(cad,titulo);
-    }
+char* Libro::GetTitulo() const {
+    char *aux;
+    int longitud = strlen(titulo);
+    aux = new char[longitud+1];
+    strcpy(aux,titulo);
+    return aux;
 }
 
-void Libro::SetCodigo(const char* cad) {
-    if(codigo)delete codigo;
-    if(cad==nullptr){
-        codigo = nullptr;
-    }else{
-        codigo = new char [strlen(cad)+1];
-        strcpy(codigo,cad);
-    }
+void Libro::SetCodigo(char* cad) {
+    if(codigo != nullptr) delete codigo;
+    codigo = new char[strlen(cad)+1];
+    strcpy(this->codigo,cad);
 }
 
-void Libro::GetCodigo(char *cad) const {
-    if(codigo==nullptr)strcpy(cad,"0");
-    else{
-        strcpy(cad,codigo);
-    }
+char* Libro::GetCodigo() const {
+    char *aux;
+    int longitud = strlen(codigo);
+    aux = new char[longitud+1];
+    strcpy(aux,codigo);
+    return aux;
 }
 
 void Libro::copia(const Libro &c){
-    char cadena[200];
-    c.GetAutor(cadena);
-    SetAutor(cadena);
-    c.GetCodigo(cadena);
-    SetCodigo(cadena);
-    c.GetTitulo(cadena);
-    SetTitulo(cadena);
-    SetPrecio(c.GetPrecio());
-    SetPrestados(c.GetPrestados());
-    SetStock(c.GetStock());
+    codigo = c.GetCodigo(); 
+    titulo = c.GetTitulo(); 
+    autor = c.GetAutor();
+    stock = c.GetStock();
+    precio = c.GetPrecio(); 
+    prestados = c.GetPrestados();
+    cantEst = c.GetCantEst();
+    cantDoc = c.GetCantDoc();
+    cantAdm = c.GetCantAdm(); 
 }
 
-void Libro::operator += (const LibroPrestado &prest){
-    char c=prest.GetTipo();
-    if(c=='A'){
-        SetCantAdm(GetCantAdm()+1);
-    }else if(c=='E'){
-        SetCantEst(GetCantEst()+1);
-    }else{
-        SetCantDoc(GetCantDoc()+1);
-    }
-    SetPrestados(GetPrestados()+1);
+void Libro::operator += (const LibroPrestado &c){
+    if(c.GetTipo() == 'A') cantAdm++;
+    if(c.GetTipo() == 'E') cantEst++;
+    if(c.GetTipo() == 'D') cantDoc++;
+    prestados++; 
 }
-

@@ -6,8 +6,8 @@
 
 /* 
  * File:   NPaciente.h
- * Author: Gabo
- *
+ * Autor: Gabriel Omar Durán Ruiz 
+ * Código: 20203371
  * Created on 28 de noviembre de 2022, 06:35 PM
  */
 
