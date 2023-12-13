@@ -1,0 +1,51 @@
+CODIGO            NOMBRE                                                 CREDITOS  
+INF263          Algoritmia                                                 3.75      
+PROFESOR: INGA_FLORES_CESAR_ADOLFO[35030611]
+Alumnos matriculados:
+Semestre       Código
+ 202318         8320
+Numeros de alumnos: 1
+Total ingresado: 0.00
+CODIGO            NOMBRE                                                 CREDITOS  
+MEC270          Procesos_De_Manufactura                                    4.00      
+PROFESOR: PAIRAZAMAN_ALAMO_MOISES_MIGUEL[83265244]
+Alumnos matriculados:
+Semestre       Código
+Numeros de alumnos: 0
+Total ingresado: 0.00
+CODIGO            NOMBRE                                                 CREDITOS  
+MEC289          Turbomaquinas_Y_Maquinas_De_Desplazamiento_Positivo        4.25      
+PROFESOR: DELGADO_GONZALES_GUILLERMO_ALFONSO[49516360]
+Alumnos matriculados:
+Semestre       Código
+ 202312         2000
+Numeros de alumnos: 1
+Total ingresado: 0.00
+CODIGO            NOMBRE                                                 CREDITOS  
+MAT241          Metodos_Numericos_En_Ingenieria                            3.00      
+PROFESOR: HERNANDEZ_BARRIOS_EMILIO_[17750908]
+Alumnos matriculados:
+Semestre       Código
+Numeros de alumnos: 0
+Total ingresado: 0.00
+CODIGO            NOMBRE                                                 CREDITOS  
+MEC206          Termodinamica_1                                            4.50      
+PROFESOR: SALAS_AGUERO_DANIEL_[66152145]
+Alumnos matriculados:
+Semestre       Código
+Numeros de alumnos: 0
+Total ingresado: 0.00
+CODIGO            NOMBRE                                                 CREDITOS  
+INF246          Bases_De_Datos                                             3.75      
+PROFESOR: MEJIA_DIAZ_BLANCA_MILAGROS[65071478]
+Alumnos matriculados:
+Semestre       Código
+Numeros de alumnos: 0
+Total ingresado: 0.00
+CODIGO            NOMBRE                                                 CREDITOS  
+FIS220          Tecnicas_Computacionales_En_Fisica                         4.50      
+PROFESOR: VASQUEZ_PAZ_ALEX_MARTIN[37500242]
+Alumnos matriculados:
+Semestre       Código
+Numeros de alumnos: 0
+Total ingresado: 0.00
