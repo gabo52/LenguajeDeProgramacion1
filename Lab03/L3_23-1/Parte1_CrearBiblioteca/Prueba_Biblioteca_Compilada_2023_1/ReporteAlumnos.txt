@@ -1,0 +1,227 @@
+SEMESTRE    CODIGO    NOMBRE                                  MODALIDAD                     ESCALA
+20211       1260      GORDILLO/CASTRO/RONAL                   PRESENCIAL                    2
+Codigos de cursos matriculados: 
+SEMESTRE    CODIGO    NOMBRE                                  MODALIDAD                     ESCALA
+20211       1397      ZEVALLOS/PRADO/RICARDO                  SEMIPRESENCIAL CON 50%        2
+Codigos de cursos matriculados: 
+SEMESTRE    CODIGO    NOMBRE                                  MODALIDAD                     ESCALA
+20211       2598      MORI/ZAVALETA/LUZ-LOURDES               SEMIPRESENCIAL CON 20%        1
+Codigos de cursos matriculados: 
+SEMESTRE    CODIGO    NOMBRE                                  MODALIDAD                     ESCALA
+20211       2887      CABRERA/AGUERO/JESSICA                  SEMIPRESENCIAL CON 50%        2
+Codigos de cursos matriculados: 
+SEMESTRE    CODIGO    NOMBRE                                  MODALIDAD                     ESCALA
+20211       3223      DIAZ/SEDANO/YVONNE                      SEMIPRESENCIAL CON 30%        4
+Codigos de cursos matriculados: 
+SEMESTRE    CODIGO    NOMBRE                                  MODALIDAD                     ESCALA
+20211       3758      SOMA/INGA/DIALY                         PRESENCIAL                    1
+Codigos de cursos matriculados: 
+SEMESTRE    CODIGO    NOMBRE                                  MODALIDAD                     ESCALA
+20211       4285      CHAVARRI/ALDAVE/FERNANDO-MARTIN         SEMIPRESENCIAL CON 25%        2
+Codigos de cursos matriculados: 
+SEMESTRE    CODIGO    NOMBRE                                  MODALIDAD                     ESCALA
+20211       4739      VELASQUEZ/CANO/FERNANDO                 SEMIPRESENCIAL CON 50%        4
+Codigos de cursos matriculados: 
+SEMESTRE    CODIGO    NOMBRE                                  MODALIDAD                     ESCALA
+20211       5400      SANTISTEBAN/JUGO/NESTOR                 SEMIPRESENCIAL CON 30%        1
+Codigos de cursos matriculados: 
+SEMESTRE    CODIGO    NOMBRE                                  MODALIDAD                     ESCALA
+20211       5802      MINAYA/AMEZQUITA/RHONY-JAIME            PRESENCIAL                    5
+Codigos de cursos matriculados: 
+SEMESTRE    CODIGO    NOMBRE                                  MODALIDAD                     ESCALA
+20211       6038      SAONA/ARIAS/ALBERTO                     SEMIPRESENCIAL CON 25%        4
+Codigos de cursos matriculados: 
+SEMESTRE    CODIGO    NOMBRE                                  MODALIDAD                     ESCALA
+20211       6963      CORTEZ/LEIVA/SURAMI-SILVIA              SEMIPRESENCIAL CON 30%        4
+Codigos de cursos matriculados: 
+SEMESTRE    CODIGO    NOMBRE                                  MODALIDAD                     ESCALA
+20211       9153      MENDOZA/ARIAS/HENRY                     PRESENCIAL                    4
+Codigos de cursos matriculados: 
+SEMESTRE    CODIGO    NOMBRE                                  MODALIDAD                     ESCALA
+20211       9707      MIRANDA/LARRIEGA/JUVENAL-NESTOR         SEMIPRESENCIAL CON 30%        2
+Codigos de cursos matriculados: 
+SEMESTRE    CODIGO    NOMBRE                                  MODALIDAD                     ESCALA
+20211       9958      QUISPE/BERROCAL/ANTONIO-ALVARO-DANIEL   PRESENCIAL                    3
+Codigos de cursos matriculados: 
+SEMESTRE    CODIGO    NOMBRE                                  MODALIDAD                     ESCALA
+20212       1791      GONZALES/VELASQUEZ/WALTER               SEMIPRESENCIAL CON 25%        1
+Codigos de cursos matriculados: 
+SEMESTRE    CODIGO    NOMBRE                                  MODALIDAD                     ESCALA
+20212       2742      ZAVALETA/LOPEZ/KARIN-VIRGINIA           PRESENCIAL                    5
+Codigos de cursos matriculados: 
+SEMESTRE    CODIGO    NOMBRE                                  MODALIDAD                     ESCALA
+20212       3373      ESCALANTE/RARAZ/BLANCA                  PRESENCIAL                    3
+Codigos de cursos matriculados: 
+SEMESTRE    CODIGO    NOMBRE                                  MODALIDAD                     ESCALA
+20212       3402      VIZCARDO/MORI/LUCERO-ZKENIA             PRESENCIAL                    1
+Codigos de cursos matriculados: 
+SEMESTRE    CODIGO    NOMBRE                                  MODALIDAD                     ESCALA
+20212       3703      GAMARRA/TABORI/PAUL-RONAL               SEMIPRESENCIAL CON 30%        5
+Codigos de cursos matriculados: 
+SEMESTRE    CODIGO    NOMBRE                                  MODALIDAD                     ESCALA
+20212       5607      POZO/JUGO/ISABEL                        PRESENCIAL                    2
+Codigos de cursos matriculados: 
+SEMESTRE    CODIGO    NOMBRE                                  MODALIDAD                     ESCALA
+20212       5775      PRADO/PAREDES/JUAN                      SEMIPRESENCIAL CON 50%        3
+Codigos de cursos matriculados: 
+SEMESTRE    CODIGO    NOMBRE                                  MODALIDAD                     ESCALA
+20212       6490      TAVERA/CORREA/FERNANDO                  SEMIPRESENCIAL CON 50%        2
+Codigos de cursos matriculados: 
+SEMESTRE    CODIGO    NOMBRE                                  MODALIDAD                     ESCALA
+20212       7344      DEL_POZO/QUIO/CESAR                     VIRTUAL                       3
+Codigos de cursos matriculados: 
+SEMESTRE    CODIGO    NOMBRE                                  MODALIDAD                     ESCALA
+20212       7660      CHANG/ARGUEDAS/HENRY-ANTONIO            SEMIPRESENCIAL CON 25%        4
+Codigos de cursos matriculados: 
+SEMESTRE    CODIGO    NOMBRE                                  MODALIDAD                     ESCALA
+20212       9611      MALDONADO/CORREA/LUCERO-CAROLA          PRESENCIAL                    2
+Codigos de cursos matriculados: 
+SEMESTRE    CODIGO    NOMBRE                                  MODALIDAD                     ESCALA
+20212       9719      MAEIREIZO/VASQUEZ/LOURDES-SILVIA        PRESENCIAL                    2
+Codigos de cursos matriculados: 
+SEMESTRE    CODIGO    NOMBRE                                  MODALIDAD                     ESCALA
+20212       9735      MENDOZA/CORREA/JESUS-CHRISTIAN          SEMIPRESENCIAL CON 50%        5
+Codigos de cursos matriculados: 
+SEMESTRE    CODIGO    NOMBRE                                  MODALIDAD                     ESCALA
+20212       9785      FARFAN/RARAZ/WALDEMAR                   SEMIPRESENCIAL CON 50%        4
+Codigos de cursos matriculados: 
+SEMESTRE    CODIGO    NOMBRE                                  MODALIDAD                     ESCALA
+20221       1325      MORI/ARROYO/SHIRLEY                     PRESENCIAL                    3
+Codigos de cursos matriculados: 
+SEMESTRE    CODIGO    NOMBRE                                  MODALIDAD                     ESCALA
+20221       3745      CARO/QUISPE/JORGE                       VIRTUAL                       1
+Codigos de cursos matriculados: 
+SEMESTRE    CODIGO    NOMBRE                                  MODALIDAD                     ESCALA
+20221       4204      DIAZ/IBEROS/GLENDA-YESSICA              SEMIPRESENCIAL CON 50%        4
+Codigos de cursos matriculados: 
+SEMESTRE    CODIGO    NOMBRE                                  MODALIDAD                     ESCALA
+20221       4628      PALOMARES/GUEVARA/KARINA                PRESENCIAL                    5
+Codigos de cursos matriculados: 
+SEMESTRE    CODIGO    NOMBRE                                  MODALIDAD                     ESCALA
+20221       4712      CASANOVA/CHUMPITAZ/ALONSO               VIRTUAL                       2
+Codigos de cursos matriculados: 
+SEMESTRE    CODIGO    NOMBRE                                  MODALIDAD                     ESCALA
+20221       5067      JAUREGUI/AGUERO/HECTOR-HENRY            SEMIPRESENCIAL CON 50%        4
+Codigos de cursos matriculados: 
+SEMESTRE    CODIGO    NOMBRE                                  MODALIDAD                     ESCALA
+20221       5494      DE_LA_HAZA/CASTRO/EMIGDIO-JOHNNY        SEMIPRESENCIAL CON 30%        2
+Codigos de cursos matriculados: 
+SEMESTRE    CODIGO    NOMBRE                                  MODALIDAD                     ESCALA
+20221       6453      MINAYA/VIZCARRA/JUVENAL                 SEMIPRESENCIAL CON 25%        3
+Codigos de cursos matriculados: 
+SEMESTRE    CODIGO    NOMBRE                                  MODALIDAD                     ESCALA
+20221       6995      LARRIEGA/ARCA/ISABEL-MADELEINE          PRESENCIAL                    5
+Codigos de cursos matriculados: 
+SEMESTRE    CODIGO    NOMBRE                                  MODALIDAD                     ESCALA
+20221       7030      LUNA/POLO/SONIA                         VIRTUAL                       3
+Codigos de cursos matriculados: 
+SEMESTRE    CODIGO    NOMBRE                                  MODALIDAD                     ESCALA
+20221       9437      ZIMIC/PAREDES/SHIRLEY                   SEMIPRESENCIAL CON 25%        4
+Codigos de cursos matriculados: 
+SEMESTRE    CODIGO    NOMBRE                                  MODALIDAD                     ESCALA
+20221       9773      SANCHEZ/CUBA/NATALIA-ESTEFANIA          SEMIPRESENCIAL CON 50%        5
+Codigos de cursos matriculados: 
+SEMESTRE    CODIGO    NOMBRE                                  MODALIDAD                     ESCALA
+20222       1155      CORRALES/ZIMIC/JAIME-DANIEL             PRESENCIAL                    5
+Codigos de cursos matriculados: 
+SEMESTRE    CODIGO    NOMBRE                                  MODALIDAD                     ESCALA
+20222       2447      VILCA/JUSTINO/MELVIN                    VIRTUAL                       1
+Codigos de cursos matriculados: 
+SEMESTRE    CODIGO    NOMBRE                                  MODALIDAD                     ESCALA
+20222       3508      AURIS/JOLAY/HENRY-EDILBERTO             SEMIPRESENCIAL CON 50%        5
+Codigos de cursos matriculados: 
+SEMESTRE    CODIGO    NOMBRE                                  MODALIDAD                     ESCALA
+20222       4569      RIVERA/PASQUEL/OFELIA-CINTHIA           PRESENCIAL                    5
+Codigos de cursos matriculados: 
+SEMESTRE    CODIGO    NOMBRE                                  MODALIDAD                     ESCALA
+20222       5400      PORTUGAL/GUEVARA/HELI-JOHANA            SEMIPRESENCIAL CON 50%        5
+Codigos de cursos matriculados: 
+SEMESTRE    CODIGO    NOMBRE                                  MODALIDAD                     ESCALA
+20222       5778      MUNOZ/ZIMIC/ROCIO-DELICIA               SEMIPRESENCIAL CON 50%        2
+Codigos de cursos matriculados: 
+SEMESTRE    CODIGO    NOMBRE                                  MODALIDAD                     ESCALA
+20222       6249      WONG/GALLO/JANET-MADELEINE              SEMIPRESENCIAL CON 30%        1
+Codigos de cursos matriculados: 
+SEMESTRE    CODIGO    NOMBRE                                  MODALIDAD                     ESCALA
+20222       6929      BOLANOS/FUENTES/JORGE                   SEMIPRESENCIAL CON 50%        2
+Codigos de cursos matriculados: 
+SEMESTRE    CODIGO    NOMBRE                                  MODALIDAD                     ESCALA
+20222       7316      RIVERO/RETT/RONY-ANTONIO                SEMIPRESENCIAL CON 30%        2
+Codigos de cursos matriculados: 
+SEMESTRE    CODIGO    NOMBRE                                  MODALIDAD                     ESCALA
+20231       1247      SERRANO/JOLAY/RHONY-ROLANDO             PRESENCIAL                    5
+Codigos de cursos matriculados: 
+SEMESTRE    CODIGO    NOMBRE                                  MODALIDAD                     ESCALA
+20231       1748      PATINO/FUENTES/MILAGROS-MARIELLA        VIRTUAL                       4
+Codigos de cursos matriculados: 
+SEMESTRE    CODIGO    NOMBRE                                  MODALIDAD                     ESCALA
+20231       2000      LANDA/CUEVA/JOHAN                       VIRTUAL                       4
+Codigos de cursos matriculados: 
+MEC289         
+SEMESTRE    CODIGO    NOMBRE                                  MODALIDAD                     ESCALA
+20231       2050      LOYOLA/HIJAR/NICOLAS-OSCAR              VIRTUAL                       4
+Codigos de cursos matriculados: 
+SEMESTRE    CODIGO    NOMBRE                                  MODALIDAD                     ESCALA
+20231       2360      VILCA/BARRERA/CESAR-EDGAR               SEMIPRESENCIAL CON 50%        5
+Codigos de cursos matriculados: 
+SEMESTRE    CODIGO    NOMBRE                                  MODALIDAD                     ESCALA
+20231       2501      CORTES/REYES/MARIBEL                    VIRTUAL                       2
+Codigos de cursos matriculados: 
+SEMESTRE    CODIGO    NOMBRE                                  MODALIDAD                     ESCALA
+20231       3065      RETT/SERRANO/RAFAEL-RHONY               VIRTUAL                       2
+Codigos de cursos matriculados: 
+SEMESTRE    CODIGO    NOMBRE                                  MODALIDAD                     ESCALA
+20231       3122      CUBA/NARVAEZ/PAUL-JOHN                  PRESENCIAL                    2
+Codigos de cursos matriculados: 
+SEMESTRE    CODIGO    NOMBRE                                  MODALIDAD                     ESCALA
+20231       3249      NORABUENA/PAIRAZAMAN/JULIAN             PRESENCIAL                    3
+Codigos de cursos matriculados: 
+SEMESTRE    CODIGO    NOMBRE                                  MODALIDAD                     ESCALA
+20231       3627      CHAVEZ/CARO/YVONNE                      VIRTUAL                       1
+Codigos de cursos matriculados: 
+SEMESTRE    CODIGO    NOMBRE                                  MODALIDAD                     ESCALA
+20231       3754      MALCA/SAAVEDRA/DORIS-MILAGROS           SEMIPRESENCIAL CON 30%        3
+Codigos de cursos matriculados: 
+SEMESTRE    CODIGO    NOMBRE                                  MODALIDAD                     ESCALA
+20231       5400      CORTES/CALIXTO/ROSARIO                  SEMIPRESENCIAL CON 50%        5
+Codigos de cursos matriculados: 
+SEMESTRE    CODIGO    NOMBRE                                  MODALIDAD                     ESCALA
+20231       5318      FLORENCIO/LAM/PAUL-RONALD               PRESENCIAL                    3
+Codigos de cursos matriculados: 
+SEMESTRE    CODIGO    NOMBRE                                  MODALIDAD                     ESCALA
+20231       5527      JUSTINO/COLLADO/LUZ-DELICIA             SEMIPRESENCIAL CON 30%        3
+Codigos de cursos matriculados: 
+SEMESTRE    CODIGO    NOMBRE                                  MODALIDAD                     ESCALA
+20231       5643      IBEROS/ZAMBRANO/GONZALO                 PRESENCIAL                    2
+Codigos de cursos matriculados: 
+SEMESTRE    CODIGO    NOMBRE                                  MODALIDAD                     ESCALA
+20231       5724      VEGA/SAENZ/ALEXANDER-RICHARD            SEMIPRESENCIAL CON 50%        4
+Codigos de cursos matriculados: 
+SEMESTRE    CODIGO    NOMBRE                                  MODALIDAD                     ESCALA
+20231       5763      CORREA/AGUIRRE/MOISES                   SEMIPRESENCIAL CON 30%        2
+Codigos de cursos matriculados: 
+SEMESTRE    CODIGO    NOMBRE                                  MODALIDAD                     ESCALA
+20231       6015      ALFARO/FUENTES/MAGDA                    VIRTUAL                       3
+Codigos de cursos matriculados: 
+SEMESTRE    CODIGO    NOMBRE                                  MODALIDAD                     ESCALA
+20231       6517      ZEGARRA/CUBA/ANTONIO                    PRESENCIAL                    2
+Codigos de cursos matriculados: 
+SEMESTRE    CODIGO    NOMBRE                                  MODALIDAD                     ESCALA
+20231       8072      RIVERA/MONTERO/GLORIA-OFELIA            VIRTUAL                       3
+Codigos de cursos matriculados: 
+SEMESTRE    CODIGO    NOMBRE                                  MODALIDAD                     ESCALA
+20231       8318      TOKESHI/GONZALES/MARTIN                 SEMIPRESENCIAL CON 50%        1
+Codigos de cursos matriculados: 
+SEMESTRE    CODIGO    NOMBRE                                  MODALIDAD                     ESCALA
+20231       8320      NORABUENA/RIVERA/GLORIA-YESSICA         VIRTUAL                       5
+Codigos de cursos matriculados: 
+INF263         
+SEMESTRE    CODIGO    NOMBRE                                  MODALIDAD                     ESCALA
+20231       8383      GORDILLO/BOLANOS/ARTURO-GONZALO         PRESENCIAL                    3
+Codigos de cursos matriculados: 
+SEMESTRE    CODIGO    NOMBRE                                  MODALIDAD                     ESCALA
+20231       9103      LEE/VASQUEZ/JENNY                       VIRTUAL                       4
+Codigos de cursos matriculados: 
+SEMESTRE    CODIGO    NOMBRE                                  MODALIDAD                     ESCALA
+20231       9927      PATINO/MEZA/MANUEL                      VIRTUAL                       3
+Codigos de cursos matriculados: 

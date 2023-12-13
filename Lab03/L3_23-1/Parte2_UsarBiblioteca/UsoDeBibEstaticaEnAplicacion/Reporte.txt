@@ -1,0 +1,547 @@
+REPORTE DE CURSOS
+CODIGO            NOMBRE                                                 CREDITOS  
+INF263          Algoritmia                                                 3.75      
+PROFESOR: INGA_FLORES_CESAR_ADOLFO[35030611]
+Alumnos matriculados:
+Semestre       Código
+ 202318         8320
+ 202125         5400
+ 202319         9103
+ 202313         3065
+ 202315         5527
+ 202115         5802
+ 202217         7030
+ 202127         7660
+ 202312         2050
+ 202318         8072
+ 202222         2447
+ 202318         8383
+ 202318         8318
+ 202127         7344
+ 202224         4569
+ 202129         9735
+ 202211         1325
+Numeros de alumnos: 17
+Total ingresado: 29960.62
+CODIGO            NOMBRE                                                 CREDITOS  
+MEC270          Procesos_De_Manufactura                                    4.00      
+PROFESOR: PAIRAZAMAN_ALAMO_MOISES_MIGUEL[83265244]
+Alumnos matriculados:
+Semestre       Código
+ 202111         1397
+ 202129         9719
+ 202226         6929
+ 202225         5778
+ 202216         6453
+ 202315         5643
+ 202312         2360
+ 202219         9437
+ 202224         4569
+ 202311         1247
+ 202113         3223
+ 202226         6249
+ 202312         2501
+ 202125         5400
+ 202125         5775
+ 202313         3754
+ 202315         5724
+ 202119         9153
+ 202119         9958
+ 202127         7344
+ 202215         5494
+Numeros de alumnos: 21
+Total ingresado: 37259.20
+CODIGO            NOMBRE                                                 CREDITOS  
+MEC289          Turbomaquinas_Y_Maquinas_De_Desplazamiento_Positivo        4.25      
+PROFESOR: DELGADO_GONZALES_GUILLERMO_ALFONSO[49516360]
+Alumnos matriculados:
+Semestre       Código
+ 202312         2000
+ 202214         4204
+ 202219         9437
+ 202227         7316
+ 202313         3122
+ 202111         1260
+ 202119         9707
+ 202129         9735
+ 202114         4285
+ 202226         6249
+ 202116         6963
+ 202115         5802
+ 202312         2360
+ 202215         5067
+ 202318         8320
+Numeros de alumnos: 15
+Total ingresado: 32059.45
+CODIGO            NOMBRE                                                 CREDITOS  
+MAT241          Metodos_Numericos_En_Ingenieria                            3.00      
+PROFESOR: HERNANDEZ_BARRIOS_EMILIO_[17750908]
+Alumnos matriculados:
+Semestre       Código
+ 202216         6453
+ 202225         5400
+ 202318         8320
+ 202121         1791
+ 202219         9773
+ 202125         5400
+ 202225         5778
+ 202315         5724
+ 202313         3249
+ 202129         9785
+ 202116         6038
+ 202315         5763
+ 202313         3122
+ 202211         1325
+ 202319         9927
+ 202319         9103
+ 202315         5318
+ 202114         4739
+ 202214         4712
+ 202311         1247
+ 202119         9958
+ 202315         5400
+ 202312         2050
+Numeros de alumnos: 23
+Total ingresado: 33390.60
+CODIGO            NOMBRE                                                 CREDITOS  
+MEC206          Termodinamica_1                                            4.50      
+PROFESOR: SALAS_AGUERO_DANIEL_[66152145]
+Alumnos matriculados:
+Semestre       Código
+ 202215         5494
+ 202115         5802
+ 202223         3508
+ 202313         3122
+ 202312         2000
+ 202224         4569
+ 202126         6490
+ 202125         5607
+ 202312         2501
+ 202312         2050
+ 202114         4739
+ 202215         5067
+ 202116         6963
+ 202125         5775
+ 202216         6453
+Numeros de alumnos: 15
+Total ingresado: 33761.70
+CODIGO            NOMBRE                                                 CREDITOS  
+INF246          Bases_De_Datos                                             3.75      
+PROFESOR: MEJIA_DIAZ_BLANCA_MILAGROS[65071478]
+Alumnos matriculados:
+Semestre       Código
+ 202313         3754
+ 202214         4204
+ 202312         2360
+ 202225         5400
+ 202214         4712
+ 202311         1748
+ 202111         1260
+ 202316         6015
+ 202213         3745
+ 202119         9958
+ 202315         5318
+ 202315         5527
+ 202225         5778
+ 202315         5643
+ 202315         5724
+ 202219         9773
+ 202123         3373
+ 202116         6038
+ 202318         8318
+ 202129         9719
+ 202319         9103
+ 202318         8383
+ 202123         3402
+ 202313         3249
+ 202119         9707
+Numeros de alumnos: 25
+Total ingresado: 42887.62
+CODIGO            NOMBRE                                                 CREDITOS  
+FIS220          Tecnicas_Computacionales_En_Fisica                         4.50      
+PROFESOR: VASQUEZ_PAZ_ALEX_MARTIN[37500242]
+Alumnos matriculados:
+Semestre       Código
+ 202125         5775
+ 202313         3249
+ 202318         8320
+ 202315         5400
+ 202215         5494
+ 202223         3508
+ 202319         9103
+ 202224         4569
+ 202125         5607
+ 202226         6929
+ 202119         9153
+ 202129         9719
+ 202311         1748
+ 202129         9735
+ 202312         2360
+ 202116         6963
+ 202316         6015
+ 202312         2000
+ 202122         2742
+ 202115         5400
+ 202111         1397
+Numeros de alumnos: 21
+Total ingresado: 49080.15
+REPORTE DE ALUMNOS
+SEMESTRE    CODIGO    NOMBRE                                  MODALIDAD                     ESCALA
+20211       1260      GORDILLO/CASTRO/RONAL                   PRESENCIAL                    2
+Codigos de cursos matriculados: 
+MEC289         
+INF246         
+SEMESTRE    CODIGO    NOMBRE                                  MODALIDAD                     ESCALA
+20211       1397      ZEVALLOS/PRADO/RICARDO                  SEMIPRESENCIAL CON 50%        2
+Codigos de cursos matriculados: 
+MEC270         
+FIS220         
+SEMESTRE    CODIGO    NOMBRE                                  MODALIDAD                     ESCALA
+20211       2598      MORI/ZAVALETA/LUZ-LOURDES               SEMIPRESENCIAL CON 20%        1
+Codigos de cursos matriculados: 
+SEMESTRE    CODIGO    NOMBRE                                  MODALIDAD                     ESCALA
+20211       2887      CABRERA/AGUERO/JESSICA                  SEMIPRESENCIAL CON 50%        2
+Codigos de cursos matriculados: 
+SEMESTRE    CODIGO    NOMBRE                                  MODALIDAD                     ESCALA
+20211       3223      DIAZ/SEDANO/YVONNE                      SEMIPRESENCIAL CON 30%        4
+Codigos de cursos matriculados: 
+MEC270         
+SEMESTRE    CODIGO    NOMBRE                                  MODALIDAD                     ESCALA
+20211       3758      SOMA/INGA/DIALY                         PRESENCIAL                    1
+Codigos de cursos matriculados: 
+SEMESTRE    CODIGO    NOMBRE                                  MODALIDAD                     ESCALA
+20211       4285      CHAVARRI/ALDAVE/FERNANDO-MARTIN         SEMIPRESENCIAL CON 25%        2
+Codigos de cursos matriculados: 
+MEC289         
+SEMESTRE    CODIGO    NOMBRE                                  MODALIDAD                     ESCALA
+20211       4739      VELASQUEZ/CANO/FERNANDO                 SEMIPRESENCIAL CON 50%        4
+Codigos de cursos matriculados: 
+MEC206         
+MAT241         
+SEMESTRE    CODIGO    NOMBRE                                  MODALIDAD                     ESCALA
+20211       5400      SANTISTEBAN/JUGO/NESTOR                 SEMIPRESENCIAL CON 30%        1
+Codigos de cursos matriculados: 
+FIS220         
+SEMESTRE    CODIGO    NOMBRE                                  MODALIDAD                     ESCALA
+20211       5802      MINAYA/AMEZQUITA/RHONY-JAIME            PRESENCIAL                    5
+Codigos de cursos matriculados: 
+MEC206         
+INF263         
+MEC289         
+SEMESTRE    CODIGO    NOMBRE                                  MODALIDAD                     ESCALA
+20211       6038      SAONA/ARIAS/ALBERTO                     SEMIPRESENCIAL CON 25%        4
+Codigos de cursos matriculados: 
+MAT241         
+INF246         
+SEMESTRE    CODIGO    NOMBRE                                  MODALIDAD                     ESCALA
+20211       6963      CORTEZ/LEIVA/SURAMI-SILVIA              SEMIPRESENCIAL CON 30%        4
+Codigos de cursos matriculados: 
+MEC289         
+MEC206         
+FIS220         
+SEMESTRE    CODIGO    NOMBRE                                  MODALIDAD                     ESCALA
+20211       9153      MENDOZA/ARIAS/HENRY                     PRESENCIAL                    4
+Codigos de cursos matriculados: 
+FIS220         
+MEC270         
+SEMESTRE    CODIGO    NOMBRE                                  MODALIDAD                     ESCALA
+20211       9707      MIRANDA/LARRIEGA/JUVENAL-NESTOR         SEMIPRESENCIAL CON 30%        2
+Codigos de cursos matriculados: 
+MEC289         
+INF246         
+SEMESTRE    CODIGO    NOMBRE                                  MODALIDAD                     ESCALA
+20211       9958      QUISPE/BERROCAL/ANTONIO-ALVARO-DANIEL   PRESENCIAL                    3
+Codigos de cursos matriculados: 
+INF246         
+MAT241         
+MEC270         
+SEMESTRE    CODIGO    NOMBRE                                  MODALIDAD                     ESCALA
+20212       1791      GONZALES/VELASQUEZ/WALTER               SEMIPRESENCIAL CON 25%        1
+Codigos de cursos matriculados: 
+MAT241         
+SEMESTRE    CODIGO    NOMBRE                                  MODALIDAD                     ESCALA
+20212       2742      ZAVALETA/LOPEZ/KARIN-VIRGINIA           PRESENCIAL                    5
+Codigos de cursos matriculados: 
+FIS220         
+SEMESTRE    CODIGO    NOMBRE                                  MODALIDAD                     ESCALA
+20212       3373      ESCALANTE/RARAZ/BLANCA                  PRESENCIAL                    3
+Codigos de cursos matriculados: 
+INF246         
+SEMESTRE    CODIGO    NOMBRE                                  MODALIDAD                     ESCALA
+20212       3402      VIZCARDO/MORI/LUCERO-ZKENIA             PRESENCIAL                    1
+Codigos de cursos matriculados: 
+INF246         
+SEMESTRE    CODIGO    NOMBRE                                  MODALIDAD                     ESCALA
+20212       3703      GAMARRA/TABORI/PAUL-RONAL               SEMIPRESENCIAL CON 30%        5
+Codigos de cursos matriculados: 
+SEMESTRE    CODIGO    NOMBRE                                  MODALIDAD                     ESCALA
+20212       5607      POZO/JUGO/ISABEL                        PRESENCIAL                    2
+Codigos de cursos matriculados: 
+FIS220         
+MEC206         
+SEMESTRE    CODIGO    NOMBRE                                  MODALIDAD                     ESCALA
+20212       5775      PRADO/PAREDES/JUAN                      SEMIPRESENCIAL CON 50%        3
+Codigos de cursos matriculados: 
+FIS220         
+MEC270         
+MEC206         
+SEMESTRE    CODIGO    NOMBRE                                  MODALIDAD                     ESCALA
+20212       6490      TAVERA/CORREA/FERNANDO                  SEMIPRESENCIAL CON 50%        2
+Codigos de cursos matriculados: 
+MEC206         
+SEMESTRE    CODIGO    NOMBRE                                  MODALIDAD                     ESCALA
+20212       7344      DEL_POZO/QUIO/CESAR                     VIRTUAL                       3
+Codigos de cursos matriculados: 
+INF263         
+MEC270         
+SEMESTRE    CODIGO    NOMBRE                                  MODALIDAD                     ESCALA
+20212       7660      CHANG/ARGUEDAS/HENRY-ANTONIO            SEMIPRESENCIAL CON 25%        4
+Codigos de cursos matriculados: 
+INF263         
+SEMESTRE    CODIGO    NOMBRE                                  MODALIDAD                     ESCALA
+20212       9611      MALDONADO/CORREA/LUCERO-CAROLA          PRESENCIAL                    2
+Codigos de cursos matriculados: 
+SEMESTRE    CODIGO    NOMBRE                                  MODALIDAD                     ESCALA
+20212       9719      MAEIREIZO/VASQUEZ/LOURDES-SILVIA        PRESENCIAL                    2
+Codigos de cursos matriculados: 
+MEC270         
+FIS220         
+INF246         
+SEMESTRE    CODIGO    NOMBRE                                  MODALIDAD                     ESCALA
+20212       9735      MENDOZA/CORREA/JESUS-CHRISTIAN          SEMIPRESENCIAL CON 50%        5
+Codigos de cursos matriculados: 
+MEC289         
+FIS220         
+INF263         
+SEMESTRE    CODIGO    NOMBRE                                  MODALIDAD                     ESCALA
+20212       9785      FARFAN/RARAZ/WALDEMAR                   SEMIPRESENCIAL CON 50%        4
+Codigos de cursos matriculados: 
+MAT241         
+SEMESTRE    CODIGO    NOMBRE                                  MODALIDAD                     ESCALA
+20221       1325      MORI/ARROYO/SHIRLEY                     PRESENCIAL                    3
+Codigos de cursos matriculados: 
+MAT241         
+INF263         
+SEMESTRE    CODIGO    NOMBRE                                  MODALIDAD                     ESCALA
+20221       3745      CARO/QUISPE/JORGE                       VIRTUAL                       1
+Codigos de cursos matriculados: 
+INF246         
+SEMESTRE    CODIGO    NOMBRE                                  MODALIDAD                     ESCALA
+20221       4204      DIAZ/IBEROS/GLENDA-YESSICA              SEMIPRESENCIAL CON 50%        4
+Codigos de cursos matriculados: 
+MEC289         
+INF246         
+SEMESTRE    CODIGO    NOMBRE                                  MODALIDAD                     ESCALA
+20221       4628      PALOMARES/GUEVARA/KARINA                PRESENCIAL                    5
+Codigos de cursos matriculados: 
+SEMESTRE    CODIGO    NOMBRE                                  MODALIDAD                     ESCALA
+20221       4712      CASANOVA/CHUMPITAZ/ALONSO               VIRTUAL                       2
+Codigos de cursos matriculados: 
+INF246         
+MAT241         
+SEMESTRE    CODIGO    NOMBRE                                  MODALIDAD                     ESCALA
+20221       5067      JAUREGUI/AGUERO/HECTOR-HENRY            SEMIPRESENCIAL CON 50%        4
+Codigos de cursos matriculados: 
+MEC206         
+MEC289         
+SEMESTRE    CODIGO    NOMBRE                                  MODALIDAD                     ESCALA
+20221       5494      DE_LA_HAZA/CASTRO/EMIGDIO-JOHNNY        SEMIPRESENCIAL CON 30%        2
+Codigos de cursos matriculados: 
+MEC206         
+FIS220         
+MEC270         
+SEMESTRE    CODIGO    NOMBRE                                  MODALIDAD                     ESCALA
+20221       6453      MINAYA/VIZCARRA/JUVENAL                 SEMIPRESENCIAL CON 25%        3
+Codigos de cursos matriculados: 
+MAT241         
+MEC270         
+MEC206         
+SEMESTRE    CODIGO    NOMBRE                                  MODALIDAD                     ESCALA
+20221       6995      LARRIEGA/ARCA/ISABEL-MADELEINE          PRESENCIAL                    5
+Codigos de cursos matriculados: 
+SEMESTRE    CODIGO    NOMBRE                                  MODALIDAD                     ESCALA
+20221       7030      LUNA/POLO/SONIA                         VIRTUAL                       3
+Codigos de cursos matriculados: 
+INF263         
+SEMESTRE    CODIGO    NOMBRE                                  MODALIDAD                     ESCALA
+20221       9437      ZIMIC/PAREDES/SHIRLEY                   SEMIPRESENCIAL CON 25%        4
+Codigos de cursos matriculados: 
+MEC289         
+MEC270         
+SEMESTRE    CODIGO    NOMBRE                                  MODALIDAD                     ESCALA
+20221       9773      SANCHEZ/CUBA/NATALIA-ESTEFANIA          SEMIPRESENCIAL CON 50%        5
+Codigos de cursos matriculados: 
+MAT241         
+INF246         
+SEMESTRE    CODIGO    NOMBRE                                  MODALIDAD                     ESCALA
+20222       1155      CORRALES/ZIMIC/JAIME-DANIEL             PRESENCIAL                    5
+Codigos de cursos matriculados: 
+SEMESTRE    CODIGO    NOMBRE                                  MODALIDAD                     ESCALA
+20222       2447      VILCA/JUSTINO/MELVIN                    VIRTUAL                       1
+Codigos de cursos matriculados: 
+INF263         
+SEMESTRE    CODIGO    NOMBRE                                  MODALIDAD                     ESCALA
+20222       3508      AURIS/JOLAY/HENRY-EDILBERTO             SEMIPRESENCIAL CON 50%        5
+Codigos de cursos matriculados: 
+MEC206         
+FIS220         
+SEMESTRE    CODIGO    NOMBRE                                  MODALIDAD                     ESCALA
+20222       4569      RIVERA/PASQUEL/OFELIA-CINTHIA           PRESENCIAL                    5
+Codigos de cursos matriculados: 
+FIS220         
+MEC270         
+MEC206         
+INF263         
+SEMESTRE    CODIGO    NOMBRE                                  MODALIDAD                     ESCALA
+20222       5400      PORTUGAL/GUEVARA/HELI-JOHANA            SEMIPRESENCIAL CON 50%        5
+Codigos de cursos matriculados: 
+MAT241         
+INF246         
+SEMESTRE    CODIGO    NOMBRE                                  MODALIDAD                     ESCALA
+20222       5778      MUNOZ/ZIMIC/ROCIO-DELICIA               SEMIPRESENCIAL CON 50%        2
+Codigos de cursos matriculados: 
+MEC270         
+MAT241         
+INF246         
+SEMESTRE    CODIGO    NOMBRE                                  MODALIDAD                     ESCALA
+20222       6249      WONG/GALLO/JANET-MADELEINE              SEMIPRESENCIAL CON 30%        1
+Codigos de cursos matriculados: 
+MEC270         
+MEC289         
+SEMESTRE    CODIGO    NOMBRE                                  MODALIDAD                     ESCALA
+20222       6929      BOLANOS/FUENTES/JORGE                   SEMIPRESENCIAL CON 50%        2
+Codigos de cursos matriculados: 
+MEC270         
+FIS220         
+SEMESTRE    CODIGO    NOMBRE                                  MODALIDAD                     ESCALA
+20222       7316      RIVERO/RETT/RONY-ANTONIO                SEMIPRESENCIAL CON 30%        2
+Codigos de cursos matriculados: 
+MEC289         
+SEMESTRE    CODIGO    NOMBRE                                  MODALIDAD                     ESCALA
+20231       1247      SERRANO/JOLAY/RHONY-ROLANDO             PRESENCIAL                    5
+Codigos de cursos matriculados: 
+MEC270         
+MAT241         
+SEMESTRE    CODIGO    NOMBRE                                  MODALIDAD                     ESCALA
+20231       1748      PATINO/FUENTES/MILAGROS-MARIELLA        VIRTUAL                       4
+Codigos de cursos matriculados: 
+INF246         
+FIS220         
+SEMESTRE    CODIGO    NOMBRE                                  MODALIDAD                     ESCALA
+20231       2000      LANDA/CUEVA/JOHAN                       VIRTUAL                       4
+Codigos de cursos matriculados: 
+MEC289         
+MEC206         
+FIS220         
+SEMESTRE    CODIGO    NOMBRE                                  MODALIDAD                     ESCALA
+20231       2050      LOYOLA/HIJAR/NICOLAS-OSCAR              VIRTUAL                       4
+Codigos de cursos matriculados: 
+MEC206         
+INF263         
+MAT241         
+SEMESTRE    CODIGO    NOMBRE                                  MODALIDAD                     ESCALA
+20231       2360      VILCA/BARRERA/CESAR-EDGAR               SEMIPRESENCIAL CON 50%        5
+Codigos de cursos matriculados: 
+INF246         
+MEC270         
+MEC289         
+FIS220         
+SEMESTRE    CODIGO    NOMBRE                                  MODALIDAD                     ESCALA
+20231       2501      CORTES/REYES/MARIBEL                    VIRTUAL                       2
+Codigos de cursos matriculados: 
+MEC270         
+MEC206         
+SEMESTRE    CODIGO    NOMBRE                                  MODALIDAD                     ESCALA
+20231       3065      RETT/SERRANO/RAFAEL-RHONY               VIRTUAL                       2
+Codigos de cursos matriculados: 
+INF263         
+SEMESTRE    CODIGO    NOMBRE                                  MODALIDAD                     ESCALA
+20231       3122      CUBA/NARVAEZ/PAUL-JOHN                  PRESENCIAL                    2
+Codigos de cursos matriculados: 
+MEC289         
+MEC206         
+MAT241         
+SEMESTRE    CODIGO    NOMBRE                                  MODALIDAD                     ESCALA
+20231       3249      NORABUENA/PAIRAZAMAN/JULIAN             PRESENCIAL                    3
+Codigos de cursos matriculados: 
+FIS220         
+MAT241         
+INF246         
+SEMESTRE    CODIGO    NOMBRE                                  MODALIDAD                     ESCALA
+20231       3627      CHAVEZ/CARO/YVONNE                      VIRTUAL                       1
+Codigos de cursos matriculados: 
+SEMESTRE    CODIGO    NOMBRE                                  MODALIDAD                     ESCALA
+20231       3754      MALCA/SAAVEDRA/DORIS-MILAGROS           SEMIPRESENCIAL CON 30%        3
+Codigos de cursos matriculados: 
+INF246         
+MEC270         
+SEMESTRE    CODIGO    NOMBRE                                  MODALIDAD                     ESCALA
+20231       5400      CORTES/CALIXTO/ROSARIO                  SEMIPRESENCIAL CON 50%        5
+Codigos de cursos matriculados: 
+FIS220         
+MAT241         
+SEMESTRE    CODIGO    NOMBRE                                  MODALIDAD                     ESCALA
+20231       5318      FLORENCIO/LAM/PAUL-RONALD               PRESENCIAL                    3
+Codigos de cursos matriculados: 
+INF246         
+MAT241         
+SEMESTRE    CODIGO    NOMBRE                                  MODALIDAD                     ESCALA
+20231       5527      JUSTINO/COLLADO/LUZ-DELICIA             SEMIPRESENCIAL CON 30%        3
+Codigos de cursos matriculados: 
+INF263         
+INF246         
+SEMESTRE    CODIGO    NOMBRE                                  MODALIDAD                     ESCALA
+20231       5643      IBEROS/ZAMBRANO/GONZALO                 PRESENCIAL                    2
+Codigos de cursos matriculados: 
+MEC270         
+INF246         
+SEMESTRE    CODIGO    NOMBRE                                  MODALIDAD                     ESCALA
+20231       5724      VEGA/SAENZ/ALEXANDER-RICHARD            SEMIPRESENCIAL CON 50%        4
+Codigos de cursos matriculados: 
+MAT241         
+MEC270         
+INF246         
+SEMESTRE    CODIGO    NOMBRE                                  MODALIDAD                     ESCALA
+20231       5763      CORREA/AGUIRRE/MOISES                   SEMIPRESENCIAL CON 30%        2
+Codigos de cursos matriculados: 
+MAT241         
+SEMESTRE    CODIGO    NOMBRE                                  MODALIDAD                     ESCALA
+20231       6015      ALFARO/FUENTES/MAGDA                    VIRTUAL                       3
+Codigos de cursos matriculados: 
+INF246         
+FIS220         
+SEMESTRE    CODIGO    NOMBRE                                  MODALIDAD                     ESCALA
+20231       6517      ZEGARRA/CUBA/ANTONIO                    PRESENCIAL                    2
+Codigos de cursos matriculados: 
+SEMESTRE    CODIGO    NOMBRE                                  MODALIDAD                     ESCALA
+20231       8072      RIVERA/MONTERO/GLORIA-OFELIA            VIRTUAL                       3
+Codigos de cursos matriculados: 
+INF263         
+SEMESTRE    CODIGO    NOMBRE                                  MODALIDAD                     ESCALA
+20231       8318      TOKESHI/GONZALES/MARTIN                 SEMIPRESENCIAL CON 50%        1
+Codigos de cursos matriculados: 
+INF263         
+INF246         
+SEMESTRE    CODIGO    NOMBRE                                  MODALIDAD                     ESCALA
+20231       8320      NORABUENA/RIVERA/GLORIA-YESSICA         VIRTUAL                       5
+Codigos de cursos matriculados: 
+INF263         
+FIS220         
+MAT241         
+MEC289         
+SEMESTRE    CODIGO    NOMBRE                                  MODALIDAD                     ESCALA
+20231       8383      GORDILLO/BOLANOS/ARTURO-GONZALO         PRESENCIAL                    3
+Codigos de cursos matriculados: 
+INF263         
+INF246         
+SEMESTRE    CODIGO    NOMBRE                                  MODALIDAD                     ESCALA
+20231       9103      LEE/VASQUEZ/JENNY                       VIRTUAL                       4
+Codigos de cursos matriculados: 
+INF263         
+FIS220         
+MAT241         
+INF246         
+SEMESTRE    CODIGO    NOMBRE                                  MODALIDAD                     ESCALA
+20231       9927      PATINO/MEZA/MANUEL                      VIRTUAL                       3
+Codigos de cursos matriculados: 
+MAT241         
