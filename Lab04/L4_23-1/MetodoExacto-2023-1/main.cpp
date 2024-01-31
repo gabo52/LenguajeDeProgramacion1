@@ -14,9 +14,9 @@ int main(int argc, char **argv) {
     lecturaAlumnos("alumnos.csv", alumno_Codigo, alumno_Nombre, alumno_Modalidad, alumno_Porcentaje, alumno_Escala);
     pruebaLecturaAlumnos("ReporteAlumnos.txt", alumno_Codigo, alumno_Nombre, alumno_Modalidad, alumno_Porcentaje, alumno_Escala);
     lecturaCursos("alumnos_cursos.csv", alumno_Codigo, alumno_Escala, curso_Nombre, curso_Credito, curso_Alumnos);
-    //    pruebaDeLecturaCursos("ReporteCursos.csv", curso_Nombre, curso_Credito, curso_Alumnos);
-    //    reporteDeRecaudacionPorModalidad("ReporteRecaudacionModalidad.txt", alumno_Codigo, alumno_Modalidad,
-    //            alumno_Porcentaje, alumno_Nombre, curso_Nombre, curso_Credito, curso_Alumnos);
+    pruebaDeLecturaCursos("ReporteCursos.txt", curso_Nombre, curso_Credito, curso_Alumnos);
+    reporteDeRecaudacionPorModalidad("ReporteRecaudacionModalidad.txt", alumno_Codigo, alumno_Modalidad,
+                alumno_Porcentaje, alumno_Nombre, curso_Nombre, curso_Credito, curso_Alumnos);
     return 0;
 
 }

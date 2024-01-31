@@ -1,0 +1,130 @@
+==================================================
+Curso: Aplicaciones de las Ciencias de la Computacion
+Credito: 3.5
+==================================================
+Alumnos: 
+Codigo: 8072                Escala: 3
+Codigo: 4919                Escala: 5
+Codigo: 5527                Escala: 3
+Codigo: 6038                Escala: 4
+Codigo: 4628                Escala: 5
+Codigo: 5067                Escala: 4
+Codigo: 4285                Escala: 2
+Codigo: 3627                Escala: 1
+Codigo: 6517                Escala: 2
+Codigo: 9958                Escala: 3
+Codigo: 2000                Escala: 4
+Codigo: 5724                Escala: 4
+Codigo: 3249                Escala: 3
+Codigo: 5400                Escala: 1
+Codigo: 1397                Escala: 2
+Codigo: 9437                Escala: 4
+Codigo: 6015                Escala: 3
+Codigo: 8320                Escala: 5
+Codigo: 1247                Escala: 5
+Codigo: 9707                Escala: 2
+==================================================
+Curso: Lenguaje de Programacion 1
+Credito: 5
+==================================================
+Alumnos: 
+Codigo: 6995                Escala: 5
+Codigo: 5527                Escala: 3
+Codigo: 5400                Escala: 1
+Codigo: 3745                Escala: 1
+Codigo: 1325                Escala: 3
+Codigo: 8383                Escala: 3
+Codigo: 2598                Escala: 1
+Codigo: 9611                Escala: 2
+Codigo: 6490                Escala: 2
+Codigo: 6929                Escala: 2
+Codigo: 3627                Escala: 1
+Codigo: 3402                Escala: 1
+Codigo: 5775                Escala: 3
+Codigo: 4919                Escala: 5
+Codigo: 3758                Escala: 1
+Codigo: 3373                Escala: 3
+Codigo: 5067                Escala: 4
+Codigo: 2501                Escala: 2
+Codigo: 4712                Escala: 2
+Codigo: 1748                Escala: 4
+Codigo: 1155                Escala: 5
+Codigo: 6038                Escala: 4
+Codigo: 2360                Escala: 5
+Codigo: 5643                Escala: 2
+Codigo: 7660                Escala: 4
+==================================================
+Curso: Lenguaje de Programacion 2
+Credito: 5
+==================================================
+Alumnos: 
+Codigo: 4628                Escala: 5
+Codigo: 5724                Escala: 4
+Codigo: 1325                Escala: 3
+Codigo: 6249                Escala: 1
+Codigo: 3508                Escala: 5
+Codigo: 3627                Escala: 1
+Codigo: 2501                Escala: 2
+Codigo: 6490                Escala: 2
+Codigo: 5318                Escala: 3
+Codigo: 5763                Escala: 2
+Codigo: 4739                Escala: 4
+Codigo: 9437                Escala: 4
+Codigo: 4569                Escala: 5
+Codigo: 9785                Escala: 4
+Codigo: 2360                Escala: 5
+Codigo: 4285                Escala: 2
+Codigo: 2000                Escala: 4
+Codigo: 6038                Escala: 4
+Codigo: 1260                Escala: 2
+Codigo: 8383                Escala: 3
+Codigo: 2050                Escala: 4
+Codigo: 3758                Escala: 1
+Codigo: 7030                Escala: 3
+Codigo: 9153                Escala: 4
+Codigo: 1247                Escala: 5
+==================================================
+Curso: Algoritmia
+Credito: 3.75
+==================================================
+Alumnos: 
+Codigo: 7344                Escala: 3
+Codigo: 2000                Escala: 4
+Codigo: 2050                Escala: 4
+Codigo: 7030                Escala: 3
+Codigo: 1260                Escala: 2
+Codigo: 7316                Escala: 2
+Codigo: 4712                Escala: 2
+Codigo: 3249                Escala: 3
+Codigo: 9719                Escala: 2
+Codigo: 4285                Escala: 2
+Codigo: 5763                Escala: 2
+Codigo: 6015                Escala: 3
+Codigo: 4918                Escala: 5
+Codigo: 9958                Escala: 3
+Codigo: 2447                Escala: 1
+==================================================
+Curso: Analisis de Datos
+Credito: 3
+==================================================
+Alumnos: 
+Codigo: 5775                Escala: 3
+Codigo: 3508                Escala: 5
+Codigo: 2447                Escala: 1
+Codigo: 6929                Escala: 2
+Codigo: 1155                Escala: 5
+==================================================
+Curso: Fundamentos de Programacion
+Credito: 4
+==================================================
+Alumnos: 
+Codigo: 7660                Escala: 4
+Codigo: 5778                Escala: 2
+Codigo: 8318                Escala: 1
+Codigo: 5494                Escala: 2
+Codigo: 6453                Escala: 3
+Codigo: 1155                Escala: 5
+Codigo: 2742                Escala: 5
+Codigo: 3122                Escala: 2
+Codigo: 4918                Escala: 5
+Codigo: 5318                Escala: 3
