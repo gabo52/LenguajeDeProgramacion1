@@ -4,3 +4,8 @@ nbproject/
 *.inc
 Makefile
 .vscode/
+# Files de CLion
+.idea/
+cmake-build-debug/
+CMakeLists.txt
+

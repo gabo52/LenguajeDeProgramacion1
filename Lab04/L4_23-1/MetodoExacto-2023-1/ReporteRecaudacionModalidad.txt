@@ -1,0 +1,178 @@
+                                                      ENTIDAD EDUCATIVA LP1
+                                                        LISTADOS DE CLASE
+========================================================================================================================
+01)         Curso:         Aplicaciones de las Ciencias de la Computacion    Creditos: 3.5
+------------------------------------------------------------------------------------------------------------------------
+ALUMNOS Matriculados
+------------------------------------------------------------------------------------------------------------------------
+                                                                                PAGOS
+    CODIGOS   NOMBRE                                  ESCALA    PRESENCIAL  SEMI PRESENCIAL  VIRTUAL
+------------------------------------------------------------------------------------------------------------------------
+01)  8072  RIVERA MONTERO GLORIA OFELIA                 3                                    1589.70
+02)  4919  CORTES CALIXTO ROSARIO                       5                      1167.08
+03)  5527  JUSTINO COLLADO LUZ DELICIA                  3                      1112.79
+04)  6038  SAONA ARIAS ALBERTO                          4                      1461.34
+05)  4628  PALOMARES GUEVARA KARINA                     5         2334.15
+06)  5067  JAUREGUI AGUERO HECTOR HENRY                 4                       974.23
+07)  4285  CHAVARRI ALDAVE FERNANDO MARTIN              2                       950.25
+08)  3627  CHAVEZ CARO YVONNE                           1                                     988.05
+09)  6517  ZEGARRA CUBA ANTONIO                         2         1267.00
+10)  9958  QUISPE BERROCAL ANTONIO ALVARO DANIEL        3         1589.70
+11)  2000  LANDA CUEVA JOHAN                            4                                    1948.45
+12)  5724  VEGA SAENZ ALEXANDER RICHARD                 4                       974.23
+13)  3249  NORABUENA PAIRAZAMAN JULIAN                  3         1589.70
+14)  5400  SANTISTEBAN JUGO NESTOR                      1                       691.63
+15)  1397  ZEVALLOS PRADO RICARDO                       2                       633.50
+16)  9437  ZIMIC PAREDES SHIRLEY                        4                      1461.34
+17)  6015  ALFARO FUENTES MAGDA                         3                                    1589.70
+18)  8320  NORABUENA RIVERA GLORIA YESSICA              5                                    2334.15
+19)  1247  SERRANO JOLAY RHONY ROLANDO                  5         2334.15
+20)  9707  MIRANDA LARRIEGA JUVENAL NESTOR              2                       886.90
+========================================================================================================================
+RECAUDACION  POR MODALIDAD DE ESTUDIO                             9114.70     10313.28        8450.05
+------------------------------------------------------------------------------------------------------------------------
+TOTAL RECAUDADO:                                                                             27878.03
+========================================================================================================================
+02)         Curso:         Lenguaje de Programacion 1                        Creditos: 5.00
+------------------------------------------------------------------------------------------------------------------------
+ALUMNOS Matriculados
+------------------------------------------------------------------------------------------------------------------------
+                                                                                PAGOS
+    CODIGOS   NOMBRE                                  ESCALA    PRESENCIAL  SEMI PRESENCIAL  VIRTUAL
+------------------------------------------------------------------------------------------------------------------------
+01)  6995  LARRIEGA ARCA ISABEL MADELEINE               5         3334.50
+02)  5527  JUSTINO COLLADO LUZ DELICIA                  3                      1589.70
+03)  5400  SANTISTEBAN JUGO NESTOR                      1                       988.05
+04)  3745  CARO QUISPE JORGE                            1                                    1411.50
+05)  1325  MORI ARROYO SHIRLEY                          3         2271.00
+06)  8383  GORDILLO BOLANOS ARTURO GONZALO              3         2271.00
+07)  2598  MORI ZAVALETA LUZ LOURDES                    1                      1058.62
+08)  9611  MALDONADO CORREA LUCERO CAROLA               2         1810.00
+09)  6490  TAVERA CORREA FERNANDO                       2                       905.00
+10)  6929  BOLANOS FUENTES JORGE                        2                       905.00
+11)  3627  CHAVEZ CARO YVONNE                           1                                    1411.50
+12)  3402  VIZCARDO MORI LUCERO ZKENIA                  1         1411.50
+13)  5775  PRADO PAREDES JUAN                           3                      1135.50
+14)  4919  CORTES CALIXTO ROSARIO                       5                      1667.25
+15)  3758  SOMA INGA DIALY                              1         1411.50
+16)  3373  ESCALANTE RARAZ BLANCA                       3         2271.00
+17)  5067  JAUREGUI AGUERO HECTOR HENRY                 4                      1391.75
+18)  2501  CORTES REYES MARIBEL                         2                                    1810.00
+19)  4712  CASANOVA CHUMPITAZ ALONSO                    2                                    1810.00
+20)  1748  PATINO FUENTES MILAGROS MARIELLA             4                                    2783.50
+21)  1155  CORRALES ZIMIC JAIME DANIEL                  5         3334.50
+22)  6038  SAONA ARIAS ALBERTO                          4                      2087.62
+23)  2360  VILCA BARRERA CESAR EDGAR                    5                      1667.25
+24)  5643  IBEROS ZAMBRANO GONZALO                      2         1810.00
+25)  7660  CHANG ARGUEDAS HENRY ANTONIO                 4                      2087.62
+========================================================================================================================
+RECAUDACION  POR MODALIDAD DE ESTUDIO                             19925.00     15483.38        9226.50
+------------------------------------------------------------------------------------------------------------------------
+TOTAL RECAUDADO:                                                                             44634.88
+========================================================================================================================
+03)         Curso:         Lenguaje de Programacion 2                        Creditos: 5.00
+------------------------------------------------------------------------------------------------------------------------
+ALUMNOS Matriculados
+------------------------------------------------------------------------------------------------------------------------
+                                                                                PAGOS
+    CODIGOS   NOMBRE                                  ESCALA    PRESENCIAL  SEMI PRESENCIAL  VIRTUAL
+------------------------------------------------------------------------------------------------------------------------
+01)  4628  PALOMARES GUEVARA KARINA                     5         3334.50
+02)  5724  VEGA SAENZ ALEXANDER RICHARD                 4                      1391.75
+03)  1325  MORI ARROYO SHIRLEY                          3         2271.00
+04)  6249  WONG GALLO JANET MADELEINE                   1                       988.05
+05)  3508  AURIS JOLAY HENRY EDILBERTO                  5                      1667.25
+06)  3627  CHAVEZ CARO YVONNE                           1                                    1411.50
+07)  2501  CORTES REYES MARIBEL                         2                                    1810.00
+08)  6490  TAVERA CORREA FERNANDO                       2                       905.00
+09)  5318  FLORENCIO LAM PAUL RONALD                    3         2271.00
+10)  5763  CORREA AGUIRRE MOISES                        2                      1267.00
+11)  4739  VELASQUEZ CANO FERNANDO                      4                      1391.75
+12)  9437  ZIMIC PAREDES SHIRLEY                        4                      2087.62
+13)  4569  RIVERA PASQUEL OFELIA CINTHIA                5         3334.50
+14)  9785  FARFAN RARAZ WALDEMAR                        4                      1391.75
+15)  2360  VILCA BARRERA CESAR EDGAR                    5                      1667.25
+16)  4285  CHAVARRI ALDAVE FERNANDO MARTIN              2                      1357.50
+17)  2000  LANDA CUEVA JOHAN                            4                                    2783.50
+18)  6038  SAONA ARIAS ALBERTO                          4                      2087.62
+19)  1260  GORDILLO CASTRO RONAL                        2         1810.00
+20)  8383  GORDILLO BOLANOS ARTURO GONZALO              3         2271.00
+21)  2050  LOYOLA HIJAR NICOLAS OSCAR                   4                                    2783.50
+22)  3758  SOMA INGA DIALY                              1         1411.50
+23)  7030  LUNA POLO SONIA                              3                                    2271.00
+24)  9153  MENDOZA ARIAS HENRY                          4         2783.50
+25)  1247  SERRANO JOLAY RHONY ROLANDO                  5         3334.50
+========================================================================================================================
+RECAUDACION  POR MODALIDAD DE ESTUDIO                             22821.50     16202.55       11059.50
+------------------------------------------------------------------------------------------------------------------------
+TOTAL RECAUDADO:                                                                             50083.55
+========================================================================================================================
+04)         Curso:         Algoritmia                                        Creditos: 3.75
+------------------------------------------------------------------------------------------------------------------------
+ALUMNOS Matriculados
+------------------------------------------------------------------------------------------------------------------------
+                                                                                PAGOS
+    CODIGOS   NOMBRE                                  ESCALA    PRESENCIAL  SEMI PRESENCIAL  VIRTUAL
+------------------------------------------------------------------------------------------------------------------------
+01)  7344  DEL_POZO QUIO CESAR                          3                                    1703.25
+02)  2000  LANDA CUEVA JOHAN                            4                                    2087.62
+03)  2050  LOYOLA HIJAR NICOLAS OSCAR                   4                                    2087.62
+04)  7030  LUNA POLO SONIA                              3                                    1703.25
+05)  1260  GORDILLO CASTRO RONAL                        2         1357.50
+06)  7316  RIVERO RETT RONY ANTONIO                     2                       950.25
+07)  4712  CASANOVA CHUMPITAZ ALONSO                    2                                    1357.50
+08)  3249  NORABUENA PAIRAZAMAN JULIAN                  3         1703.25
+09)  9719  MAEIREIZO VASQUEZ LOURDES SILVIA             2         1357.50
+10)  4285  CHAVARRI ALDAVE FERNANDO MARTIN              2                      1018.12
+11)  5763  CORREA AGUIRRE MOISES                        2                       950.25
+12)  6015  ALFARO FUENTES MAGDA                         3                                    1703.25
+13)  4918  PORTUGAL GUEVARA HELI JOHANA                 5                      1250.44
+14)  9958  QUISPE BERROCAL ANTONIO ALVARO DANIEL        3         1703.25
+15)  2447  VILCA JUSTINO MELVIN                         1                                    1058.62
+========================================================================================================================
+RECAUDACION  POR MODALIDAD DE ESTUDIO                             6121.50      4169.06       11701.12
+------------------------------------------------------------------------------------------------------------------------
+TOTAL RECAUDADO:                                                                             21991.69
+========================================================================================================================
+05)         Curso:         Analisis de Datos                                 Creditos: 3.00
+------------------------------------------------------------------------------------------------------------------------
+ALUMNOS Matriculados
+------------------------------------------------------------------------------------------------------------------------
+                                                                                PAGOS
+    CODIGOS   NOMBRE                                  ESCALA    PRESENCIAL  SEMI PRESENCIAL  VIRTUAL
+------------------------------------------------------------------------------------------------------------------------
+01)  5775  PRADO PAREDES JUAN                           3                       681.30
+02)  3508  AURIS JOLAY HENRY EDILBERTO                  5                      1000.35
+03)  2447  VILCA JUSTINO MELVIN                         1                                     846.90
+04)  6929  BOLANOS FUENTES JORGE                        2                       543.00
+05)  1155  CORRALES ZIMIC JAIME DANIEL                  5         2000.70
+========================================================================================================================
+RECAUDACION  POR MODALIDAD DE ESTUDIO                             2000.70      2224.65         846.90
+------------------------------------------------------------------------------------------------------------------------
+TOTAL RECAUDADO:                                                                             5072.25
+========================================================================================================================
+06)         Curso:         Fundamentos de Programacion                       Creditos: 4.00
+------------------------------------------------------------------------------------------------------------------------
+ALUMNOS Matriculados
+------------------------------------------------------------------------------------------------------------------------
+                                                                                PAGOS
+    CODIGOS   NOMBRE                                  ESCALA    PRESENCIAL  SEMI PRESENCIAL  VIRTUAL
+------------------------------------------------------------------------------------------------------------------------
+01)  7660  CHANG ARGUEDAS HENRY ANTONIO                 4                      1670.10
+02)  5778  MUNOZ ZIMIC ROCIO DELICIA                    2                       724.00
+03)  8318  TOKESHI GONZALES MARTIN                      1                       564.60
+04)  5494  DE_LA_HAZA CASTRO EMIGDIO JOHNNY             2                      1013.60
+05)  6453  MINAYA VIZCARRA JUVENAL                      3                      1362.60
+06)  1155  CORRALES ZIMIC JAIME DANIEL                  5         2667.60
+07)  2742  ZAVALETA LOPEZ KARIN VIRGINIA                5         2667.60
+08)  3122  CUBA NARVAEZ PAUL JOHN                       2         1448.00
+09)  4918  PORTUGAL GUEVARA HELI JOHANA                 5                      1333.80
+10)  5318  FLORENCIO LAM PAUL RONALD                    3         1816.80
+========================================================================================================================
+RECAUDACION  POR MODALIDAD DE ESTUDIO                             8600.00      6668.70           0.00
+------------------------------------------------------------------------------------------------------------------------
+TOTAL RECAUDADO:                                                                             15268.70
+========================================================================================================================
+RECAUDACION TOTAL POR MODALIDAD DE ESTUDIO                       68583.40     55061.61       41284.08
+------------------------------------------------------------------------------------------------------------------------
+TOTAL RECAUDADO:                                                                             164929.09
