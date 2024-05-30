@@ -1,7 +1,3 @@
-//
-// Created by errant on 28/05/24.
-//
-
 #include "Semipresencial.hpp"
 
 Semipresencial::Semipresencial() {
@@ -14,15 +10,15 @@ double Semipresencial::getDescuento() const {
 }
 
 void Semipresencial::setDescuento(double descuento) {
-    Semipresencial::descuento = descuento;
+    this->descuento = descuento;
 }
 
-double Semipresencial::getTotal1() const {
+double Semipresencial::getTotal() const {
     return total;
 }
 
-void Semipresencial::setTotal1(double total) {
-    Semipresencial::total = total;
+void Semipresencial::setTotal(double total) {
+    this->total = total;
 }
 
 

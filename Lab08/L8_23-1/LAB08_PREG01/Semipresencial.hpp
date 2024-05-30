@@ -15,9 +15,9 @@ public:
 
     void setDescuento(double descuento);
 
-    double getTotal1() const;
+    double getTotal() const;
 
-    void setTotal1(double total);
+    void setTotal(double total);
 };
 
 

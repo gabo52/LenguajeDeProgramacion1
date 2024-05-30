@@ -1,11 +1,20 @@
 #include "Presencial.hpp"
 
+Presencial::Presencial() {
+    recargar = 0.0;
+    total = 0.0;
+}
+
+Presencial::~Presencial() {
+
+}
+
 double Presencial::getRecargar() const {
     return recargar;
 }
 
 void Presencial::setRecargar(double recargar) {
-    Presencial::recargar = recargar;
+    this->recargar = recargar;
 }
 
 double Presencial::getTotal() const {
@@ -13,5 +22,5 @@ double Presencial::getTotal() const {
 }
 
 void Presencial::setTotal(double total) {
-    Presencial::total = total;
+    this->total = total;
 }

@@ -9,6 +9,8 @@ private:
     double recargar;
     double total;
 public:
+    Presencial();
+    virtual ~Presencial();
     double getRecargar() const;
 
     void setRecargar(double recargar);

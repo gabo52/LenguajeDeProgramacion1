@@ -1,0 +1,81 @@
+========================================================================================================================
+Codigo         Nombre                                            Escala    Licencia            Total
+========================================================================================================================
+202119153      MENDOZA/ARIAS/HENRY                               4                             12247.40
+202113758      SOMA/INGA/DIALY                                   1                             6210.60
+202123373      ESCALANTE/RARAZ/BLANCA                            3                             10900.80
+202224569      RIVERA/PASQUEL/OFELIA-CINTHIA                     5                             14671.80
+202214628      PALOMARES/GUEVARA/KARINA                          5                             16005.60
+202115802      MINAYA/AMEZQUITA/RHONY-JAIME                      5                             16005.60
+202129611      MALDONADO/CORREA/LUCERO-CAROLA                    2                             7964.00
+202313249      NORABUENA/PAIRAZAMAN/JULIAN                       3                             9992.40
+202221155      CORRALES/ZIMIC/JAIME-DANIEL                       5                             16005.60
+202315643      IBEROS/ZAMBRANO/GONZALO                           2                             7964.00
+202315318      FLORENCIO/LAM/PAUL-RONALD                         3                             9992.40
+202318383      GORDILLO/BOLANOS/ARTURO-GONZALO                   3                             10900.80
+202211325      MORI/ARROYO/SHIRLEY                               3                             10900.80
+202216995      LARRIEGA/ARCA/ISABEL-MADELEINE                    5                             14671.80
+202311247      SERRANO/JOLAY/RHONY-ROLANDO                       5                             14671.80
+202122742      ZAVALETA/LOPEZ/KARIN-VIRGINIA                     5                             14671.80
+202313122      CUBA/NARVAEZ/PAUL-JOHN                            2                             8688.00
+202316517      ZEGARRA/CUBA/ANTONIO                              2                             7964.00
+202119958      QUISPE/BERROCAL/ANTONIO-ALVARO-DANIEL             3                             9992.40
+202111260      GORDILLO/CASTRO/RONAL                             2                             8688.00
+202125607      POZO/JUGO/ISABEL                                  2                             7964.00
+202123402      VIZCARDO/MORI/LUCERO-ZKENIA                       1                             6775.20
+202129719      MAEIREIZO/VASQUEZ/LOURDES-SILVIA                  2                             7964.00
+202318072      RIVERA/MONTERO/GLORIA-OFELIA                      3         323R33-2            9184.00
+202313065      RETT/SERRANO/RAFAEL-RHONY                         2         2193T9-2            7340.00
+202214712      CASANOVA/CHUMPITAZ/ALONSO                         2         7883G2-4            7340.00
+202319927      PATINO/MEZA/MANUEL                                3         872193-E            9184.00
+202127344      DEL_POZO/QUIO/CESAR                               3         71293-E2            9184.00
+202318320      NORABUENA/RIVERA/GLORIA-YESSICA                   5         7120L-23            13438.00
+202217030      LUNA/POLO/SONIA                                   3         82612-3R            9184.00
+202122715      VARGAS/ZARATE/VALENTINA                           1         2923-D-3            5746.00
+202213745      CARO/QUISPE/JORGE                                 1         8124K3-D            5746.00
+202312000      LANDA/CUEVA/JOHAN                                 4         212D3-4             11234.00
+202316015      ALFARO/FUENTES/MAGDA                              3         819212-T            9184.00
+202319103      LEE/VASQUEZ/JENNY                                 4         144M2-56            11234.00
+202111935      GUZMAN/BARROS/FELIPE                              3         1984F2-2            9184.00
+202312501      CORTES/REYES/MARIBEL                              2         9182-FR33           7340.00
+202113179      PEREZ/PEREZ/BIANCA/PATRICIA                       3         6201G3-2            9184.00
+202311748      PATINO/FUENTES/MILAGROS-MARIELLA                  4         2810-B29            11234.00
+202312050      LOYOLA/HIJAR/NICOLAS-OSCAR                        4         125K-955            11234.00
+202313627      CHAVEZ/CARO/YVONNE                                1         897H-533            5746.00
+202222447      VILCA/JUSTINO/MELVIN                              1         852-63466           5746.00
+202123703      GAMARRA/TABORI/PAUL-RONAL                         5                             9336.60
+202127660      CHANG/ARGUEDAS/HENRY-ANTONIO                      4                             8350.50
+202112598      MORI/ZAVALETA/LUZ-LOURDES                         1                             4516.80
+202121791      GONZALES/VELASQUEZ/WALTER                         1                             4234.50
+202224918      PORTUGAL/GUEVARA/HELI-JOHANA                      5                             6669.00
+202112887      CABRERA/AGUERO/JESSICA                            2                             3620.00
+202126490      TAVERA/CORREA/FERNANDO                            2                             3620.00
+202114739      VELASQUEZ/CANO/FERNANDO                           4                             5567.00
+202315724      VEGA/SAENZ/ALEXANDER-RICHARD                      4                             5567.00
+202125775      PRADO/PAREDES/JUAN                                3                             4542.00
+202227316      RIVERO/RETT/RONY-ANTONIO                          2                             5068.00
+202225778      MUNOZ/ZIMIC/ROCIO-DELICIA                         2                             3620.00
+202313754      MALCA/SAAVEDRA/DORIS-MILAGROS                     3                             6358.80
+202214204      DIAZ/IBEROS/GLENDA-YESSICA                        4                             5567.00
+202113223      DIAZ/SEDANO/YVONNE                                4                             7793.80
+202315763      CORREA/AGUIRRE/MOISES                             2                             5068.00
+202129785      FARFAN/RARAZ/WALDEMAR                             4                             5567.00
+202115400      SANTISTEBAN/JUGO/NESTOR                           1                             3952.20
+202219773      SANCHEZ/CUBA/NATALIA-ESTEFANIA                    5                             6669.00
+202116038      SAONA/ARIAS/ALBERTO                               4                             8350.50
+202114285      CHAVARRI/ALDAVE/FERNANDO-MARTIN                   2                             5430.00
+202129735      MENDOZA/CORREA/JESUS-CHRISTIAN                    5                             6669.00
+202215067      JAUREGUI/AGUERO/HECTOR-HENRY                      4                             5567.00
+202226249      WONG/GALLO/JANET-MADELEINE                        1                             3952.20
+202215494      DE_LA_HAZA/CASTRO/EMIGDIO-JOHNNY                  2                             5068.00
+202219437      ZIMIC/PAREDES/SHIRLEY                             4                             8350.50
+202116963      CORTEZ/LEIVA/SURAMI-SILVIA                        4                             7793.80
+202223508      AURIS/JOLAY/HENRY-EDILBERTO                       5                             6669.00
+202226929      BOLANOS/FUENTES/JORGE                             2                             3620.00
+202318318      TOKESHI/GONZALES/MARTIN                           1                             2823.00
+202312360      VILCA/BARRERA/CESAR-EDGAR                         5                             6669.00
+202314919      CORTES/CALIXTO/ROSARIO                            5                             6669.00
+202119707      MIRANDA/LARRIEGA/JUVENAL-NESTOR                   2                             5068.00
+202216453      MINAYA/VIZCARRA/JUVENAL                           3                             6813.00
+202111397      ZEVALLOS/PRADO/RICARDO                            2                             3620.00
+202315527      JUSTINO/COLLADO/LUZ-DELICIA                       3                             6358.80

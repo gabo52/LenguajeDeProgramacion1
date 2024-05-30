@@ -1,5 +1,15 @@
-#include "Utils.hpp"
 #include "Alumno.hpp"
+
+Alumno::Alumno(){
+    codigo = 0;
+    nombre = nullptr;
+    total = 0.0;
+    escala = 0;
+}
+
+Alumno::~Alumno() {
+    delete nombre;
+}
 
 int Alumno::getCodigo() const {
     return codigo;

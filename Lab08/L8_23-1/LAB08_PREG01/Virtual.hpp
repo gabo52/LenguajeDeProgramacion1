@@ -1,8 +1,8 @@
 #ifndef LAB08_PREG01_VIRTUAL_HPP
 #define LAB08_PREG01_VIRTUAL_HPP
 
-#include "Utils.hpp"
 #include "Alumno.hpp"
+#include "Utils.hpp"
 
 class Virtual: public Alumno {
 public:

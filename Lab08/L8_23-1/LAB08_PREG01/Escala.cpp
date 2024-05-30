@@ -1,7 +1,3 @@
-//
-// Created by errant on 28/05/24.
-//
-
 #include "Escala.hpp"
 
 Escala::~Escala() {
@@ -18,7 +14,7 @@ int Escala::getCodigo() const {
 }
 
 void Escala::setCodigo(int codigo) {
-    Escala::codigo = codigo;
+    this->codigo = codigo;
 }
 
 double Escala::getPrecio() const {
@@ -26,6 +22,6 @@ double Escala::getPrecio() const {
 }
 
 void Escala::setPrecio(double precio) {
-    Escala::precio = precio;
+    this->precio = precio;
 }
 
